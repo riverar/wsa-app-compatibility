@@ -10,3 +10,4 @@
 |------------------------------|---------------|------------------------|
 |A. Datum Corporation Launcher | 🟩            |                        |
 |Northridge Video              | 🟨            |No audio on some videos |
+|Youtube Vanced                | 🟩            ||
