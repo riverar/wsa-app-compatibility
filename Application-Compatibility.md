@@ -16,3 +16,4 @@
 | Arknights | 5.0.01 | 🟨 |Can't login using Google Account|
 | CPU-Z | 1.41 | 🟩 ||
 | QooApp | 8.3.3 | 🟩 ||
+| Device Info HW | 5.4.1 | 🟩 ||
