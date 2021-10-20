@@ -14,7 +14,15 @@
 | Fortnite Installer | 4.1.4 | 🟥 | "Device not supported" error |
 | Fortnite (modified) | 14.10.0 | 🟥 | Crashes at login screen |
 | Genshin Impact | 2.2.0 | 🟥 | Blackscreens then crashes |
+| iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | QooApp | 8.3.3 | 🟩 ||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies, claims to need Google Play services |
 | Snapchat | | 🟨 | Complains about the lack of GMS, but all functions (including the map) work. Camera view is flipped (WSA bug) |
 | Youtube Vanced | | 🟩 ||
+
+
+## Support levels
+
+🟩 Works
+🟨 Works, but with some notable problems
+🟥 Broken
