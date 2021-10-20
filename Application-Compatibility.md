@@ -24,6 +24,7 @@
 | Snapchat | | 🟨 | Complains about the lack of GMS, but all functions (including the map) work. Camera view is flipped (WSA bug) |
 | Youtube Vanced | | 🟩 ||
 | Pokémon GO | | 🟥 | Unable to authenticate. |
+| TikTok | 21.6.4 | 🟨 | Error when trying to log in, application itself works. |
 
 ## Support levels
 
