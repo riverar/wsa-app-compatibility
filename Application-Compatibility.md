@@ -8,6 +8,7 @@
 
 | Application    | Latest tested version | Support level | Notes |
 |----------------|-----------------------|---------------|-------|
+| 23andMe | 5.114.0 | 🟩 ||
 | Aegis | 2.0.2 | 🟩 ||
 | Arknights | 5.0.01 | 🟨 |Can't login using Google Account|
 | Aurora Store | 4.0.7 | 🟩 ||
