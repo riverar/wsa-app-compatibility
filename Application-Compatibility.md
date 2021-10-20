@@ -29,6 +29,7 @@
 | Youtube Vanced | | 🟩 ||
 | Pokémon GO | | 🟥 | Unable to authenticate. |
 | TikTok | 21.6.4 | 🟨 | Error when trying to log in, application itself works. - Creating new account works |
+| Fruit Ninja | 3.3.4 | 🟩 | Version Check Error. App still works |
 
 ## Support levels
 
