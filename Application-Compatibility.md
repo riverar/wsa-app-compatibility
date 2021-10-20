@@ -17,6 +17,7 @@
 | Fortnite Installer | 4.1.4 | 🟥 | "Device not supported" error |
 | Fortnite (modified) | 14.10.0 | 🟥 | Crashes at login screen |
 | Genshin Impact | 2.2.0 | 🟥 | Blackscreens then crashes |
+| Google Chrome | 94.0.4606.85 | 🟩 | microG and correct architecture is required|
 | Guardian Tales | 2.23.2 | 🟥 | Blackscreen w/ Play services error|
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | OsmAnd~ | 3.9.10 | 🟩 ||
