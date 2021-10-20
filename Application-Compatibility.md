@@ -9,6 +9,7 @@
 | Application    | Latest tested version | Support level | Notes |
 |----------------|-----------------------|---------------|-------|
 | Arknights | 5.0.01 | 🟨 |Can't login using Google Account|
+| Aurora Store | 4.0.7 | 🟩 ||
 | CPU-Z | 1.41 | 🟩 ||
 | Device Info HW | 5.4.1 | 🟩 ||
 | F-Droid | 1.13.1 | 🟩 ||
