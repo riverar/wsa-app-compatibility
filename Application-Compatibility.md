@@ -22,7 +22,7 @@
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies, claims to need Google Play services |
 | Snapchat | | 🟨 | Complains about the lack of GMS, but all functions (including the map) work. Camera view is flipped (WSA bug) |
 | Youtube Vanced | | 🟩 ||
-
+| Pokémon GO | | 🟥 | Unable to authenticate. |
 
 ## Support levels
 
