@@ -20,6 +20,7 @@
 | Google Chrome | 94.0.4606.85 | 🟩 | microG and correct architecture is required|
 | Guardian Tales | 2.23.2 | 🟥 | Blackscreen w/ Play services error|
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
+| Instagram | 210.0.0.28.71 | 🟩 | |
 | OsmAnd~ | 3.9.10 | 🟩 ||
 | QooApp | 8.3.3 | 🟩 ||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies, claims to need Google Play services |
