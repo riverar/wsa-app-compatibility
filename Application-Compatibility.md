@@ -6,7 +6,7 @@
 
 ## Support table
 
-|Application                   |Support level  |Notes                   |
-|------------------------------|---------------|------------------------|
-|Youtube Vanced                | 🟩            ||
-|Snapchat                      | 🟨            |Complains about the lack of GMS, but all functions (including the map) work. Camera view is flipped (WSA bug) |
+| Application    | Latest tested version | Support level | Notes                                                                                                         |
+|----------------|-----------------------|---------------|---------------------------------------------------------------------------------------------------------------|
+| Youtube Vanced |                       | 🟩             |                                                                                                               |
+| Snapchat       |                       | 🟨             | Complains about the lack of GMS, but all functions (including the map) work. Camera view is flipped (WSA bug) |
