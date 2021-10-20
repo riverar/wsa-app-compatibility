@@ -12,6 +12,7 @@
 | CPU-Z | 1.41 | 🟩 ||
 | Device Info HW | 5.4.1 | 🟩 ||
 | F-Droid | 1.13.1 | 🟩 ||
+| Facebook Messenger | 335.0.0.17.5 | 🟨 | Chat Heads don't work |
 | Fortnite Installer | 4.1.4 | 🟥 | "Device not supported" error |
 | Fortnite (modified) | 14.10.0 | 🟥 | Crashes at login screen |
 | Genshin Impact | 2.2.0 | 🟥 | Blackscreens then crashes |
