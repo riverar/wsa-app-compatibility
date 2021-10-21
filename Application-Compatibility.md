@@ -55,7 +55,7 @@
 | Snapchat | | 🟨 | Complains about the lack of GMS, but all functions (including the map) work. Camera view is flipped (WSA bug) |
 | SpeedTest by Ookla | 4.6.10 (145526) | 🟨 | Everything Works Except for the VPN |
 | Spotify | 8.6.70.1102 | 🟨 | Empty screen during first time launch, works fine after restart |
-| TikTok (China) | 18.1.0 | 🟨 | Unable to Sign in But Can Use Third-Party Apps to Sign In |
+| TikTok (China) | 18.1.0 | 🟨 | Unable to Sign in But Can Use Third-Party Apps to Sign In, Would Crash Indefinitely |
 | TikTok (Global) | 21.6.4 | 🟨 | Error when trying to log in, application itself works. - Creating new account works |
 | Telegram | 8.1.2 | 🟩 ||
 | The King Of Fighters Allstar | 1.9.3 | 🟩 | initial loading screen was black and crashed on login. worked perfectly 2nd try|
