@@ -38,6 +38,7 @@
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | Instagram | 210.0.0.28.71 | 🟩 ||
 | Jetpack Joyride | 1.52.1 (58461800) | 🟩 | Google Play Games Sync Doesn't Work while Facebook Sync works |
+| Joplin | 2.4.3 (2097651) | 🟩 | |
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | Crashes on boot
 | Magisk | 23.0 | 🟥 | Screen flashes followed by crashes |
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable Verify if the game is owned in the account |
