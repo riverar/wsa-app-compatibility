@@ -59,6 +59,7 @@
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable to verify game owner |
 | MiX | 6.57.0-Beta_B21070510 | 🟩 ||
 | Nekogram X | 8.1.2-1-rc01 | 🟩 | Use NoGcm variant |
+| Netflix (Aurora Store) | 8.4.0 | 🟥 | Device not supported |
 | NieR Re[in]carnation | 1.7.1 | 🟥 | Unable to go past the loading screen after the title screen, gets stuck at 60% |
 | Nova Launcher | 7.0.49 (7049) | 🟨 | User Interface Messy but App Drawer is Working Fine |
 | Office | 16.0.14527.20162 | 🟩 | Might require microG |
