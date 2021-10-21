@@ -70,6 +70,7 @@
 | Snapchat | | 🟨 | Camera view is flipped, optionally requires Google Play Services | 
 | SpeedTest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work (check [Disabled functionality](https://github.com/riverar/wsa-app-compatibility/wiki/Application-Compatibility#disabled-functionality)) |
 | Spotify | 8.6.70.1102 | 🟨 | App crashes on first boot, works second boot upwards |
+| Steam Link | 2.3.13 | 🟩 | Works completely fine |
 | Steam Link | 1.1.81 | 🟥 | App crashes |
 | TikTok (China) | 18.1.0 | 🟥 | App crashes |
 | TikTok (Global) | 21.6.4 | 🟨 | Error when trying to log in, can use app by creating new account |
