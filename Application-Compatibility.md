@@ -24,11 +24,11 @@
 | Bromite | 94.0.4606.94 |  🟩 | Use x64 build |
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 | |
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires Play services |
-| 酷安 (CoolApk) | 11.4.3 | 🟩 | Unable to Sign in Using Third-Party Apps but Normal Sign In is okay |
+| 酷安 (CoolApk) | 11.4.3 | 🟩 | Unable to sign in using third party apps |
 | CPU-Z | 1.41 | 🟩 ||
 | Device Info HW | 5.4.1 | 🟩 ||
 | Edge | 93.0.961.78 | 🟩 ||
-| Epic Seven | 1.0.406 | 🟨 | Very Low FPS, Unable to Sign in with Google |
+| Epic Seven | 1.0.406 | 🟨 | Low FPS, unable to sign in with GoogleGoogle |
 | Excel | 16.0.14527.20162 | 🟩 | Might require microG |
 | F1 TV| 2.0.5 | 🟨 | App kinda works just screen flashes all the time and upon watching a video it crashes |
 | FAST Speed Test | 1.0.8 (88) | 🟩 | |
