@@ -1,13 +1,14 @@
-## Support levels
-
-🟩 Works  
-🟨 Works, but with some notable problems  
-🟥 Broken  
-
 ## Disabled functionality
 | Type | Expected behavior | Actual behavior | Apps tested with
 | -------------|-------------------|-----------------|-----------------
 | VPN           | Android's **VPN Connection request** asking for app's access to VPN | **VPN Connection request** popup does not appear | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) and [1.1.1.1](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
+
+
+## Legend
+
+🟩 Works  
+🟨 Works, but with some notable problems  
+🟥 Broken  
 
 ## Support table
 
