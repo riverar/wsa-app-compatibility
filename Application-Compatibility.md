@@ -52,6 +52,7 @@
 | Joplin | 2.4.3 (2097651) | 🟩 | |
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | Crashes on boot
 | Magisk | 23.0 | 🟥 | Screen flashes followed by crashes |
+| Minecraft (apk) | 1.17.40.06 | 🟨 | Works but it's pretty unstable |
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable Verify if the game is owned in the account |
 | MiX | 6.57.0-Beta_B21070510 | 🟩 ||
 | Nekogram X | 8.1.2-1-rc01 | 🟩 | Using NoGcm variant |
