@@ -44,6 +44,7 @@
 | Google Chrome | 94.0.4606.85 | 🟩 | microG and correct architecture is required |
 | Guardian Tales | 2.23.2 | 🟥 | Requires Google Play Services |
 | Hobi | 2.1.7 | 🟥 | Requires Google Play Services |
+| 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 |Game do have built in keyboard controller for WASD|
 | Honkai Impact 3rd| 5.1.0 | 🟨 | Terrible graphics quality |
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | Instagram | 210.0.0.28.71 | 🟩 ||
