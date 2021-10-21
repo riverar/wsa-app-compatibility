@@ -38,7 +38,7 @@
 | Firefox Nightly | 95.0a1 | 🟩 ||
 | Facebook Messenger | 335.0.0.17.5 | 🟨 | Chat Heads doesn't work |
 | Fortnite Installer | 4.1.4 | 🟥 | Device not supported error |
-| Fortnite (modified) | 14.10.0 | 🟥 | Crashes at login screen |
+| Fortnite | 14.10.0 | 🟥 | Crashes at login screen |
 | Fruit Ninja | 3.3.4 | 🟩 | Version check error, other functionality fine |
 | Genshin Impact | 2.2.0 | 🟥 | App crashes |
 | Google Chrome | 94.0.4606.85 | 🟩 | microG and correct architecture is required |
