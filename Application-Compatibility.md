@@ -59,7 +59,7 @@
 | Vanced MicroG | 0.2.22.212658 | 🟩 | Need to Use Huawei Sign In Option to be able to Sign in to Google Account |
 | 酷安 (CoolApk) | 11.4.3 | 🟩 | Unable to Sign in Using Third-Party Apps but Normal Sign In is okay |
 | TikTok (China) | 18.1.0 | 🟩 | Unable to Sign in But Can Use Third-Party Apps to Sign In |
-| Oppo App Store (China) | 🟥 | App stuck at Black Screen on Launch |
+| Oppo App Store (China) | | 🟥 | App stuck at Black Screen on Launch |
 
 ## Support levels
 
