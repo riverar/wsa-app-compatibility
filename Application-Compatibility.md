@@ -26,6 +26,7 @@
 | Instagram | 210.0.0.28.71 | 🟩 | |
 | OsmAnd~ | 3.9.10 | 🟩 ||
 | QooApp | 8.3.3 | 🟩 ||
+| Reddit | | 🟩 ||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies, claims to need Google Play services |
 | Snapchat | | 🟨 | Complains about the lack of GMS, but all functions (including the map) work. Camera view is flipped (WSA bug) |
 | Telegram | 8.1.2 | 🟩 ||
