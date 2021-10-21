@@ -4,9 +4,10 @@
 🟨 Works, but with some notable problems  
 🟥 Broken  
 
-## Disabled Functions
-1. VPN - Any VPN Apps for Android Does Not Work and Will Crash Upon Connecting
-2. Launchers - App Launchers are disabled
+## Disabled functionality
+| Type | Expected behavior | Actual behavior | Apps tested with
+| -------------|-------------------|-----------------|-----------------
+| VPN           | Android's **VPN Connection request** asking for app's access to VPN | **VPN Connection request** popup does not appear | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) and [1.1.1.1](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
 
 ## Support table
 
@@ -47,7 +48,6 @@
 | Joplin | 2.4.3 (2097651) | 🟩 | |
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | Crashes on boot
 | Magisk | 23.0 | 🟥 | Screen flashes followed by crashes |
-| Minecraft (APK) | 1.17.40.06 | 🟨 | various crashes might occur |
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable Verify if the game is owned in the account |
 | MiX | 6.57.0-Beta_B21070510 | 🟩 ||
 | Nekogram X | 8.1.2-1-rc01 | 🟩 | Using NoGcm variant |
