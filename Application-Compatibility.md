@@ -1,8 +1,8 @@
 ## Support levels
 
-🟩 Works
-🟨 Works, but with some notable problems
-🟥 Broken
+🟩 Works  
+🟨 Works, but with some notable problems  
+🟥 Broken  
 
 ## Support table
 
