@@ -64,6 +64,7 @@
 | 微博 (Weibo) | 11.10.1 | 🟩 | Sign In Using Password Has Problem Showing Reach Limit for Verification Code |
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 | |
 | Jetpack Joyride | 1.52.1 (58461800) | 🟩 | Google Play Games Sync Doesn't Work while Facebook Sync works |
+| Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | 🟩 | |
 ## Support levels
 
 🟩 Works  
