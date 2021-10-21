@@ -27,7 +27,6 @@
 | 酷安 (CoolApk) | 11.4.3 | 🟨 | Unable to sign in using third party apps |
 | CPU-Z | 1.41 | 🟩 ||
 | Device Info HW | 5.4.1 | 🟩 ||
-| Edge | 93.0.961.78 | 🟩 ||
 | Epic Seven | 1.0.406 | 🟨 | Low FPS, unable to sign in with Google, other functionality fine |
 | Excel | 16.0.14527.20162 | 🟩 | Might require microG |
 | F1 TV| 2.0.5 | 🟨 | Crashes while watching a video, screen flashes
