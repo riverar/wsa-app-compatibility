@@ -17,6 +17,7 @@
 | Arknights | 5.0.01 | 🟨 |Can't login using Google Account|
 | Aurora Store | 4.0.7 | 🟩 ||
 | Apple Music | 3.7.1 | 🟩 ||
+| Microsoft Authenticator | 6.2110.6737 |🟨| Requires Play services to be actually useful |
 | Azur Lane | 6.0.1 | 🟨 | Black Screen next company logos|
 | Bromite | 94.0.4606.94 |  🟩 | Use x64 build |
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 | |
