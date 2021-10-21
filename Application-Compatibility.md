@@ -29,7 +29,7 @@
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies, claims to need Google Play services |
 | Snapchat | | 🟨 | Complains about the lack of GMS, but all functions (including the map) work. Camera view is flipped (WSA bug) |
 | Telegram | 8.1.2 | 🟩 ||
-| Vanced Manager | | 🟩 || Need to give the app file permission (right-click -> App Settings) to be able to install MicroG |
+| Vanced Manager | | 🟩 || Need to give the app file permission (right-click - App Settings) to be able to install MicroG |
 | Youtube Vanced | | 🟩 ||
 | Pokémon GO | | 🟥 | Unable to authenticate. |
 | TikTok | 21.6.4 | 🟨 | Error when trying to log in, application itself works. - Creating new account works |
