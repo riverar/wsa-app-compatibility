@@ -16,6 +16,7 @@
 |----------------|-----------------------|---------------|-------|
 | 23andMe | 5.114.0 | 🟩 ||
 | Aegis | 2.0.2 | 🟩 ||
+| AIMP | 3.10.1052 | 🟩 ||
 | Arknights | 5.0.01 | 🟨 | Can't login using Google Account, other functionality fine |
 | Aurora Store | 4.0.7 | 🟩 ||
 | Apple Music | 3.7.1 | 🟩 ||
