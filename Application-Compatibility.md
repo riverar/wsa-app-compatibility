@@ -5,8 +5,8 @@
 🟥 Broken  
 
 ## Disabled Functions
-VPN - Any VPN Apps for Android Does Not Work and Will Change Upon Connecting 
-Launchers - App Launchers are disabled
+ VPN - Any VPN Apps for Android Does Not Work and Will Change Upon Connecting
+ Launchers - App Launchers are disabled
 
 ## Support table
 
