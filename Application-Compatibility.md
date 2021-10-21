@@ -63,6 +63,7 @@
 | The King Of Fighters Allstar | 1.9.3 | 🟩 | initial loading screen was black and crashed on login. worked perfectly 2nd try|
 | Vanced Manager | 2.6.2 (Crimson) | 🟩 | Need to give the app file permission (right-click - App Settings) to be able to install MicroG |
 | Vanced MicroG | 0.2.22.212658 | 🟨 | Need to Use Huawei Sign In Option to be able to Sign in to Google Account |
+| Warden | 1.0.3.release | 🟨 | The App will Keep Flashing but Functions are not affected |
 | WhatsApp | 2.21.20.20 | 🟨 | WhatsApp chat backups will not work [microG is present] |
 | 微博 (Weibo) | 11.10.1 | 🟨 | Sign In Using Password Has Problem Showing Reach Limit for Verification Code |
 | YouTube (Google)| 16.40.35 | 🟥 | Requires Play Services |
