@@ -61,6 +61,7 @@
 | TikTok (China) | 18.1.0 | 🟩 | Unable to Sign in But Can Use Third-Party Apps to Sign In |
 | Oppo App Store (China) | 8.6.4 Beta 1 | 🟥 | App stuck at Black Screen on Launch |
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable Verify if the game is owned in the account |
+| 微博 (Weibo) | 11.10.1 | 🟩 | |
 
 ## Support levels
 
