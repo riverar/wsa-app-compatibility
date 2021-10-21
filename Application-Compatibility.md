@@ -49,6 +49,7 @@
 | Joplin | 2.4.3 (2097651) | 🟩 ||
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | App crashes
 | Magisk | 23.0 | 🟥 | App crashes |
+| Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Unable to Load Websites |
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable to verify game owner |
 | MiX | 6.57.0-Beta_B21070510 | 🟩 ||
 | Nekogram X | 8.1.2-1-rc01 | 🟩 | Use NoGcm variant |
