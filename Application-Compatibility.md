@@ -40,6 +40,7 @@
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | The battle experience is terrible. Cannot sync with Google Play Games account. All other functions work. |
 | QooApp | 8.3.3 | 🟩 ||
 | Reddit | | 🟩 ||
+| Relay | 10.0.378 | 🟩 ||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies, claims to need Google Play services |
 | Snapchat | | 🟨 | Complains about the lack of GMS, but all functions (including the map) work. Camera view is flipped (WSA bug) |
 | Spotify | 8.6.70.1102 | 🟨 | Empty screen during first time launch, works fine after restart |
