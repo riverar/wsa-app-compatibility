@@ -28,6 +28,7 @@
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | Instagram | 210.0.0.28.71 | 🟩 | |
 | OsmAnd~ | 3.9.10 | 🟩 ||
+| Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | The battle experience is terrible. Cannot sync with Google Play Games account. All other functions work. |
 | QooApp | 8.3.3 | 🟩 ||
 | Reddit | | 🟩 ||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies, claims to need Google Play services |
