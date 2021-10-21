@@ -8,7 +8,8 @@
 
 🟩 Works  
 🟨 Works, but with some notable problems  
-🟥 Broken  
+🟥 Broken 
+❓ Unknown 
 
 ## Support table
 
