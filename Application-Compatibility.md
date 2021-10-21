@@ -21,7 +21,7 @@
 | Aurora Store | 4.0.7 | 🟩 ||
 | Apple Music | 3.7.1 | 🟩 ||
 | Authenticator by Microsoft | 6.2110.6737 |🟨| Requires Google Play Services |
-| Azur Lane | 6.0.1 | 🟩 | Blank screen next to company logo (to fix it, you have to use app like zArchiver to extract the XAPK and place the obb file under Android folder |
+| Azur Lane | 6.0.1 | 🟩 ||
 | Bromite | 94.0.4606.94 |  🟩 | Use x64 build |
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 | |
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires Google Play Services |
