@@ -4,6 +4,9 @@
 🟨 Works, but with some notable problems  
 🟥 Broken  
 
+## Broken Functions
+VPN - Any VPN Apps for Android Does Not Work and Will Change Upon Connecting
+
 ## Support table
 
 | Application    | Latest tested version | Support level | Notes |
