@@ -22,6 +22,7 @@
 | Genshin Impact | 2.2.0 | 🟥 | Blackscreens then crashes |
 | Google Chrome | 94.0.4606.85 | 🟩 | microG and correct architecture is required|
 | Guardian Tales | 2.23.2 | 🟥 | Blackscreen w/ Play services error|
+| Hobi | 2.1.7 | 🟥 | Google Play Services error |
 | Honkai Impact 3rd| 5.1.0 | 🟨 | The graphic quality is terrible |
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | Instagram | 210.0.0.28.71 | 🟩 | |
@@ -30,6 +31,7 @@
 | Reddit | | 🟩 ||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies, claims to need Google Play services |
 | Snapchat | | 🟨 | Complains about the lack of GMS, but all functions (including the map) work. Camera view is flipped (WSA bug) |
+| Spotify | 8.6.70.1102 | 🟨 | Empty screen during first time launch, works fine after restart |
 | Telegram | 8.1.2 | 🟩 ||
 | Vanced Manager | | 🟩 | Need to give the app file permission (right-click - App Settings) to be able to install MicroG |
 | Youtube Vanced | | 🟩 ||
