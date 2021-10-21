@@ -26,6 +26,7 @@
 | Device Info HW | 5.4.1 | 🟩 ||
 | Edge | 93.0.961.78 | 🟩 ||
 | Epic Seven | 1.0.406 | 🟨 | Very Low FPS, Unable to Sign in with Google |
+| Excel | 16.0.14527.20162 | 🟩 | Might require microG |
 | F1 TV| 2.0.5 | 🟨 | App kinda works just screen flashes all the time and upon watching a video it crashes |
 | FAST Speed Test | 1.0.8 (88) | 🟩 | |
 | F-Droid | 1.13.1 | 🟩 ||
@@ -48,12 +49,14 @@
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable Verify if the game is owned in the account |
 | MiX | 6.57.0-Beta_B21070510 | 🟩 ||
 | Nekogram X | 8.1.2-1-rc01 | 🟩 | Using NoGcm variant |
+| Office | 16.0.14527.20162 | 🟩 | Might require microG |
 | Oppo App Store (China) | 8.6.4 Beta 1 | 🟥 | App stuck at Black Screen on Launch |
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | 🟩 | |
 | OsmAnd~ | 3.9.10 | 🟩 ||
 | Outlook | 4.2138.0 | 🟩 ||
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | The battle experience is terrible. Cannot sync with Google Play Games account. All other functions work. |
 | Pokémon GO | | 🟥 | Unable to authenticate. |
+| PowerPoint | 16.0.14527.20162 | 🟩 | Might require microG |
 | QooApp | 8.3.3 | 🟩 ||
 | Reddit | | 🟩 ||
 | Relay | 10.0.378 | 🟩 ||
@@ -69,6 +72,7 @@
 | Vanced MicroG | 0.2.22.212658 | 🟨 | Need to Use Huawei Sign In Option to be able to Sign in to Google Account |
 | Warden | 1.0.3.release | 🟨 | The App will Keep Flashing but Functions are not affected |
 | WhatsApp | 2.21.20.20 | 🟨 | WhatsApp chat backups will not work [microG is present] |
+| Word | 16.0.14430.20246 | 🟩 | Might require microG |
 | 微博 (Weibo) | 11.10.1 | 🟨 | Sign In Using Password Has Problem Showing Reach Limit for Verification Code |
 | YouTube (Google)| 16.40.35 | 🟥 | Requires Play Services |
 | YouTube Music (Google) | 4.49.51 | 🟥 | Requires Play Services |
