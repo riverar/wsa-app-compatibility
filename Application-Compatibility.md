@@ -51,6 +51,7 @@
 | Jetpack Joyride | 1.52.1 (58461800) | 🟨 | Google Play Games sync doesn't work, other functionality fine |
 | Joey (Reddit client) | 2.0.0.1 | 🟩 ||
 | Joplin | 2.4.3 (2097651) | 🟩 ||
+| KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | 🟩 | Play Services error appears at startup but otherwise works perfectly |
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | App crashes
 | Magisk | 23.0 | 🟥 | App crashes |
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Unable to Load Websites |
