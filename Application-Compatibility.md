@@ -22,6 +22,7 @@
 | Genshin Impact | 2.2.0 | 🟥 | Blackscreens then crashes |
 | Google Chrome | 94.0.4606.85 | 🟩 | microG and correct architecture is required|
 | Guardian Tales | 2.23.2 | 🟥 | Blackscreen w/ Play services error|
+| Honkai Impact 3rd| 5.1.0 | 🟨 | The graphic quality is terrible |
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | Instagram | 210.0.0.28.71 | 🟩 | |
 | OsmAnd~ | 3.9.10 | 🟩 ||
