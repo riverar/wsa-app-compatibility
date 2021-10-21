@@ -13,7 +13,7 @@
 | Arknights | 5.0.01 | 🟨 |Can't login using Google Account|
 | Aurora Store | 4.0.7 | 🟩 ||
 | Apple Music | 3.7.1 | 🟩 ||
-| Azur Lane | 6.0.1 | 🟩 ||
+| Azur Lane | 6.0.1 | 🟨 | Black Screen next company logos|
 | Bromite | 94.0.4606.94 |  🟩 | Use x64 build |
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 | |
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires Play services |
@@ -21,6 +21,7 @@
 | CPU-Z | 1.41 | 🟩 ||
 | Device Info HW | 5.4.1 | 🟩 ||
 | Edge | 93.0.961.78 | 🟩 ||
+| Epic Seven | 1.0.406 | 🟨 | Very Low FPS, Unable to Sign in with Google |
 | F1 TV| 2.0.5 | 🟨 | App kinda works just screen flashes all the time and upon watching a video it crashes |
 | FAST Speed Test | 1.0.8 (88) | 🟩 | |
 | F-Droid | 1.13.1 | 🟩 ||
