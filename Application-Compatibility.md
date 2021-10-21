@@ -21,6 +21,7 @@
 | Arknights | 5.0.01 | 🟨 |Can't login using Google Account|
 | Aurora Store | 4.0.7 | 🟩 ||
 | Apple Music | 3.7.1 | 🟩 ||
+| APK Pure | 3.17.26 | 🟩 ||
 | Microsoft Authenticator | 6.2110.6737 |🟨| Requires Play services to be actually useful |
 | Azur Lane | 6.0.1 | 🟨 | Black Screen next company logos|
 | Bromite | 94.0.4606.94 |  🟩 | Use x64 build |
@@ -29,7 +30,7 @@
 | 酷安 (CoolApk) | 11.4.3 | 🟩 | Unable to sign in using third party apps |
 | CPU-Z | 1.41 | 🟩 ||
 | Device Info HW | 5.4.1 | 🟩 ||
-| Edge | 93.0.961.78 | 🟩 ||
+| Microsoft Edge | 93.0.961.78 | 🟩 ||
 | Epic Seven | 1.0.406 | 🟨 | Low FPS, unable to sign in with GoogleGoogle |
 | Excel | 16.0.14527.20162 | 🟩 | Might require microG |
 | F1 TV| 2.0.5 | 🟨 | App kinda works just screen flashes all the time and upon watching a video it crashes |
