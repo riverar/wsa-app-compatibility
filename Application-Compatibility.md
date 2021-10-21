@@ -5,7 +5,7 @@
 🟥 Broken  
 
 ## Disabled Functions
-1. VPN - Any VPN Apps for Android Does Not Work and Will Change Upon Connecting
+1. VPN - Any VPN Apps for Android Does Not Work and Will Crash Upon Connecting
 2. Launchers - App Launchers are disabled
 
 ## Support table
