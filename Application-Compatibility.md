@@ -33,6 +33,7 @@
 | F1 TV| 2.0.5 | 🟨 | Crashes while watching a video, screen flashes
 | FAST Speed Test | 1.0.8 (88) | 🟩 | |
 | F-Droid | 1.13.1 | 🟩 ||
+| Firefox | 93.2.0 (2015839751) | 🟩 | |
 | Firefox Nightly | 95.0a1 | 🟩 ||
 | Facebook Messenger | 335.0.0.17.5 | 🟨 | Chat Heads doesn't work |
 | Fortnite Installer | 4.1.4 | 🟥 | Device not supported error |
