@@ -41,6 +41,7 @@
 | Pokémon GO | | 🟥 | Unable to authenticate. |
 | TikTok | 21.6.4 | 🟨 | Error when trying to log in, application itself works. - Creating new account works |
 | Fruit Ninja | 3.3.4 | 🟩 | Version Check Error. App still works |
+| The King Of Fighters Allstar | 1.9.3 | 🟥 | Login freezes then crashes, black loading screen |
 
 ## Support levels
 
