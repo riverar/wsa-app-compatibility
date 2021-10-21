@@ -79,6 +79,8 @@
 | WhatsApp | 2.21.20.20 | 🟨 | WhatsApp chat backups will not work, app was tested with microG installed |
 | Word | 16.0.14430.20246 | 🟩 | Might require microG |
 | 微博 (Weibo) | 11.10.1 | 🟨 | Cannot sign in using password, shows limit reached for verification codes |
+| 微博国际版 （Weibo International) | 3.9.8 | 🟨 | Cannot sign in |
+| 微博极速版 (Weibo Fast) | 10.9.2 (4620) | 🟨 | Cannot sign in |
 | YouTube (Google)| 16.40.35 | 🟥 | Requires Google Play Services |
 | YouTube Music (Google) | 4.49.51 | 🟥 | Requires Google Play Services |
 | Youtube Vanced | 16.29.39 | 🟨 | Picture-in-picture doesn't work |
