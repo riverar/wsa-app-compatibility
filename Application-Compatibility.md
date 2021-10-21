@@ -62,6 +62,7 @@
 | Oppo App Store (China) | 8.6.4 Beta 1 | 🟥 | App stuck at Black Screen on Launch |
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable Verify if the game is owned in the account |
 | 微博 (Weibo) | 11.10.1 | 🟩 | |
+| Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 | |
 
 ## Support levels
 
