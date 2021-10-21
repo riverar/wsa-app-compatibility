@@ -60,6 +60,7 @@
 | OsmAnd~ | 3.9.10 | 🟩 ||
 | Outlook | 4.2138.0 | 🟩 ||
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | Battle experience is terrible, cannot sync with Google Play Games |
+| Pokemon Unite | 1.2.1.2 | 🟨 | Battle experience is terrible, very low fps and janky control on PC with no touch |
 | Pokémon GO | | 🟥 | Unable to authenticate |
 | PowerPoint | 16.0.14527.20162 | 🟩 | Might require microG |
 | QooApp | 8.3.3 | 🟩 ||
