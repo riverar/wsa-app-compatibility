@@ -26,6 +26,7 @@
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 | |
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires Google Play Services |
 | 酷安 (CoolApk) | 11.4.3 | 🟨 | Unable to sign in using third party apps |
+| Canvas Student | 6.14.1 | 🟩 ||
 | CPU-Z | 1.41 | 🟩 ||
 | Device Info HW | 5.4.1 | 🟩 ||
 | Discord | 98.6 | 🟩 ||
