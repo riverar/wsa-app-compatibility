@@ -35,6 +35,7 @@
 | Snapchat | | 🟨 | Complains about the lack of GMS, but all functions (including the map) work. Camera view is flipped (WSA bug) |
 | Spotify | 8.6.70.1102 | 🟨 | Empty screen during first time launch, works fine after restart |
 | Telegram | 8.1.2 | 🟩 ||
+| YouTube (Google)| 16.40.35 | 🟥 | Requires Play Services |
 | Vanced Manager | | 🟩 | Need to give the app file permission (right-click - App Settings) to be able to install MicroG |
 | Youtube Vanced | | 🟩 ||
 | Pokémon GO | | 🟥 | Unable to authenticate. |
