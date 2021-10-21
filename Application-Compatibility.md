@@ -47,14 +47,18 @@
 | Telegram | 8.1.2 | 🟩 ||
 | YouTube (Google)| 16.40.35 | 🟥 | Requires Play Services |
 | YouTube Music (Google) | 4.49.51 | 🟥 | Requires Play Services |
-| Vanced Manager | | 🟩 | Need to give the app file permission (right-click - App Settings) to be able to install MicroG |
+| Vanced Manager | 2.6.2 (Crimson) | 🟩 | Need to give the app file permission (right-click - App Settings) to be able to install MicroG |
 | WhatsApp | 2.21.20.20 | 🟨 | WhatsApp chat backups will not work [microG is present]
-| Youtube Vanced | | 🟩 ||
+| Youtube Vanced | 16.29.39 | 🟩 | Floating Background Video doesn't work|
 | Pokémon GO | | 🟥 | Unable to authenticate. |
 | TikTok | 21.6.4 | 🟨 | Error when trying to log in, application itself works. - Creating new account works |
 | Fruit Ninja | 3.3.4 | 🟩 | Version Check Error. App still works |
 | The King Of Fighters Allstar | 1.9.3 | 🟩 | initial loading screen was black and crashed on login. worked perfectly 2nd try|
 | F1 TV| 2.0.5 | 🟨 | App kinda works just screen flashes all the time and upon watching a video it crashes |
+| YouTube Music Vanced | 43.9.50 | 🟩 ||
+| Vanced MicroG | 0.2.22.212658 | 🟩 | Need to Use Huawei Sign In Option to be able to Sign in to Google Account |
+| 酷安 (CoolApk) | 11.4.3 | 🟩 | Unable to Sign in Using Third-Party Account |
+
 ## Support levels
 
 🟩 Works  
