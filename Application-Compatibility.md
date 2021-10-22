@@ -26,6 +26,7 @@
 | 23andMe | 5.114.0 | 🟩 |||
 | Aegis | 2.0.2 | 🟩 |||
 | AIMP | 3.10.1052 | 🟩 |||
+| Amaze File Manager | [3.5.3](https://www.apkmirror.com/apk/team-amaze/amaze-file-manager/amaze-file-manager-3-5-3-release/) | 🟩 | Don't update the version ||
 | Arknights | 5.0.01 | 🟨 | Can't login using Google Account |Other functionality fine|
 | Aurora Store | 4.0.7 | 🟩 |||
 | Aptoide App Store | [9.20.2.1](https://aptoide.en.aptoide.com/app) | 🟨 | Download stuck sometimes ||
@@ -66,11 +67,12 @@
 | Geekbench |5.4.1| 🟩 |  |
 | Google Chrome | 94.0.4606.85 | 🟩 | |microG and correct architecture is required |
 | Guardian Tales | 2.23.2 | 🟥 | Requires Google Play Services |
+| Grab | 5.172.200 from Huawei AppGallery | 🟩 | |
 | Grand Theft Auto: San Andreas |  | 🟩 |  |
 | Hobi | 2.1.7 | 🟥 | Requires Google Play Services |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 | | Game do have built in keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | 🟨 | Terrible graphics quality |
-| Huawei AppGallery  | [11.4.2.300](https://www.apkmirror.com/apk/huawei/huawei-appgallery/huawei-appgallery-11-4-2-300-release/) | 🟩 |sometimes crashes but works fine for installing app. |
+| Huawei AppGallery  | [11.4.2.300](https://www.apkmirror.com/apk/huawei/huawei-appgallery/huawei-appgallery-11-4-2-300-release/) | 🟩 |sometimes crashes| search install uninstall functionality is fine |
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | Instagram | 210.0.0.28.71 | 🟩 ||
 | Jetpack Joyride | 1.52.1 (58461800) | 🟨 | Google Play Games sync doesn't work, other functionality fine |
