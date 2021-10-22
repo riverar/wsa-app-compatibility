@@ -86,6 +86,7 @@
 | QooApp | 8.3.3 | 🟩 ||
 | Reddit | | 🟩 ||
 | Relay | 10.0.378 | 🟩 ||
+| Remote Desktop (Microsoft) | 10.0.12.1148 | 🟩 ||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies, optionally requires Google Play Services |
 | Sky: Children of the Light | 0.15.1 | 🟥 | Game doesn't start, it reports OpenGLES 3.1, Vulkan 1.0.3 and Vulkan level 0 all missing |
 | Snapchat | | 🟨 | Camera view is flipped, optionally requires Google Play Services | 
