@@ -82,6 +82,7 @@
 | Joplin | 2.4.3 (2097651) | 🟩 ||
 | Kik | 7.10.1.176 (82)  | 🟩 ||
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | 🟩 | Google Play Services error appears at startup but otherwise works perfectly |
+| Konosuba:FD | 1.12.1 | 🟥 | Requires Google Play Services ||
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | App crashes
 | League of Legends: Wild Rift | | 🟩 |  |
 | Magic Tiles 3 | 8.086.201 | 🟩 ||
