@@ -94,6 +94,7 @@
 | Pokémon GO | | 🟥 | Unable to authenticate |
 | PowerPoint | 16.0.14527.20162 | 🟩 | Might require microG |
 | Phigros |  | 🟩 |  |
+| 战双帕弥什 (Punishing: Gray Raven) |  | 🟩 | Full keyboard support |
 | Q-Dance | 8.0.7 | 🟥  |App crashes|
 | QooApp | 8.3.3 | 🟩 ||
 | Reddit | | 🟩 ||
