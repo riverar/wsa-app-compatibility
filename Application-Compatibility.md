@@ -21,6 +21,7 @@
 | Aurora Store | 4.0.7 | 🟩 ||
 | Aptoide App Store | [9.20.2.1](https://aptoide.en.aptoide.com/app) | 🟨 | Download stuck sometimes |
 | Apple Music | 3.7.1 | 🟩 ||
+| App分享 (AppShare) | 2.1.1 (164) | 🟥 | Can't Log In |
 | Authenticator by Microsoft | 6.2110.6737 |🟨| Requires Google Play Services |
 | Azur Lane | 6.0.1 | 🟩 ||
 | Bromite | 94.0.4606.94 |  🟩 | Use x64 build |
@@ -65,6 +66,7 @@
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Unable to Load Websites |
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable to verify game owner |
 | MiX | 6.57.0-Beta_B21070510 | 🟩 ||
+| MT File Manager | 2.10.0 | 🟩 | Can Be used To Access Storage |
 | Nekogram X | 8.1.2-1-rc01 | 🟩 | Use NoGcm variant |
 | Netflix (Aurora Store) | 8.4.0 | 🟥 | Device not supported |
 | NieR Re[in]carnation | 1.7.1 | 🟥 | Unable to go past the loading screen after the title screen, gets stuck at 60% |
