@@ -99,7 +99,7 @@
 | Oppo App Store (China) | 8.6.4 Beta 1 | 🟥 | App freezes on blank screen at launch |
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | 🟩 | |
 | OsmAnd~ | 3.9.10 | 🟩 ||
-| Outlook | 4.2138.0 | 🟩 ||
+| Outlook | 4.2138.0 | 🟨 || Cannot activate device administrator with Outlook, which prevents activation. | 
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | Battle experience is terrible, cannot sync with Google Play Games |
 | Pokémon Unite | 1.2.1.2 | 🟨 | Battle experience is terrible, very low fps |
 | Pokémon GO | | 🟥 | Unable to authenticate |
