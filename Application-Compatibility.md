@@ -87,6 +87,7 @@
 | TikTok (China) | 18.1.0 | 🟥 | App crashes |
 | TikTok (Global) | 21.6.4 | 🟨 | Error when trying to log in, can use app by creating new account |
 | Telegram | 8.1.2 | 🟩 ||
+| [Twitter](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-16-1-release-00-release/twitter-9-16-1-release-00-android-apk-download/) | 9.16.1-release.00 | 🟩 | Optionally requires Google Play Services ||
 | The King Of Fighters Allstar | 1.9.3 | 🟩 | Blank screen / app crash on first boot, works on second boot upwards |
 | Vanced Manager | 2.6.2 (Crimson) | 🟩 | Needs required permissions |
 | Vanced MicroG | 0.2.22.212658 | 🟨 | Use Huawei sign-in method to sign in to Google account |
