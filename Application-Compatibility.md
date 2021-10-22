@@ -32,6 +32,7 @@
 | Bromite | 94.0.4606.94 |  🟩 | Use x64 build |
 | Brawl Stars | 38.159 | 🟥 | Game crashes |
 | Binance | 2.36.5 | 🟩 ||
+| 哔哩哔哩 (Bilibili |  | 🟩 ||
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 ||
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires Google Play Services |
 | 酷安 (CoolApk) | 11.4.3 | 🟨 | Unable to sign in using third party apps |
@@ -77,6 +78,7 @@
 | Magisk | 23.0 | 🟥 | App crashes |
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Unable to Load Websites |
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable to verify game owner |
+| Minecraft (China Edition) |  | 🟩 |  |
 | MiX | 6.57.0-Beta_B21070510 | 🟩 ||
 | MT File Manager | 2.10.0 | 🟩 | Can Be used To Access Storage |
 | Nekogram X | 8.1.2-1-rc01 | 🟩 | Use NoGcm variant |
