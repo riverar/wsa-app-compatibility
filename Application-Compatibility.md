@@ -1,3 +1,8 @@
+## Working functionality
+| Type  | Apps tested with
+| -------------|-----------------
+| Multi-touch | [Houkai Gakuen 2](https://www.bilibili.com/video/BV1hU4y1F7H6)
+| Virtual Wifi (VirtWifi) |
 ## Disabled functionality
 | Type | Expected behavior | Actual behavior | Apps tested with
 | -------------|-------------------|-----------------|-----------------
