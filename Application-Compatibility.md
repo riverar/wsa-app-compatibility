@@ -24,7 +24,7 @@
 | Authenticator by Microsoft | 6.2110.6737 |🟨| Requires Google Play Services |
 | Azur Lane | 6.0.1 | 🟩 ||
 | Bromite | 94.0.4606.94 |  🟩 | Use x64 build |
-| Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 | |
+| Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 ||
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires Google Play Services |
 | 酷安 (CoolApk) | 11.4.3 | 🟨 | Unable to sign in using third party apps |
 | Canvas Student | 6.14.1 | 🟩 ||
@@ -36,9 +36,9 @@
 | ES File Explorer | [4.2.1.8](https://www.apkmirror.com/apk/es-global/es-file-explorer/es-file-explorer-4-2-1-8-release/es-file-explorer-file-manager-4-2-1-8-android-apk-download) | 🟩 | Don't update. Turn off update from setting |
 | Excel | 16.0.14527.20162 | 🟩 | Might require microG |
 | F1 TV| 2.0.5 | 🟨 | Crashes while watching a video, screen flashes
-| FAST Speed Test | 1.0.8 (88) | 🟩 | |
+| FAST Speed Test | 1.0.8 (88) | 🟩 ||
 | F-Droid | 1.13.1 | 🟩 ||
-| Firefox | 93.2.0 (2015839751) | 🟩 | |
+| Firefox | 93.2.0 (2015839751) | 🟩 ||
 | Firefox Nightly | 95.0a1 | 🟩 ||
 | Facebook Messenger | [330.0.0.12.116 (x86_64)](https://www.apkmirror.com/apk/facebook-2/messenger/messenger-330-0-0-12-116-release/facebook-messenger-text-and-video-chat-for-free-330-0-0-12-116-31-android-apk-download) | 🟨 | Chat Heads doesn't work |
 | Fortnite Installer | 4.1.4 | 🟥 | Device not supported error |
@@ -49,7 +49,7 @@
 | Google Chrome | 94.0.4606.85 | 🟩 | microG and correct architecture is required |
 | Guardian Tales | 2.23.2 | 🟥 | Requires Google Play Services |
 | Hobi | 2.1.7 | 🟥 | Requires Google Play Services |
-| 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 |Game do have built in keyboard controller for WASD|
+| 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 |Game do have built in keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | 🟨 | Terrible graphics quality |
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | Instagram | 210.0.0.28.71 | 🟩 ||
@@ -57,7 +57,7 @@
 | Joey (Reddit client) | 2.0.0.1 | 🟩 ||
 | Joplin | 2.4.3 (2097651) | 🟩 ||
 | Kik | 7.10.1.176 (82)  | 🟩 ||
-| KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | 🟩 | Play Services error appears at startup but otherwise works perfectly |
+| KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | 🟩 | Google Play Services error appears at startup but otherwise works perfectly |
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | App crashes
 | Magisk | 23.0 | 🟥 | App crashes |
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Unable to Load Websites |
@@ -66,7 +66,7 @@
 | Nekogram X | 8.1.2-1-rc01 | 🟩 | Use NoGcm variant |
 | Netflix (Aurora Store) | 8.4.0 | 🟥 | Device not supported |
 | NieR Re[in]carnation | 1.7.1 | 🟥 | Unable to go past the loading screen after the title screen, gets stuck at 60% |
-| Nova Launcher | 7.0.49 (7049) | 🟨 | User Interface Messy but App Drawer is Working Fine |
+| Nova Launcher | 7.0.49 (7049) | 🟨 | UI is messy, app drawer fine |
 | Office | 16.0.14527.20162 | 🟩 | Might require microG |
 | Opera Browser Beta | [65.1.3381.61349 (x86_64)](https://www.apkmirror.com/apk/opera-software-asa/opera-beta/opera-beta-65-1-3381-61349-release/opera-browser-beta-65-1-3381-61349-4-android-apk-download) | 🟩 | Change app layout to Tablet Mode for better experience |
 | Oppo App Store (China) | 8.6.4 Beta 1 | 🟥 | App freezes on blank screen at launch |
@@ -84,8 +84,8 @@
 | Snapchat | | 🟨 | Camera view is flipped, optionally requires Google Play Services | 
 | SpeedTest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work (check [Disabled functionality](https://github.com/riverar/wsa-app-compatibility/wiki/Application-Compatibility#disabled-functionality)) |
 | Spotify | 8.6.70.1102 | 🟨 | App crashes on first boot, works second boot upwards |
-| Steam | 2.3.13 | 🟩 | Works completely fine |
-| Steam Chat | 1.0 | 🟩 | Works completely fine |
+| Steam | 2.3.13 | 🟩 ||
+| Steam Chat | 1.0 | 🟩 ||
 | Steam Link | 1.1.81 | 🟥 | App crashes |
 | Tachiyomi | 0.12.3 | 🟩 ||
 | TikTok (China) | 18.1.0 | 🟥 | App crashes |
