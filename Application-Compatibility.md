@@ -62,6 +62,7 @@
 | Kik | 7.10.1.176 (82)  | 🟩 ||
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | 🟩 | Google Play Services error appears at startup but otherwise works perfectly |
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | App crashes
+| Magic Tiles 3 | 8.086.201 | 🟩 ||
 | Magisk | 23.0 | 🟥 | App crashes |
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Unable to Load Websites |
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable to verify game owner |
