@@ -25,7 +25,8 @@
 | Authenticator by Microsoft | 6.2110.6737 |🟨| Requires Google Play Services |
 | Azur Lane | 6.0.1 | 🟩 ||
 | Bromite | 94.0.4606.94 |  🟩 | Use x64 build |
-| Brawl Stars | 38.159 | 🟥 | Game crashes
+| Brawl Stars | 38.159 | 🟥 | Game crashes |
+| Binance | 2.36.5 | 🟩 ||
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 ||
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires Google Play Services |
 | 酷安 (CoolApk) | 11.4.3 | 🟨 | Unable to sign in using third party apps |
