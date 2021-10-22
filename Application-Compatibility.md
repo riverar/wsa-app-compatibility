@@ -85,6 +85,7 @@
 | Reddit | | 🟩 ||
 | Relay | 10.0.378 | 🟩 ||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies, optionally requires Google Play Services |
+| Sky: Children of the Light | 0.15.1 | 🟥 | Game doesn't start, it reports OpenGLES 3.1, Vulkan 1.0.3 and Vulkan level 0 all missing |
 | Snapchat | | 🟨 | Camera view is flipped, optionally requires Google Play Services | 
 | SpeedTest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work (check [Disabled functionality](https://github.com/riverar/wsa-app-compatibility/wiki/Application-Compatibility#disabled-functionality)) |
 | Spotify | 8.6.70.1102 | 🟨 | App crashes on first boot, works second boot upwards |
