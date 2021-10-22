@@ -91,6 +91,7 @@
 | MT File Manager | 2.10.0 | 🟩 | Can Be used To Access Storage |
 | Nekogram X | 8.1.2-1-rc01 | 🟩 |  |Use NoGcm variant|
 | Netflix (Aurora Store) | 8.4.0 | 🟥 | Device not supported |
+| NFL | 56.1.7 | 🟥 | Crashes on launch |
 | NieR Re[in]carnation | 1.7.1 | 🟥 | Unable to go past the loading screen after the title screen, gets stuck at 60% |
 | Nova Launcher | 7.0.49 (7049) | 🟨 | UI is messy, app drawer fine |
 | Office | 16.0.14527.20162 | 🟩 |  |Might require microG| 
