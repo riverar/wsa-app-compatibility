@@ -52,7 +52,7 @@
 | DMM Games Store | 2.8.0 | 🟥 | Requires Google Play Services ||
 | Epic Seven | 1.0.406 | 🟨 | Low FPS, unable to sign in with Google | Other functionality fine|
 | ES File Explorer | [4.2.1.8](https://www.apkmirror.com/apk/es-global/es-file-explorer/es-file-explorer-4-2-1-8-release/es-file-explorer-file-manager-4-2-1-8-android-apk-download) | 🟩 | |Don't update. Turn off update from setting|
-| Excel | 16.0.14527.20162 | 🟩 ||Might require microG|
+| Excel | 16.0.14527.20162 | 🟩 ||Does not require microG|
 | F1 TV| 2.0.5 | 🟨 | Crashes while watching a video, screen flashes|
 | FAST Speed Test | 1.0.8 (88) | 🟩 |||
 | F-Droid | 1.13.1 | 🟩 ||
