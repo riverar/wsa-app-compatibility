@@ -104,6 +104,7 @@
 | Vanced Manager | 2.6.2 (Crimson) | 🟩 | Needs required permissions |
 | Vanced MicroG | 0.2.22.212658 | 🟨 | Use Huawei sign-in method to sign in to Google account |
 | VLC | 3.4.0 | 🟩 ||
+| VK | 6.58 | 🟩 ||
 | Warden | 1.0.3.release | 🟨 | App screen flashes otherwise functionality-wise its normal |
 | WhatsApp | 2.21.20.20 | 🟨 | WhatsApp chat backups will not work, app was tested with microG installed |
 | Word | 16.0.14430.20246 | 🟩 | Might require microG |
