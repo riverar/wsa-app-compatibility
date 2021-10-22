@@ -101,6 +101,7 @@
 | TeamViewer | 15.22.136 | 🟩 ||
 | TikTok (China) | 18.1.0 | 🟥 | App crashes |
 | TikTok (Global) | 21.6.4 | 🟨 | Error when trying to log in, can use app by creating new account |
+| TikTok (TV Version) | 1.6.0 | 🟥 | App crashes
 | Telegram | 8.1.2 | 🟩 ||
 | Twitter | [9.16.1-release.00](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-16-1-release-00-release/twitter-9-16-1-release-00-android-apk-download) | 🟩 | Optionally requires Google Play Services |
 | The King Of Fighters Allstar | 1.9.3 | 🟩 | Blank screen / app crash on first boot, works on second boot upwards |
