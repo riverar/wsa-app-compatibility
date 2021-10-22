@@ -100,7 +100,7 @@
 | 微博极速版 (Weibo Fast) | 10.9.2 (4620) | 🟨 | Cannot sign in |
 | YouTube (Google)| 16.40.35 | 🟥 | Requires Google Play Services |
 | YouTube Music (Google) | 4.49.51 | 🟥 | Requires Google Play Services |
-| Youtube Vanced | 16.29.39 | 🟨 | Picture-in-picture doesn't work |
+| Youtube Vanced | 16.29.39 | 🟨 | Picture-in-picture doesn't work & Can't join channel membership |
 | YouTube Music Vanced | 43.9.50 | 🟩 ||
 
 
