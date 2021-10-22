@@ -22,11 +22,11 @@
 | 23andMe | 5.114.0 | 🟩 |||
 | Aegis | 2.0.2 | 🟩 |||
 | AIMP | 3.10.1052 | 🟩 |||
-| Arknights | 5.0.01 | 🟨 | Can't login using Google Account, other functionality fine ||
+| Arknights | 5.0.01 | 🟨 | Can't login using Google Account |Other functionality fine|
 | Aurora Store | 4.0.7 | 🟩 |||
 | Aptoide App Store | [9.20.2.1](https://aptoide.en.aptoide.com/app) | 🟨 | Download stuck sometimes ||
 | Apple Music | 3.7.1 | 🟩 |||
-| App分享 (AppShare) | 2.1.1 (164) | 🟥 | Can't Log In ||
+| App分享 (AppShare) | 2.1.1 (164) | 🟥 | Can't Login ||
 | Authenticator by Microsoft | 6.2110.6737 |🟨| Requires Google Play Services ||
 | Arcaea |  | 🟩 |||
 | Azur Lane | 6.0.1 | 🟩 |||
@@ -45,9 +45,9 @@
 | Discord | 98.6 | 🟩 |||
 | Дурак Онлайн (Durak Online) | 1.9.2 | 🟥 | Requires Google Play Services ||
 | DMM Games Store | 2.8.0 | 🟥 | Requires Google Play Services ||
-| Epic Seven | 1.0.406 | 🟨 | Low FPS, unable to sign in with Google, other functionality fine |
-| ES File Explorer | [4.2.1.8](https://www.apkmirror.com/apk/es-global/es-file-explorer/es-file-explorer-4-2-1-8-release/es-file-explorer-file-manager-4-2-1-8-android-apk-download) | 🟩 | Don't update. Turn off update from setting ||
-| Excel | 16.0.14527.20162 | 🟩 | Might require microG ||
+| Epic Seven | 1.0.406 | 🟨 | Low FPS, unable to sign in with Google | Other functionality fine|
+| ES File Explorer | [4.2.1.8](https://www.apkmirror.com/apk/es-global/es-file-explorer/es-file-explorer-4-2-1-8-release/es-file-explorer-file-manager-4-2-1-8-android-apk-download) | 🟩 | |Don't update. Turn off update from setting|
+| Excel | 16.0.14527.20162 | 🟩 ||Might require microG|
 | F1 TV| 2.0.5 | 🟨 | Crashes while watching a video, screen flashes|
 | FAST Speed Test | 1.0.8 (88) | 🟩 |||
 | F-Droid | 1.13.1 | 🟩 ||
@@ -56,17 +56,17 @@
 | Facebook Messenger | [330.0.0.12.116 (x86_64)](https://www.apkmirror.com/apk/facebook-2/messenger/messenger-330-0-0-12-116-release/facebook-messenger-text-and-video-chat-for-free-330-0-0-12-116-31-android-apk-download) | 🟨 | Chat Heads doesn't work |
 | Fortnite Installer | 4.1.4 | 🟥 | Device not supported error |
 | Fortnite | 14.10.0 | 🟥 | Crashes at login screen |
-| Fruit Ninja | 3.3.4 | 🟩 | Version check error, other functionality fine |
+| Fruit Ninja | 3.3.4 | 🟩 | Version check error | Other functionality fine|
 | Genshin Impact | 2.2.0 | 🟨 | [Working but heavy graphic glitches](https://www.bilibili.com/video/BV1zT4y1o73D?) |
-| Genshin Impact (Cloud app) |  | 🟩 | Works |
+| Genshin Impact (Cloud app) |  | 🟩 | | Works |
 | Geekbench |5.4.1| 🟩 |  |
-| Google Chrome | 94.0.4606.85 | 🟩 | microG and correct architecture is required |
+| Google Chrome | 94.0.4606.85 | 🟩 | |microG and correct architecture is required |
 | Guardian Tales | 2.23.2 | 🟥 | Requires Google Play Services |
 | Grand Theft Auto: San Andreas |  | 🟩 |  |
 | Hobi | 2.1.7 | 🟥 | Requires Google Play Services |
-| 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 |Game do have built in keyboard controller for WASD |
+| 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 | | Game do have built in keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | 🟨 | Terrible graphics quality |
-| Huawei AppGallery  | [11.4.2.300](https://www.apkmirror.com/apk/huawei/huawei-appgallery/huawei-appgallery-11-4-2-300-release/) | 🟩 | sometimes crashes but works fine for installing app. |
+| Huawei AppGallery  | [11.4.2.300](https://www.apkmirror.com/apk/huawei/huawei-appgallery/huawei-appgallery-11-4-2-300-release/) | 🟩 |sometimes crashes but works fine for installing app. |
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | Instagram | 210.0.0.28.71 | 🟩 ||
 | Jetpack Joyride | 1.52.1 (58461800) | 🟨 | Google Play Games sync doesn't work, other functionality fine |
@@ -104,9 +104,9 @@
 | Reddit | | 🟩 ||
 | Relay | 10.0.378 | 🟩 ||
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 🟩 ||
-| Roblox | 2.499.381 | 🟨 | Graphical anomalies, optionally requires Google Play Services |
+| Roblox | 2.499.381 | 🟨 | Graphical anomalies | Optionally requires Google Play Services |
 | Sky: Children of the Light | 0.15.1 | 🟥 | Game doesn't start, it reports OpenGLES 3.1, Vulkan 1.0.3 and Vulkan level 0 all missing |
-| Snapchat | | 🟨 | Camera view is flipped, optionally requires Google Play Services | 
+| Snapchat | | 🟨 | Camera view is flipped | Optionally requires Google Play Services | 
 | SpeedTest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work (check [Disabled functionality](https://github.com/riverar/wsa-app-compatibility/wiki/Application-Compatibility#disabled-functionality)) |
 | Spotify | 8.6.70.1102 | 🟨 | App crashes on first boot, works second boot upwards |
 | Spotify Lite | 1.9.0.2883 | 🟩 ||
