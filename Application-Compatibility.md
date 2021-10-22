@@ -1,13 +1,17 @@
 ## Working functionality
+
 | Type  | Apps tested with
 | -------------|-----------------
 | Multi-touch | [Arcaea](https://www.bilibili.com/video/BV1Ph411n7M5)
 | Virtual Wifi (VirtWifi) |
-## Disabled functionality
+
+## Disabled / missing functionality
+
 | Type | Expected behavior | Actual behavior | Apps tested with
 | -------------|-------------------|-----------------|-----------------
-| VPN           | Android's **VPN Connection request** asking for app's access to VPN | **VPN Connection request** popup does not appear | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) and [1.1.1.1](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
-
+| VPN | Android's **VPN Connection request** asking for app's access to VPN | **VPN Connection request** popup does not appear | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) and [1.1.1.1](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
+| OpenGL ES 3.1 | | | Sky: Children of the Light
+| Vulkan | | | Sky: Children of the Light
 
 ## Legend
 
