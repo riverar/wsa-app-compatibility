@@ -96,6 +96,7 @@
 | Steam Chat | 1.0 | 🟩 ||
 | Steam Link | 1.1.81 | 🟥 | App crashes |
 | Tachiyomi | 0.12.3 | 🟩 ||
+| TeamViewer | 15.22.136 | 🟩 ||
 | TikTok (China) | 18.1.0 | 🟥 | App crashes |
 | TikTok (Global) | 21.6.4 | 🟨 | Error when trying to log in, can use app by creating new account |
 | Telegram | 8.1.2 | 🟩 ||
