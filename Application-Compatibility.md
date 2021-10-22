@@ -30,6 +30,7 @@
 | Amaze File Manager | [3.5.3](https://www.apkmirror.com/apk/team-amaze/amaze-file-manager/amaze-file-manager-3-5-3-release/) | 🟩 | | Don't update the version ||
 | Arknights | 5.0.01 | 🟨 | Can't login using Google Account |Other functionality fine|
 | Aurora Store | 4.0.7 | 🟩 |||
+| APKPure | 3.17.26 | 🟩 | Sometimes requires multiple attempts to install an app | Make sure you allow installations from unknown sources when prompted
 | Aptoide App Store | [9.20.2.1](https://aptoide.en.aptoide.com/app) | 🟩 | | Download stuck sometimes |
 | Apple Music | 3.7.1 | 🟩 |||
 | App分享 (AppShare) | 2.1.1 (164) | 🟥 | Can't Login ||
