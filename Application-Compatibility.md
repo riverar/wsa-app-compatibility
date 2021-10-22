@@ -81,6 +81,7 @@
 | Pokémon Unite | 1.2.1.2 | 🟨 | Battle experience is terrible, very low fps |
 | Pokémon GO | | 🟥 | Unable to authenticate |
 | PowerPoint | 16.0.14527.20162 | 🟩 | Might require microG |
+| Q-Dance | 8.0.7 | 🟥  |App crashes|
 | QooApp | 8.3.3 | 🟩 ||
 | Reddit | | 🟩 ||
 | Relay | 10.0.378 | 🟩 ||
