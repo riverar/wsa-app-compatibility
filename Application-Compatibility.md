@@ -30,6 +30,7 @@
 | 创建快捷方式 (Create Shortcut) | 1.17 | 🟩 | Can Be Used To Access Any Apps |
 | Canvas Student | 6.14.1 | 🟩 ||
 | CPU-Z | 1.41 | 🟩 ||
+| DevCheck | 3.39 | 🟥 | White Screen Upon Launch |
 | Device Info HW | 5.4.1 | 🟩 ||
 | Discord | 98.6 | 🟩 ||
 | DMM Games Store | 2.8.0 | 🟥 | Requires Google Play Services |
