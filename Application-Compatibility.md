@@ -56,10 +56,11 @@
 | Fortnite | 14.10.0 | 🟥 | Crashes at login screen |
 | Fruit Ninja | 3.3.4 | 🟩 | Version check error, other functionality fine |
 | Genshin Impact | 2.2.0 | 🟨 | [Working but heavy graphic glitches](https://www.bilibili.com/video/BV1zT4y1o73D?) |
-| Genshin Impact (Cloud app) | ? | 🟩 | Works |
+| Genshin Impact (Cloud app) |  | 🟩 | Works |
 | Geekbench |5.4.1| 🟩 |  |
 | Google Chrome | 94.0.4606.85 | 🟩 | microG and correct architecture is required |
 | Guardian Tales | 2.23.2 | 🟥 | Requires Google Play Services |
+| Grand Theft Auto: San Andreas |  | 🟩 |  |
 | Hobi | 2.1.7 | 🟥 | Requires Google Play Services |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 |Game do have built in keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | 🟨 | Terrible graphics quality |
@@ -71,6 +72,7 @@
 | Kik | 7.10.1.176 (82)  | 🟩 ||
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | 🟩 | Google Play Services error appears at startup but otherwise works perfectly |
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | App crashes
+| League of Legends: Wild Rift | | 🟩 |  |
 | Magic Tiles 3 | 8.086.201 | 🟩 ||
 | Magisk | 23.0 | 🟥 | App crashes |
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Unable to Load Websites |
@@ -91,6 +93,7 @@
 | Pokémon Unite | 1.2.1.2 | 🟨 | Battle experience is terrible, very low fps |
 | Pokémon GO | | 🟥 | Unable to authenticate |
 | PowerPoint | 16.0.14527.20162 | 🟩 | Might require microG |
+| Phigros |  | 🟩 |  |
 | Q-Dance | 8.0.7 | 🟥  |App crashes|
 | QooApp | 8.3.3 | 🟩 ||
 | Reddit | | 🟩 ||
