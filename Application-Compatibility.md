@@ -30,6 +30,7 @@
 | CPU-Z | 1.41 | 🟩 ||
 | Device Info HW | 5.4.1 | 🟩 ||
 | Discord | 98.6 | 🟩 ||
+| DMM Games Store | 2.8.0 | 🟥 | Requires Google Play Services |
 | Epic Seven | 1.0.406 | 🟨 | Low FPS, unable to sign in with Google, other functionality fine |
 | ES File Explorer | [4.2.1.8](https://www.apkmirror.com/apk/es-global/es-file-explorer/es-file-explorer-4-2-1-8-release/es-file-explorer-file-manager-4-2-1-8-android-apk-download) | 🟩 | Don't update. Turn off update from setting |
 | Excel | 16.0.14527.20162 | 🟩 | Might require microG |
