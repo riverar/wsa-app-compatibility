@@ -102,7 +102,7 @@
 | OsmAnd~ | 3.9.10 | 🟩 ||
 | Outlook | 4.2138.0 | 🟨 || Cannot activate device administrator with Outlook, which prevents activation. | 
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | Battle experience is terrible, cannot sync with Google Play Games |
-| Pokémon Masters EX | 2.13.0 | 🟥 | Requires Google Play Services |
+| Pokémon Masters EX | [2.13.0](https://www.apkmirror.com/apk/dena-co-ltd/pokemon-masters/pokemon-masters-2-13-0-release/pokemon-masters-ex-2-13-0-android-apk-download/) | 🟥 | Requires Google Play Services |
 | Pokémon Unite | 1.2.1.2 | 🟨 | Battle experience is terrible, very low fps |
 | Pokémon GO | | 🟥 | Unable to authenticate |
 | PowerPoint | 16.0.14527.20162 | 🟩 | Might require microG |
@@ -119,7 +119,7 @@
 | SpeedTest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work (check [Disabled functionality](https://github.com/riverar/wsa-app-compatibility/wiki/Application-Compatibility#disabled-functionality)) |
 | Spotify | 8.6.70.1102 | 🟨 | App crashes on first boot, works second boot upwards |
 | Spotify Lite | 1.9.0.2883 | 🟩 ||
-| Standoff 2 | 0.16.6 | 🟨 | Battle experience is terrible, micro stuttering every few seconds |
+| Standoff 2 | [0.16.6](https://www.apkmirror.com/apk/axlebolt/standoff-2/standoff-2-0-16-6-release/) | 🟨 | Battle experience is terrible, micro stuttering every few seconds |
 | State of Survival | 1.13.40 | 🟩 ||
 | Steam | 2.3.13 | 🟩 ||
 | Steam Chat | 1.0 | 🟩 ||
