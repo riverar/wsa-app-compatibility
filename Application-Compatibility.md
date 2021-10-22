@@ -26,6 +26,7 @@
 | 23andMe | 5.114.0 | 🟩 |||
 | Aegis | 2.0.2 | 🟩 |||
 | AIMP | 3.10.1052 | 🟩 |||
+| AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
 | Amaze File Manager | [3.5.3](https://www.apkmirror.com/apk/team-amaze/amaze-file-manager/amaze-file-manager-3-5-3-release/) | 🟩 | Don't update the version ||
 | Arknights | 5.0.01 | 🟨 | Can't login using Google Account |Other functionality fine|
 | Aurora Store | 4.0.7 | 🟩 |||
