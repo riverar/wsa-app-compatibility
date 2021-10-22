@@ -19,7 +19,7 @@
 | AIMP | 3.10.1052 | 🟩 ||
 | Arknights | 5.0.01 | 🟨 | Can't login using Google Account, other functionality fine |
 | Aurora Store | 4.0.7 | 🟩 ||
-| Aptoide App Store | [9.20.2.1](hhttps://aptoide.en.aptoide.com/app) | 🟨 | Download stuck sometimes |
+| Aptoide App Store | [9.20.2.1](https://aptoide.en.aptoide.com/app) | 🟨 | Download stuck sometimes |
 | Apple Music | 3.7.1 | 🟩 ||
 | Authenticator by Microsoft | 6.2110.6737 |🟨| Requires Google Play Services |
 | Azur Lane | 6.0.1 | 🟩 ||
