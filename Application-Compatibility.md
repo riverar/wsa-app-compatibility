@@ -50,7 +50,8 @@
 | Fortnite Installer | 4.1.4 | 🟥 | Device not supported error |
 | Fortnite | 14.10.0 | 🟥 | Crashes at login screen |
 | Fruit Ninja | 3.3.4 | 🟩 | Version check error, other functionality fine |
-| Genshin Impact | 2.2.0 | 🟥 | App crashes |
+| Genshin Impact | 2.2.0 | 🟨 | Working but heavy graphic glitches |
+| Genshin Impact (Cloud app) | ? | 🟩 | Works |
 | Geekbench |5.4.1| 🟩 |  |
 | Google Chrome | 94.0.4606.85 | 🟩 | microG and correct architecture is required |
 | Guardian Tales | 2.23.2 | 🟥 | Requires Google Play Services |
