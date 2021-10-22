@@ -65,7 +65,7 @@
 | Hobi | 2.1.7 | 🟥 | Requires Google Play Services |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 |Game do have built in keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | 🟨 | Terrible graphics quality |
-| Huawei AppGallery  | | 🟩 | sometimes crashes but works fine for installing app. |
+| Huawei AppGallery  | [11.4.2.300](https://www.apkmirror.com/apk/huawei/huawei-appgallery/huawei-appgallery-11-4-2-300-release/) | 🟩 | sometimes crashes but works fine for installing app. |
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | Instagram | 210.0.0.28.71 | 🟩 ||
 | Jetpack Joyride | 1.52.1 (58461800) | 🟨 | Google Play Games sync doesn't work, other functionality fine |
