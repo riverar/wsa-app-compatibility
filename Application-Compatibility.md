@@ -118,5 +118,6 @@
 | YouTube Music (Google) | 4.49.51 | 🟥 | Requires Google Play Services |
 | Youtube Vanced | 16.29.39 | 🟨 | Picture-in-picture doesn't work & Can't join channel membership |
 | YouTube Music Vanced | 43.9.50 | 🟩 ||
+| Zenly (Withous Google Services) | 🟨 | App crashes after login, but background location works | 
 
 
