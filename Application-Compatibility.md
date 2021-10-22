@@ -27,10 +27,10 @@
 | Aegis | 2.0.2 | 🟩 |||
 | AIMP | 3.10.1052 | 🟩 |||
 | AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
-| Amaze File Manager | [3.5.3](https://www.apkmirror.com/apk/team-amaze/amaze-file-manager/amaze-file-manager-3-5-3-release/) | 🟩 | Don't update the version ||
+| Amaze File Manager | [3.5.3](https://www.apkmirror.com/apk/team-amaze/amaze-file-manager/amaze-file-manager-3-5-3-release/) | 🟩 | | Don't update the version ||
 | Arknights | 5.0.01 | 🟨 | Can't login using Google Account |Other functionality fine|
 | Aurora Store | 4.0.7 | 🟩 |||
-| Aptoide App Store | [9.20.2.1](https://aptoide.en.aptoide.com/app) | 🟨 | Download stuck sometimes ||
+| Aptoide App Store | [9.20.2.1](https://aptoide.en.aptoide.com/app) | 🟩 | | Download stuck sometimes |
 | Apple Music | 3.7.1 | 🟩 |||
 | App分享 (AppShare) | 2.1.1 (164) | 🟥 | Can't Login ||
 | Authenticator by Microsoft | 6.2110.6737 |🟨| Requires Google Play Services ||
@@ -114,7 +114,7 @@
 | Relay | 10.0.378 | 🟩 ||
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 🟩 ||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies | Optionally requires Google Play Services |
-| Sky: Children of the Light | 0.15.1 | 🟥 | Game doesn't start, it reports OpenGLES 3.1, Vulkan 1.0.3 and Vulkan level 0 all missing |
+| Sky: Children of the Light | 0.15.1 | 🟥 | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing |
 | Snapchat | | 🟨 | Camera view is flipped | Optionally requires Google Play Services | 
 | SpeedTest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work (check [Disabled functionality](https://github.com/riverar/wsa-app-compatibility/wiki/Application-Compatibility#disabled-functionality)) |
 | Spotify | 8.6.70.1102 | 🟨 | App crashes on first boot, works second boot upwards |
