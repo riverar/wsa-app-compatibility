@@ -76,7 +76,7 @@
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | App crashes
 | League of Legends: Wild Rift | | 🟩 |  |
 | Magic Tiles 3 | 8.086.201 | 🟩 ||
-| Magisk | 23.0 | 🟥 | App crashes |
+| Magisk | Internal build? | 🟩 | [Magisk developer confirmed able to gain root access](https://twitter.com/topjohnwu/status/1451282578514735131) |
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Unable to Load Websites |
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable to verify game owner |
 | Minecraft (China Edition) |  | 🟩 |  |
