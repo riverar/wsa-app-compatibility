@@ -15,7 +15,7 @@
 
 * VPN request doesn't popup because there is no `com.android.externalstorage` in WSA. However, it's possible to grant permission with AppOps in `adb shell`:
     ```shell
-    appops set com.github.kr328.clash  ACTIVATE_VPN allow
+    appops set [package name] ACTIVATE_VPN allow
     ```
 
 ## Legend
