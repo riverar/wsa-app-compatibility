@@ -98,7 +98,7 @@
 | Minecraft (China Edition) |  | 🟩 |  |
 | MiX | 6.57.0-Beta_B21070510 | 🟩 ||
 | MT File Manager | 2.10.0 | 🟩 | Can Be used To Access Storage |
-| 米游社 (mihoyo Chinese Community) | version 2.14.1 | 🟨 | Performance issue while inserting a photo into a new post |
+| 米游社 (mihoyo Chinese Community) | 2.14.1 | 🟨 | Performance issue while inserting a photo into a new post |
 | Nekogram X | 8.1.2-1-rc01 | 🟩 |  |Use NoGcm variant|
 | Netflix (Aurora Store) | 8.4.0 | 🟥 | Device not supported |
 | NFL | 56.1.7 | 🟥 | Crashes on launch |
@@ -123,6 +123,7 @@
 | Relay | 10.0.378 | 🟩 ||
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 🟩 ||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies | Optionally requires Google Play Services |
+| Shizuku | 12.3.0.r668.5687d0c | 🟩 | Works well with Wireless ADB |
 | Sky: Children of the Light | 0.15.1 | 🟥 | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing |
 | Snapchat | | 🟨 | Camera view is flipped | Optionally requires Google Play Services | 
 | SpeedTest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work (check [Disabled functionality](https://github.com/riverar/wsa-app-compatibility/wiki/Application-Compatibility#disabled-functionality)) |
