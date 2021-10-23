@@ -13,7 +13,7 @@
 | OpenGL ES 3.1 | | | Sky: Children of the Light
 | Vulkan | | | Sky: Children of the Light
 
-* VPN request doesn't popup because there is no `com.android.externalstorage` in WSA. However, it's possible to grant permission with AppOps in `adb shell`:
+* VPN request doesn't popup because there is no `com.android.vpndialogs` in WSA. However, it's possible to grant permission with AppOps in `adb shell`:
     ```shell
     appops set [package name] ACTIVATE_VPN allow
     ```
