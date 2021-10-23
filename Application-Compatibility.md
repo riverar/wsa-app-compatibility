@@ -2,7 +2,7 @@
 
 | Type  | Apps tested with
 | -------------|-----------------
-| Multi-touch | [Arcaea](https://www.bilibili.com/video/BV1Ph411n7M5)
+| Multi-touch | [Arcaea](https://www.bilibili.com/video/BV1Ph411n7M5) [Antutu]
 | Virtual Wifi (VirtWifi) |
 
 ## Disabled / missing functionality
