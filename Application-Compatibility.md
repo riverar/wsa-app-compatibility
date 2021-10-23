@@ -127,6 +127,7 @@
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies | Optionally requires Google Play Services |
 | Shizuku | 12.3.0.r668.5687d0c | 🟩 | Works well with Wireless ADB |
 | Sky: Children of the Light | 0.15.1 | 🟥 | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing |
+| Smart Life | 3.32.5 | 🟥 | Constant flashing between light/dark mode, constant moving agreement pop-up that can't be accepted |
 | Snapchat | | 🟨 | Camera view is flipped | Optionally requires Google Play Services | 
 | SpeedTest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work (check [Disabled functionality](https://github.com/riverar/wsa-app-compatibility/wiki/Application-Compatibility#disabled-functionality)) |
 | Spotify | 8.6.70.1102 | 🟨 | App crashes on first boot, works second boot upwards |
