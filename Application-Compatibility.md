@@ -70,6 +70,7 @@
 | Fortnite Installer | 4.1.4 | 🟥 | Device not supported error |
 | Fortnite | 14.10.0 | 🟥 | Crashes at login screen |
 | Fruit Ninja | 3.3.4 | 🟩 | Version check error | Other functionality fine|
+| Game Pass | 2110.17.1005 | 🟩 | | Complains about Google Play Services missing but after dismissing a few times app works fully. Cloud games can be launched but controlling them with controller or touch has not been tested.|
 | Genshin Impact | 2.2.0 | 🟨 | [Working but heavy graphic glitches](https://www.bilibili.com/video/BV1zT4y1o73D?) |
 | Genshin Impact (Cloud app) |  | 🟩 | | Works |
 | Geekbench |5.4.1| 🟩 |  |
