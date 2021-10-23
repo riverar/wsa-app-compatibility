@@ -95,6 +95,7 @@
 | Magisk | Internal build? | 🟩 |  |[Magisk developer confirmed able to gain root access](https://twitter.com/topjohnwu/status/1451282578514735131)| 
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Unable to Load Websites |
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable to verify game owner |
+| Minecraft (Play Store) | 1.18.0.23 | 🟩 |  |
 | Minecraft (China Edition) |  | 🟩 |  |
 | MiX | 6.57.0-Beta_B21070510 | 🟩 ||
 | MT File Manager | 2.10.0 | 🟩 | Can Be used To Access Storage |
