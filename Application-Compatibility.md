@@ -9,9 +9,14 @@
 
 | Type | Expected behavior | Actual behavior | Apps tested with
 | -------------|-------------------|-----------------|-----------------
-| VPN | Android's **VPN Connection request** asking for app's access to VPN | **VPN Connection request** popup does not appear | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) and [1.1.1.1](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
+| VPN | Android's **VPN Connection request** asking for app's access to VPN | **VPN Connection request** popup does not appear\* | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) and [1.1.1.1](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
 | OpenGL ES 3.1 | | | Sky: Children of the Light
 | Vulkan | | | Sky: Children of the Light
+
+* VPN request doesn't popup because there is no `com.android.externalstorage` in WSA. However, it's possible to grant permission with AppOps in `adb shell`:
+    ```shell
+    appops set com.github.kr328.clash  ACTIVATE_VPN allow
+    ```
 
 ## Legend
 
