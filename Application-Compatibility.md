@@ -98,6 +98,7 @@
 | Minecraft (China Edition) |  | 🟩 |  |
 | MiX | 6.57.0-Beta_B21070510 | 🟩 ||
 | MT File Manager | 2.10.0 | 🟩 | Can Be used To Access Storage |
+| 米游社 (mihoyo Chinese Community) | version 2.14.1 | 🟨 | Performance issue while inserting a photo into a new post |
 | Nekogram X | 8.1.2-1-rc01 | 🟩 |  |Use NoGcm variant|
 | Netflix (Aurora Store) | 8.4.0 | 🟥 | Device not supported |
 | NFL | 56.1.7 | 🟥 | Crashes on launch |
