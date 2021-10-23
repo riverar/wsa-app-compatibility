@@ -136,6 +136,7 @@
 | Steam Link | 1.1.81 | 🟥 | App crashes |
 | Tachiyomi | 0.12.3 | 🟩 ||
 | TeamViewer | 15.22.136 | 🟩 ||
+| Termux | 0.117 | 🟨 | `packages.termux.org` mirror is the only one that works | No Further issues (yet) |
 | TikTok (China) | 18.1.0 | 🟥 | App crashes |
 | TikTok (Global) | 21.6.4 | 🟨 | Error when trying to log in, can use app by creating new account |
 | TikTok (TV Version) | 1.6.0 | 🟥 | App crashes
