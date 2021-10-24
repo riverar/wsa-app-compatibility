@@ -116,6 +116,7 @@
 | Pokémon Masters EX | [2.13.0](https://www.apkmirror.com/apk/dena-co-ltd/pokemon-masters/pokemon-masters-2-13-0-release/pokemon-masters-ex-2-13-0-android-apk-download/) | 🟥 | Requires Google Play Services |
 | Pokémon Unite | 1.2.1.2 | 🟨 | Battle experience is terrible, very low fps |
 | Pokémon GO | | 🟥 | Unable to authenticate |
+| Pou | 1.4.84 | 🟩 ||
 | PowerPoint | 16.0.14527.20162 | 🟩 | Might require microG |
 | Phigros |  | 🟩 |  |
 | 战双帕弥什 (Punishing: Gray Raven) |  | 🟩 |  |Full keyboard support|
