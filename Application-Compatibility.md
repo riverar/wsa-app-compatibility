@@ -155,6 +155,7 @@
 | UC Browser | [13.0.0.1288 (x86)](https://www.apkmirror.com/apk/ucweb-singapore-pte-ltd/uc-browser/uc-browser-13-0-0-1288-release/uc-browser-free-fast-video-downloader-news-app-13-0-0-1288-2-android-apk-download) | 🟩 |  |Don't update to letest version. |
 | Vanced Manager | 2.6.2 (Crimson) | 🟩 |  |Needs required permissions|
 | Vanced MicroG | 0.2.22.212658 | 🟨 | microG Google sign-in method does not work |Use Huawei sign-in method to sign in to Google account|
+| Via Browser | 4.3.1 | 🟩 ||
 | VLC | 3.4.0 | 🟩 ||
 | VK | 6.58 | 🟩 ||
 | Warden | 1.0.3.release | 🟨 | App screen flashes otherwise functionality-wise its normal |
