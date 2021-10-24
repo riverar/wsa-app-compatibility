@@ -1,30 +1,42 @@
-## Working functionality
+## Contributing
 
-| Type  | Apps tested with
-| -------------|-----------------
-| Multi-touch | [Arcaea](https://www.bilibili.com/video/BV1Ph411n7M5) Antutu
-| Virtual Wifi (VirtWifi) |
+Thanks for your interest in contributing! Doing so is simple. Just 
+[edit this page](https://github.com/riverar/wsa-app-compatibility/edit/master/README.md)
+and submit a pull request (PR) with your changes. Then someone will review it and merge
+it in as soon as possible.
 
-## Disabled / missing functionality
+When editing the Markdown, please keep these rules in mind:
 
-| Type | Expected behavior | Actual behavior | Apps tested with
-| -------------|-------------------|-----------------|-----------------
-| VPN | Android's **VPN Connection request** asking for app's access to VPN | **VPN Connection request** popup does not appear\* | [TrackerControl](https://github.com/OxfordHCC/tracker-control-android) and [1.1.1.1](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
-| OpenGL ES 3.1 | | | Sky: Children of the Light
-| Vulkan | | | Sky: Children of the Light
-
-* VPN request doesn't popup because there is no `com.android.vpndialogs` in WSA. However, it's possible to grant permission with AppOps in `adb shell`:
-    ```shell
-    appops set [package name] ACTIVATE_VPN allow
-    ```
+1. Please do not link to any APKs.
 
 ## Legend
 
-🟩 Works  
-🟨 Works, but with some notable problems  
-🟥 Broken  
+This page currently uses Unicode characters from the Geometric Shapes Extended block introduced in Unicode 12 (2019). If you are unable to see these characters (multi-colored squares), please open an issue.
 
-## Support table
+🟩 Works
+🟨 Works, but with some notable problems
+🟥 Broken
+
+## Support table (OS features)
+
+| Feature | Support level | Notes |
+|---|---|---|
+| Multi-touch | 🟩 | Demo: [Arcaea](https://www.bilibili.com/video/BV1Ph411n7M5) |
+| Virtual Wifi (VirtWifi) | 🟩 |  |
+| VPN | 🟥 | VPN Connection request dialog does not appear. |
+| OpenGL ES 3.1 | 🟥 | |
+| Vulkan | 🟥 | |
+
+### Workarounds
+
+#### VPN
+There is no `com.android.vpndialogs` in WSA. However, it's possible to manually grant the VPN activation permission with AppOps via `adb shell`:
+
+```shell
+appops set [package name] ACTIVATE_VPN allow
+```
+
+## Support table (applications)
 
 | Application    | Latest tested version | Support level | Known Issues| Notes |
 |----------------|-----------------------|---------------|---------------|-----|
@@ -32,7 +44,7 @@
 | Aegis | 2.0.2 | 🟩 |||
 | AIMP | 3.10.1052 | 🟩 |||
 | AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
-| Amaze File Manager | [3.5.3](https://www.apkmirror.com/apk/team-amaze/amaze-file-manager/amaze-file-manager-3-5-3-release/) | 🟩 | | Don't update the version ||
+| Amaze File Manager | 3.5.3 | 🟩 | | Don't update the version ||
 | Arknights | 5.0.01 | 🟨 | Can't login using Google Account |Other functionality fine|
 | Aurora Store | 4.0.7 | 🟩 |||
 | APKPure | 3.17.26 | 🟩 | Sometimes requires multiple attempts to install an app | Make sure you allow installations from unknown sources when prompted
@@ -59,14 +71,14 @@
 | Дурак Онлайн (Durak Online) | 1.9.2 | 🟥 | Requires Google Play Services ||
 | DMM Games Store | 2.8.0 | 🟥 | Requires Google Play Services ||
 | Epic Seven | 1.0.406 | 🟨 | Low FPS, unable to sign in with Google | Other functionality fine|
-| ES File Explorer | [4.2.1.8](https://www.apkmirror.com/apk/es-global/es-file-explorer/es-file-explorer-4-2-1-8-release/es-file-explorer-file-manager-4-2-1-8-android-apk-download) | 🟩 | |Don't update. Turn off update from setting|
+| ES File Explorer | 4.2.1.8 | 🟩 | |Don't update. Turn off update from setting|
 | Excel | 16.0.14527.20162 | 🟩 ||Does not require microG|
 | F1 TV| 2.0.5 | 🟨 | Crashes while watching a video, screen flashes|
 | FAST Speed Test | 1.0.8 (88) | 🟩 |||
 | F-Droid | 1.13.1 | 🟩 ||
 | Firefox | 93.2.0 (2015839751) | 🟩 ||
 | Firefox Nightly | 95.0a1 | 🟩 ||
-| Facebook Messenger | [330.0.0.12.116 (x86_64)](https://www.apkmirror.com/apk/facebook-2/messenger/messenger-330-0-0-12-116-release/facebook-messenger-text-and-video-chat-for-free-330-0-0-12-116-31-android-apk-download) | 🟨 | Chat Heads doesn't work |
+| Facebook Messenger | 330.0.0.12.116 (x86_64) | 🟨 | Chat Heads doesn't work |
 | Fortnite Installer | 4.1.4 | 🟥 | Device not supported error |
 | Fortnite | 14.10.0 | 🟥 | Crashes at login screen |
 | Fruit Ninja | 3.3.4 | 🟩 | Version check error | Other functionality fine|
@@ -81,7 +93,7 @@
 | Hobi | 2.1.7 | 🟥 | Requires Google Play Services |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 | | Game do have built in keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | 🟨 | Terrible graphics quality |
-| Huawei AppGallery  | [11.4.2.300](https://www.apkmirror.com/apk/huawei/huawei-appgallery/huawei-appgallery-11-4-2-300-release/) | 🟩 |sometimes crashes| search install uninstall functionality is fine |
+| Huawei AppGallery  | 11.4.2.300 | 🟩 |sometimes crashes| search install uninstall functionality is fine |
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | Instagram | 210.0.0.28.71 | 🟩 ||
 | Jetpack Joyride | 1.52.1 (58461800) | 🟨 | Google Play Games sync doesn't work, other functionality fine |
@@ -109,13 +121,13 @@
 | NieR Re[in]carnation | 1.7.1 | 🟥 | Unable to go past the loading screen after the title screen, gets stuck at 60% |
 | Nova Launcher | 7.0.49 (7049) | 🟨 | UI is messy, app drawer fine |
 | Office | 16.0.14527.20162 | 🟩 |  |Might require microG| 
-| Opera Browser Beta | [65.1.3381.61349 (x86_64)](https://www.apkmirror.com/apk/opera-software-asa/opera-beta/opera-beta-65-1-3381-61349-release/opera-browser-beta-65-1-3381-61349-4-android-apk-download) | 🟩 |  | Change app layout to Tablet Mode for better experience|
+| Opera Browser Beta | 65.1.3381.61349 (x86_64) | 🟩 |  | Change app layout to Tablet Mode for better experience|
 | Oppo App Store (China) | 8.6.4 Beta 1 | 🟥 | App freezes on blank screen at launch |
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | 🟩 | |
 | OsmAnd~ | 3.9.10 | 🟩 ||
 | Outlook | 4.2138.0 | 🟨 || Cannot activate device administrator with Outlook, which prevents activation. | 
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | Battle experience is terrible, cannot sync with Google Play Games |
-| Pokémon Masters EX | [2.13.0](https://www.apkmirror.com/apk/dena-co-ltd/pokemon-masters/pokemon-masters-2-13-0-release/pokemon-masters-ex-2-13-0-android-apk-download/) | 🟥 | Requires Google Play Services |
+| Pokémon Masters EX | 2.13.0 | 🟥 | Requires Google Play Services |
 | Pokémon Unite | 1.2.1.2 | 🟨 | Battle experience is terrible, very low fps |
 | Pokémon GO | | 🟥 | Unable to authenticate |
 | Pou | 1.4.84 | 🟩 ||
@@ -132,10 +144,10 @@
 | Sky: Children of the Light | 0.15.1 | 🟥 | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing |
 | Smart Life | 3.32.5 | 🟥 | Constant flashing between light/dark mode, constant moving agreement pop-up that can't be accepted |
 | Snapchat | | 🟨 | Camera view is flipped | Optionally requires Google Play Services | 
-| SpeedTest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work (check [Disabled functionality](https://github.com/riverar/wsa-app-compatibility/wiki/Application-Compatibility#disabled-functionality)) |
+| SpeedTest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work |
 | Spotify | 8.6.70.1102 | 🟨 | App crashes on first boot, works second boot upwards |
 | Spotify Lite | 1.9.0.2883 | 🟩 ||
-| Standoff 2 | [0.16.6](https://www.apkmirror.com/apk/axlebolt/standoff-2/standoff-2-0-16-6-release/) | 🟨 | Battle experience is terrible, micro stuttering every few seconds |
+| Standoff 2 | 0.16.6 | 🟨 | Battle experience is terrible, micro stuttering every few seconds |
 | Stardew Valley | 1.4.5.151 | 🟩 ||
 | State of Survival | 1.13.40 | 🟩 ||
 | Steam | 2.3.13 | 🟩 ||
@@ -149,10 +161,10 @@
 | TikTok (TV Version) | 1.6.0 | 🟥 | App crashes
 | TikTok Lite | 21.7.1 | 🟥 | App crashes
 | Telegram | 8.1.2 | 🟩 ||
-| Twitter | [9.16.1-release.00](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-16-1-release-00-release/twitter-9-16-1-release-00-android-apk-download) | 🟩 | Optionally requires Google Play Services |
+| Twitter | 9.16.1-release.00 | 🟩 | Optionally requires Google Play Services |
 | The King Of Fighters Allstar | 1.9.3 | 🟩 | Blank screen / app crash on first boot, works on second boot upwards |
 | TP-Link Tapo | 2.4.25 | 🟩 ||
-| UC Browser | [13.0.0.1288 (x86)](https://www.apkmirror.com/apk/ucweb-singapore-pte-ltd/uc-browser/uc-browser-13-0-0-1288-release/uc-browser-free-fast-video-downloader-news-app-13-0-0-1288-2-android-apk-download) | 🟩 |  |Don't update to letest version. |
+| UC Browser | 13.0.0.1288 (x86) | 🟩 |  |Don't update to letest version. |
 | Vanced Manager | 2.6.2 (Crimson) | 🟩 |  |Needs required permissions|
 | Vanced MicroG | 0.2.22.212658 | 🟨 | microG Google sign-in method does not work |Use Huawei sign-in method to sign in to Google account|
 | Via Browser | 4.3.1 | 🟩 ||
