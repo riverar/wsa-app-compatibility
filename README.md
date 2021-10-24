@@ -13,11 +13,9 @@ When editing the Markdown, please keep these rules in mind:
 
 This page currently uses Unicode characters from the Geometric Shapes Extended block introduced in Unicode 12 (2019). If you are unable to see these characters (multi-colored squares), please open an issue.
 
-<ul style="list-style-type: none; padding: 0;">
-<li>🟩 Works</li>
-<li>🟨 Works, but with some notable problems</li>
-<li>🟥 Broken</li>
-</ul>
+- 🟩 Works
+- 🟨 Works, but with some notable problems
+- 🟥 Broken
 
 ## Support table (OS features)
 
