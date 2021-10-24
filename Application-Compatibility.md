@@ -100,6 +100,7 @@
 | Minecraft (China Edition) |  | 🟩 |  |
 | MiX | 6.57.0-Beta_B21070510 | 🟩 ||
 | MT File Manager | 2.10.0 | 🟩 | Can Be used To Access Storage |
+| Muslim Pro | 1.2.3 | 🟥 | Requires Google Play Services |
 | 米游社 (mihoyo Chinese Community) | 2.14.1 | 🟨 | Performance issue while inserting a photo into a new post |
 | Nekogram X | 8.1.2-1-rc01 | 🟩 |  |Use NoGcm variant|
 | Netflix (Aurora Store) | 8.4.0 | 🟥 | Device not supported |
