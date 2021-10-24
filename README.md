@@ -29,7 +29,7 @@ This page currently uses Unicode characters from the Geometric Shapes Extended b
 | OpenGL ES 3.1 | 🟥 | |
 | Vulkan | 🟥 | |
 
-### Workarounds (OS features)
+### Workarounds
 
 #### VPN
 There is no `com.android.vpndialogs` in WSA. However, it's possible to manually grant the VPN activation permission with AppOps via `adb shell`:
