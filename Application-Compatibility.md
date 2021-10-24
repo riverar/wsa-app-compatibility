@@ -133,6 +133,7 @@
 | Spotify | 8.6.70.1102 | 🟨 | App crashes on first boot, works second boot upwards |
 | Spotify Lite | 1.9.0.2883 | 🟩 ||
 | Standoff 2 | [0.16.6](https://www.apkmirror.com/apk/axlebolt/standoff-2/standoff-2-0-16-6-release/) | 🟨 | Battle experience is terrible, micro stuttering every few seconds |
+| Stardew Valley | 1.4.5.151 | 🟩 ||
 | State of Survival | 1.13.40 | 🟩 ||
 | Steam | 2.3.13 | 🟩 ||
 | Steam Chat | 1.0 | 🟩 ||
