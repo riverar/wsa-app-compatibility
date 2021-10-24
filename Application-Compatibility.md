@@ -95,6 +95,7 @@
 | Magic Tiles 3 | 8.086.201 | 🟩 ||
 | Magisk | Internal build? | 🟩 |  |[Magisk developer confirmed able to gain root access](https://twitter.com/topjohnwu/status/1451282578514735131)| 
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Unable to Load Websites |
+| Microsoft Launcher | 6.210602.1.994630 | 🟩 ||
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable to verify game owner |
 | Minecraft (Play Store) | 1.18.0.23 | 🟩 |  |
 | Minecraft (China Edition) |  | 🟩 |  |
