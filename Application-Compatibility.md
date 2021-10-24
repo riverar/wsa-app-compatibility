@@ -1,3 +1,7 @@
+## We're moving! (as of October 24, 2021, 11:19AM Pacific)
+Due to its size, the wiki is moving to [master](https://github.com/riverar/wsa-app-compatibility). The wiki will be locked until that work is complete (shortly). [Hold on to your butts!](https://www.youtube.com/watch?v=HKK4KmDlj8U)
+
+
 ## Working functionality
 
 | Type  | Apps tested with
