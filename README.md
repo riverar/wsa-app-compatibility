@@ -142,6 +142,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Relay | 10.0.378 | 🟩 |||
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 🟩|||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies | GMS warnings might appear but these can be safely ignored |
+| Rootless Launcher | 3.9.1 | 🟥 | Crash on launch |
 | Shizuku | 12.3.0.r668.5687d0c | 🟩 | Works well with Wireless debugging |
 | Sky: Children of the Light | 0.15.1 | 🟥 | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing ||
 | Smart Life | 3.32.5 | 🟥 | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted ||
