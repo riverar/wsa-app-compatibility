@@ -82,6 +82,7 @@ appops set [package name] ACTIVATE_VPN allow
 | FAST Speed Test | 1.0.8 (88) | 🟩 |||
 | Fancade | 1.7.6 | 🟥 | Opens and then crashes||
 | F-Droid | 1.13.1 | 🟩 ||
+| Fire Emblem Heroes | 5.10.0 | 🟥 | Requires GMS ||
 | Firefox | 93.2.0 (2015839751) | 🟩 ||
 | Firefox Nightly | 95.0a1 | 🟩 ||
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | 🟨 | Chat Heads don't work |
