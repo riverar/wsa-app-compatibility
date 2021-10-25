@@ -43,6 +43,7 @@ appops set [package name] ACTIVATE_VPN allow
 |----------------|-----------------------|---------------|---------------|-----|
 | 23andMe | 5.114.0 | 🟩 |||
 | Aegis | 2.0.2 | 🟩 |||
+| AFK Arena | 1.72.01 | 🟨 | Can't login using Google account ||
 | AIMP | 3.10.1052 | 🟩 |||
 | AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
 | Amaze File Manager | 3.5.3 | 🟩 | | Avoid updating the app ||
