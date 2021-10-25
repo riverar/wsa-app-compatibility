@@ -65,6 +65,8 @@ appops set [package name] ACTIVATE_VPN allow
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 |||
 | Canvas Student | 6.14.1 | 🟩 |||
 | CarX Highway Racing | 1.17.1 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
+| Clash of Clans | 14.211.3 | 🟥 | Crashes on Startup ||
+| CLash Royale | 3.6.1 |🟥 | Crashes on Startup ||
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires GMS ||
 | Clouds & Sheep 2 | 1.4.6 | 🟩 | Optionally requires GMS ||
 | 酷安 (CoolApk) | 11.4.3 | 🟨 | Unable to sign in using third party apps ||
