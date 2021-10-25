@@ -48,6 +48,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Amaze File Manager | 3.5.3 | 🟩 | | Avoid updating the app ||
 | Arknights | 5.0.01 | 🟨 | Can't login using Google account ||
 | Aurora Store | 4.0.7 | 🟩 |||
+| Audible | 3.15.0 | 🟩 |||
 | APKPure | 3.17.26 | 🟩 | Sometimes, it might require multiple attempts to install an app ||
 | Aptoide App Store | 9.20.2.1 | 🟩 | Sometimes, downloads might get stuck ||
 | Apple Music | 3.7.1 | 🟩 |||
