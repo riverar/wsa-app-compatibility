@@ -42,6 +42,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Application    | Latest tested version | Support level | Known Issues| Notes |
 |----------------|-----------------------|---------------|---------------|-----|
 | 23andMe | 5.114.0 | 🟩 |||
+| A+ Gallery | 2.2.55.4 | 🟩 || Graphic glitch when using dark theme, use white theme instead |
 | Aegis | 2.0.2 | 🟩 |||
 | AIMP | 3.10.1052 | 🟩 |||
 | AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
@@ -63,6 +64,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Canvas Student | 6.14.1 | 🟩 |||
 | CarX Highway Racing | 1.17.1 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires GMS ||
+| Clouds & Sheep 2 | 1.4.6 | 🟩 | Optionally requires GMS ||
 | 酷安 (CoolApk) | 11.4.3 | 🟨 | Unable to sign in using third party apps ||
 | 创建快捷方式 (Create Shortcut) | 1.17 | 🟩 | | Can be used to access any app |
 | CPU-Z | 1.41 | 🟩 |||
@@ -107,7 +109,8 @@ appops set [package name] ACTIVATE_VPN allow
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | App crashes ||
 | League of Legends: Wild Rift | | 🟩 ||
 | Magic Tiles 3 | 8.086.201 | 🟩 ||
-| Magisk | Internal build? | 🟩 || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131) | 
+| Magisk | Internal build? | 🟩 || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131) |
+| Material Files | 1.3.1 | 🟩 ||
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Fails to load websites ||
 | Microsoft Launcher | 6.210602.1.994630 | 🟩 ||
 | Minecraft (Aurora Store) | 1.17.40.06 | 🟥 | Unable to verify game owner ||
@@ -145,8 +148,10 @@ appops set [package name] ACTIVATE_VPN allow
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies | GMS warnings might appear but these can be safely ignored |
 | Rootless Launcher | 3.9.1 | 🟥 | Crash on launch |
 | Shizuku | 12.3.0.r668.5687d0c | 🟩 | Works well with Wireless debugging |
+| Simple Gallery | 5.3.9 | 🟥 | Crash when shows a photo ||
 | Sky: Children of the Light | 0.15.1 | 🟥 | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing ||
 | Smart Life | 3.32.5 | 🟥 | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted ||
+| Smart Launcher | 5.5 Build 052 | 🟩 ||
 | Snapchat | | 🟨 | Camera view is flipped | GMS warnings might appear but these can be safely ignored | 
 | Speedtest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work ||
 | Spotify | 8.6.70.1102 | 🟨 | The app crashes on first launch, but works upwards second launch |
