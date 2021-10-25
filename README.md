@@ -76,6 +76,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Excel | 16.0.14527.20162 | 🟩 |||
 | F1 TV| 2.0.5 | 🟨 | Terrible app experience including screen flashes and crashes while watching a video |
 | FAST Speed Test | 1.0.8 (88) | 🟩 |||
+| Fancade | 1.7.6 | 🟥 | Opens and then crashes||
 | F-Droid | 1.13.1 | 🟩 ||
 | Firefox | 93.2.0 (2015839751) | 🟩 ||
 | Firefox Nightly | 95.0a1 | 🟩 ||
