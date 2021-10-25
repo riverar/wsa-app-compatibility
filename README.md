@@ -169,6 +169,7 @@ appops set [package name] ACTIVATE_VPN allow
 | The King Of Fighters Allstar | 1.9.3 | 🟩 | Blank screen / app crash on first boot, works on second boot upwards |
 | TP-Link Tapo | 2.4.25 | 🟩 ||
 | UC Browser | 13.0.0.1288 (x86) | 🟩 || Avoid updating the app |
+| v2rayNG | 1.6.23 | 🟥 || Avoid install the app |
 | Vanced Manager | 2.6.2 (Crimson) | 🟩 |||
 | Vanced MicroG | 0.2.22.212658 | 🟨 | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account ||
 | Via Browser | 4.3.1 | 🟩 ||
