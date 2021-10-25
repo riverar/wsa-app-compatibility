@@ -123,6 +123,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Nova Launcher | 7.0.49 (7049) | 🟨 | UI is messy, but app drawer is fine |
 | Office | 16.0.14527.20162 | 🟩 || Might require microG | 
 | Opera Browser Beta | 65.1.3381.61349 (x86_64) | 🟩 || Change app layout to Tablet Mode for a better experience |
+| Opera GX : Gaming Browser | 1.3.6 | 🟩 |||
 | Oppo App Store (China) | 8.6.4 Beta 1 | 🟥 | App freezes on blank screen ||
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | 🟩 |||
 | OsmAnd~ | 3.9.10 | 🟩 |||
