@@ -89,6 +89,7 @@ appops set [package name] ACTIVATE_VPN allow
 | ES File Explorer | 4.2.1.8 | 🟩 | | Avoid updating the app |
 | Excel | 16.0.14527.20162 | 🟩 |||
 | F1 TV| 2.0.5 | 🟨 | Terrible app experience including screen flashes and crashes while watching a video |
+| Formula 1 | 11.0.1449 | 🟩 | |
 | FAST Speed Test | 1.0.8 (88) | 🟩 |||
 | Fancade | 1.7.6 | 🟥 | Opens and then crashes||
 | F-Droid | 1.13.1 | 🟩 ||
