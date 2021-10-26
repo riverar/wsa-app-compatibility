@@ -61,6 +61,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Azur Lane | 6.0.1 | 🟩 |||
 | Bromite | 94.0.4606.94 |  🟩 |  | Use x64 build |
 | Brawl Stars | 38.159 | 🟥 | Game crashes ||
+| Brave Browser | 1.30.87 | 🟩 ||
 | Binance | 2.36.5 | 🟩 |||
 | 哔哩哔哩 (Bilibili) |  | 🟩 |||
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 |||
