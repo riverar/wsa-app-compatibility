@@ -46,6 +46,9 @@ appops set [package name] ACTIVATE_VPN allow
 | Aegis | 2.0.2 | 🟩 |||
 | AFK Arena | 1.72.01 | 🟨 | Can't login using Google account || 
 | AIMP | 3.10.1052 | 🟩 |||
+| Alien: Blackout | 2.0 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
+| Alto's Adventure | 1.8.0 | 🟩 |||
+| Alto's Odyssey | 1.0.10 | 🟩 |||
 | AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
 | Amaze File Manager | 3.5.3 | 🟩 | | Avoid updating the app ||
 | APKMirror Installer (Beta) | 1.3.2 | 🟨 | Cannot remove ads without subscription | Subscription requires GPS; Random crashes |
@@ -61,6 +64,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Azur Lane | 6.0.1 | 🟩 |||
 | Bromite | 94.0.4606.94 |  🟩 |  | Use x64 build |
 | Brawl Stars | 38.159 | 🟥 | Game crashes ||
+| Brave Browser | 1.30.87 | 🟩 ||
 | Binance | 2.36.5 | 🟩 |||
 | 哔哩哔哩 (Bilibili) |  | 🟩 |||
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 |||
@@ -70,10 +74,12 @@ appops set [package name] ACTIVATE_VPN allow
 | Clash Royale | 3.6.1 |🟥 | Crashes on startup ||
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires GMS ||
 | Clouds & Sheep 2 | 1.4.6 | 🟩 | Optionally requires GMS ||
+| Clubhouse | 1.0.11 | 🟨 | Unable to login via phone number, it throws error after entering the OTP | |
 | 酷安 (CoolApk) | 11.4.3 | 🟨 | Unable to sign in using third party apps ||
 | 创建快捷方式 (Create Shortcut) | 1.17 | 🟩 | | Can be used to access any app |
 | Comixology | 3.10.18.310421 | 🟩 | | |
 | CPU-Z | 1.41 | 🟩 |||
+| Deus Ex GO | 2.1.111374 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
 | DevCheck | 3.39 | 🟥 | Blank screen on launch ||
 | Device Info HW | 5.4.1 | 🟩 |||
 | Discord | 98.6 | 🟩 |||
@@ -101,13 +107,16 @@ appops set [package name] ACTIVATE_VPN allow
 | Guardian Tales | 2.23.2 | 🟥 | Requires GMS ||
 | Grab | 5.172.200 from Huawei AppGallery | 🟩 ||
 | Grand Theft Auto: San Andreas |  | 🟩 ||
+| Hitman Sniper | 1.7.193827 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
 | Hobi | 2.1.7 | 🟥 | Requires GMS |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 | | Game has inbox keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | 🟨 | Poor graphics quality |
 | Huawei AppGallery  | 11.4.2.300 | 🟩 | Frequent crashes were experienced, otherwise the app functionality is fine ||
+| Hyper Square | 3.0.1 | 🟩 ||
 | iOS app (any) | | 🟥 | Thanks for testing, Brad. |
 | Instagram | 210.0.0.28.71 | 🟩 ||
 | Jetpack Joyride | 1.52.1 (58461800) | 🟨 | Google Play Games sync doesn't work, otherwise the game functionality is fine ||
+| Jet Car Stunts 2 | 1.0.13 | 🟥 | Loads up but orientation and menus are broken ||
 | Joey (Reddit client) | 2.0.0.1 | 🟩 ||
 | Joplin | 2.4.3 (2097651) | 🟩 ||
 | Kik | 7.10.1.176 (82)  | 🟩 ||
@@ -119,6 +128,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Magic Tiles 3 | 8.086.201 | 🟩 ||
 | Magisk | Internal build? | 🟩 || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131) |
 | MapleStory M | 1.7000.2835 | 🟥 |Crashes at loading screen||
+| Mario Kart Tour | 2.10.0 | 🟥 | Fails to connect to servers after Nintendo login ||
 | Material Files | 1.3.1 | 🟩 ||
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Fails to load websites ||
 | Microsoft Launcher | 6.210602.1.994630 | 🟩 ||
@@ -126,6 +136,8 @@ appops set [package name] ACTIVATE_VPN allow
 | Minecraft (Play Store) | 1.18.0.23 | 🟩 |||
 | Minecraft (China Edition) |  | 🟩 |||
 | MiX | 6.57.0-Beta_B21070510 | 🟩 |||
+| Monument Valley | 2.7.17 | 🟩 |||
+| Monument Valley 2 | 2.0.3 | 🟩 |||
 | MT File Manager | 2.10.0 | 🟩 |||
 | Muslim Pro | 1.2.3 | 🟥 | Requires GMS |
 | 米游社 (mihoyo Chinese Community) | 2.14.1 | 🟨 | The app might lag when inserting a photo into a new post |
@@ -140,9 +152,11 @@ appops set [package name] ACTIVATE_VPN allow
 | Opera GX : Gaming Browser | 1.3.6 | 🟩 |||
 | Oppo App Store (China) | 8.6.4 Beta 1 | 🟥 | App freezes on blank screen ||
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | 🟩 |||
+| Oreo: Twist, Lick, Dunk | 1.5.6 | 🟩 | Minor graphical glitches ||
 | OsmAnd~ | 3.9.10 | 🟩 |||
 | Oto Music Player | 3.0.2 | 🟩 || Requires relaunch to refresh list |
-| Outlook | 4.2138.0 | 🟨 | Cannot activate device administrator with Outlook, which prevents activation. || 
+| Outlook | 4.2138.0 | 🟨 | Cannot activate device administrator with Outlook, which prevents activation. ||
+| Pixel People | 4.7 | 🟩 | Changing window size breaks the game. Runs at low FPS but is still playable ||
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | Battle experience is terrible, cannot sync with Google Play Games |
 | Pokémon Masters EX | 2.13.0 | 🟥 | Requires GMS ||
 | Pokémon Unite | 1.2.1.2 | 🟨 | Battle experience is terrible ||
@@ -154,6 +168,7 @@ appops set [package name] ACTIVATE_VPN allow
 | 战双帕弥什 (Punishing: Gray Raven) || 🟩 || Keyboard is supported |
 | Q-Dance | 8.0.7 | 🟥 | App crashes ||
 | QooApp | 8.3.3 | 🟩 |||
+| Rayman Classic | 1.0.1 | 🟩 |||
 | Reddit | | 🟩 |||
 | Relay | 10.0.378 | 🟩 |||
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 🟩|||
@@ -166,6 +181,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Sky: Children of the Light | 0.15.1 | 🟥 | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing ||
 | Smart Life | 3.32.5 | 🟥 | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted ||
 | Smart Launcher | 5.5 Build 052 | 🟩 ||
+| Smash Hit | 1.4.3 | 🟩 ||
 | Snapchat | | 🟨 | Camera view is flipped | GMS warnings might appear but these can be safely ignored | 
 | Speedtest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work ||
 | Spotify | 8.6.70.1102 | 🟨 | The app crashes on first launch, but works upwards second launch |
@@ -185,6 +201,7 @@ appops set [package name] ACTIVATE_VPN allow
 | TikTok (TV Version) | 1.6.0 | 🟥 | App crashes ||
 | TikTok Lite | 21.7.1 | 🟥 | App crashes ||
 | Telegram | 8.1.2 | 🟩 |||
+| True Skate | 1.5.39 | 🟩 | Minor graphical glitches ||
 | Twitter | 9.16.1-release.00 | 🟩 | Optionally requires GMS ||
 | The King Of Fighters Allstar | 1.9.3 | 🟩 | Blank screen / app crash on first boot, works on second boot upwards |
 | TP-Link Tapo | 2.4.25 | 🟩 ||
