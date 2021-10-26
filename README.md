@@ -44,10 +44,11 @@ appops set [package name] ACTIVATE_VPN allow
 | 23andMe | 5.114.0 | 🟩 |||
 | A+ Gallery | 2.2.55.4 | 🟩 || Graphic glitch when using dark theme, use white theme instead |
 | Aegis | 2.0.2 | 🟩 |||
-| AFK Arena | 1.72.01 | 🟨 | Can't login using Google account ||
+| AFK Arena | 1.72.01 | 🟨 | Can't login using Google account || 
 | AIMP | 3.10.1052 | 🟩 |||
 | AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
 | Amaze File Manager | 3.5.3 | 🟩 | | Avoid updating the app ||
+| APKMirror Installer (Beta) | 1.3.2 | 🟨 | Cannot remove ads without subscription | Subscription requires GPS; Random crashes |
 | Arknights | 5.0.01 | 🟨 | Can't login using Google account ||
 | Aurora Store | 4.0.7 | 🟩 |||
 | Audible | 3.15.0 | 🟩 |||
@@ -69,6 +70,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Clouds & Sheep 2 | 1.4.6 | 🟩 | Optionally requires GMS ||
 | 酷安 (CoolApk) | 11.4.3 | 🟨 | Unable to sign in using third party apps ||
 | 创建快捷方式 (Create Shortcut) | 1.17 | 🟩 | | Can be used to access any app |
+| Comixology | 3.10.18.310421 | 🟩 | | |
 | CPU-Z | 1.41 | 🟩 |||
 | DevCheck | 3.39 | 🟥 | Blank screen on launch ||
 | Device Info HW | 5.4.1 | 🟩 |||
@@ -107,6 +109,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Joey (Reddit client) | 2.0.0.1 | 🟩 ||
 | Joplin | 2.4.3 (2097651) | 🟩 ||
 | Kik | 7.10.1.176 (82)  | 🟩 ||
+| Kindle | 8.47.1.3370 | 🟩 | | |
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | 🟩 | GMS warnings might appear but these can be safely ignored ||
 | Konosuba:FD | 1.12.1 | 🟥 | Requires GMS ||
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | App crashes ||
@@ -124,6 +127,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Muslim Pro | 1.2.3 | 🟥 | Requires GMS |
 | 米游社 (mihoyo Chinese Community) | 2.14.1 | 🟨 | The app might lag when inserting a photo into a new post |
 | Nekogram X | 8.1.2-1-rc01 | 🟩 || Use NoGcm variant |
+| Neko | 2.6.2 | 🟩 | | |
 | Netflix (Aurora Store) | 8.4.0 | 🟥 | "Device not supported" error ||
 | NFL | 56.1.7 | 🟥 | Crashes on launch ||
 | NieR Re[in]carnation | 1.7.1 | 🟥 | Unable to get past the loading screen ||
