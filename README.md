@@ -71,6 +71,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Clash Royale | 3.6.1 |🟥 | Crashes on startup ||
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires GMS ||
 | Clouds & Sheep 2 | 1.4.6 | 🟩 | Optionally requires GMS ||
+| Clubhouse | 1.0.11 | 🟨 | Unable to login via phone number, it throws error after entering the OTP | |
 | 酷安 (CoolApk) | 11.4.3 | 🟨 | Unable to sign in using third party apps ||
 | 创建快捷方式 (Create Shortcut) | 1.17 | 🟩 | | Can be used to access any app |
 | Comixology | 3.10.18.310421 | 🟩 | | |
