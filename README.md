@@ -47,7 +47,7 @@ appops set [package name] ACTIVATE_VPN allow
 | AIMP | 3.10.1052 | 🟩 |||
 | AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
 | Amaze File Manager | 3.5.3 | 🟩 | | Avoid updating the app ||
-| APKMirror Installer (Beta) |1.3.2 | 🟨 | Cannot remove ads without subscription | Subscription requires GPS; Random crashes |
+| APKMirror Installer (Beta) | 1.3.2 | 🟨 | Cannot remove ads without subscription | Subscription requires GPS; Random crashes |
 | Arknights | 5.0.01 | 🟨 | Can't login using Google account ||
 | Aurora Store | 4.0.7 | 🟩 |||
 | Audible | 3.15.0 | 🟩 |||
