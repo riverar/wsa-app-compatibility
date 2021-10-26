@@ -126,6 +126,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Magic Tiles 3 | 8.086.201 | 🟩 ||
 | Magisk | Internal build? | 🟩 || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131) |
 | MapleStory M | 1.7000.2835 | 🟥 |Crashes at loading screen||
+| Mario Kart Tour | 2.10.0 | 🟥 | Fails to connect to servers after Nintendo login ||
 | Material Files | 1.3.1 | 🟩 ||
 | Microsoft Edge | 93.0.961.78 (96107815) | 🟥 | Fails to load websites ||
 | Microsoft Launcher | 6.210602.1.994630 | 🟩 ||
