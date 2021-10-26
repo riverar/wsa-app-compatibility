@@ -154,7 +154,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | 🟩 |||
 | Oreo: Twist, Lick, Dunk | 1.5.6 | 🟩 | Minor graphical glitches ||
 | OsmAnd~ | 3.9.10 | 🟩 |||
-| Oto Music Player | 3.0.2 | 🟩 || Requires relaunch to refresh list |
+| Oto Music | 3.0.2 | 🟩 || Requires relaunch to refresh list |
 | Outlook | 4.2138.0 | 🟨 | Cannot activate device administrator with Outlook, which prevents activation. ||
 | Pixel People | 4.7 | 🟩 | Changing window size breaks the game. Runs at low FPS but is still playable ||
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | Battle experience is terrible, cannot sync with Google Play Games |
