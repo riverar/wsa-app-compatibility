@@ -158,6 +158,8 @@ appops set [package name] ACTIVATE_VPN allow
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 🟩|||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies | GMS warnings might appear but these can be safely ignored |
 | Rootless Launcher | 3.9.1 | 🟥 | Crash on launch |
+| Shadow Fight 2 | 2.16.0 | 🟨 | Optionally requires GMS, Doesn't support keyboard control makes fighting more harder | GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
+| Shadow Fight 3 | 1.25.7 | 🟩 | Optionally requires GMS, Cloud save using facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
 | Shizuku | 12.3.0.r668.5687d0c | 🟩 | Works well with Wireless debugging |
 | Simple Gallery | 5.3.9 | 🟥 | Crash when shows a photo ||
 | Sky: Children of the Light | 0.15.1 | 🟥 | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing ||
