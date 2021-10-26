@@ -46,7 +46,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Aegis | 2.0.2 | 🟩 |||
 | AFK Arena | 1.72.01 | 🟨 | Can't login using Google account || 
 | AIMP | 3.10.1052 | 🟩 |||
-| Alien: Blackout | 2.0 | 🟨 |Terrible in-game experience, includes poor performance and low FPS||
+| Alien: Blackout | 2.0 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
 | Alto's Adventure | 1.8.0 | 🟩 |||
 | Alto's Odyssey | 1.0.10 | 🟩 |||
 | AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
@@ -77,7 +77,7 @@ appops set [package name] ACTIVATE_VPN allow
 | 创建快捷方式 (Create Shortcut) | 1.17 | 🟩 | | Can be used to access any app |
 | Comixology | 3.10.18.310421 | 🟩 | | |
 | CPU-Z | 1.41 | 🟩 |||
-| Deus Ex GO | 2.1.111374 | 🟨 |Terrible in-game experience, includes poor performance and low FPS||
+| Deus Ex GO | 2.1.111374 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
 | DevCheck | 3.39 | 🟥 | Blank screen on launch ||
 | Device Info HW | 5.4.1 | 🟩 |||
 | Discord | 98.6 | 🟩 |||
@@ -105,7 +105,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Guardian Tales | 2.23.2 | 🟥 | Requires GMS ||
 | Grab | 5.172.200 from Huawei AppGallery | 🟩 ||
 | Grand Theft Auto: San Andreas |  | 🟩 ||
-| Hitman Sniper | 1.7.193827 | 🟨 |Terrible in-game experience, includes poor performance and low FPS||
+| Hitman Sniper | 1.7.193827 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
 | Hobi | 2.1.7 | 🟥 | Requires GMS |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 | | Game has inbox keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | 🟨 | Poor graphics quality |
@@ -153,7 +153,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Oreo: Twist, Lick, Dunk | 1.5.6 | 🟩 | Minor graphical glitches ||
 | OsmAnd~ | 3.9.10 | 🟩 |||
 | Outlook | 4.2138.0 | 🟨 | Cannot activate device administrator with Outlook, which prevents activation. ||
-| Pixel People | 4.7 | 🟩 | Changing window size breaks the game. Runs at low FPS but still playable ||
+| Pixel People | 4.7 | 🟩 | Changing window size breaks the game. Runs at low FPS but is still playable ||
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | Battle experience is terrible, cannot sync with Google Play Games |
 | Pokémon Masters EX | 2.13.0 | 🟥 | Requires GMS ||
 | Pokémon Unite | 1.2.1.2 | 🟨 | Battle experience is terrible ||
