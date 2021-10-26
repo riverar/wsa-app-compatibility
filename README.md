@@ -195,6 +195,7 @@ appops set [package name] ACTIVATE_VPN allow
 | YouTube Music (Google) | 4.49.51 | 🟥 | Requires GMS |
 | Youtube Vanced | 16.29.39 | 🟨 | Picture-in-picture doesn't work & Can't join channel membership |
 | YouTube Music Vanced | 43.9.50 | 🟩 ||
+| ZArchiver | 0.9.5.8 (9596) | 🟩 ||
 | Zenly (Without Google Services) | 4.55.2 | 🟨 |App crashes after login, but background location works | 
 
 
