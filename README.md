@@ -121,6 +121,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Instagram | 210.0.0.28.71 | 🟩 ||
 | Jetpack Joyride | 1.52.1 (58461800) | 🟨 | Google Play Games sync doesn't work, otherwise the game functionality is fine ||
 | Jet Car Stunts 2 | 1.0.13 | 🟥 | Loads up but orientation and menus are broken ||
+| JioSaavn | 8.2.1 | 🟩 |Doesn't support fullscreen and rare crashes but running fine|
 | Joey (Reddit client) | 2.0.0.1 | 🟩 ||
 | Joplin | 2.4.3 (2097651) | 🟩 ||
 | Kik | 7.10.1.176 (82)  | 🟩 ||
@@ -227,6 +228,7 @@ appops set [package name] ACTIVATE_VPN allow
 | YouTube Vanced | 16.29.39 | 🟨 | Picture-in-picture doesn't work and you can't join channel membership |
 | YouTube Music Vanced | 43.9.50 | 🟩 ||
 | Yandex.Maps | 10.6.0 | 🟨 | Map doesn't work |
+| Ymusic | 3.7.2 | 🟩 ||
 | ZArchiver | 0.9.5.8 (9596) | 🟩 ||
 | Zenly (Without Google Services) | 4.55.2 | 🟨 | App crashes after login, but background location works | 
 
