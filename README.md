@@ -7,7 +7,9 @@ it in as soon as possible.
 
 When editing the Markdown, please keep these rules in mind:
 
-1. Please do not link to any APKs.
+1. Do not link to any APKs.
+2. Name your commits and Pull requests properly.
+3. Try to avoid grammatical errors and unnecessary capitalization of words
 
 ## Legend
 
@@ -25,7 +27,7 @@ This page currently uses Unicode characters from the Geometric Shapes Extended b
 |---|---|---|
 | Multi-touch | 🟩 | Demo: [Arcaea](https://www.bilibili.com/video/BV1Ph411n7M5) |
 | Virtual Wifi (VirtWifi) | 🟩 |  |
-| VPN | 🟥 | VPN Connection request dialog does not appear. |
+| VPN | 🟥 | VPN Connection request dialog does not appear |
 | OpenGL ES 3.1 | 🟥 | |
 | Vulkan | 🟥 | |
 
@@ -42,7 +44,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Application    | Latest tested version | Support level | Known Issues| Notes |
 |----------------|-----------------------|---------------|---------------|-----|
 | 23andMe | 5.114.0 | 🟩 |||
-| A+ Gallery | 2.2.55.4 | 🟩 || Graphic glitch when using dark theme, use white theme instead |
+| A+ Gallery | 2.2.55.4 | 🟩 | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead. ||
 | Aegis | 2.0.2 | 🟩 |||
 | AFK Arena | 1.72.01 | 🟨 | Can't login using Google account || 
 | AIMP | 3.10.1052 | 🟩 |||
@@ -50,9 +52,9 @@ appops set [package name] ACTIVATE_VPN allow
 | Alto's Adventure | 1.8.0 | 🟩 |||
 | Alto's Odyssey | 1.0.10 | 🟩 |||
 | AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
-| Among Us | 2021.6.30 | 🟩 ||XBOX controller working;keyboard not working|
+| Among Us | 2021.6.30 | 🟩 || Xbox controller is working, however the keyboard isn't working |
 | Amaze File Manager | 3.5.3 | 🟩 | | Avoid updating the app ||
-| APKMirror Installer (Beta) | 1.3.2 | 🟨 | Cannot remove ads without subscription | Subscription requires GPS; Random crashes |
+| APKMirror Installer (Beta) | 1.3.2 | 🟨 | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes ||
 | Arknights | 5.0.01 | 🟨 | Can't login using Google account ||
 | Aurora Store | 4.0.7 | 🟩 |||
 | Audible | 3.15.0 | 🟩 |||
@@ -71,8 +73,8 @@ appops set [package name] ACTIVATE_VPN allow
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 |||
 | Canvas Student | 6.14.1 | 🟩 |||
 | CarX Highway Racing | 1.17.1 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
-| Clash of Clans | 14.211.3 | 🟥 | Crashes on startup ||
-| Clash Royale | 3.6.1 |🟥 | Crashes on startup ||
+| Clash of Clans | 14.211.3 | 🟥 | App crashes ||
+| Clash Royale | 3.6.1 |🟥 | App crashes ||
 | Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires GMS ||
 | Clouds & Sheep 2 | 1.4.6 | 🟩 | Optionally requires GMS ||
 | Clubhouse | 1.0.11 | 🟨 | Unable to login via phone number, it throws error after entering the OTP | |
@@ -81,7 +83,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Comixology | 3.10.18.310421 | 🟩 | | |
 | CPU-Z | 1.41 | 🟩 |||
 | Deus Ex GO | 2.1.111374 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
-| DevCheck | 3.39 | 🟥 | Blank screen on launch ||
+| DevCheck | 3.39 | 🟥 | Blank screen on startup ||
 | Device Info HW | 5.4.1 | 🟩 |||
 | Discord | 98.6 | 🟩 |||
 | Дурак Онлайн (Durak Online) | 1.9.2 | 🟥 | Requires GMS ||
@@ -92,7 +94,7 @@ appops set [package name] ACTIVATE_VPN allow
 | F1 TV| 2.0.5 | 🟨 | Terrible app experience including screen flashes and crashes while watching a video |
 | Formula 1 | 11.0.1449 | 🟩 | |
 | FAST Speed Test | 1.0.8 (88) | 🟩 |||
-| Fancade | 1.7.6 | 🟥 | Opens and then crashes||
+| Fancade | 1.7.6 | 🟥 | App crashes ||
 | F-Droid | 1.13.1 | 🟩 ||
 | Fire Emblem Heroes | 5.10.0 | 🟥 | Requires GMS ||
 | Firefox | 93.2.0 (2015839751) | 🟩 ||
@@ -100,12 +102,12 @@ appops set [package name] ACTIVATE_VPN allow
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | 🟨 | Chat Heads don't work |
 | Fortnite Installer | 4.1.4 | 🟥 | "Device not supported" error |
 | Fortnite | 14.10.0 | 🟥 | Crashes at login screen |
-| Fruit Ninja | 3.3.4 | 🟩 | Version check error | Other functionality is fine |
+| Fruit Ninja | 3.3.4 | 🟩 | Version check error | Otherwise, other app functionality is fine |
 | Game Pass | 2110.17.1005 | 🟩 | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested. |
-| Genshin Impact | 2.2.0 | 🟨 | [Working but heavy graphical glitches](https://www.bilibili.com/video/BV1zT4y1o73D?) |
-| Genshin Impact (Cloud app) |  | 🟩 |||
+| Genshin Impact | 2.2.0 | 🟨 | Working but heavy graphical glitches - [video](https://www.bilibili.com/video/BV1zT4y1o73D?) |
+| Genshin Impact (Cloud app) || 🟩 |||
 | Geekbench |5.4.1| 🟩 |||
-| Google Chrome | 94.0.4606.85 | 🟩 || microG is required |
+| Google Chrome | 94.0.4606.85 | 🟩 | Requires microG or GMS | |
 | Guardian Tales | 2.23.2 | 🟥 | Requires GMS ||
 | Grab | 5.172.200 from Huawei AppGallery | 🟩 ||
 | Grand Theft Auto: San Andreas |  | 🟩 ||
@@ -146,7 +148,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Nekogram X | 8.1.2-1-rc01 | 🟩 || Use NoGcm variant |
 | Neko | 2.6.2 | 🟩 | | |
 | Netflix (Aurora Store) | 8.4.0 | 🟥 | "Device not supported" error ||
-| NFL | 56.1.7 | 🟥 | Crashes on launch ||
+| NFL | 56.1.7 | 🟥 | App crashes ||
 | NieR Re[in]carnation | 1.7.1 | 🟥 | Unable to get past the loading screen ||
 | Nova Launcher | 7.0.49 (7049) | 🟨 | UI is messy, but app drawer is fine |
 | Office | 16.0.14527.20162 | 🟩 || Might require microG | 
@@ -156,9 +158,9 @@ appops set [package name] ACTIVATE_VPN allow
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | 🟩 |||
 | Oreo: Twist, Lick, Dunk | 1.5.6 | 🟩 | Minor graphical glitches ||
 | OsmAnd~ | 3.9.10 | 🟩 |||
-| Oto Music | 3.0.2 | 🟩 || Requires relaunch to refresh list |
+| Oto Music | 3.0.2 | 🟩 || Requires app restart to refresh list |
 | Outlook | 4.2138.0 | 🟨 | Cannot activate device administrator with Outlook, which prevents activation. ||
-| Pixel People | 4.7 | 🟩 | Changing window size breaks the game. Runs at low FPS but is still playable ||
+| Pixel People | 4.7 | 🟩 | Changing window size breaks the game. Runs at low FPS but is still playable. ||
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | Battle experience is terrible, cannot sync with Google Play Games |
 | Pokémon Masters EX | 2.13.0 | 🟥 | Requires GMS ||
 | Pokémon Unite | 1.2.1.2 | 🟨 | Battle experience is terrible ||
@@ -175,18 +177,18 @@ appops set [package name] ACTIVATE_VPN allow
 | Relay | 10.0.378 | 🟩 |||
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 🟩|||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies | GMS warnings might appear but these can be safely ignored |
-| Rootless Launcher | 3.9.1 | 🟥 | Crash on launch |
+| Rootless Launcher | 3.9.1 | 🟥 | App crashes |
 | Shadow Fight 2 | 2.16.0 | 🟨 | Optionally requires GMS, Doesn't support keyboard control makes fighting more harder | GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
-| Shadow Fight 3 | 1.25.7 | 🟩 | Optionally requires GMS, Cloud save using facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
+| Shadow Fight 3 | 1.25.7 | 🟩 | Optionally requires GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
 | Shizuku | 12.3.0.r668.5687d0c | 🟩 | Works well with Wireless debugging |
-| Simple Gallery | 5.3.9 | 🟥 | Crash when shows a photo ||
+| Simple Gallery | 5.3.9 | 🟥 | App crashes when you try to view a photo ||
 | Sky: Children of the Light | 0.15.1 | 🟥 | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing ||
 | Smart Life | 3.32.5 | 🟥 | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted ||
 | Smart Launcher | 5.5 Build 052 | 🟩 ||
 | Smash Hit | 1.4.3 | 🟩 ||
 | Snapchat | | 🟨 | Camera view is flipped | GMS warnings might appear but these can be safely ignored | 
 | Speedtest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work ||
-| Spotify | 8.6.70.1102 | 🟨 | The app crashes on first launch, but works upwards second launch |
+| Spotify | 8.6.70.1102 | 🟨 | The app crashes on first startup, but works second startup upwards |
 | Spotify Lite | 1.9.0.2883 | 🟩 ||
 | Standoff 2 | 0.16.6 | 🟨 | Battle experience is terrible, includes micro-stutters |
 | Stardew Valley | 1.4.5.151 | 🟩 ||
@@ -198,7 +200,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Tachiyomi | 0.12.3 | 🟩 ||
 | TeamViewer | 15.22.136 | 🟩 ||
 | Termux | 0.117 | 🟨 | `packages.termux.org` mirror is the only one that works ||
-| TikTok (China) | 18.1.0 | 🟨 | App crashes on first launch, you might face hiccups logging in |
+| TikTok (China) | 18.1.0 | 🟨 | App crashes on first startup and you might face hiccups logging in |
 | TikTok (Global) | 21.6.4 | 🟨 | Error when trying to log in, you can create a new account |
 | TikTok (TV Version) | 1.6.0 | 🟥 | App crashes ||
 | TikTok Lite | 21.7.1 | 🟥 | App crashes ||
@@ -219,13 +221,13 @@ appops set [package name] ACTIVATE_VPN allow
 | 微博 (Weibo) | 11.10.1 | 🟨 | Cannot sign in using password, shows limit reached for verification codes |
 | 微博国际版 （Weibo International) | 3.9.8 | 🟨 | Cannot sign in |
 | 微博极速版 (Weibo Fast) | 10.9.2 (4620) | 🟨 | Cannot sign in |
-| Yahoo! Fantasy Sports | 10.31.0 | 🟥 | App crashes on launch |
+| Yahoo! Fantasy Sports | 10.31.0 | 🟥 | App crashes |
 | YouTube (Google)| 16.40.35 | 🟥 | Requires GMS |
 | YouTube Music (Google) | 4.49.51 | 🟥 | Requires GMS |
-| Youtube Vanced | 16.29.39 | 🟨 | Picture-in-picture doesn't work & Can't join channel membership |
+| YouTube Vanced | 16.29.39 | 🟨 | Picture-in-picture doesn't work and you can't join channel membership |
 | YouTube Music Vanced | 43.9.50 | 🟩 ||
-| Yandex.Maps | 10.6.0 | 🟨 | Map don't work |
+| Yandex.Maps | 10.6.0 | 🟨 | Map doesn't work |
 | ZArchiver | 0.9.5.8 (9596) | 🟩 ||
-| Zenly (Without Google Services) | 4.55.2 | 🟨 |App crashes after login, but background location works | 
+| Zenly (Without Google Services) | 4.55.2 | 🟨 | App crashes after login, but background location works | 
 
 
