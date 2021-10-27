@@ -50,7 +50,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Alto's Adventure | 1.8.0 | 🟩 |||
 | Alto's Odyssey | 1.0.10 | 🟩 |||
 | AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
-| Among Us | 2021.6.30 | 🟩 | | XBOX controller working;keyboard not working ||
+| Among Us | 2021.6.30 | 🟩 ||XBOX controller working;keyboard not working|
 | Amaze File Manager | 3.5.3 | 🟩 | | Avoid updating the app ||
 | APKMirror Installer (Beta) | 1.3.2 | 🟨 | Cannot remove ads without subscription | Subscription requires GPS; Random crashes |
 | Arknights | 5.0.01 | 🟨 | Can't login using Google account ||
