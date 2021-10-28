@@ -156,6 +156,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Office | 16.0.14527.20162 | 🟩 || Might require microG | 
 | Opera Browser Beta | 65.1.3381.61349 (x86_64) | 🟩 || Change app layout to Tablet Mode for a better experience |
 | Opera GX : Gaming Browser | 1.3.6 | 🟩 |||
+| Opera Touch Browser | 2.9.6 | 🟨 | My Flow feature requires GMS | GMS warnings might appear but these can be safely ignored |
 | Oppo App Store (China) | 8.6.4 Beta 1 | 🟥 | App freezes on blank screen ||
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | 🟩 |||
 | Oreo: Twist, Lick, Dunk | 1.5.6 | 🟩 | Minor graphical glitches ||
