@@ -40,12 +40,12 @@ There is no `com.android.vpndialogs` in WSA. However, it's possible to manually 
 appops set [package name] ACTIVATE_VPN allow
 ```
 
-#### Launching Android Apps outside the WSA
-Microsoft kindly made a URL scheme: 
+#### Launching Android Apps with URL scheme
+Microsoft kindly made a URL scheme, make it easier to launch apps outside the WSA:
 ```shell
 wsl://[App Package Name]
 ```
-For example, to launch Apple Music in wsa, use:
+For example, to launch Apple Music in WSA, use:
 ```shell
 wsa://com.apple.android.music
 ```
