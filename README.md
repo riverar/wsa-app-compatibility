@@ -16,6 +16,7 @@ When editing the Markdown, please keep these rules in mind:
 This page currently uses Unicode characters from the Geometric Shapes Extended block introduced in Unicode 12 (2019). If you are unable to see these characters (multi-colored squares), please open an issue.
 
 - 🟩 Works
+- 🆖 Works, but needs Google Mobile Services
 - 🟨 Works, but with some notable problems
 - 🟥 Broken
 
@@ -55,14 +56,14 @@ appops set [package name] ACTIVATE_VPN allow
 | Among Us | 2021.6.30 | 🟩 || Xbox controller is working, however the keyboard isn't working |
 | Amaze File Manager | 3.5.3 | 🟩 | | Avoid updating the app ||
 | APKMirror Installer (Beta) | 1.3.2 | 🟨 | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes ||
-| Arknights | 5.0.01 | 🟨 | Can't login using Google account ||
+| Arknights | 5.0.01 | 🆖 | Can't login using Google account ||
 | Aurora Store | 4.0.7 | 🟩 |||
 | Audible | 3.15.0 | 🟩 |||
 | APKPure | 3.17.26 | 🟩 | Sometimes, it might require multiple attempts to install an app ||
 | Aptoide App Store | 9.20.2.1 | 🟩 | Sometimes, downloads might get stuck ||
 | Apple Music | 3.7.1 | 🟩 |||
 | App分享 (AppShare) | 2.1.1 (164) | 🟥 | Can't login ||
-| Authenticator by Microsoft | 6.2110.6737 |🟨| Requires GMS ||
+| Authenticator by Microsoft | 6.2110.6737 |🆖| Requires GMS ||
 | Arcaea |  | 🟩 |||
 | Azur Lane | 6.0.1 | 🟩 |||
 | Bromite | 94.0.4606.94 |  🟩 |  | Use x64 build |
@@ -75,7 +76,7 @@ appops set [package name] ACTIVATE_VPN allow
 | CarX Highway Racing | 1.17.1 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
 | Clash of Clans | 14.211.3 | 🟥 | App crashes ||
 | Clash Royale | 3.6.1 |🟥 | App crashes ||
-| Classroom by Google | 7.6.381.20.90.2 | 🟥 | Requires GMS ||
+| Classroom by Google | 7.6.381.20.90.2 | 🆖 | Requires GMS ||
 | Clouds & Sheep 2 | 1.4.6 | 🟩 | Optionally requires GMS ||
 | Clubhouse | 1.0.11 | 🟨 | Unable to login via phone number, it throws error after entering the OTP | |
 | 酷安 (CoolApk) | 11.4.3 | 🟨 | Unable to sign in using third party apps ||
@@ -86,8 +87,8 @@ appops set [package name] ACTIVATE_VPN allow
 | DevCheck | 3.39 | 🟥 | Blank screen on startup ||
 | Device Info HW | 5.4.1 | 🟩 |||
 | Discord | 98.6 | 🟩 |||
-| Дурак Онлайн (Durak Online) | 1.9.2 | 🟥 | Requires GMS ||
-| DMM Games Store | 2.8.0 | 🟥 | Requires GMS ||
+| Дурак Онлайн (Durak Online) | 1.9.2 | 🆖 | Requires GMS ||
+| DMM Games Store | 2.8.0 | 🆖 | Requires GMS ||
 | Epic Seven | 1.0.406 | 🟨 | Low FPS, unable to sign in with Google ||
 | ES File Explorer | 4.2.1.8 | 🟩 | | Avoid updating the app |
 | Excel | 16.0.14527.20162 | 🟩 |||
@@ -96,7 +97,7 @@ appops set [package name] ACTIVATE_VPN allow
 | FAST Speed Test | 1.0.8 (88) | 🟩 |||
 | Fancade | 1.7.6 | 🟥 | App crashes ||
 | F-Droid | 1.13.1 | 🟩 ||
-| Fire Emblem Heroes | 5.10.0 | 🟥 | Requires GMS ||
+| Fire Emblem Heroes | 5.10.0 | 🆖 | Requires GMS ||
 | Firefox | 93.2.0 (2015839751) | 🟩 ||
 | Firefox Nightly | 95.0a1 | 🟩 ||
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | 🟨 | Chat Heads don't work |
@@ -108,11 +109,11 @@ appops set [package name] ACTIVATE_VPN allow
 | Genshin Impact (Cloud app) || 🟩 |||
 | Geekbench |5.4.1| 🟩 |||
 | Google Chrome | 94.0.4606.85 | 🟩 | Requires microG or GMS | |
-| Guardian Tales | 2.23.2 | 🟥 | Requires GMS ||
+| Guardian Tales | 2.23.2 | 🆖 | Requires GMS ||
 | Grab | 5.172.200 from Huawei AppGallery | 🟩 ||
 | Grand Theft Auto: San Andreas |  | 🟩 ||
 | Hitman Sniper | 1.7.193827 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
-| Hobi | 2.1.7 | 🟥 | Requires GMS |
+| Hobi | 2.1.7 | 🆖 | Requires GMS |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 🟩 | | Game has inbox keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | 🟨 | Poor graphics quality |
 | Huawei AppGallery  | 11.4.2.300 | 🟩 | Frequent crashes were experienced, otherwise the app functionality is fine ||
@@ -127,7 +128,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Kik | 7.10.1.176 (82)  | 🟩 ||
 | Kindle | 8.47.1.3370 | 🟩 | | |
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | 🟩 | GMS warnings might appear but these can be safely ignored ||
-| Konosuba:FD | 1.12.1 | 🟥 | Requires GMS ||
+| Konosuba:FD | 1.12.1 | 🆖 | Requires GMS ||
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | App crashes ||
 | League of Legends: Wild Rift | | 🟩 ||
 | Magic Tiles 3 | 8.086.201 | 🟩 ||
@@ -144,7 +145,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Monument Valley | 2.7.17 | 🟩 |||
 | Monument Valley 2 | 2.0.3 | 🟩 |||
 | MT File Manager | 2.10.0 | 🟩 |||
-| Muslim Pro | 1.2.3 | 🟥 | Requires GMS |
+| Muslim Pro | 1.2.3 | 🆖 | Requires GMS |
 | 米游社 (mihoyo Chinese Community) | 2.14.1 | 🟨 | The app might lag when inserting a photo into a new post |
 | Nekogram X | 8.1.2-1-rc01 | 🟩 || Use NoGcm variant |
 | Neko | 2.6.2 | 🟩 | | |
@@ -163,12 +164,12 @@ appops set [package name] ACTIVATE_VPN allow
 | Outlook | 4.2138.0 | 🟨 | Cannot activate device administrator with Outlook, which prevents activation. ||
 | Pixel People | 4.7 | 🟩 | Changing window size breaks the game. Runs at low FPS but is still playable. ||
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 🟨 | Battle experience is terrible, cannot sync with Google Play Games |
-| Pokémon Masters EX | 2.13.0 | 🟥 | Requires GMS ||
+| Pokémon Masters EX | 2.13.0 | 🆖 | Requires GMS ||
 | Pokémon Unite | 1.2.1.2 | 🟨 | Battle experience is terrible ||
 | Pokémon GO | | 🟥 | Unable to authenticate ||
 | The Battle of Polytopia | 2.0.59.5719 | 🟥 | Validation error ||
 | Pou | 1.4.84 | 🟩 |||
-| PowerPoint | 16.0.14527.20162 | 🟩 | Might require microG ||
+| PowerPoint | 16.0.14527.20162 | 🟩 | Might require GMS / MicroG
 | Phigros |  | 🟩 |||
 | 战双帕弥什 (Punishing: Gray Raven) || 🟩 || Keyboard is supported |
 | Q-Dance | 8.0.7 | 🟥 | App crashes ||
@@ -222,10 +223,10 @@ appops set [package name] ACTIVATE_VPN allow
 | 微博 (Weibo) | 11.10.1 | 🟨 | Cannot sign in using password, shows limit reached for verification codes |
 | 微博国际版 （Weibo International) | 3.9.8 | 🟨 | Cannot sign in |
 | 微博极速版 (Weibo Fast) | 10.9.2 (4620) | 🟨 | Cannot sign in |
-| Yahoo! Fantasy Sports | 10.31.0 | 🟥 | App crashes |
-| YouTube (Google)| 16.40.35 | 🟥 | Requires GMS |
-| YouTube Music (Google) | 4.49.51 | 🟥 | Requires GMS |
-| YouTube Vanced | 16.29.39 | 🟨 | Picture-in-picture doesn't work and you can't join channel membership |
+| Yahoo! Fantasy Sports | 10.31.0 | 🟥 | App crashes on launch |
+| YouTube (Google)| 16.40.35 | 🆖 | Requires GMS |
+| YouTube Music (Google) | 4.49.51 | 🆖 | Requires GMS |
+| Youtube Vanced | 16.29.39 | 🟨 | Picture-in-picture doesn't work & Can't join channel membership |
 | YouTube Music Vanced | 43.9.50 | 🟩 ||
 | Yandex.Maps | 10.6.0 | 🟨 | Map doesn't work |
 | Ymusic | 3.7.2 | 🟩 ||
