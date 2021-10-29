@@ -76,7 +76,8 @@ appops set [package name] ACTIVATE_VPN allow
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 |||
 | Canvas Student | 6.14.1 | 🟩 |||
 | CarX Highway Racing | 1.17.1 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
-| 超星学习通 (com.chaoxing.mobile) | 5.0.3 | 🟩 | Latest version crashes | Version 4.6.1 is fine |
+| 超星学习通 | 5.0.3 |🟥| Crashes on startup ||
+| 超星学习通 | 4.6.1 |🟩|||
 | Clash of Clans | 14.211.3 | 🟥 | App crashes ||
 | Clash Royale | 3.6.1 |🟥 | App crashes ||
 | Classroom by Google | 7.6.381.20.90.2 | 🆖 | Requires GMS ||
