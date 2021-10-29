@@ -230,7 +230,7 @@ appops set [package name] ACTIVATE_VPN allow
 | 微博 (Weibo) | 11.10.1 | 🟨 | Cannot sign in using password, shows limit reached for verification codes |
 | 微博国际版 (Weibo International) | 3.9.8 | 🟨 | Cannot sign in |
 | 微博极速版 (Weibo Fast) | 10.9.2 (4620) | 🟨 | Cannot sign in |
-| 文件管理器+ (com.alphainventor.filemanager) | 2.7.1 | 🟩 ||
+| 文件管理器+ | 2.7.1 | 🟩 ||
 | Yahoo! Fantasy Sports | 10.31.0 | 🟥 | App crashes on launch |
 | YouTube (Google)| 16.40.35 | 🆖 | Requires GMS |
 | YouTube Music (Google) | 4.49.51 | 🆖 | Requires GMS |
