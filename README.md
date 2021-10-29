@@ -46,6 +46,8 @@ appops set [package name] ACTIVATE_VPN allow
 |----------------|-----------------------|---------------|---------------|-----|
 | 23andMe | 5.114.0 | 🟩 |||
 | A+ Gallery | 2.2.55.4 | 🟩 | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead. ||
+| ADM | 12.5.4 | 🟩 |||
+| ADM Pro | 6.4.0 | 🟩 |||
 | Aegis | 2.0.2 | 🟩 |||
 | AFK Arena | 1.72.01 | 🟨 | Can't login using Google account || 
 | AIMP | 3.10.1052 | 🟩 |||
@@ -74,6 +76,8 @@ appops set [package name] ACTIVATE_VPN allow
 | Candy Crush Saga | 1.213.2.1 (12132011) | 🟩 |||
 | Canvas Student | 6.14.1 | 🟩 |||
 | CarX Highway Racing | 1.17.1 | 🟨 | Terrible in-game experience, includes poor performance and low FPS ||
+| 超星学习通 | 5.0.3 |🟥| Crashes on startup ||
+| 超星学习通 | 4.6.1 |🟩|||
 | Clash of Clans | 14.211.3 | 🟥 | App crashes ||
 | Clash Royale | 3.6.1 |🟥 | App crashes ||
 | Classroom by Google | 7.6.381.20.90.2 | 🆖 | Requires GMS ||
@@ -176,12 +180,14 @@ appops set [package name] ACTIVATE_VPN allow
 | 战双帕弥什 (Punishing: Gray Raven) || 🟩 || Keyboard is supported |
 | Q-Dance | 8.0.7 | 🟥 | App crashes ||
 | QooApp | 8.3.3 | 🟩 |||
+| QQ | 8.2.11 | 🟩 |||
 | Rayman Classic | 1.0.1 | 🟩 |||
 | Reddit | | 🟩 |||
 | Relay | 10.0.378 | 🟩 |||
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 🟩|||
 | Roblox | 2.499.381 | 🟨 | Graphical anomalies | GMS warnings might appear but these can be safely ignored |
 | Rootless Launcher | 3.9.1 | 🟥 | App crashes |
+| SD Maid (pro) | 5.2.2 | 🟨 | Unable to grant external storage privileges, can be skipped ||
 | Shadow Fight 2 | 2.16.0 | 🟨 | Optionally requires GMS, Doesn't support keyboard control makes fighting more harder | GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
 | Shadow Fight 3 | 1.25.7 | 🟩 | Optionally requires GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
 | Shizuku | 12.3.0.r668.5687d0c | 🟩 | Works well with Wireless debugging |
@@ -220,12 +226,14 @@ appops set [package name] ACTIVATE_VPN allow
 | Via Browser | 4.3.1 | 🟩 ||
 | VLC | 3.4.0 | 🟩 ||
 | VK | 6.58 | 🟩 ||
+| VooV (腾讯会议国际版) | 2.12.5.504 | 🟩 ||
 | Warden | 1.0.3.release | 🟨 | App screen flashes otherwise functionality-wise its normal |
 | WhatsApp | 2.21.20.20 | 🟨 | WhatsApp cloud chat backups will not work, app was tested with microG installed |
 | Word | 16.0.14430.20246 | 🟩 || Might require microG |
 | 微博 (Weibo) | 11.10.1 | 🟨 | Cannot sign in using password, shows limit reached for verification codes |
-| 微博国际版 （Weibo International) | 3.9.8 | 🟨 | Cannot sign in |
+| 微博国际版 (Weibo International) | 3.9.8 | 🟨 | Cannot sign in |
 | 微博极速版 (Weibo Fast) | 10.9.2 (4620) | 🟨 | Cannot sign in |
+| 文件管理器+ | 2.7.1 | 🟩 ||
 | Yahoo! Fantasy Sports | 10.31.0 | 🟥 | App crashes on launch |
 | YouTube (Google)| 16.40.35 | 🆖 | Requires GMS |
 | YouTube Music (Google) | 4.49.51 | 🆖 | Requires GMS |
