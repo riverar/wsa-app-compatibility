@@ -46,8 +46,8 @@ appops set [package name] ACTIVATE_VPN allow
 |----------------|-----------------------|---------------|---------------|-----|
 | 23andMe | 5.114.0 | 🟩 |||
 | A+ Gallery | 2.2.55.4 | 🟩 | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead. ||
-| ADM (com.dv.adm) | 12.5.4 | 🟩 |||
-| ADM pro (com.dv.adm.pay) | 6.4.0 | 🟩 |||
+| ADM | 12.5.4 | 🟩 |||
+| ADM Pro | 6.4.0 | 🟩 |||
 | Aegis | 2.0.2 | 🟩 |||
 | AFK Arena | 1.72.01 | 🟨 | Can't login using Google account || 
 | AIMP | 3.10.1052 | 🟩 |||
