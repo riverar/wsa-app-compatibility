@@ -211,6 +211,7 @@ appops set [package name] ACTIVATE_VPN allow
 | True Skate | 1.5.39 | 🟩 | Minor graphical glitches ||
 | Twitter | 9.16.1-release.00 | 🟩 | Optionally requires GMS ||
 | The King Of Fighters Allstar | 1.9.3 | 🟩 | Blank screen / app crash on first boot, works on second boot upwards |
+| This War of Mine | 1.0 | 🟥 | Infinite loop at starup screen ||
 | TP-Link Tapo | 2.4.25 | 🟩 ||
 | UC Browser | 13.0.0.1288 (x86) | 🟩 || Avoid updating the app |
 | Vanced Manager | 2.6.2 (Crimson) | 🟩 |||
