@@ -223,7 +223,7 @@ appops set [package name] ACTIVATE_VPN allow
 | Via Browser | 4.3.1 | 🟩 ||
 | VLC | 3.4.0 | 🟩 ||
 | VK | 6.58 | 🟩 ||
-| VooV (腾讯会议国际版, com.tencent.voov) | 2.12.5.504 | 🟩 ||
+| VooV (腾讯会议国际版) | 2.12.5.504 | 🟩 ||
 | Warden | 1.0.3.release | 🟨 | App screen flashes otherwise functionality-wise its normal |
 | WhatsApp | 2.21.20.20 | 🟨 | WhatsApp cloud chat backups will not work, app was tested with microG installed |
 | Word | 16.0.14430.20246 | 🟩 || Might require microG |
