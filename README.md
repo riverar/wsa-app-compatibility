@@ -49,7 +49,7 @@ For example, to launch Apple Music in WSA, use:
 ```shell
 wsa://com.apple.android.music
 ```
-*Notice* that some URLs are blocked by default in WSA, like:
+Some URIs are not supported in WSA, such as:
 ```shell
 wsa://com.android.settings
 ```
