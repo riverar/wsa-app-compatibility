@@ -35,7 +35,7 @@ There is no `com.android.vpndialogs` in WSA. However, it's possible to manually 
 appops set [package name] ACTIVATE_VPN allow
 ```
 
-#### Launching Android Apps with URL scheme
+#### Launching Android Apps with URI scheme
 Microsoft provides a custom URI scheme for WSA, making it easier to launch apps:
 ```shell
 wsa://[App Package Name]
