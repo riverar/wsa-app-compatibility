@@ -162,8 +162,8 @@ wsa://com.android.settings
 | Monument Valley 2 | 2.0.3 | ✔️ |||
 | MT File Manager | 2.10.0 | ✔️ |||
 | Muslim Pro | 1.2.3 | 🆖 | Requires GMS |
-| MX player | 1.40.9 | ✔️ | Playstore says unsupported | Works fine after downloading from website |
-| MX player Pro | 1.39.13 | ⚠️ | App home crash at start | Can play video if opened from file manager |
+| MX Player | 1.40.9 | ✔️ | | |
+| MX Player Pro | 1.39.13 | ⚠️ | App crashes, but videos can be played from external sources ||
 | 米游社 (mihoyo Chinese Community) | 2.14.1 | ⚠️ | The app might lag when inserting a photo into a new post |
 | Nekogram X | 8.1.2-1-rc01 | ✔️ || Use NoGcm variant |
 | Neko | 2.6.2 | ✔️ | | |
