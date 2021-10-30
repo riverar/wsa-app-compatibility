@@ -57,6 +57,7 @@ appops set [package name] ACTIVATE_VPN allow
 | AniLabX | 3.8.12 (Iridium) - Beta | 🟩 |||
 | Among Us | 2021.6.30 | 🟩 || Xbox controller is working, however the keyboard isn't working |
 | Amaze File Manager | 3.5.3 | 🟩 | | Avoid updating the app ||
+| Angry Birds Epic | 3.0.27463.4821 | 🟨 | Terrible in-game experience, bad performance and low FPS||
 | APKMirror Installer (Beta) | 1.3.2 | 🟨 | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes ||
 | Arknights | 5.0.01 | 🆖 | Can't login using Google account ||
 | Aurora Store | 4.0.7 | 🟩 |||
