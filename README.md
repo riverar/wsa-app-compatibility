@@ -1,15 +1,12 @@
 ## Contributing
 
-Thanks for your interest in contributing! Doing so is simple. Just 
-[edit this page](https://github.com/riverar/wsa-app-compatibility/edit/master/README.md)
-and submit a pull request (PR) with your changes. Then someone will review it and merge
-it in as soon as possible.
+Thanks for your interest in contributing! Doing so is simple. Just [edit this page](/edit/master/README.md) and submit a pull request (PR) with your changes.
+Someone will review it and merge it in as soon as possible.
 
 When editing the Markdown, please keep these rules in mind:
 
 1. Do not link to any APKs.
-2. Name your commits and Pull requests properly.
-3. Try to avoid grammatical errors and unnecessary capitalization of words
+2. Double-check your spelling/grammar.
 
 ## Legend
 
@@ -20,12 +17,10 @@ This page currently uses Unicode characters from the Geometric Shapes Extended b
 - ⚠️ Works, but with some notable problems
 - ❌ Broken
 
-&nbsp;
-
 ## Support table (OS features)
 
 | Feature | Support level | Notes |
-|---|---|---|
+|---------|---------------|-------|
 | Multi-touch | ✔️ | Demo: [Arcaea](https://www.bilibili.com/video/BV1Ph411n7M5) |
 | Virtual Wifi (VirtWifi) | ✔️ |  |
 | VPN | ❌ | VPN Connection request dialog does not appear |
@@ -56,8 +51,8 @@ wsa://com.android.settings
 
 ## Support table (applications)
 
-| Application    | Latest tested version | Support level | Known Issues| Notes |
-|----------------|-----------------------|---------------|---------------|-----|
+| Application    | Latest tested version | Support level | Known Issues  | Notes |
+|----------------|-----------------------|---------------|---------------|-------|
 | 23andMe | 5.114.0 | ✔️ |||
 | A+ Gallery | 2.2.55.4 | ✔️ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead. ||
 | ADM | 12.5.4 | ✔️ |||
@@ -96,7 +91,7 @@ wsa://com.android.settings
 | Clash of Clans | 14.211.3 | ❌ | App crashes ||
 | Clash Royale | 3.6.1 |❌ | App crashes ||
 | Classroom by Google | 7.6.381.20.90.2 | 🆖 | Requires GMS ||
-| Clouds & Sheep 2 | 1.4.6 | ✔️ | Optionally requires GMS ||
+| Clouds & Sheep 2 | 1.4.6 | ✔️ | Optionally uses GMS ||
 | Clubhouse | 1.0.11 | ⚠️ | Unable to login via phone number, it throws error after entering the OTP | |
 | 酷安 (CoolApk) | 11.4.3 | ⚠️ | Unable to sign in using third party apps ||
 | 创建快捷方式 (Create Shortcut) | 1.17 | ✔️ | | Can be used to access any app |
@@ -204,8 +199,8 @@ wsa://com.android.settings
 | Roblox | 2.499.381 | ⚠️ | Graphical anomalies | GMS warnings might appear but these can be safely ignored |
 | Rootless Launcher | 3.9.1 | ❌ | App crashes |
 | SD Maid (pro) | 5.2.2 | ⚠️ | Unable to grant external storage privileges, can be skipped ||
-| Shadow Fight 2 | 2.16.0 | ⚠️ | Optionally requires GMS, Doesn't support keyboard control makes fighting more harder | GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
-| Shadow Fight 3 | 1.25.7 | ✔️ | Optionally requires GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
+| Shadow Fight 2 | 2.16.0 | ⚠️ | Optionally uses GMS, Doesn't support keyboard control makes fighting more harder | GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
+| Shadow Fight 3 | 1.25.7 | ✔️ | Optionally uses GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
 | Shizuku | 12.3.0.r668.5687d0c | ✔️ | Works well with Wireless debugging |
 | Simple Gallery | 5.3.9 | ❌ | App crashes when you try to view a photo ||
 | Sky: Children of the Light | 0.15.1 | ❌ | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing ||
