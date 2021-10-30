@@ -130,6 +130,7 @@ wsa://com.android.settings
 | Hobi | 2.1.7 | 🆖 | Requires GMS |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | ✔️ | | Game has inbox keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | ⚠️ | Poor graphics quality |
+| huaCtrl PRO | 1.0.27 | ✔️ ||
 | Huawei AppGallery  | 11.4.2.300 | ✔️ | Frequent crashes were experienced, otherwise the app functionality is fine ||
 | Hyper Square | 3.0.1 | ✔️ ||
 | iOS app (any) | | ❌ | Thanks for testing, Brad. |
