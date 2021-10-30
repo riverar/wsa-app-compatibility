@@ -38,7 +38,7 @@ appops set [package name] ACTIVATE_VPN allow
 #### Launching Android Apps with URI scheme
 Microsoft provides a custom URI scheme for WSA, making it easier to launch apps:
 ```shell
-wsl://[App Package Name]
+wsa://[App Package Name]
 ```
 For example, to launch Apple Music in WSA, use:
 ```shell
