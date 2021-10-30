@@ -211,7 +211,7 @@ wsa://com.android.settings
 | Smart Life | 3.32.5 | 🟥 | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted ||
 | Smart Launcher | 5.5 Build 052 | 🟩 ||
 | Smash Hit | 1.4.3 | 🟩 ||
-| Solid Explorer File Manager | 2.8.16 | 🟥 | Crash on start|
+| Solid Explorer File Manager | 2.8.16 | 🟥 | App crashes |
 | Snapchat | | 🟨 | Camera view is flipped | GMS warnings might appear but these can be safely ignored | 
 | Speedtest by Ookla | 4.6.10 (145526) | 🟨 | VPN does not work ||
 | Spotify | 8.6.70.1102 | 🟨 | The app crashes on first startup, but works second startup upwards |
