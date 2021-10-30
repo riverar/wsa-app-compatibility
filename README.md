@@ -10,7 +10,7 @@ When editing the Markdown, please keep these rules in mind:
 
 ## Legend
 
-This page currently uses Unicode characters from the Geometric Shapes Extended block introduced in Unicode 12 (2019). If you are unable to see these characters (multi-colored squares), please open an issue.
+This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://unicode.org/Public/emoji/1.0/emoji-data.txt). If you are unable to see these characters, please open an issue.
  
 - ✔️ Works
 - 🆖 Works, but needs Google Mobile Services
