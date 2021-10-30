@@ -40,6 +40,20 @@ There is no `com.android.vpndialogs` in WSA. However, it's possible to manually 
 appops set [package name] ACTIVATE_VPN allow
 ```
 
+#### Launching Android Apps with URL scheme
+Microsoft provides a custom URI scheme for WSA, making it easier to launch apps:
+```shell
+wsl://[App Package Name]
+```
+For example, to launch Apple Music in WSA, use:
+```shell
+wsa://com.apple.android.music
+```
+Some URIs are not supported in WSA, such as:
+```shell
+wsa://com.android.settings
+```
+
 ## Support table (applications)
 
 | Application    | Latest tested version | Support level | Known Issues| Notes |
