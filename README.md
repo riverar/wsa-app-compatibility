@@ -150,6 +150,7 @@ wsa://com.android.settings
 | Konosuba:FD | 1.12.1 | 🆖 | Requires GMS ||
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 🟥 | App crashes ||
 | League of Legends: Wild Rift | | 🟩 ||
+| LIMBO Demo | 1.20 | 🟩 |||
 | Magic Tiles 3 | 8.086.201 | 🟩 ||
 | Magisk | Internal build? | 🟩 || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131) |
 | MapleStory M | 1.7000.2835 | 🟥 |Crashes at loading screen||
