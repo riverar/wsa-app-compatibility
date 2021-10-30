@@ -35,10 +35,10 @@ There is no `com.android.vpndialogs` in WSA. However, it's possible to manually 
 appops set [package name] ACTIVATE_VPN allow
 ```
 
-#### Launching Android Apps with URI scheme
+#### Launching Android Apps with URL scheme
 Microsoft provides a custom URI scheme for WSA, making it easier to launch apps:
 ```shell
-wsa://[App Package Name]
+wsl://[App Package Name]
 ```
 For example, to launch Apple Music in WSA, use:
 ```shell
@@ -130,7 +130,7 @@ wsa://com.android.settings
 | Hobi | 2.1.7 | 🆖 | Requires GMS |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | ✔️ | | Game has inbox keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | ⚠️ | Poor graphics quality |
-| huaCtrl PRO | 1.0.27 | ✔️ ||
+| HTV (hanime tv) | 3.6.7 | ⚠️ | Failed to play video | Internal player don't work, asks for external player and fails again |
 | Huawei AppGallery  | 11.4.2.300 | ✔️ | Frequent crashes were experienced, otherwise the app functionality is fine ||
 | Hyper Square | 3.0.1 | ✔️ ||
 | iOS app (any) | | ❌ | Thanks for testing, Brad. |
@@ -162,6 +162,8 @@ wsa://com.android.settings
 | Monument Valley 2 | 2.0.3 | ✔️ |||
 | MT File Manager | 2.10.0 | ✔️ |||
 | Muslim Pro | 1.2.3 | 🆖 | Requires GMS |
+| MX player | 1.40.9 | ✔️ | Playstore says unsupported | Works fine after downloading from website |
+| MX player Pro | 1.39.13 | ⚠️ | App home crash at start | Can play video if opened from file manager |
 | 米游社 (mihoyo Chinese Community) | 2.14.1 | ⚠️ | The app might lag when inserting a photo into a new post |
 | Nekogram X | 8.1.2-1-rc01 | ✔️ || Use NoGcm variant |
 | Neko | 2.6.2 | ✔️ | | |
@@ -173,7 +175,7 @@ wsa://com.android.settings
 | Office lens | 16.0.14527.20178 | ❌ || Might require GMS, cannot sign in |
 | Opera Browser Beta | 65.1.3381.61349 (x86_64) | ✔️ || Change app layout to Tablet Mode for a better experience |
 | Opera GX : Gaming Browser | 1.3.6 | ✔️ |||
-| Opera Mini Beta | 61.0.2254.59921 | 🆖 | Dark mode doesn't work due to inability to draw over apps | Crashes without GSM (with no warning) |
+| Opera Mini Beta | 61.0.2254.59921 | 🆖 || Crashes without GSM (with no warning) |
 | Opera Touch Browser | 2.9.6 | ⚠️ | My Flow feature requires GMS | GMS warnings might appear but these can be safely ignored |
 | Oppo App Store (China) | 8.6.4 Beta 1 | ❌ | App freezes on blank screen ||
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | ✔️ |||
