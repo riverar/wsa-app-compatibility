@@ -41,7 +41,7 @@ appops set [package name] ACTIVATE_VPN allow
 ```
 
 #### Launching Android Apps with URL scheme
-Microsoft kindly made a URL scheme, make it easier to launch apps outside the WSA:
+Microsoft provides a custom URI scheme for WSA, making it easier to launch apps:
 ```shell
 wsl://[App Package Name]
 ```
