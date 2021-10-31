@@ -100,7 +100,7 @@ wsa://com.android.settings
 | Deus Ex GO | 2.1.111374 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
 | DevCheck | 3.39 | ❌ | Blank screen on startup ||
 | Device Info HW | 5.4.1 | ✔️ |||
-| Decibel X | 6.4.2 |	⚠️ |	App crashes |
+| Decibel X | 6.4.2 |	⚠️ | App crashes |
 | Discord | 98.6 | ✔️ |||
 | Дурак Онлайн (Durak Online) | 1.9.2 | 🆖 | Requires GMS ||
 | DMM Games Store | 2.8.0 | 🆖 | Requires GMS ||
