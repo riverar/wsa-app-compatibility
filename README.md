@@ -142,6 +142,7 @@ wsa://com.android.settings
 | JioSaavn | 8.2.1 | ✔️ |Doesn't support fullscreen and rare crashes but running fine|
 | Joey (Reddit client) | 2.0.0.1 | ✔️ ||
 | Joplin | 2.4.3 (2097651) | ✔️ ||
+| Kahoot | | ✔️ |||
 | Kik | 7.10.1.176 (82)  | ✔️ ||
 | Kindle | 8.47.1.3370 | ✔️ | | |
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | ✔️ | GMS warnings might appear but these can be safely ignored ||
@@ -163,6 +164,7 @@ wsa://com.android.settings
 | Monument Valley | 2.7.17 | ✔️ |||
 | Monument Valley 2 | 2.0.3 | ✔️ |||
 | MT File Manager | 2.10.0 | ✔️ |||
+| Musically (TikTok) | 7.8.0 | ✔️ |||
 | Muslim Pro | 1.2.3 | 🆖 | Requires GMS |
 | MX Player | 1.40.9 | ✔️ | | |
 | MX Player Pro | 1.39.13 | ⚠️ | App crashes, but videos can be played from external sources ||
