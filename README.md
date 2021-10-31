@@ -112,10 +112,11 @@ wsa://com.android.settings
 | FAST Speed Test | 1.0.8 (88) | ✔️ |||
 | Fancade | 1.7.6 | ❌ | App crashes ||
 | F-Droid | 1.13.1 | ✔️ ||
+| Facebook Messenger | 330.0.0.12.116 (x86_64) | ⚠️ | Chat Heads don't work |
 | Fire Emblem Heroes | 5.10.0 | 🆖 | Requires GMS ||
 | Firefox | 93.2.0 (2015839751) | ✔️ ||
 | Firefox Nightly | 95.0a1 | ✔️ ||
-| Facebook Messenger | 330.0.0.12.116 (x86_64) | ⚠️ | Chat Heads don't work |
+| foobar2000 | 1.2.30 | ✔️ ||
 | Fortnite Installer | 4.1.4 | ❌ | "Device not supported" error |
 | Fortnite | 14.10.0 | ❌ | Crashes at login screen |
 | Fruit Ninja | 3.3.4 | ✔️ | Version check error | Otherwise, other app functionality is fine |
@@ -242,6 +243,7 @@ wsa://com.android.settings
 | Vanced Manager | 2.6.2 (Crimson) | ✔️ |||
 | Vanced MicroG | 0.2.22.212658 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account ||
 | Via Browser | 4.3.1 | ✔️ ||
+| Vivaldi Browser | 4.3.2439.61 | ✔️ ||
 | VLC | 3.4.0 | ✔️ ||
 | VK | 6.58 | ✔️ ||
 | VooV (腾讯会议国际版) | 2.12.5.504 | ✔️ ||
