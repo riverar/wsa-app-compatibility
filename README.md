@@ -1,6 +1,6 @@
 ## Contributing
 
-Thanks for your interest in contributing! Doing so is simple. Just [edit this page](/edit/master/README.md) and submit a pull request (PR) with your changes.
+Thanks for your interest in contributing! Doing so is simple. Just [edit this page](../../edit/master/README.md) and submit a pull request (PR) with your changes.
 Someone will review it and merge it in as soon as possible.
 
 When editing the Markdown, please keep these rules in mind:
