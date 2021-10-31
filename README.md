@@ -54,6 +54,7 @@ wsa://com.android.settings
 | Application    | Latest tested version | Support level | Known Issues  | Notes |
 |----------------|-----------------------|---------------|---------------|-------|
 | 23andMe | 5.114.0 | ✔️ |||
+| 4PDA | 1.9.35 | ✔️ |||
 | A+ Gallery | 2.2.55.4 | ✔️ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead. ||
 | ADM | 12.5.4 | ✔️ |||
 | ADM Pro | 6.4.0 | ✔️ |||
