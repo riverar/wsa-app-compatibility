@@ -190,7 +190,7 @@ wsa://com.android.settings
 | Pokémon Masters EX | 2.13.0 | 🆖 | Requires GMS ||
 | Pokémon Unite | 1.2.1.2 | ⚠️ | Battle experience is terrible ||
 | Pokémon GO | | ❌ | Unable to authenticate ||
-| PornHub APK| | ✔️ | It uh, works ||
+| PornHub | | ✔️ |||
 | The Battle of Polytopia | 2.0.59.5719 | ❌ | Validation error ||
 | Pou | 1.4.84 | ✔️ |||
 | PowerPoint | 16.0.14527.20162 | ✔️ | Might require GMS / MicroG
