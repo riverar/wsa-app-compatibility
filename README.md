@@ -153,6 +153,7 @@ wsa://com.android.settings
 | LIMBO Demo | 1.20 | ✔️ |||
 | Magic Tiles 3 | 8.086.201 | ✔️ ||
 | Magisk | Internal build? | ✔️ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131) |
+| Manzur's Study Circle (MSC) | 1.0.2 | ✔️ |||
 | MapleStory M | 1.7000.2835 | ❌ |Crashes at loading screen||
 | Mario Kart Tour | 2.10.0 | ❌ | Fails to connect to servers after Nintendo login ||
 | Material Files | 1.3.1 | ✔️ ||
