@@ -100,6 +100,7 @@ wsa://com.android.settings
 | 创建快捷方式 (Create Shortcut) | 1.17 | ✔️ | | Can be used to access any app |
 | Comixology | 3.10.18.310421 | ✔️ | | |
 | CPU-Z | 1.41 | ✔️ |||
+| Delivery Club | 4.64.0 | ❌ | App crashes after selecting a shipping address |||
 | Deus Ex GO | 2.1.111374 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
 | DevCheck | 3.39 | ❌ | Blank screen on startup ||
 | Device Info HW | 5.4.1 | ✔️ |||
