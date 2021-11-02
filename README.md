@@ -61,7 +61,7 @@ wsa://com.android.settings
 | Aegis | 2.0.2 | ✔️ |||
 | AFK Arena | 1.72.01 | ⚠️ | Can't login using Google account || 
 | AIMP | 3.10.1052 | ✔️ |||
-| 白夜極光 (Alchemy Stars) | 1.2.2 | ⚠️ | Unacceptable battle loading speed. Bad performance and low FPS in battle scene ||
+| 白夜極光 (Alchemy Stars) | 1.2.2 | ⚠️ | Poor in-game performance |
 | Alien: Blackout | 2.0 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
 | Alto's Adventure | 1.8.0 | ✔️ |||
 | Alto's Odyssey | 1.0.10 | ✔️ |||
