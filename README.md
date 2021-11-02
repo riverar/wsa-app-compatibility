@@ -12,7 +12,7 @@ When editing the Markdown, please keep these rules in mind:
 
 This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://unicode.org/Public/emoji/1.0/emoji-data.txt). If you are unable to see these characters, please open an issue.
  
-- ✔️ Works
+- ✅ Works
 - 🆖 Works, but needs Google Mobile Services
 - ⚠️ Works, but with some notable problems
 - ❌ Broken
