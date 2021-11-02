@@ -61,6 +61,7 @@ wsa://com.android.settings
 | Aegis | 2.0.2 | ✔️ |||
 | AFK Arena | 1.72.01 | ⚠️ | Can't login using Google account || 
 | AIMP | 3.10.1052 | ✔️ |||
+| 白夜極光 (Alchemy Stars) | 1.2.2 | ⚠️ | Unacceptable battle loading speed. Bad performance and low FPS in battle scene ||
 | Alien: Blackout | 2.0 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
 | Alto's Adventure | 1.8.0 | ✔️ |||
 | Alto's Odyssey | 1.0.10 | ✔️ |||
@@ -70,6 +71,7 @@ wsa://com.android.settings
 | Angry Birds Epic | 3.0.27463.4821 | ⚠️ | Terrible in-game experience, bad performance and low FPS||
 | APKMirror Installer (Beta) | 1.3.2 | ⚠️ | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes ||
 | Arknights | 5.0.01 | 🆖 | Can't login using Google account ||
+| 明日方舟 (Arknights Simplified Chinese) | 1.6.01 | ✔️ |||
 | Aurora Store | 4.0.7 | ✔️ |||
 | Audible | 3.15.0 | ✔️ |||
 | APKPure | 3.17.26 | ✔️ | Sometimes, it might require multiple attempts to install an app ||
@@ -191,6 +193,7 @@ wsa://com.android.settings
 | Outlook | 4.2138.0 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation. ||
 | Pixel People | 4.7 | ✔️ | Changing window size breaks the game. Runs at low FPS but is still playable. ||
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | ⚠️ | Battle experience is terrible, cannot sync with Google Play Games |
+| 公主连结R (Princess Connect! Re: Dive Simplified Chinese) | 3.4.10 | ✔️ |||
 | Pokémon Masters EX | 2.13.0 | 🆖 | Requires GMS ||
 | Pokémon Unite | 1.2.1.2 | ⚠️ | Battle experience is terrible ||
 | Pokémon GO | | ❌ | Unable to authenticate ||
