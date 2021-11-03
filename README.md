@@ -261,7 +261,7 @@ wsa://com.android.settings
 | Steam Link | 1.1.81 | ❌ | App crashes |
 | Subway Surfers | 2.24.2 | ✅ | Doesn't support keyboard control |
 | Sword Art Online: Memory Defrag | 3.0.2 | ✅ | Keyboard unsupported |
-| Symbolab | 9.3.0 | ✅ | | Keyboard not working, in-app keyboard available though. |
+| Symbolab | 9.3.0 | ✅ | | Keyboard not working, in-app keyboard is available though |
 | Tachiyomi | 0.12.3 | ✅ ||
 | TeamViewer | 15.22.136 | ✅ ||
 | Termux | 0.117 | ⚠️ | `packages.termux.org` mirror is the only one that works ||
