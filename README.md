@@ -70,7 +70,7 @@ wsa://com.android.settings
 | Amaze File Manager | 3.5.3 | ✔️ | | Avoid updating the app ||
 | Angry Birds Epic | 3.0.27463.4821 | ⚠️ | Terrible in-game experience, bad performance and low FPS||
 | APKMirror Installer (Beta) | 1.3.2 | ⚠️ | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes ||
-| Arknights | 5.0.01 | 🆖 | Can't login using Google account ||
+| Arknights | 5.0.01 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC ||
 | 明日方舟 (Arknights Simplified Chinese) | 1.6.01 | ✔️ |||
 | Aurora Store | 4.0.7 | ✔️ |||
 | Audible | 3.15.0 | ✔️ |||
