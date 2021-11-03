@@ -237,7 +237,7 @@ wsa://com.android.settings
 | Remote Desktop (Microsoft) | 10.0.12.1148 | ✅|||
 | Roblox | 2.499.381 | ⚠️ | Graphical anomalies | GMS warnings might appear but these can be safely ignored |
 | Rootless Launcher | 3.9.1 | ❌ | App crashes |
-| SATRIA | 1.0.0 | ❌ | Needs fingerprint reader support. | |
+| SATRIA | 1.0.0 | ❌ | Needs fingerprint reader support | |
 | SD Maid (pro) | 5.2.2 | ⚠️ | Unable to grant external storage privileges, can be skipped ||
 | Shadow Fight 2 | 2.16.0 | ⚠️ | Optionally uses GMS, Doesn't support keyboard control makes fighting more harder | GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
 | Shadow Fight 3 | 1.25.7 | ✅ | Optionally uses GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
