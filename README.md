@@ -280,7 +280,7 @@ wsa://com.android.settings
 | Vanced Manager | 2.6.2 (Crimson) | ✅ |||
 | Vanced MicroG | 0.2.22.212658 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account ||
 | Via Browser | 4.3.1 | ✅ ||
-| Vidio | 5.64.5-f0aa483a3d | ✅ | | Might require GMS for login. |
+| Vidio | 5.64.5-f0aa483a3d | 🆖 | | Might require GMS for login |
 | Vivaldi Browser | 4.3.2439.61 | ✅ ||
 | VLC | 3.4.0 | ✅ ||
 | VK | 6.58 | ✅ ||
