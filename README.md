@@ -81,7 +81,7 @@ wsa://com.android.settings
 | Apple Music | 3.7.1 | ✅ |||
 | App分享 (AppShare) | 2.1.1 (164) | ❌ | Can't login ||
 | Authenticator by Microsoft | 6.2110.6737 |🆖| Requires GMS ||
-| Arcaea | 3.8.8 | ⚠️ | Keyboard doesn't work on login/register form. | |
+| Arcaea | 3.8.8 | ⚠️ | Keyboard doesn't work on login/register form | |
 | Azur Lane | 6.0.1 | ✅ |||
 | Bad Piggies HD | 2.4.3141 | ✅ | | |
 | BanG Dream! Girls Band Party! | 4.5.0 | 🆖 | Requires GMS | |
