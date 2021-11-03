@@ -23,6 +23,7 @@ This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://u
 |---------|---------------|-------|
 | Multi-touch | ✅ | Demo: [Arcaea](https://www.bilibili.com/video/BV1Ph411n7M5) |
 | Virtual Wifi (VirtWifi) | ✅ |  |
+| Fingerprint Reader | ❌ | Test failed on ROG Flow X13, with SATRIA app |
 | VPN | ❌ | VPN Connection request dialog does not appear |
 | OpenGL ES 3.1 | ❌ | |
 | Vulkan | ❌ | |
@@ -184,6 +185,7 @@ wsa://com.android.settings
 | Minecraft (Play Store) | 1.18.0.23 | ✅ |||
 | Minecraft (China Edition) |  | ✅ |||
 | MiX | 6.57.0-Beta_B21070510 | ✅ |||
+| Mobile JKN | 3.7.1 | ✅ | | Some features need GMS location feature. |
 | MOLA | 2.1.3 | ❌ | App crashes immedately. | |
 | Monument Valley | 2.7.17 | ✅ |||
 | Monument Valley 2 | 2.0.3 | ✅ |||
@@ -235,6 +237,7 @@ wsa://com.android.settings
 | Remote Desktop (Microsoft) | 10.0.12.1148 | ✅|||
 | Roblox | 2.499.381 | ⚠️ | Graphical anomalies | GMS warnings might appear but these can be safely ignored |
 | Rootless Launcher | 3.9.1 | ❌ | App crashes |
+| SATRIA | 1.0.0 | ❌ | Needs fingerprint reader support. | |
 | SD Maid (pro) | 5.2.2 | ⚠️ | Unable to grant external storage privileges, can be skipped ||
 | Shadow Fight 2 | 2.16.0 | ⚠️ | Optionally uses GMS, Doesn't support keyboard control makes fighting more harder | GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
 | Shadow Fight 3 | 1.25.7 | ✅ | Optionally uses GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
