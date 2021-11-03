@@ -61,7 +61,7 @@ wsa://com.android.settings
 | ADM Pro | 6.4.0 | ✅ |||
 | Aegis | 2.0.2 | ✅ |||
 | AFK Arena | 1.72.01 | ⚠️ | Can't login using Google account ||
-| AIDE | 3.2.210316 | ✅ | | Might require GMS. |
+| AIDE | 3.2.210316 | ✅ | | Might optionally require GMS |
 | AIMP | 3.10.1052 | ✅ |||
 | 白夜極光 (Alchemy Stars) | 1.2.2 | ⚠️ | Poor in-game performance |
 | Alien: Blackout | 2.0 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
