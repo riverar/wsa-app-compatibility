@@ -152,7 +152,7 @@ wsa://com.android.settings
 | iOS app (any) | | ❌ | Thanks for testing, Brad. |
 | iPusnas | 1.5.1 | ✅ | | |
 | Instagram | 210.0.0.28.71 | ✅ ||
-| JAKI - Jakarta Kini | 1.2.34 | 🆖 | Requires GMS on some features. | |
+| JAKI - Jakarta Kini | 1.2.34 | 🆖 | Some features require GMS | |
 | Jetpack Joyride | 1.52.1 (58461800) | ⚠️ | Google Play Games sync doesn't work, otherwise the game functionality is fine ||
 | Jet Car Stunts 2 | 1.0.13 | ❌ | Loads up but orientation and menus are broken ||
 | JioSaavn | 8.2.1 | ✅ |Doesn't support fullscreen and rare crashes but running fine|
