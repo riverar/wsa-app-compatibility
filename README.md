@@ -138,7 +138,7 @@ wsa://com.android.settings
 | GeoGebra | 5.0.674.0 | ✅ | | |
 | Gojek | 4.30.1 | 🆖 | Requires GMS | |
 | Google Chrome | 94.0.4606.85 | ✅ | Requires microG or GMS | |
-| Google Meet | 2021.10.03.404303734.Release | ⚠️ | Requires GMS. Share screen doesn't work due to WSA's windowed nature | |
+| Google Meet | 2021.10.03.404303734.Release | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature | |
 | Guardian Tales | 2.23.2 | 🆖 | Requires GMS ||
 | Grab | 5.172.200 from Huawei AppGallery | ✅ ||
 | Grand Theft Auto: San Andreas |  | ✅ ||
