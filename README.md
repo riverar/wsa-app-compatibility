@@ -165,7 +165,7 @@ wsa://com.android.settings
 | Kindle | 8.47.1.3370 | ✅ | | |
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | ✅ | GMS warnings might appear but these can be safely ignored ||
 | Konosuba:FD | 1.12.1 | 🆖 | Requires GMS ||
-| KRL Access | 4.1.0 | ❌ | App crashes immedately. | |
+| KRL Access | 4.1.0 | ❌ | App crashes | |
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | ❌ | App crashes ||
 | League of Legends: Wild Rift | | ✅ ||
 | Libby | 4.3.1 | ✅ | | |
