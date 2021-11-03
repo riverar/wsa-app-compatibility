@@ -89,6 +89,7 @@ wsa://com.android.settings
 | Brave Browser | 1.30.87 | ✅ ||
 | Binance | 2.36.5 | ✅ |||
 | 哔哩哔哩 (Bilibili) |  | ✅ |||
+| CamScanner | 6.3.0.2110240000 | ❌ | WSA freezes after taking a photo. | |
 | Candy Crush Saga | 1.213.2.1 (12132011) | ✅ |||
 | Canvas Student | 6.14.1 | ✅ |||
 | CarX Highway Racing | 1.17.1 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
@@ -103,6 +104,7 @@ wsa://com.android.settings
 | 创建快捷方式 (Create Shortcut) | 1.17 | ✅ | | Can be used to access any app |
 | Comixology | 3.10.18.310421 | ✅ | | |
 | CPU-Z | 1.41 | ✅ |||
+| Dcoder | 4.0.76 | ✅ | | |
 | Delivery Club | 4.64.0 | ❌ | App crashes after selecting a shipping address |||
 | Deus Ex GO | 2.1.111374 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
 | DevCheck | 3.39 | ❌ | Blank screen on startup ||
@@ -132,6 +134,7 @@ wsa://com.android.settings
 | Genshin Impact | 2.2.0 | ⚠️ | Working but heavy graphical glitches - [video](https://www.bilibili.com/video/BV1zT4y1o73D?) |
 | Genshin Impact (Cloud app) || ✅ |||
 | Geekbench |5.4.1| ✅ |||
+| GeoGebra | 5.0.674.0 | ✅ | | |
 | Gojek | 4.30.1 | 🆖 | Requires GMS | |
 | Google Chrome | 94.0.4606.85 | ✅ | Requires microG or GMS | |
 | Google Meet | 2021.10.03.404303734.Release | ⚠️ | Requires GMS. Share screen doesn't work due to WSA's windowed nature | |
@@ -146,6 +149,7 @@ wsa://com.android.settings
 | Huawei AppGallery  | 11.4.2.300 | ✅ | Frequent crashes were experienced, otherwise the app functionality is fine ||
 | Hyper Square | 3.0.1 | ✅ ||
 | iOS app (any) | | ❌ | Thanks for testing, Brad. |
+| iPusnas | 1.5.1 | ✅ | | |
 | Instagram | 210.0.0.28.71 | ✅ ||
 | JAKI - Jakarta Kini | 1.2.34 | 🆖 | Requires GMS on some features. | |
 | Jetpack Joyride | 1.52.1 (58461800) | ⚠️ | Google Play Games sync doesn't work, otherwise the game functionality is fine ||
@@ -173,6 +177,7 @@ wsa://com.android.settings
 | MapleStory M | 1.7000.2835 | ❌ |Crashes at loading screen||
 | Mario Kart Tour | 2.10.0 | ❌ | Fails to connect to servers after Nintendo login ||
 | Material Files | 1.3.1 | ✅ ||
+| Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | ✅ | | |
 | Microsoft Edge | 93.0.961.78 (96107815) | ❌ | Fails to load websites ||
 | Microsoft Launcher | 6.210602.1.994630 | ✅ ||
 | Minecraft (Aurora Store) | 1.17.40.06 | ❌ | Unable to verify game owner ||
@@ -222,6 +227,7 @@ wsa://com.android.settings
 | 战双帕弥什 (Punishing: Gray Raven) || ✅ || Keyboard is supported |
 | Q-Dance | 8.0.7 | ❌ | App crashes ||
 | QooApp | 8.3.3 | ✅ |||
+| QPython 3L | 3.0.0 | ✅ | | |
 | QQ | 8.2.11 | ✅ |||
 | Rayman Classic | 1.0.1 | ✅ |||
 | Reddit | | ✅ |||
@@ -235,6 +241,7 @@ wsa://com.android.settings
 | Shizuku | 12.3.0.r668.5687d0c | ✅ | Works well with Wireless debugging |
 | Simple Gallery | 5.3.9 | ❌ | App crashes when you try to view a photo ||
 | Sky: Children of the Light | 0.15.1 | ❌ | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing ||
+| Slack | 21.11.20.0-B | ✅ | | |
 | Smart Life | 3.32.5 | ❌ | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted ||
 | Smart Launcher | 5.5 Build 052 | ✅ ||
 | Smash Hit | 1.4.3 | ✅ ||
@@ -251,6 +258,7 @@ wsa://com.android.settings
 | Steam Link | 1.1.81 | ❌ | App crashes |
 | Subway Surfers | 2.24.2 | ✅ | Doesn't support keyboard control |
 | Sword Art Online: Memory Defrag | 3.0.2 | ✅ | Keyboard unsupported |
+| Symbolab | 9.3.0 | ✅ | | Keyboard not working, in-app keyboard available though. |
 | Tachiyomi | 0.12.3 | ✅ ||
 | TeamViewer | 15.22.136 | ✅ ||
 | Termux | 0.117 | ⚠️ | `packages.termux.org` mirror is the only one that works ||
@@ -264,6 +272,7 @@ wsa://com.android.settings
 | The King Of Fighters Allstar | 1.9.3 | ✅ | Blank screen / app crash on first boot, works on second boot upwards |
 | This War of Mine | 1.0 | ❌ | Infinite loop at starup screen ||
 | TP-Link Tapo | 2.4.25 | ✅ ||
+| Trello | 2021.14.1.16332-production | ⚠️ | Login needs web browser installed in WSA. Using Windows' default browser won't work. | |
 | UC Browser | 13.0.0.1288 (x86) | ✅ || Avoid updating the app |
 | Vanced Manager | 2.6.2 (Crimson) | ✅ |||
 | Vanced MicroG | 0.2.22.212658 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account ||
