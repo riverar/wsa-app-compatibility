@@ -184,7 +184,7 @@ wsa://com.android.settings
 | Office lens | 16.0.14527.20178 | ❌ || Might require GMS, cannot sign in |
 | Opera Browser Beta | 65.1.3381.61349 (x86_64) | ✅ || Change app layout to Tablet Mode for a better experience |
 | Opera GX : Gaming Browser | 1.3.6 | ✅ |||
-| Opera Mini Beta | 61.0.2254.59921 | ❌ | App crashes ||
+| Opera Mini Beta | 61.0.2254.59921 | 🆖 | Requires GMS ||
 | Opera Touch Browser | 2.9.6 | ⚠️ | My Flow feature requires GMS | GMS warnings might appear but these can be safely ignored |
 | Oppo App Store (China) | 8.6.4 Beta 1 | ❌ | App freezes on blank screen ||
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | ✅ |||
@@ -203,6 +203,7 @@ wsa://com.android.settings
 | Pou | 1.4.84 | ✅ |||
 | PowerPoint | 16.0.14527.20162 | ✅ | Might require GMS / MicroG
 | Phigros |  | ✅ |||
+| Pydroid | 5.00_x86_64 | ✔️ |||
 | 战双帕弥什 (Punishing: Gray Raven) || ✅ || Keyboard is supported |
 | Q-Dance | 8.0.7 | ❌ | App crashes ||
 | QooApp | 8.3.3 | ✅ |||
