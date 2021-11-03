@@ -90,7 +90,7 @@ wsa://com.android.settings
 | Brave Browser | 1.30.87 | ✅ ||
 | Binance | 2.36.5 | ✅ |||
 | 哔哩哔哩 (Bilibili) |  | ✅ |||
-| CamScanner | 6.3.0.2110240000 | ❌ | WSA freezes after taking a photo. | |
+| CamScanner | 6.3.0.2110240000 | ❌ | WSA freezes after taking a snap | |
 | Candy Crush Saga | 1.213.2.1 (12132011) | ✅ |||
 | Canvas Student | 6.14.1 | ✅ |||
 | CarX Highway Racing | 1.17.1 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
