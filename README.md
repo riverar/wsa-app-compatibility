@@ -186,7 +186,7 @@ wsa://com.android.settings
 | Minecraft (China Edition) |  | ✅ |||
 | MiX | 6.57.0-Beta_B21070510 | ✅ |||
 | Mobile JKN | 3.7.1 | ✅ | | Some features need GMS location feature. |
-| MOLA | 2.1.3 | ❌ | App crashes immedately. | |
+| MOLA | 2.1.3 | ❌ | App crashes | |
 | Monument Valley | 2.7.17 | ✅ |||
 | Monument Valley 2 | 2.0.3 | ✅ |||
 | Moodle | 3.9.5 | ✅ | | |
