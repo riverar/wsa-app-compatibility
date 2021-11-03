@@ -275,7 +275,7 @@ wsa://com.android.settings
 | The King Of Fighters Allstar | 1.9.3 | ✅ | Blank screen / app crash on first boot, works on second boot upwards |
 | This War of Mine | 1.0 | ❌ | Infinite loop at starup screen ||
 | TP-Link Tapo | 2.4.25 | ✅ ||
-| Trello | 2021.14.1.16332-production | ⚠️ | Login needs web browser installed in WSA. Using Windows' default browser won't work. | |
+| Trello | 2021.14.1.16332-production | ⚠️ | Login needs web browser installed in WSA, using Windows' default browser will not work | |
 | UC Browser | 13.0.0.1288 (x86) | ✅ || Avoid updating the app |
 | Vanced Manager | 2.6.2 (Crimson) | ✅ |||
 | Vanced MicroG | 0.2.22.212658 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account ||
