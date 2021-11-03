@@ -199,7 +199,7 @@ wsa://com.android.settings
 | Nekogram X | 8.1.2-1-rc01 | ✅ || Use NoGcm variant |
 | Neko | 2.6.2 | ✅ | | |
 | Netflix (Aurora Store) | 8.4.0 | ❌ | "Device not supported" error ||
-| Network IP Scanner | 3.2 | ⚠️ | Only scans WSA's own VirtWifi network. | |
+| Network IP Scanner | 3.2 | ⚠️ | Only scans WSA's own VirtWifi network | |
 | NFL | 56.1.7 | ❌ | App crashes ||
 | NieR Re[in]carnation | 1.7.1 | ❌ | Unable to get past the loading screen ||
 | Nova Launcher | 7.0.49 (7049) | ⚠️ | UI is messy, but app drawer is fine |
