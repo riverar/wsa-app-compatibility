@@ -302,5 +302,5 @@ wsa://com.android.settings
 | Yandex.Maps | 10.6.0 | ⚠️ | Map doesn't work |
 | Ymusic | 3.7.2 | ✅ ||
 | ZArchiver | 0.9.5.8 (9596) | ✅ ||
-| Zenly (Without Google Services) | 4.55.2 | ⚠️ | App crashes after login, but background location works |
+| Zenly (w/o GMS) | 4.55.2 | ⚠️ | App crashes after login, but background location works |
 | Zoom | 5.8.3.2634 | ⚠️ | Camera severely glitched, share screen doesn't work due to WSA's windowed nature. | |
