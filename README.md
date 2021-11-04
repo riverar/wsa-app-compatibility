@@ -137,7 +137,7 @@ wsa://com.android.settings
 | Genshin Impact (Cloud app) || ✅ |||
 | Geekbench |5.4.1| ✅ |||
 | GeoGebra | 5.0.674.0 | ✅ | | |
-| Girls' Frontline (EN) | 2.0702_362 (362) | ⚠️ || Game freezes after splash screen, works after installing WSL2  |
+| Girls' Frontline (EN) | 2.0702_362 (362) | ⚠️ || Game freezes after splash screen, works after installing WSL2, using `wsl --install`  |
 | Gojek | 4.30.1 | 🆖 | Requires GMS | |
 | Google Chrome | 94.0.4606.85 | ✅ | Requires microG or GMS | |
 | Google Meet | 2021.10.03.404303734.Release | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature | |
