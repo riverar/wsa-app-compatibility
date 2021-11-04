@@ -122,7 +122,7 @@ wsa://com.android.settings
 | Formula 1 | 11.0.1449 | ✅ | |
 | FAST Speed Test | 1.0.8 (88) | ✅ |||
 | Fancade | 1.7.6 | ❌ | App crashes ||
-| Fate/Grand Order (US) FGO | 2.22.1 (135) | ✅ || AMD system: A little unstable, but playable |
+| Fate/Grand Order (US) FGO | 2.22.1 (135) | ✅ || A little unstable, but playable |
 | F-Droid | 1.13.1 | ✅ ||
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | ⚠️ | Chat Heads don't work |
 | Fire Emblem Heroes | 5.10.0 | 🆖 | Requires GMS ||
