@@ -122,6 +122,7 @@ wsa://com.android.settings
 | Formula 1 | 11.0.1449 | ✅ | |
 | FAST Speed Test | 1.0.8 (88) | ✅ |||
 | Fancade | 1.7.6 | ❌ | App crashes ||
+| Fate/Grand Order (US) FGO | 2.22.1 (135) | ✅ || AMD system: A little unstable, but playable |
 | F-Droid | 1.13.1 | ✅ ||
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | ⚠️ | Chat Heads don't work |
 | Fire Emblem Heroes | 5.10.0 | 🆖 | Requires GMS ||
@@ -136,6 +137,7 @@ wsa://com.android.settings
 | Genshin Impact (Cloud app) || ✅ |||
 | Geekbench |5.4.1| ✅ |||
 | GeoGebra | 5.0.674.0 | ✅ | | |
+| Girls' Frontline (EN) | 2.0702_362 (362) | ⚠️ || Unconfirmed: Game will always perma freezes after the plash screen, already tried restarting the PC but doesn't work. After installing WSL2, game can now run. AMD system PC |
 | Gojek | 4.30.1 | 🆖 | Requires GMS | |
 | Google Chrome | 94.0.4606.85 | ✅ | Requires microG or GMS | |
 | Google Meet | 2021.10.03.404303734.Release | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature | |
