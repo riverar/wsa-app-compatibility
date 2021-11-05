@@ -268,6 +268,7 @@ wsa://com.android.settings
 | Tachiyomi | 0.12.3 | ✅ ||
 | TeamViewer | 15.22.136 | ✅ ||
 | Termux | 0.117 | ⚠️ | `packages.termux.org` mirror is the only one that works ||
+| TIDAL | 2.49.0 | ✅ ||
 | TikTok (China) | 18.1.0 | ⚠️ | App crashes on first startup and you might face hiccups logging in |
 | TikTok (Global) | 21.6.4 | ⚠️ | Error when trying to log in, you can create a new account |
 | TikTok (TV Version) | 1.6.0 | ❌ | App crashes ||
