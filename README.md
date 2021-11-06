@@ -175,6 +175,7 @@ wsa://com.android.settings
 | LinkedIn | 4.1.632 | ✅ | | |
 | Magic Tiles 3 | 8.086.201 | ✅ ||
 | Magisk | Internal build? | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131) |
+| Magnum Quest | 2.0.0.157579 | ✅ |||
 | ManCityApp | 2.1.11 | 🆖 | | Might require GMS |
 | Manzur's Study Circle (MSC) | 1.0.2 | ✅ |||
 | MapleStory M | 1.7000.2835 | ❌ |Crashes at loading screen||
