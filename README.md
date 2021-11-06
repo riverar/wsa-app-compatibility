@@ -73,7 +73,7 @@ wsa://com.android.settings
 | Angry Birds Epic | 3.0.27463.4821 | ⚠️ | Terrible in-game experience, bad performance and low FPS||
 | APKMirror Installer (Beta) | 1.3.2 | ⚠️ | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes ||
 | Arknights | 5.0.01 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC ||
-| 明日方舟 (Arknights Simplified Chinese) | 1.6.01 | ✔️ |||
+| 明日方舟 (Arknights Simplified Chinese) | 1.6.01 | ✅ |||
 | Aurora Store | 4.0.7 | ✅ |||
 | Audible | 3.15.0 | ✅ |||
 | APKPure | 3.17.26 | ✅ | Sometimes, it might require multiple attempts to install an app ||
@@ -206,7 +206,7 @@ wsa://com.android.settings
 | NieR Re[in]carnation | 1.7.1 | ❌ | Unable to get past the loading screen ||
 | Nova Launcher | 7.0.49 (7049) | ⚠️ | UI is messy, but app drawer is fine |
 | Office | 16.0.14527.20162 | ✅ || Might require microG |
-| Office lens | 16.0.14527.20178 | ❌ || Might require GMS, cannot sign in |
+| Office Lens | 16.0.14527.20178 | ❌ | Might require GMS, cannot sign in ||
 | Opera Browser Beta | 65.1.3381.61349 (x86_64) | ✅ || Change app layout to Tablet Mode for a better experience |
 | Opera GX : Gaming Browser | 1.3.6 | ✅ |||
 | Opera Mini Beta | 61.0.2254.59921 | 🆖 | Requires GMS ||
