@@ -275,6 +275,7 @@ wsa://com.android.settings
 | TikTok (TV Version) | 1.6.0 | ❌ | App crashes ||
 | TikTok Lite | 21.7.1 | ❌ | App crashes ||
 | Telegram | 8.1.2 | ✅ |||
+| Тинькофф (Tinkoff Bank) | 5.20.0 | ✅ |||
 | True Skate | 1.5.39 | ✅ | Minor graphical glitches ||
 | Twitter | 9.16.1-release.00 | ✅ | Optionally requires GMS ||
 | The King Of Fighters Allstar | 1.9.3 | ✅ | Blank screen / app crash on first boot, works on second boot upwards |
