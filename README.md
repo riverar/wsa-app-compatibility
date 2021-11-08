@@ -56,6 +56,7 @@ wsa://com.android.settings
 |----------------|-----------------------|---------------|---------------|-------|
 | 23andMe | 5.114.0 | ✅ |||
 | 4PDA | 1.9.35 | ✅ |||
+| 8 ball pool | 5.5.6 | ✅ | login and sync with facebook works ||
 | A+ Gallery | 2.2.55.4 | ✅ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead. ||
 | ADM | 12.5.4 | ✅ |||
 | ADM Pro | 6.4.0 | ✅ |||
@@ -218,7 +219,7 @@ wsa://com.android.settings
 | Oto Music | 3.0.2 | ✅ || Requires app restart to refresh list |
 | Outlook | 4.2138.0 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation. ||
 | Pixel People | 4.7 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable. ||
-| Plants vs Zombies 2 | ✅ | Cloud save using Google Play Games works if GMS is available ||
+| Plants vs Zombies 2 | 9.2.2 | ✅ | Cloud save using Google Play Games works if GMS is available ||
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | ⚠️ | Battle experience is terrible, cannot sync with Google Play Games |
 | 公主连结R (Princess Connect! Re: Dive Simplified Chinese) | 3.4.10 | ✅ |||
 | Pokémon Masters EX | 2.13.0 | 🆖 | Requires GMS ||
