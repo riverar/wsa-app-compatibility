@@ -309,3 +309,4 @@ wsa://com.android.settings
 | ZArchiver | 0.9.5.8 (9596) | ✅ ||
 | Zenly (w/o GMS) | 4.55.2 | ⚠️ | App crashes after login, but background location works |
 | Zoom | 5.8.3.2634 | ⚠️ | Camera severely glitched, share screen doesn't work due to WSA's windowed nature. | |
+| СберБанк (SberBank) | 12.9.0 | ✅ ||
