@@ -138,6 +138,7 @@ wsa://com.android.settings
 | Genshin Impact (Cloud app) || ✅ |||
 | Geekbench |5.4.1| ✅ |||
 | GeoGebra | 5.0.674.0 | ✅ | | |
+| Geometry Dash | 2.11 | ✅ | If you use high refresh rate monitor, there is a small period where the game speeds up before the level plays for the first time and the audio will get desynced. You can simply pause and resume or die once to fix it since it won't happen on second attempt. | |
 | Girls' Frontline (EN) | 2.0702_362 (362) | ⚠️ || Game freezes after splash screen, works after installing WSL2, using `wsl --install`  |
 | Gojek | 4.30.1 | 🆖 | Requires GMS | |
 | Google Chrome | 94.0.4606.85 | ✅ | Requires microG or GMS | |
@@ -208,6 +209,7 @@ wsa://com.android.settings
 | Nova Launcher | 7.0.49 (7049) | ⚠️ | UI is messy, but app drawer is fine |
 | Office | 16.0.14527.20162 | ✅ || Might require microG |
 | Office Lens | 16.0.14527.20178 | ❌ | Might require GMS, cannot sign in ||
+| Okay? | 4.08 | ✅ |||
 | Opera Browser Beta | 65.1.3381.61349 (x86_64) | ✅ || Change app layout to Tablet Mode for a better experience |
 | Opera GX : Gaming Browser | 1.3.6 | ✅ |||
 | Opera Mini Beta | 61.0.2254.59921 | 🆖 | Requires GMS ||
@@ -264,6 +266,7 @@ wsa://com.android.settings
 | Steam | 2.3.13 | ✅ ||
 | Steam Chat | 1.0 | ✅ ||
 | Steam Link | 1.1.81 | ❌ | App crashes |
+| Stickman Hook | 7.2.8 | ❌ | Game fails to initialize ||
 | Subway Surfers | 2.24.2 | ✅ | Doesn't support keyboard control |
 | Sword Art Online: Memory Defrag | 3.0.2 | ✅ | Keyboard unsupported |
 | Symbolab | 9.3.0 | ✅ | | Keyboard not working, in-app keyboard is available though |
@@ -293,6 +296,9 @@ wsa://com.android.settings
 | VooV (腾讯会议国际版) | 2.12.5.504 | ✅ ||
 | Warden | 1.0.3.release | ⚠️ | App screen flashes otherwise functionality-wise its normal |
 | WhatsApp | 2.21.20.20 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed |
+| Where is my Water? || ⚠️ | Many images are replaced with white rectangles |
+| Where is my Water? 2 || ⚠️ | Most images are replaced with white rectangles, Vgnette overlay is full white and covered the whole playing area. The ground is not textured correctly. |
+| Where is my Water? Featuring XYY || ⚠️ | Bells are invisible |
 | Word | 16.0.14430.20246 | ✅ || Might require microG |
 | Wordament | 3.9.10260 | ✅ | | |
 | 微博 (Weibo) | 11.10.1 | ⚠️ | Cannot sign in using password, shows limit reached for verification codes |
