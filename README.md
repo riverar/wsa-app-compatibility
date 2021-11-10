@@ -183,7 +183,7 @@ wsa://com.android.settings
 | Mario Kart Tour | 2.10.0 | ❌ | Fails to connect to servers after Nintendo login ||
 | Material Files | 1.3.1 | ✅ ||
 | Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | ✅ | | |
-| Microsoft Edge | 93.0.961.78 (96107815) | ❌ | Fails to load websites ||
+| Microsoft Edge | 95.0.1020.42 | ❌ | Works to certain extent, crashes freqeuntly ||
 | Microsoft Launcher | 6.210602.1.994630 | ✅ ||
 | Minecraft (Aurora Store) | 1.17.40.06 | ❌ | Unable to verify game owner ||
 | Minecraft (Play Store) | 1.18.0.23 | ✅ |||
