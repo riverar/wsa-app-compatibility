@@ -90,6 +90,7 @@ wsa://com.android.settings
 | Brawl Stars | 38.159 | ❌ | Game crashes ||
 | Brave Browser | 1.30.87 | ✅ ||
 | Binance | 2.36.5 | ✅ |||
+| Blue Archive (KR) | 1.35.115378 | ❌ | Just blank ||
 | 哔哩哔哩 (Bilibili) |  | ✅ |||
 | CamScanner | 6.3.0.2110240000 | ❌ | WSA freezes after taking a snap | |
 | Candy Crush Saga | 1.213.2.1 (12132011) | ✅ |||
@@ -220,6 +221,7 @@ wsa://com.android.settings
 | OsmAnd~ | 3.9.10 | ✅ |||
 | Oto Music | 3.0.2 | ✅ || Requires app restart to refresh list |
 | Outlook | 4.2138.0 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation. ||
+| One Store | 7.6.0 | ✅ |||
 | Pixel People | 4.7 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable. ||
 | Plants vs Zombies 2 | 9.2.2 | ✅ | Cloud save using Google Play Games works if GMS is available ||
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | ⚠️ | Battle experience is terrible, cannot sync with Google Play Games |
