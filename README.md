@@ -177,6 +177,7 @@ wsa://com.android.settings
 | Libby | 4.3.1 | ✅ | | |
 | LIMBO Demo | 1.20 | ✅ |||
 | LinkedIn | 4.1.632 | ✅ | | |
+| Line Rangers | 7.6.3 | ✅ | | |
 | Magic Tiles 3 | 8.086.201 | ✅ ||
 | Magisk | Internal build? | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131) |
 | ManCityApp | 2.1.11 | 🆖 | | Might require GMS |
