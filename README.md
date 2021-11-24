@@ -203,6 +203,7 @@ wsa://com.android.settings
 | MX Player | 1.40.9 | ✅ | | |
 | MX Player Pro | 1.39.13 | ⚠️ | App crashes, but videos can be played from external sources ||
 | 米游社 (mihoyo Chinese Community) | 2.14.1 | ⚠️ | The app might lag when inserting a photo into a new post |
+| My Verizon | 16.4.2 | ✅ || the page is sideway for a second when opening the app and then turn vertical(which is the correct way it should display in) |
 | Nekogram X | 8.1.2-1-rc01 | ✅ || Use NoGcm variant |
 | Neko | 2.6.2 | ✅ | | |
 | Netflix (Aurora Store) | 8.4.0 | ❌ | "Device not supported" error ||
