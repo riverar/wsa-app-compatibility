@@ -117,6 +117,7 @@ wsa://com.android.settings
 | Дурак Онлайн (Durak Online) | 1.9.2 | 🆖 | Requires GMS ||
 | DMM Games Store | 2.8.0 | 🆖 | Requires GMS ||
 | Duolingo | 5.2.35 | ✅ | | |
+| Easybell | 2.1.30 | ✅ | | |
 | Epic Seven | 1.0.406 | ⚠️ | Low FPS, unable to sign in with Google ||
 | ES File Explorer | 4.2.1.8 | ✅ | | Avoid updating the app |
 | Excel | 16.0.14527.20162 | ✅ |||
