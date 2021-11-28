@@ -313,6 +313,7 @@ wsa://com.android.settings
 | 微博极速版 (Weibo Fast) | 10.9.2 (4620) | ⚠️ | Cannot sign in |
 | 文件管理器+ | 2.7.1 | ✅ ||
 | মুনাজাতে মাকবূল ও মাসনূন দু'আ - Munajate Makbul | 1.0 | ✅ |
+| X-plore File Manager | 4.27.10 | ✅ ||
 | Yahoo! Fantasy Sports | 10.31.0 | ❌ | App crashes on launch |
 | YouTube (Google)| 16.40.35 | 🆖 | Requires GMS |
 | YouTube Music (Google) | 4.49.51 | 🆖 | Requires GMS |
