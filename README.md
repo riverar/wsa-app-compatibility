@@ -158,7 +158,7 @@ wsa://com.android.settings
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64 |
 | iOS app (any) | | ❌ | Thanks for testing, Brad. |
 | iPusnas | 1.5.1 | ✅ | | |
-| Instagram | 210.0.0.28.71 | ✅ ||
+| Instagram | 215.0.0.0.340 | ⚠️ || Can't reply to stories, often crashes when playing video stories or Reels, app screen might flicker when playing videos | Issues not specific to beta version
 | JAKI - Jakarta Kini | 1.2.34 | 🆖 | Some features require GMS | |
 | Jetpack Joyride | 1.52.1 (58461800) | ⚠️ | Google Play Games sync doesn't work, otherwise the game functionality is fine ||
 | Jet Car Stunts 2 | 1.0.13 | ❌ | Loads up but orientation and menus are broken ||
@@ -226,20 +226,20 @@ wsa://com.android.settings
 | Oto Music | 3.0.2 | ✅ || Requires app restart to refresh list |
 | Outlook | 4.2138.0 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation. ||
 | One Store | 7.6.0 | ✅ |||
+| Phigros |  | ✅ |||
 | Pixel People | 4.7 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable. ||
 | Plants vs Zombies 2 | 9.2.2 | ✅ | Cloud save using Google Play Games works if GMS is available ||
-| Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | ⚠️ | Battle experience is terrible, cannot sync with Google Play Games |
-| 公主连结R (Princess Connect! Re: Dive Simplified Chinese) | 3.4.10 | ✅ |||
 | Pokémon Masters EX | 2.13.0 | 🆖 | Requires GMS ||
 | Pokémon Unite | 1.2.1.2 | ⚠️ | Battle experience is terrible ||
 | Pokémon GO | | ❌ | Unable to authenticate ||
 | PornHub | | ✅ |||
-| The Battle of Polytopia | 2.0.59.5719 | ❌ | Validation error ||
 | Pou | 1.4.84 | ✅ |||
 | PowerPoint | 16.0.14527.20162 | ✅ | Might require GMS / MicroG
-| Phigros |  | ✅ |||
-| Pydroid | 5.00_x86_64 | ✔️ |||
+| Prep Ladder | 2.0.79-p | ⚠️ | Video pane opens but no audio or video and time keeps on going
+| 公主连结R (Princess Connect! Re: Dive (Simplified Chinese) | 3.4.10 | ✅ |||
+| Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | ⚠️ | Battle experience is terrible, cannot sync with Google Play Games |
 | 战双帕弥什 (Punishing: Gray Raven) || ✅ || Keyboard is supported |
+| Pydroid | 5.00_x86_64 | ✔️ |||
 | Q-Dance | 8.0.7 | ❌ | App crashes ||
 | QooApp | 8.3.3 | ✅ |||
 | QPython 3L | 3.0.0 | ✅ | | |
@@ -279,6 +279,9 @@ wsa://com.android.settings
 | Tachiyomi | 0.12.3 | ✅ ||
 | TeamViewer | 15.22.136 | ✅ ||
 | Termux | 0.117 | ⚠️ | `packages.termux.org` mirror is the only one that works ||
+| The Battle of Polytopia | 2.0.59.5719 | ❌ | Validation error ||
+| The King Of Fighters Allstar | 1.9.3 | ✅ | Blank screen / app crash on first boot, works on second boot upwards |
+| This War of Mine | 1.0 | ❌ | Infinite loop at starup screen ||
 | TIDAL | 2.49.0 | ✅ ||
 | TikTok (China) | 18.1.0 | ⚠️ | App crashes on first startup and you might face hiccups logging in |
 | TikTok (Global) | 21.6.4 | ⚠️ | Error when trying to log in, you can create a new account |
@@ -286,12 +289,10 @@ wsa://com.android.settings
 | TikTok Lite | 21.7.1 | ❌ | App crashes ||
 | Telegram | 8.1.2 | ✅ |||
 | Тинькофф (Tinkoff Bank) | 5.20.0 | ✅ |||
-| True Skate | 1.5.39 | ✅ | Minor graphical glitches ||
-| Twitter | 9.16.1-release.00 | ✅ | Optionally requires GMS ||
-| The King Of Fighters Allstar | 1.9.3 | ✅ | Blank screen / app crash on first boot, works on second boot upwards |
-| This War of Mine | 1.0 | ❌ | Infinite loop at starup screen ||
 | TP-Link Tapo | 2.4.25 | ✅ ||
+| True Skate | 1.5.39 | ✅ | Minor graphical glitches ||
 | Trello | 2021.14.1.16332-production | ⚠️ | Login needs web browser installed in WSA, using Windows' default browser will not work | |
+| Twitter | 9.16.1-release.00 | ✅ | Optionally requires GMS ||
 | UC Browser | 13.0.0.1288 (x86) | ✅ || Avoid updating the app |
 | Vanced Manager | 2.6.2 (Crimson) | ✅ |||
 | Vanced MicroG | 0.2.22.212658 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account ||
@@ -315,11 +316,11 @@ wsa://com.android.settings
 | মুনাজাতে মাকবূল ও মাসনূন দু'আ - Munajate Makbul | 1.0 | ✅ |
 | X-plore File Manager | 4.27.10 | ✅ ||
 | Yahoo! Fantasy Sports | 10.31.0 | ❌ | App crashes on launch |
+| Yandex.Maps | 10.6.0 | ⚠️ | Map doesn't work |
 | YouTube (Google)| 16.40.35 | 🆖 | Requires GMS |
 | YouTube Music (Google) | 4.49.51 | 🆖 | Requires GMS |
 | Youtube Vanced | 16.29.39 | ⚠️ | Picture-in-picture doesn't work & Can't join channel membership |
 | YouTube Music Vanced | 43.9.50 | ✅ ||
-| Yandex.Maps | 10.6.0 | ⚠️ | Map doesn't work |
 | Ymusic | 3.7.2 | ✅ ||
 | ZArchiver | 0.9.5.8 (9596) | ✅ ||
 | Zenly (w/o GMS) | 4.55.2 | ⚠️ | App crashes after login, but background location works |
