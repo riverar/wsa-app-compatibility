@@ -106,6 +106,7 @@ wsa://com.android.settings
 | 酷安 (CoolApk) | 11.4.3 | ⚠️ | Unable to sign in using third party apps ||
 | 创建快捷方式 (Create Shortcut) | 1.17 | ✅ | | Can be used to access any app |
 | Comixology | 3.10.18.310421 | ✅ | | |
+| Cronometer | 3.13.1 | ✅ | | |
 | CPU-Z | 1.41 | ✅ |||
 | Dcoder | 4.0.76 | ✅ | | |
 | Delivery Club | 4.64.0 | ❌ | App crashes after selecting a shipping address |||
@@ -224,6 +225,7 @@ wsa://com.android.settings
 | Oreo: Twist, Lick, Dunk | 1.5.6 | ✅ | Minor graphical glitches ||
 | OsmAnd~ | 3.9.10 | ✅ |||
 | Oto Music | 3.0.2 | ✅ || Requires app restart to refresh list |
+| OurGroceries | 4.0.10 |✅ | Premium keys require Google Play Store||
 | Outlook | 4.2138.0 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation. ||
 | One Store | 7.6.0 | ✅ |||
 | Phigros |  | ✅ |||
