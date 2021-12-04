@@ -310,7 +310,7 @@ wsa://com.android.settings
 | Word | 16.0.14430.20246 | ✅ || Might require microG |
 | Wordament | 3.9.10260 | ✅ | | |
 | Wulkanowy (F-Droid) | 1.4.3 | ✅ | | |
-| Wulkanowy (Play Store) | 1.4.3 | 🆖 | | Requires GMS for Firebase messages |
+| Wulkanowy (Play Store) | 1.4.3 | 🆖 | | |
 | 微博 (Weibo) | 11.10.1 | ⚠️ | Cannot sign in using password, shows limit reached for verification codes |
 | 微博国际版 (Weibo International) | 3.9.8 | ⚠️ | Cannot sign in |
 | 微博极速版 (Weibo Fast) | 10.9.2 (4620) | ⚠️ | Cannot sign in |
