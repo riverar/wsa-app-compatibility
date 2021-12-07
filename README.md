@@ -56,7 +56,7 @@ wsa://com.android.settings
 |----------------|-----------------------|---------------|---------------|-------|
 | 23andMe | 5.114.0 | ✅ |||
 | 4PDA | 1.9.35 | ✅ |||
-| 8 ball pool | 5.5.6 | ✅ | login and sync with facebook works ||
+| 8 ball pool | 5.5.6 | ✅ |||
 | A+ Gallery | 2.2.55.4 | ✅ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead. ||
 | ADM | 12.5.4 | ✅ |||
 | ADM Pro | 6.4.0 | ✅ |||
@@ -90,7 +90,7 @@ wsa://com.android.settings
 | Brawl Stars | 38.159 | ❌ | Game crashes ||
 | Brave Browser | 1.30.87 | ✅ ||
 | Binance | 2.36.5 | ✅ |||
-| Blue Archive (KR) | 1.35.115378 | ❌ | Just blank ||
+| Blue Archive (KR) | 1.35.115378 | ❌ | Blank screen on app launch ||
 | 哔哩哔哩 (Bilibili) |  | ✅ |||
 | CamScanner | 6.3.0.2110240000 | ❌ | WSA freezes after taking a snap | |
 | Candy Crush Saga | 1.213.2.1 (12132011) | ✅ |||
@@ -283,7 +283,7 @@ wsa://com.android.settings
 | Termux | 0.117 | ⚠️ | `packages.termux.org` mirror is the only one that works ||
 | The Battle of Polytopia | 2.0.59.5719 | ❌ | Validation error ||
 | The King Of Fighters Allstar | 1.9.3 | ✅ | Blank screen / app crash on first boot, works on second boot upwards |
-| This War of Mine | 1.0 | ❌ | Infinite loop at starup screen ||
+| This War of Mine | 1.0 | ❌ | Infinite loop at start-up screen ||
 | TIDAL | 2.49.0 | ✅ ||
 | TikTok (China) | 18.1.0 | ⚠️ | App crashes on first startup and you might face hiccups logging in |
 | TikTok (Global) | 21.6.4 | ⚠️ | Error when trying to log in, you can create a new account |
