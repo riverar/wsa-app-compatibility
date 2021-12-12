@@ -330,3 +330,4 @@ wsa://com.android.settings
 | Zenly (w/o GMS) | 4.55.2 | ⚠️ | App crashes after login, but background location works |
 | Zoom | 5.8.3.2634 | ⚠️ | Camera severely glitched, share screen doesn't work due to WSA's windowed nature. | |
 | СберБанк (SberBank) | 12.9.0 | ✅ ||
+| Rocket League Sideswipe | 1.0 (356721) | ❌ | OpenGL ES 3.1 unsupported |
