@@ -231,6 +231,9 @@ wsa://com.android.settings
 | Phigros |  | ✅ |||
 | Pixel People | 4.7 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable. ||
 | Plants vs Zombies 2 | 9.2.2 | ✅ | Cloud save using Google Play Games works if GMS is available ||
+| Plex | 8.26.2.29389 | ✅ |||
+| Plex Dash | 1.1.1 | ❌ | App crashes after splash screen ||
+| Plexamp | 3.8.2 | ⚠️ | Layout and app orientation issues ||
 | Pokémon Masters EX | 2.13.0 | 🆖 | Requires GMS ||
 | Pokémon Unite | 1.2.1.2 | ⚠️ | Battle experience is terrible ||
 | Pokémon GO | | ❌ | Unable to authenticate ||
