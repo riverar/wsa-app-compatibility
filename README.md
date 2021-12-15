@@ -308,6 +308,7 @@ wsa://com.android.settings
 | VK | 6.58 | ✅ ||
 | VooV (腾讯会议国际版) | 2.12.5.504 | ✅ ||
 | Warden | 1.0.3.release | ⚠️ | App screen flashes otherwise functionality-wise its normal |
+| War Robots (APKPure) | 7.7.7 (134783) | ✅ | GMS warnings might appear but these can be safely ignored |
 | WhatsApp | 2.21.20.20 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed |
 | Where is my Water? || ⚠️ | Many images are replaced with white rectangles |
 | Where is my Water? 2 || ⚠️ | Most images are replaced with white rectangles, Vgnette overlay is full white and covered the whole playing area. The ground is not textured correctly. |
