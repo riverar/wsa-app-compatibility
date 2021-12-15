@@ -86,6 +86,7 @@ wsa://com.android.settings
 | Azur Lane | 6.0.1 | ✅ |||
 | Bad Piggies HD | 2.4.3141 | ✅ | | |
 | BanG Dream! Girls Band Party! | 4.5.0 | 🆖 | Requires GMS | |
+| Battle Cats Quest | 1.0.4 | ✅ |||
 | Bromite | 94.0.4606.94 |  ✅ |  | Use x64 build |
 | Brawl Stars | 38.159 | ❌ | Game crashes ||
 | Brave Browser | 1.30.87 | ✅ ||
@@ -96,10 +97,12 @@ wsa://com.android.settings
 | Candy Crush Saga | 1.213.2.1 (12132011) | ✅ |||
 | Canvas Student | 6.14.1 | ✅ |||
 | CarX Highway Racing | 1.17.1 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
+| C.A.T.S (Crash Arena Turbo Stars) | 2.40.2 | ✅ | GMS warnings might appear but these can be safely ignored ||
 | 超星学习通 | 5.0.3 |❌| Crashes on startup ||
 | 超星学习通 | 4.6.1 |✅|||
 | Clash of Clans | 14.211.3 | ❌ | App crashes ||
-| Clash Royale | 3.6.1 |❌ | App crashes ||
+| Clash Royale | 3.6.1 | ❌ | App crashes ||
+| Clash Mini | 1.1142.10 | ❌ | App crashes ||
 | Classroom by Google | 7.6.381.20.90.2 | 🆖 | Requires GMS ||
 | Clouds & Sheep 2 | 1.4.6 | ✅ | Optionally uses GMS ||
 | Clubhouse | 1.0.11 | ⚠️ | Unable to login via phone number, it throws error after entering the OTP | |
@@ -149,12 +152,14 @@ wsa://com.android.settings
 | Guardian Tales | 2.23.2 | 🆖 | Requires GMS ||
 | Grab | 5.172.200 from Huawei AppGallery | ✅ ||
 | Grand Theft Auto: San Andreas |  | ✅ ||
+| Hill Climb Racing | 1.53.0 (501) | ✅ ||
 | Hitman Sniper | 1.7.193827 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
 | Hobi | 2.1.7 | 🆖 | Requires GMS |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | ✅ | | Game has inbox keyboard controller for WASD |
 | Honkai Impact 3rd| 5.1.0 | ⚠️ | Poor graphics quality |
 | HTV (hanime tv) | 3.6.7 | ⚠️ | Failed to play video | Internal player don't work, asks for external player and fails again |
 | Huawei AppGallery  | 11.4.2.300 | ✅ | Frequent crashes were experienced, otherwise the app functionality is fine ||
+| Hungry Shark Evolution | | ✅ |||
 | Hyper Square | 3.0.1 | ✅ ||
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64 |
 | iOS app (any) | | ❌ | Thanks for testing, Brad. |
@@ -169,11 +174,12 @@ wsa://com.android.settings
 | JuiceSSH | 3.2.2 | ⚠️ | Connecting to SSH server needs multiple tries | |
 | Kahoot | | ✅ |||
 | Khan Academy | 7.3.3 | ✅ | | |
-| Kik | 7.10.1.176 (82)  | ✅ ||
+| Kik | 7.10.1.176 (82)  | ✅ |||
 | Kindle | 8.47.1.3370 | ✅ | | |
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | ✅ | GMS warnings might appear but these can be safely ignored ||
 | Konosuba:FD | 1.12.1 | 🆖 | Requires GMS ||
-| KRL Access | 4.1.0 | ❌ | App crashes | |
+| KRL Access | 4.1.0 | ❌ | App crashes | ||
+| Last Day On Earth: Survival || 🆖 | Might require GMS ||
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | ❌ | App crashes ||
 | League of Legends: Wild Rift | | ✅ ||
 | Libby | 4.3.1 | ✅ | | |
@@ -199,6 +205,7 @@ wsa://com.android.settings
 | Monument Valley | 2.7.17 | ✅ |||
 | Monument Valley 2 | 2.0.3 | ✅ |||
 | Moodle | 3.9.5 | ✅ | | |
+| Mortal Kombat X(APKPure) | 5.9.0 | ❌ | Stuck on initialization screen, message shows up saying "Download failed to start" ||
 | MT File Manager | 2.10.0 | ✅ |||
 | Musically (TikTok) | 7.8.0 | ✅ |||
 | Muslim Pro | 1.2.3 | 🆖 | Requires GMS |
@@ -250,6 +257,7 @@ wsa://com.android.settings
 | QPython 3L | 3.0.0 | ✅ | | |
 | QQ | 8.2.11 | ✅ |||
 | Rayman Classic | 1.0.1 | ✅ |||
+| Rider | 1.59 | ✅ |||
 | Reddit | | ✅ |||
 | Relay | 10.0.378 | ✅ |||
 | Remote Desktop (Microsoft) | 10.0.12.1148 | ✅|||
@@ -307,6 +315,7 @@ wsa://com.android.settings
 | VLC | 3.4.0 | ✅ ||
 | VK | 6.58 | ✅ ||
 | VooV (腾讯会议国际版) | 2.12.5.504 | ✅ ||
+| War Robots | 7.7.7 (134783) | ✅ | GMS warnings might appear but these can be safely ignored |
 | Warden | 1.0.3.release | ⚠️ | App screen flashes otherwise functionality-wise its normal |
 | WhatsApp | 2.21.20.20 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed |
 | Where is my Water? || ⚠️ | Many images are replaced with white rectangles |
