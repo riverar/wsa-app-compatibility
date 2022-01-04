@@ -131,7 +131,7 @@ wsa://com.android.settings
 | Fate/Grand Order (US) FGO | 2.22.1 (135) | ✅ || A little unstable, but playable |
 | F-Droid | 1.13.1 | ✅ ||
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | ⚠️ | Chat Heads don't work |
-| Fire Emblem Heroes | 6.0.0 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error. ||
+| Fire Emblem Heroes | 6.0.0 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error. | Workaround availabe by disabling Googe Play services, see [detailed steps(中文)](https://dearrrfish.notion.site/Windows-WSA-FEH-b2232d4f04604d07994ce6c89e5881de) |
 | Firefox | 93.2.0 (2015839751) | ✅ ||
 | Firefox Nightly | 95.0a1 | ✅ ||
 | foobar2000 | 1.2.30 | ✅ ||
