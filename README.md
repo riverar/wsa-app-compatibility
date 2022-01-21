@@ -196,6 +196,7 @@ wsa://com.android.settings
 | Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | ✅ | | |
 | Microsoft Edge | 95.0.1020.42 | ❌ | App frequently crashes ||
 | Microsoft Launcher | 6.210602.1.994630 | ✅ ||
+| Microsoft Powerapps | 3.21124.20 | ✅ ||
 | Minecraft (Aurora Store) | 1.17.40.06 | ❌ | Unable to verify game owner ||
 | Minecraft (Play Store) | 1.18.0.23 | ✅ |||
 | Minecraft (China Edition) |  | ✅ |||
