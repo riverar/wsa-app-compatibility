@@ -344,4 +344,3 @@ wsa://com.android.settings
 | СберБанк (SberBank) | 12.9.0 | ✅ ||
 | Rocket League Sideswipe | 1.0 (356721) | ❌ | OpenGL ES 3.1 is unsupported ||
 | Real Racing 3 | 10.1.0 | ✅ | Only controller is supported. keyboard doesn't work ||
-| google play games | current | ✅ |works. |
