@@ -163,7 +163,7 @@ wsa://com.android.settings
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64 |
 | iOS app (any) | | ❌ | Thanks for testing, Brad. |
 | iPusnas | 1.5.1 | ✅ | | |
-| Instagram | 215.0.0.0.340 | ⚠️ || Can't reply to stories, often crashes when playing video stories or Reels, app screen might flicker when playing videos | Issues not specific to beta version
+| Instagram | 215.0.0.0.340 | ⚠️ | Can't reply to stories, often crashes when playing video stories or Reels, app screen might flicker when playing videos, a buzz when sound in start of the first video open after app launch || Issues not specific to beta version
 | JAKI - Jakarta Kini | 1.2.34 | 🆖 | Some features require GMS | |
 | Jetpack Joyride | 1.52.1 (58461800) | ⚠️ | Google Play Games sync doesn't work, otherwise the game functionality is fine ||
 | Jet Car Stunts 2 | 1.0.13 | ❌ | Loads up but orientation and menus are broken ||
