@@ -343,5 +343,5 @@ wsa://com.android.settings
 | Zoom | 5.8.3.2634 | ⚠️ | Camera severely glitched, share screen doesn't work due to WSA's windowed nature. | |
 | СберБанк (SberBank) | 12.9.0 | ✅ ||
 | Rocket League Sideswipe | 1.0 (356721) | ❌ | OpenGL ES 3.1 is unsupported ||
-| Real Racing 3 | 10.1.0 | ✅ |no keyboard support, controller works. ||
+| Real Racing 3 | 10.1.0 | ✅ | Only controller is supported. keyboard doesn't work ||
 | google play games | current | ✅ |works. |
