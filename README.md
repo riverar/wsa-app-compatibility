@@ -193,7 +193,7 @@ wsa://com.android.settings
 | MapleStory M | 1.7000.2835 | ❌ |Crashes at loading screen||
 | Mario Kart Tour | 2.10.0 | ❌ | Fails to connect to servers after Nintendo login ||
 | Material Files | 1.3.1 | ✅ ||
-| microG Settings | from NanoDroid and MinMicroG | ❌ | App crashes and won't load
+| microG Settings | from NanoDroid and MinMicroG | ❌ | App crashes, doesn't load
 | Microsoft Authenticator | 6.2112.8213 | ✅ || Some features might require GMS |
 | Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | ✅ | | |
 | Microsoft Edge | 95.0.1020.42 | ❌ | App frequently crashes ||
