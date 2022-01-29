@@ -291,6 +291,8 @@ wsa://com.android.settings
 | Stickman Hook | 7.2.8 | ❌ | Game fails to initialize ||
 | Subway Surfers | 2.24.2 | ✅ | Doesn't support keyboard control |
 | Sword Art Online: Memory Defrag | 3.0.2 | ✅ | Keyboard unsupported |
+| Sword Art Online: Unleash Blading | 3.2.0 | ⚠️ | Can't detect device |
+| Sword Art Online: Integral Factor| 1.9.2 | ✅ | Keyboard unsupported |
 | Symbolab | 9.3.0 | ✅ | | Keyboard not working, in-app keyboard is available though |
 | Tachiyomi | 0.12.3 | ✅ ||
 | TeamViewer | 15.22.136 | ✅ ||
