@@ -75,6 +75,7 @@ wsa://com.android.settings
 | APKMirror Installer (Beta) | 1.3.2 | ⚠️ | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes ||
 | Arknights | 5.0.01 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC ||
 | 明日方舟 (Arknights Simplified Chinese) | 1.6.01 | ✅ |||
+| Asphalt 9 ||⚠️|Keyboard unsupported||
 | Aurora Store | 4.0.7 | ✅ |||
 | Audible | 3.15.0 | ✅ |||
 | APKPure | 3.17.26 | ✅ | Sometimes, it might require multiple attempts to install an app ||
@@ -163,7 +164,7 @@ wsa://com.android.settings
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64 |
 | iOS app (any) | | ❌ | Thanks for testing, Brad. |
 | iPusnas | 1.5.1 | ✅ | | |
-| Instagram | 219.0.0.12.117 | 🆖 || Cannot reply to Stories and frequent app crashes |
+| Instagram | 219.0.0.12.117 | 🆖 || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories |
 | JAKI - Jakarta Kini | 1.2.34 | 🆖 | Some features require GMS | |
 | Jetpack Joyride | 1.52.1 (58461800) | ⚠️ | Google Play Games sync doesn't work, otherwise the game functionality is fine ||
 | Jet Car Stunts 2 | 1.0.13 | ❌ | Loads up but orientation and menus are broken ||
