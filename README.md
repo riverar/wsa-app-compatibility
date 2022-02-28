@@ -83,7 +83,7 @@ wsa://com.android.settings
 | Apple Music | 3.7.1 | ✅ |||
 | App分享 (AppShare) | 2.1.1 (164) | ❌ | Can't login ||
 | Arcaea | 3.8.8 | ⚠️ | Keyboard doesn't work on login/register form | |
-| Alan Walker-The Aviation Game | 3.0.6 | ✅ | |  touchscreen and cursor works, keyboard doesn't work|
+| Alan Walker-The Aviation Game | 3.0.6 | ✅ | |  Touchscreen and cursor works; keyboard doesn't work |
 | Azur Lane | 6.0.820 | ⚠️ | Some characters may appear missing and the game can get stuck while in combat, this can be fixed by restarting the app. ||
 | Bad Piggies HD | 2.4.3141 | ✅ | | |
 | BanG Dream! Girls Band Party! | 4.5.0 | 🆖 | Requires GMS | |
