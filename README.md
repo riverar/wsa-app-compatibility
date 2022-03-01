@@ -299,6 +299,7 @@ wsa://com.android.settings
 | Tachiyomi | 0.12.3 | ✅ ||
 | TeamViewer | 15.22.136 | ✅ ||
 | Termux | 0.117 | ⚠️ | `packages.termux.org` mirror is the only one that works ||
+| The Battle Cats | 11.2.1 | ✅ ||
 | The Battle of Polytopia | 2.0.59.5719 | ❌ | Validation error ||
 | The King Of Fighters Allstar | 1.9.3 | ✅ | Blank screen / app crash on first boot, works on second boot upwards |
 | This War of Mine | 1.0 | ❌ | Infinite loop at start-up screen ||
