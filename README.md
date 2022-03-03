@@ -78,6 +78,7 @@ wsa://com.android.settings
 | Asphalt 9 ||⚠️|Keyboard unsupported||
 | Aurora Store | 4.0.7 | ✅ |||
 | Audible | 3.15.0 | ✅ |||
+| Authy | 24.8.5 (139) | ✅ ||Gives a warning message for Google Play services but works perfectly fine once you click OK|
 | APKPure | 3.17.26 | ✅ | Sometimes, it might require multiple attempts to install an app ||
 | Aptoide App Store | 9.20.2.1 | ✅ | Sometimes, downloads might get stuck ||
 | Apple Music | 3.7.1 | ✅ |||
@@ -149,6 +150,7 @@ wsa://com.android.settings
 | Geometry Dash | 2.11 | ✅ | If you use high refresh rate monitor, there is a small period where the game speeds up before the level plays for the first time and the audio will get desynced. You can simply pause and resume or die once to fix it since it won't happen on second attempt. | |
 | Girls' Frontline (EN) | 2.0702_362 (362) | ⚠️ || Game freezes after splash screen, works after installing WSL2, using `wsl --install`  |
 | Gojek | 4.30.1 | 🆖 | Requires GMS | |
+| Golf Rival | 2.54.241 (88) | 🆖 | Requires GMS | Gives warning message. Game works. but gameplay is bad. You are not able to pan, you can only move |
 | Google Chrome | 94.0.4606.85 | ✅ | Requires microG or GMS | |
 | Google Meet | 2021.10.03.404303734.Release | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature | |
 | Guardian Tales | 2.23.2 | 🆖 | Requires GMS ||
@@ -158,6 +160,7 @@ wsa://com.android.settings
 | Hitman Sniper | 1.7.193827 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
 | Hobi | 2.1.7 | 🆖 | Requires GMS |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | ✅ | | Game has inbox keyboard controller for WASD |
+| Housesigma Canada Real Estate| 4.3.6 (121) | ✅ ||
 | Honkai Impact 3rd| 5.1.0 | ⚠️ | Poor graphics quality |
 | HTV (hanime tv) | 3.6.7 | ⚠️ | Failed to play video | Internal player don't work, asks for external player and fails again |
 | Huawei AppGallery  | 11.4.2.300 | ✅ | Frequent crashes were experienced, otherwise the app functionality is fine ||
@@ -314,6 +317,7 @@ wsa://com.android.settings
 | TP-Link Tapo | 2.4.25 | ✅ ||
 | True Skate | 1.5.39 | ✅ | Minor graphical glitches ||
 | Trello | 2021.14.1.16332-production | ⚠️ | Login needs web browser installed in WSA, using Windows' default browser will not work | |
+| Tune In Pro | 28.7 (267721) | ✅ |||
 | Twitter | 9.16.1-release.00 | ✅ | Optionally requires GMS ||
 | UC Browser | 13.0.0.1288 (x86) | ✅ || Avoid updating the app |
 | Vanced Manager | 2.6.2 (Crimson) | ✅ |||
@@ -326,6 +330,7 @@ wsa://com.android.settings
 | VooV (腾讯会议国际版) | 2.12.5.504 | ✅ ||
 | War Robots | 7.7.7 (134783) | ✅ | GMS warnings might appear but these can be safely ignored |
 | Warden | 1.0.3.release | ⚠️ | App screen flashes otherwise functionality-wise its normal |
+| Wealthsimple Trade | 2.27.1 (2195) | ✅ |||
 | WhatsApp | 2.21.20.20 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed |
 | Where is my Water? || ⚠️ | Many images are replaced with white rectangles |
 | Where is my Water? 2 || ⚠️ | Most images are replaced with white rectangles, Vgnette overlay is full white and covered the whole playing area. The ground is not textured correctly. |
