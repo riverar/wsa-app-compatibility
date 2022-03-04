@@ -78,7 +78,7 @@ wsa://com.android.settings
 | Asphalt 9 ||⚠️|Keyboard unsupported||
 | Aurora Store | 4.0.7 | ✅ |||
 | Audible | 3.15.0 | ✅ |||
-| Authy | 24.8.5 (139) | ✅ ||Gives a warning message for Google Play services but works perfectly fine once you click OK|
+| Authy | 24.8.5 (139) | ✅ || Produces warnings about GMS which are safe to ignore. |
 | APKPure | 3.17.26 | ✅ | Sometimes, it might require multiple attempts to install an app ||
 | Aptoide App Store | 9.20.2.1 | ✅ | Sometimes, downloads might get stuck ||
 | Apple Music | 3.7.1 | ✅ |||
