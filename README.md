@@ -313,6 +313,7 @@ wsa://com.android.settings
 | TikTok (TV Version) | 1.6.0 | ❌ | App crashes ||
 | TikTok Lite | 21.7.1 | ❌ | App crashes ||
 | Telegram | 8.1.2 | ✅ |||
+| Tesla | 4.6.1 | 🆖 | Vehicle graphics do not load. Map does not load, cannot enable phone key. | Internet-based vehicle controls, charge stats, service all work. |
 | Тинькофф (Tinkoff Bank) | 5.20.0 | ✅ |||
 | TP-Link Tapo | 2.4.25 | ✅ ||
 | True Skate | 1.5.39 | ✅ | Minor graphical glitches ||
