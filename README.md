@@ -156,7 +156,7 @@ wsa://com.android.settings
 | Guardian Tales | 2.23.2 | 🆖 | Requires GMS ||
 | Grab | 5.172.200 from Huawei AppGallery | ✅ ||
 | Grand Theft Auto: San Andreas |  | ✅ ||
-| Hay Day | 1.53.46(1700) | 🆖 | Requires GMS | |
+| Hay Day | 1.53.46(1700) | 🆖 | Account synchronization requires GMS, but it can be bypassed with Supercell ID | |
 | Hill Climb Racing | 1.53.0 (501) | ✅ ||
 | Hitman Sniper | 1.7.193827 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
 | Hobi | 2.1.7 | 🆖 | Requires GMS |
