@@ -183,6 +183,7 @@ wsa://com.android.settings
 | Kik | 7.10.1.176 (82)  | ✅ |||
 | Kindle | 8.47.1.3370 | ✅ | | |
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | ✅ | GMS warnings might appear but these can be safely ignored ||
+| Kobo Books | 8.40.29843 | ⚠️ | Aspect ratio and resolution are fixed, appears blurry when resized ||
 | Konosuba:FD | 1.12.1 | 🆖 | Requires GMS ||
 | KRL Access | 4.1.0 | ❌ | App crashes | ||
 | Last Day On Earth: Survival || 🆖 | Might require GMS ||
@@ -230,6 +231,7 @@ wsa://com.android.settings
 | NFL | 56.1.7 | ❌ | App crashes ||
 | NieR Re[in]carnation | 1.7.1 | ❌ | Unable to get past the loading screen ||
 | Nova Launcher | 7.0.49 (7049) | ⚠️ | UI is messy, but app drawer is fine |
+| Nu Carnival | 1.0.2-erolabs | ❌ | App stuck on a black screen ||
 | Office | 16.0.14527.20162 | ✅ || Might require microG |
 | Office Lens | 16.0.14527.20178 | ❌ | Might require GMS, cannot sign in ||
 | Okay? | 4.08 | ✅ |||
@@ -254,6 +256,7 @@ wsa://com.android.settings
 | Pokémon Masters EX | 2.13.0 | 🆖 | Requires GMS ||
 | Pokémon Unite | 1.2.1.2 | ⚠️ | Battle experience is terrible ||
 | Pokémon GO | | ❌ | Unable to authenticate ||
+| Pocket | 7.56.0.0 | ⚠️ | Unable to log in with a Firefox account, instant (push) syncing is unavailable ||
 | PornHub | | ✅ |||
 | Pou | 1.4.84 | ✅ |||
 | PowerPoint | 16.0.14527.20162 | ✅ | Might require GMS / MicroG
