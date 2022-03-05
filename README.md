@@ -71,6 +71,7 @@ wsa://com.android.settings
 | AniLabX | 3.8.12 (Iridium) - Beta | ✅ |||
 | Among Us | 2021.6.30 | ✅ || Xbox controller is working, however the keyboard isn't working |
 | Amaze File Manager | 3.5.3 | ✅ | | Avoid updating the app ||
+| AntennaPod | 2.5.0 | ✅ ||| 
 | Angry Birds Epic | 3.0.27463.4821 | ⚠️ | Terrible in-game experience, bad performance and low FPS||
 | APKMirror Installer (Beta) | 1.3.2 | ⚠️ | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes ||
 | Arknights | 5.0.01 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC ||
@@ -283,6 +284,8 @@ wsa://com.android.settings
 | Shizuku | 12.3.0.r668.5687d0c | ✅ | Works well with Wireless debugging |
 | Simple Gallery | 5.3.9 | ❌ | App crashes when you try to view a photo ||
 | Sky: Children of the Light | 0.15.1 | ❌ | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing ||
+| Sky Map | 1.10.0 - RC3 | 🆖 | Complains about missing accelerometer controls, requires GMS ||
+| SkySafari | 6.8.6.15 | 🆖 | Failed license check on startup, appears to require GMS ||
 | Slack | 21.11.20.0-B | ✅ | | |
 | Smart Life | 3.32.5 | ❌ | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted ||
 | Smart Launcher | 5.5 Build 052 | ✅ ||
