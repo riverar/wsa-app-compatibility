@@ -74,6 +74,7 @@ wsa://com.android.settings
 | AntennaPod | 2.5.0 | ✅ ||| 
 | Angry Birds Epic | 3.0.27463.4821 | ⚠️ | Terrible in-game experience, bad performance and low FPS||
 | APKMirror Installer (Beta) | 1.3.2 | ⚠️ | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes ||
+| AquaMail (Pro) | 1.34.0-118 | ✅ ||| 
 | Arknights | 5.0.01 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC ||
 | 明日方舟 (Arknights Simplified Chinese) | 1.6.01 | ✅ |||
 | Asphalt 9 ||⚠️|Keyboard unsupported||
@@ -97,6 +98,7 @@ wsa://com.android.settings
 | Blue Archive (KR) | 1.35.115378 | ❌ | Blank screen on app launch ||
 | Blue Archive (GB) | 1.36.120365 | ❌ | Black screen on app launch ||
 | 哔哩哔哩 (Bilibili) |  | ✅ |||
+| BritBox by BBC & ITV | 2.1.2 (20043) | ❌ | App crashes on start ||
 | CamScanner | 6.3.0.2110240000 | ❌ | WSA freezes after taking a snap | |
 | Candy Crush Saga | 1.213.2.1 (12132011) | ✅ |||
 | Canvas Student | 6.14.1 | ✅ |||
@@ -126,6 +128,7 @@ wsa://com.android.settings
 | DMM Games Store | 2.8.0 | 🆖 | Requires GMS ||
 | Duolingo | 5.2.35 | ✅ | | |
 | Easybell | 2.1.30 | ✅ | | |
+| Emby | 2.0.48g | ✅ | | |
 | Epic Seven | 1.0.406 | ⚠️ | Low FPS, unable to sign in with Google ||
 | ES File Explorer | 4.2.1.8 | ✅ | | Avoid updating the app |
 | Excel | 16.0.14527.20162 | ✅ |||
@@ -150,6 +153,7 @@ wsa://com.android.settings
 | GeoGebra | 5.0.674.0 | ✅ | | |
 | Geometry Dash | 2.11 | ✅ | If you use high refresh rate monitor, there is a small period where the game speeds up before the level plays for the first time and the audio will get desynced. You can simply pause and resume or die once to fix it since it won't happen on second attempt. | |
 | Girls' Frontline (EN) | 2.0702_362 (362) | ⚠️ || Game freezes after splash screen, works after installing WSL2, using `wsl --install`  |
+| Globe2Go | 4.7.4.20.0810/3890 | ✅ | | |
 | Gojek | 4.30.1 | 🆖 | Requires GMS | |
 | Golf Rival | 2.54.241 (88) | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan. |
 | Google Chrome | 94.0.4606.85 | ✅ | Requires microG or GMS | |
@@ -281,6 +285,7 @@ wsa://com.android.settings
 | SD Maid (pro) | 5.2.2 | ⚠️ | Unable to grant external storage privileges, can be skipped ||
 | Shadow Fight 2 | 2.16.0 | ⚠️ | Optionally uses GMS, Doesn't support keyboard control makes fighting more harder | GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
 | Shadow Fight 3 | 1.25.7 | ✅ | Optionally uses GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS |
+| ShemarooMe | 1.0.16 (106) | ✅ ||
 | Shizuku | 12.3.0.r668.5687d0c | ✅ | Works well with Wireless debugging |
 | Simple Gallery | 5.3.9 | ❌ | App crashes when you try to view a photo ||
 | Sky: Children of the Light | 0.15.1 | ❌ | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing ||
@@ -307,11 +312,13 @@ wsa://com.android.settings
 | Sword Art Online: Unleash Blading | 3.2.0 | ⚠️ | Can't detect device |
 | Sword Art Online: Integral Factor| 1.9.2 | ✅ | Keyboard unsupported |
 | Symbolab | 9.3.0 | ✅ | | Keyboard not working, in-app keyboard is available though |
+| Sync for Reddit Pro | 20.0.3 | ✅ ||
 | Tachiyomi | 0.12.3 | ✅ ||
 | TeamViewer | 15.22.136 | ✅ ||
 | Termux | 0.117 | ⚠️ | `packages.termux.org` mirror is the only one that works ||
 | The Battle Cats | 11.2.1 | ✅ ||
 | The Battle of Polytopia | 2.0.59.5719 | ❌ | Validation error ||
+| The Globe and Mail | 6.2.0 (100) | ✅ | | |
 | The King Of Fighters Allstar | 1.9.3 | ✅ | Blank screen / app crash on first boot, works on second boot upwards |
 | This War of Mine | 1.0 | ❌ | Infinite loop at start-up screen ||
 | TIDAL | 2.49.0 | ✅ ||
