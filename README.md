@@ -121,7 +121,7 @@ wsa://com.android.settings
 | DevCheck | 3.39 | ❌ | Blank screen on startup ||
 | Device Info HW | 5.4.1 | ✅ |||
 | Decibel X | 6.4.2 |	⚠️ | App crashes |
-| DirecTV for Tablet | 5.29.001 | ✅ ||App crashes sometimes. Works when restarted. Tried Live TV and works perfectly|
+| DirecTV for Tablet | 5.29.001 | ⚠️ || Frequent crashing, other functionality proper. |
 | Discord | 98.6 | ✅ |||
 | Дурак Онлайн (Durak Online) | 1.9.2 | 🆖 | Requires GMS ||
 | DMM Games Store | 2.8.0 | 🆖 | Requires GMS ||
