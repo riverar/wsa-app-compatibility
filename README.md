@@ -134,7 +134,7 @@ wsa://com.android.settings
 | ES File Explorer | 4.2.1.8 | ✅ | | Avoid updating the app |
 | Excel | 16.0.14527.20162 | ✅ |||
 | F1 TV| 2.0.5 | ⚠️ | Terrible app experience including screen flashes and crashes while watching a video |
-| Formula 1 | 11.0.1449 | ✅ | |
+| Formula 1 | 11.0.1533 | ⚠️ | Live Timing is broken, keeps crashing on initialization |
 | FAST Speed Test | 1.0.8 (88) | ✅ |||
 | Fancade | 1.7.6 | ❌ | App crashes ||
 | Fate/Grand Order (US) FGO | 2.22.1 (135) | ✅ || A little unstable, but playable |
