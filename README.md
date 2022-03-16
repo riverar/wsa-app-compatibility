@@ -194,6 +194,7 @@ wsa://com.android.settings
 | KRL Access | 4.1.0 | ❌ | App crashes | ||
 | Last Day On Earth: Survival || 🆖 | Might require GMS ||
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | ❌ | App crashes ||
+| Lawnchair | 12 Alpha 5 | ✅ | | |
 | League of Legends: Wild Rift | | ✅ ||
 | Libby | 4.3.1 | ✅ | | |
 | LIMBO Demo | 1.20 | ✅ |||
