@@ -317,6 +317,7 @@ wsa://com.android.settings
 | Symbolab | 9.3.0 | ✅ | | Keyboard not working, in-app keyboard is available though |
 | Sync for Reddit Pro | 20.0.3 | ✅ ||
 | Tachiyomi | 0.12.3 | ✅ ||
+| Teamfight Tactics | 12.5.4259171 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable. |
 | TeamViewer | 15.22.136 | ✅ ||
 | Termux | 0.117 | ⚠️ | `packages.termux.org` mirror is the only one that works ||
 | The Battle Cats | 11.2.1 | ✅ ||
