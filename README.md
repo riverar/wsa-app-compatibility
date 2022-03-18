@@ -376,4 +376,4 @@ wsa://com.android.settings
 | Rocket League Sideswipe | 1.0 (356721) | ❌ | OpenGL ES 3.1 is unsupported ||
 | Real Racing 3 | 10.1.0 | ✅ | Only controller is supported. keyboard doesn't work ||
 | BBC iPlayer | 4.137.0.25403 | ✅ | Sideloaded ||
-| ウマ娘 (Umamusume) | 1.16.0 | ⚠️ | Dont work with GTX1660. Work with Microsoft Basic Render Driver. Sometime wierd graphic but all things works | Some features might require GMS |
+| ウマ娘 (Umamusume) | 1.16.0 | ⚠️ | Doesn't work with GTX1660. Works with Microsoft Basic Render Driver with graphical issues. | Some features may require GMS. |
