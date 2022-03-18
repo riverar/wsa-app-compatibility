@@ -326,7 +326,7 @@ wsa://com.android.settings
 | This War of Mine | 1.0 | ❌ | Infinite loop at start-up screen ||
 | TIDAL | 2.49.0 | ✅ ||
 | TikTok (China) | 18.1.0 | ⚠️ | App crashes on first startup and you might face hiccups logging in |
-| TikTok (Global) | 21.6.4 | ⚠️ | Error when trying to log in, you can create a new account |
+| TikTok (Global)| 23.7.3 | ✅ | |You can login or create a new account|
 | TikTok (TV Version) | 1.6.0 | ❌ | App crashes ||
 | TikTok Lite | 21.7.1 | ❌ | App crashes ||
 | Telegram | 8.1.2 | ✅ |||
