@@ -315,6 +315,7 @@ wsa://com.android.settings
 | Sword Art Online: Memory Defrag | 3.0.2 | ✅ | Keyboard unsupported |
 | Sword Art Online: Unleash Blading | 3.2.0 | ⚠️ | Can't detect device |
 | Sword Art Online: Integral Factor| 1.9.2 | ✅ | Keyboard unsupported |
+| SwiFTP Server| 1.24 | ✅ |||
 | Symbolab | 9.3.0 | ✅ | | Keyboard not working, in-app keyboard is available though |
 | Sync for Reddit Pro | 20.0.3 | ✅ ||
 | Tachiyomi | 0.12.3 | ✅ ||
