@@ -381,4 +381,4 @@ wsa://com.android.settings
 | Real Racing 3 | 10.1.0 | ✅ | Only controller is supported. keyboard doesn't work ||
 | BBC iPlayer | 4.137.0.25403 | ✅ | Sideloaded ||
 | ウマ娘 (Umamusume) | 1.16.0 | ⚠️ | Doesn't work with GTX1660. Works with Microsoft Basic Render Driver with graphical issues. | Some features may require GMS. |
-| Dwarf balls | 3.4.1 | ⚠️ | Requires GMS For Google play games login. Some In Game objects have broken shadows
+| Dwarf Balls | 3.4.1 | ⚠️ | Requires GMS For Google Play login. Some in-game objects have broken shadows.
