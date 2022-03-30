@@ -167,6 +167,7 @@ wsa://com.android.settings
 | Hill Climb Racing | 1.53.0 (501) | ✅ ||
 | Hitman Sniper | 1.7.193827 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS ||
 | Hobi | 2.1.7 | 🆖 | Requires GMS |
+| Home Assistant | 2022.3.0-full | ✅ | Havent tested everything yet, but seems like it works fine so far |
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | ✅ | | Game has inbox keyboard controller for WASD |
 | Housesigma Canada Real Estate| 4.3.6 (121) | ✅ ||
 | Honkai Impact 3rd| 5.1.0 | ⚠️ | Poor graphics quality |
