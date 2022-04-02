@@ -231,6 +231,7 @@ wsa://com.android.settings
 | Nekogram X | 8.1.2-1-rc01 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | ❌ | "Device not supported" error
 | Network IP Scanner | 3.2 | ⚠️ | Only scans WSA's own VirtWifi network
+| NewPipe | 0.22.1 | ✅
 | NFL | 56.1.7 | ❌ | App crashes
 | NieR Re[in]carnation | 1.7.1 | ❌ | Unable to get past the loading screen
 | Nova Launcher | 7.0.49 (7049) | ⚠️ | UI is messy, but app drawer is fine
@@ -253,6 +254,7 @@ wsa://com.android.settings
 | Phigros || ✅
 | Pixel People | 4.7 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable.
 | Plants vs Zombies 2 | 9.2.2 | ✅ | Cloud save using Google Play Games works if GMS is available
+| Playstation App | 21.11.2 | ⚠️ | Runs very slow and takes some time to connect to voice chat, beside that it works  
 | Plex | 8.26.2.29389 | ✅
 | Plex Dash | 1.1.1 | ❌ | App crashes after splash screen
 | Plexamp | 3.8.2 | ⚠️ | Layout and app orientation issues
