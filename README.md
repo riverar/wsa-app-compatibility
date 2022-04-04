@@ -216,6 +216,7 @@ wsa://com.android.settings
 | Minecraft (Play Store) | 1.18.0.23 | ✅
 | MiX | 6.57.0-Beta_B21070510 | ✅
 | Mobile JKN | 3.7.1 | ✅ || Some features might require GMS
+| Mobile Legends | 1.6.66.7281 | ✅ 
 | MOLA | 2.1.3 | ❌ | App crashes
 | Monument Valley | 2.7.17 | ✅
 | Monument Valley 2 | 2.0.3 | ✅
