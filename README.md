@@ -391,4 +391,4 @@ wsa://com.android.settings
 | СберБанк (SberBank) | 12.9.0 | ✅
 | Тинькофф (Tinkoff Bank) | 5.20.0 | ✅
 | মুনাজাতে মাকবূল ও মাসনূন দু'আ - Munajate Makbul | 1.0 | ✅
-| Dwarf Balls | 3.4.1 | ⚠️ | Requires GMS For Google Play login. Some in-game objects have broken shadows.
+| Dwarf Balls | 3.5.2 | 🆖 | Requires GMS For Google Play login. OpenGL 3+ and Vulkan Support added Shadows are now fully normal 
