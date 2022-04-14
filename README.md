@@ -156,7 +156,8 @@ wsa://com.android.settings
 | Gojek | 4.30.1 | 🆖 | Requires GMS
 | Golf Rival | 2.54.241 (88) | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
 | Google Chrome | 94.0.4606.85 | ✅ | Requires microG or GMS
-| Google Classroom | 8.0.061.20.90.0 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
+| Google Classroom | 8.0.061.20.90.3 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
+| Google Drive | 2.22.117.3.all.alldpi | ✅ | Works fine, may reuire GMS ||
 | Google Meet | 2021.10.03.404303734.Release | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
 | Grab | 5.172.200 from Huawei AppGallery | ✅
 | Grand Theft Auto: San Andreas || ✅
