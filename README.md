@@ -69,7 +69,7 @@ wsa://com.android.settings
 | Alto's Adventure | 1.8.0 | ✅
 | Alto's Odyssey | 1.0.10 | ✅
 | Amaze File Manager | 3.5.3 | ✅ || Avoid updating the app
-| Among Us | 2021.6.30 | ✅ || Xbox controller is working, however the keyboard isn't working
+| Among Us | 2022.3.29 | ✅ | Keyboard may be unresponsive. | Xbox controller works. |
 | Angry Birds Epic | 3.0.27463.4821 | ⚠️ | Terrible in-game experience, bad performance and low FPS
 | AniLabX | 3.8.12 (Iridium) - Beta | ✅
 | AntennaPod | 2.5.0 | ✅
