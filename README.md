@@ -152,7 +152,7 @@ wsa://com.android.settings
 | Geometry Dash | 2.11 | ✅ | If you use high refresh rate monitor, there is a small period where the game speeds up before the level plays for the first time and the audio will get desynced. You can simply pause and resume or die once to fix it since it won't happen on second attempt.
 | Girls' Frontline (EN) | 2.0702_362 (362) | ⚠️ || Game freezes after splash screen, works after installing WSL2, using `wsl --install`
 | Globe2Go | 4.7.4.20.0810/3890 | ✅ |
-| Gmail | 2022.03.06.437126241.Release | ✅ | May require GMS or MicroG ||
+| Gmail | 2022.03.06.437126241.Release | ✅ || May require GMS |
 | Gojek | 4.30.1 | 🆖 | Requires GMS
 | Golf Rival | 2.54.241 (88) | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
 | Google Chrome | 94.0.4606.85 | ✅ | Requires microG or GMS
