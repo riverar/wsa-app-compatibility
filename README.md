@@ -106,7 +106,6 @@ wsa://com.android.settings
 | Clash Mini | 1.1142.10 | ❌ | App crashes
 | Clash of Clans | 14.211.3 | ❌ | App crashes
 | Clash Royale | 3.6.1 | ❌ | App crashes
-| Classroom by Google | 7.6.381.20.90.2 | 🆖 | Requires GM
 | Clouds & Sheep 2 | 1.4.6 | ✅ | Optionally uses GMS
 | Clubhouse | 1.0.11 | ⚠️ | Unable to login via phone number, it throws error after entering the OTP
 | Comixology | 3.10.18.310421 | ✅
