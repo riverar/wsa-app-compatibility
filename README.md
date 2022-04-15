@@ -166,6 +166,7 @@ wsa://com.android.settings
 | Hill Climb Racing | 1.53.0 (501) | ✅
 | Hitman Sniper | 1.7.193827 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
 | Hobi | 2.1.7 | 🆖 | Requires GMS
+| Home Assistant | 2022.3.0-full | ✅ | Basic functionality works, additional / extended functionality has not been yet tested. |
 | Honkai Impact 3rd| 5.1.0 | ⚠️ | Poor graphics quality
 | Housesigma Canada Real Estate| 4.3.6 (121) | ✅
 | HTV (hanime tv) | 3.6.7 | ⚠️ | Failed to play video | Internal player don't work, asks for external player and fails again
