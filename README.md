@@ -145,6 +145,7 @@ wsa://com.android.settings
 | Game Dev Story | 2.47 | ❌ | App can start but with infinite "loading" screen
 | Game Pass | 2110.17.1005 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | Garage: Bad Dream Adventure | 1.0.191 | ⚠️ | Stuck after start of Chapter 1
+| GCash | 5.51.0 | 🆖 | Requires GMS. Will warn "limited functionality" if no GMS is present, if present, works normally. 
 | Geekbench |5.4.1| ✅
 | Genshin Impact (Cloud app) || ✅
 | Genshin Impact | 2.2.0 | ⚠️ | Working but heavy graphical glitches - [video](https://www.bilibili.com/video/BV1zT4y1o73D?)
@@ -294,6 +295,7 @@ wsa://com.android.settings
 | Shadow Fight 3 | 1.25.7 | ✅ | Optionally uses GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS
 | ShemarooMe | 1.0.16 (106) | ✅
 | Shizuku | 12.3.0.r668.5687d0c | ✅ | Works well with Wireless debugging
+| Shopee PH | 2.86.09 | ⚠️ | App works but cannot login
 | Showtime | 3.1.1 | ❌ | App crashes when you try to login. Button clicks dont work
 | Simple Gallery | 5.3.9 | ❌ | App crashes when you try to view a photo
 | Sky Map | 1.10.0 - RC3 | 🆖 | Complains about missing accelerometer controls, requires GMS
