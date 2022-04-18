@@ -142,6 +142,7 @@ wsa://com.android.settings
 | Fortnite | 14.10.0 | ❌ | Crashes at login screen
 | Fortnite Installer | 4.1.4 | ❌ | "Device not supported" error
 | Fruit Ninja | 3.3.4 | ✅ | Version check error | Otherwise, other app functionality is fine
+| Game Dev Story | 2.47 | ❌ | App can start but with infinite "loading" screen
 | Game Pass | 2110.17.1005 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | Garage: Bad Dream Adventure | 1.0.191 | ⚠️ | Stuck after start of Chapter 1
 | Geekbench |5.4.1| ✅
