@@ -354,6 +354,7 @@ wsa://com.android.settings
 | VK | 6.58 | ✅
 | VLC | 3.4.0 | ✅
 | VooV (腾讯会议国际版) | 2.12.5.504 | ✅
+| VSCO | 264 | ⚠️ | Cannot sign in
 | War Robots | 7.7.7 (134783) | ✅ | GMS warnings might appear but these can be safely ignored
 | Warden | 1.0.3.release | ⚠️ | App screen flashes otherwise functionality-wise its normal
 | Wealthsimple Trade | 2.27.1 (2195) | ✅
