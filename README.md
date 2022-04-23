@@ -182,6 +182,7 @@ wsa://com.android.settings
 | Honkai Impact 3rd| 5.1.0 | ⚠️ | Poor graphics quality
 | Housesigma Canada Real Estate| 4.3.6 (121) | ✅
 | HTV (hanime tv) | 3.6.7 | ⚠️ | Failed to play video | Internal player don't work, asks for external player and fails again
+| huaCtrl PRO | 1.0.27 | ✅
 | Huawei AppGallery | 11.4.2.300 | ✅ | Frequent crashes were experienced, otherwise the app functionality is fine
 | Hungry Shark Evolution || ✅
 | Hyper Square | 3.0.1 | ✅
