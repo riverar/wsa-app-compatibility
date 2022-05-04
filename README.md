@@ -152,6 +152,8 @@ wsa://com.android.settings
 | Fortnite | 14.10.0 | ❌ | Crashes at login screen
 | Fortnite Installer | 4.1.4 | ❌ | "Device not supported" error
 | Fruit Ninja | 3.3.4 | ✅ | Version check error | Otherwise, other app functionality is fine
+| FTP Server (Free) (F-Droid) | 3.1 - 30100 (11-30) | ✅
+| FX File Explorer | 8.0.3.0 (r8008) | ✅ | Tested only on the base version (without FX Plus)
 | Game Dev Story | 2.47 | ❌ | App can start but with infinite "loading" screen
 | Game Pass | 2110.17.1005 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | Garage: Bad Dream Adventure | 1.0.191 | ⚠️ | Stuck after start of Chapter 1
@@ -335,7 +337,7 @@ wsa://com.android.settings
 | Sword Art Online: Unleash Blading | 3.2.0 | ⚠️ | Can't detect device
 | Symbolab | 9.3.0 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | ✅
-| Tachiyomi | 0.12.3 | ✅
+| Tachiyomi | 0.13.4 | ✅
 | Teamfight Tactics | 12.5.4259171 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | ✅
 | Telegram | 8.1.2 | ✅
