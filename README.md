@@ -403,7 +403,7 @@ wsa://com.android.settings
 | Тинькофф (Tinkoff Bank) | 5.20.0 | ✅
 | মুনাজাতে মাকবূল ও মাসনূন দু'আ - Munajate Makbul | 1.0 | ✅
 | ウマ娘 プリティーダービー | 1.16.0 | ⚠️ | Doesn't work with GTX1660. Works with Microsoft Basic Render Driver with graphical issues. | Some features may require GMS.
-| 九黎 | 1.3.5.01 | ⚠️ | App crashes
+| 九黎 | 1.3.5.01 | ❌ | App crashes
 | 公主连结R (Princess Connect! Re: Dive (Simplified Chinese) | 3.4.10 | ✅
 | 创建快捷方式 (Create Shortcut) | 1.17 | ✅ || Can be used to access any app
 | 哔哩哔哩 (Bilibili) || ✅
