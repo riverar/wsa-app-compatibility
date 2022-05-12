@@ -374,7 +374,7 @@ wsa://com.android.settings
 | VSCO | 264 | ⚠️ | Cannot sign in
 | War Robots | 7.7.7 (134783) | ✅ | GMS warnings might appear but these can be safely ignored
 | Warden | 1.0.3.release | ⚠️ | App screen flashes otherwise functionality-wise its normal
-| Warfare Incorporated | 1.63 | ✅ | The selection box is not functioning though
+| Warfare Incorporated | 1.63 | ✅ | The selection box does not work.
 | Wealthsimple Trade | 2.27.1 (2195) | ✅
 | WhatsApp | 2.21.20.20 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed
 | Where is my Water? || ⚠️ | Many images are replaced with white rectangles
