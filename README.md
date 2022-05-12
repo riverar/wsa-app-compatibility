@@ -362,7 +362,7 @@ wsa://com.android.settings
 | Tune In Pro | 28.7 (267721) | ✅
 | Twitter | 9.16.1-release.00 | ✅ | Optionally requires GMS
 | UC Browser | 13.0.0.1288 (x86) | ✅ || Avoid updating the app
-| Uptodown App Store | 4.35 | ⚠️ | Keeps "analyzing device" on app details page, and thus unable to download apks
+| Uptodown App Store | 4.35 | ⚠️ | Keeps "analyzing device" on app details page, thus its unable to download APKs.
 | Vanced Manager | 2.6.2 (Crimson) | ✅
 | Vanced MicroG | 0.2.22.212658 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account
 | Via Browser | 4.3.1 | ✅
