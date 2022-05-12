@@ -119,7 +119,7 @@ wsa://com.android.settings
 | Clouds & Sheep 2 | 1.4.6 | ✅ | Optionally uses GMS
 | Clubhouse | 1.0.11 | ⚠️ | Unable to login via phone number, it throws error after entering the OTP
 | Comixology | 3.10.18.310421 | ✅
-| CnC Rivals | 1.8.1 | ✅ | | It will pop up "won't run without GPlay services" when starts, but works fine except GPlay login (use link email instead)
+| CnC Rivals | 1.8.1 | ✅ | | It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
 | CPU-Z | 1.41 | ✅
 | Cronometer | 3.13.1 | ✅
 | Dcoder | 4.0.76 | ✅
