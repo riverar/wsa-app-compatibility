@@ -343,6 +343,7 @@ wsa://com.android.settings
 | TeamViewer | 15.22.136 | ✅
 | Telegram | 8.1.2 | ✅
 | Termux | 0.117 | ⚠️ | `packages.termux.org` mirror is the only one that works
+| Terraria | 1.4.3.2.2 | ✅
 | Tesla | 4.6.1 | ⚠️ | Vehicle graphics and maps do not load, cannot enable phone key. | Internet-based vehicle controls, charge stats, services are functional.
 | The Battle Cats | 11.2.1 | ✅
 | The Battle of Polytopia | 2.0.59.5719 | ❌ | Validation error
