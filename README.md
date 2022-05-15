@@ -65,6 +65,7 @@ wsa://com.android.settings
 | 23andMe | 5.114.0 | ✅
 | 4PDA | 1.9.35 | ✅
 | 8 ball pool | 5.5.6 | ✅
+| A Dance of Fire and Ice | 1.15.5 | ✅ || Keyboard supported
 | A+ Gallery | 2.2.55.4 | ✅ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead.
 | ADM | 12.5.4 | ✅
 | ADM Pro | 6.4.0 | ✅
@@ -343,6 +344,7 @@ wsa://com.android.settings
 | TeamViewer | 15.22.136 | ✅
 | Telegram | 8.1.2 | ✅
 | Termux | 0.117 | ⚠️ | `packages.termux.org` mirror is the only one that works
+| Terraria | 1.4.3.2.2 | ✅ || Keyboard supported
 | Tesla | 4.6.1 | ⚠️ | Vehicle graphics and maps do not load, cannot enable phone key. | Internet-based vehicle controls, charge stats, services are functional.
 | The Battle Cats | 11.2.1 | ✅
 | The Battle of Polytopia | 2.0.59.5719 | ❌ | Validation error
