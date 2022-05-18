@@ -127,6 +127,7 @@ wsa://com.android.settings
 | Decibel X | 6.4.2 | ⚠️ | App crashes
 | Delivery Club | 4.64.0 | ❌ | App crashes after selecting a shipping address
 | Deus Ex GO | 2.1.111374 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
+| Destiny Child | 2.8.6 | ⚠️ | Poor performance during battles
 | DevCheck | 3.39 | ❌ | Blank screen on startup
 | Device Info HW | 5.4.1 | ✅
 | DirecTV for Tablet | 5.29.001 | ⚠️ || Frequent crashing, other functionality proper.
