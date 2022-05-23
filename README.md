@@ -199,7 +199,7 @@ wsa://com.android.settings
 | JioSaavn | 8.2.1 | ✅ |Doesn't support fullscreen and rare crashes but running fine
 | Joey (Reddit client) | 2.0.0.1 | ✅
 | Joplin | 2.4.3 (2097651) | ✅
-| JuiceSSH | 3.2.2 | ⚠️ | Connecting to SSH server needs multiple tries
+| JuiceSSH | 3.2.2 | Android 11 | ⚠️ | Connecting to SSH server needs multiple tries
 | Kahoot || ✅
 | Khan Academy | 7.3.3 | ✅
 | Kik | 7.10.1.176 (82) | ✅
