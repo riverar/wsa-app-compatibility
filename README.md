@@ -79,6 +79,8 @@ wsa://com.android.settings
 | Alto's Odyssey | 1.0.10 | ✅
 | Amaze File Manager | 3.5.3 | ✅ || Avoid updating the app
 | Among Us | 2022.3.29 | ✅ | Keyboard may be unresponsive. | Xbox controller works.
+| Android System Info | 1.4.2 | Android 11 | ✅ ||
+| Android System Webview Dev | 103.0.5060.22 | Android 11 | ✅ || App installs correctly 
 | Angry Birds Epic | 3.0.27463.4821 | ⚠️ | Terrible in-game experience, bad performance and low FPS
 | AniLabX | 3.8.12 (Iridium) - Beta | ✅
 | AntennaPod | 2.5.0 | ✅
@@ -166,12 +168,12 @@ wsa://com.android.settings
 | Geometry Dash | 2.11 | ✅ | If you use high refresh rate monitor, there is a small period where the game speeds up before the level plays for the first time and the audio will get desynced. You can simply pause and resume or die once to fix it since it won't happen on second attempt.
 | Girls' Frontline (EN) | 2.0702_362 (362) | ⚠️ || Game freezes after splash screen, works after installing WSL2, using `wsl --install`
 | Globe2Go | 4.7.4.20.0810/3890 | ✅
-| Gmail | 2022.03.06.437126241.Release | ✅ || May require GMS
+| Gmail | 2022.05.01.440951655.Release | ✅ || May require GMS
 | Gojek | 4.30.1 | 🆖 | Requires GMS
 | Golf Rival | 2.54.241 (88) | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
 | Google Chrome | 94.0.4606.85 | ✅ | Requires microG or GMS
 | Google Classroom | 8.0.061.20.90.3 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
-| Google Drive | 2.22.117.3.all.alldpi | ✅ | Works fine, may require GMS
+| Google Drive | 2.22.197.0.all.alldpi | ✅ | Works fine, may require GMS
 | Google Meet | 2021.10.03.404303734.Release | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
 | Grab | 5.172.200 from Huawei AppGallery | ✅
 | Grand Theft Auto: San Andreas || ✅
@@ -392,7 +394,7 @@ wsa://com.android.settings
 | Yandex.Maps | 10.6.0 | ⚠️ | Map doesn't work
 | Ymusic | 3.7.2 | ✅
 | YouTube (Google)| 16.40.35 | 🆖 | Requires GMS
-| YouTube Music (Google) | 4.49.51 | 🆖 | Requires GMS
+| YouTube Music (Google) | 5.07.50 | 🆖 | Requires GMS
 | YouTube Music Vanced | 43.9.50 | ✅
 | Youtube Vanced | 16.29.39 | ⚠️ | Picture-in-picture doesn't work & Can't join channel membership
 | ZArchiver | 0.9.5.8 (9596) | ✅
