@@ -229,6 +229,7 @@ wsa://com.android.settings
 | Microsoft Authenticator | 6.2112.8213 | ✅ || Some features might require GMS
 | Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | ✅
 | Microsoft Edge | 95.0.1020.42 | ❌ | App frequently crashes
+| Microsoft Edge Canary | 103.0.1264.1 | Android 11 | ❌ || Fails to load websites
 | Microsoft Launcher | 6.210602.1.994630 | ✅
 | Microsoft PowerApps | 3.21124.20 | ✅
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | ✅
