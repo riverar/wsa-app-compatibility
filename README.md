@@ -147,6 +147,7 @@ wsa://com.android.settings
 | Fancade | 1.7.6 | ❌ | App crashes
 | FAST Speed Test | 1.0.8 (88) | ✅
 | Fate/Grand Order (US) FGO | 2.22.1 (135) | ✅ || A little unstable, but playable
+| Files by Google | UNKNOWN(final verison) | Android 11 | ✅ || Works fine
 | Fire Emblem Heroes | 6.0.0 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
 | Firefox | 93.2.0 (2015839751) | ✅
 | Firefox Nightly | 95.0a1 | ✅
@@ -169,8 +170,10 @@ wsa://com.android.settings
 | Gmail | 2022.03.06.437126241.Release | ✅ || May require GMS
 | Gojek | 4.30.1 | 🆖 | Requires GMS
 | Golf Rival | 2.54.241 (88) | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
+| Google Camera | UNKNOWN(final version | Android 11 | ✅ || Works fine
 | Google Chrome | 94.0.4606.85 | ✅ | Requires microG or GMS
 | Google Classroom | 8.0.061.20.90.3 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
+| Google Contacts | 3.68.0.445910596 | ✅ || App may be glitchy from time to time, if that happens, restart the app
 | Google Drive | 2.22.117.3.all.alldpi | ✅ | Works fine, may require GMS
 | Google Meet | 2021.10.03.404303734.Release | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
 | Grab | 5.172.200 from Huawei AppGallery | ✅
