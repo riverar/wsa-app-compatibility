@@ -160,6 +160,7 @@ wsa://com.android.settings
 | Game Dev Story | 2.47 | ❌ | App can start but with infinite "loading" screen
 | Game Pass | 2110.17.1005 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | Garage: Bad Dream Adventure | 1.0.191 | ⚠️ | Stuck after start of Chapter 1
+| GBoard | | ⚠️ | Will not work as expected in newest WSA (2204.x)
 | GCash | 5.51.0 | 🆖 | Requires GMS. Will warn "limited functionality" if no GMS is present, if present, works normally. 
 | Geekbench |5.4.1| ✅
 | GeoGebra | 5.0.674.0 | ✅
@@ -190,7 +191,7 @@ wsa://com.android.settings
 | Hungry Shark Evolution || ✅
 | Hyper Square | 3.0.1 | ✅
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64
-| Instagram | 234.0.0.0.108 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories
+| Instagram | 236.0.0.18.109 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories
 | iOS app (any) || ❌ | Thanks for testing, Brad.
 | iPusnas | 1.5.1 | ✅
 | JAKI - Jakarta Kini | 1.2.34 | 🆖 | Some features require GMS
@@ -231,7 +232,7 @@ wsa://com.android.settings
 | Microsoft Edge | 95.0.1020.42 | ❌ | App frequently crashes
 | Microsoft Launcher | 6.210602.1.994630 | ✅
 | Microsoft PowerApps | 3.21124.20 | ✅
-| Microsoft Swiftkey Keyboard | 8.10.12.4 | ✅
+| Microsoft Swiftkey Keyboard | 8.10.12.4 | ✅ | Works on WSA 2203, but on-screen is completely broken in WSA 2204(Dev)
 | Minecraft (Aurora Store) | 1.17.40.06 | ❌ | Unable to verify game owner
 | Minecraft (China Edition) || ✅
 | Minecraft (Play Store) | 1.18.0.23 | ✅
@@ -323,7 +324,7 @@ wsa://com.android.settings
 | Snapchat || ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored
 | Solid Explorer File Manager | 2.8.16 | ❌ | App crashes
 | Speedtest by Ookla | 4.6.10 (145526) | ⚠️ | VPN does not work
-| Spotify | 8.7.20.1261 | ✅ | 
+| Spotify | 8.7.30.1221 | ✅ | 
 | Spotify Lite | 1.9.0.2883 | ✅
 | Squircle IDE | v2022.1.0 | ✅
 | Standoff 2 | 0.16.6 | ⚠️ | Battle experience is terrible, includes micro-stutters
