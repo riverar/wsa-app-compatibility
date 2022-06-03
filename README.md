@@ -59,8 +59,8 @@ wsa://com.android.settings
 ```
 
 ## Support table (applications)
-| Application | Latest tested version | Android version | Support level | Known Issues | Notes |
-|-------------|-----------------------|-----------------|---------------|--------------|-------|
+| Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
+|-------------|-----------------------|------------------|---------------|--------------|-------|
 | 23andMe | 5.114.0 | 11 | ✅ |
 | 4PDA | 1.9.35 | 11 | ✅ |
 | 8 ball pool | 5.5.6 | 11 | ✅ |
@@ -159,7 +159,7 @@ wsa://com.android.settings
 | Game Dev Story | 2.47 | 11 | ❌ | App can start but with infinite "loading" screen
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | Garage: Bad Dream Adventure | 1.0.191 | 11 | ⚠️ | Stuck after start of Chapter 1
-| GBoard | UNKNOWN | Andriod 11, 12.1 | ⚠️ | Will not work as expected in newest WSA (2204.x)
+| GBoard | UNKNOWN | 11, 12.1 | ⚠️ | Will not work as expected in newest WSA (2204.x)
 | GCash | 5.51.0 | 11 | 🆖 | Requires GMS. Will warn "limited functionality" if no GMS is present, if present, works normally. 
 | Geekbench |5.4.1| 11 | ✅
 | GeoGebra | 5.0.674.0 | 11 | ✅
@@ -190,7 +190,7 @@ wsa://com.android.settings
 | Hungry Shark Evolution || 11 | ✅
 | Hyper Square | 3.0.1 | 11 | ✅
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | 11 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64
-| Instagram | 236.0.0.18.109 | Android 11,12.1 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories
+| Instagram | 236.0.0.18.109 | 11, 12.1 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories
 | iOS app (any) || 11 | ❌ | Thanks for testing, Brad.
 | iPusnas | 1.5.1 | 11 | ✅
 | JAKI - Jakarta Kini | 1.2.34 | 11 | 🆖 | Some features require GMS
@@ -199,7 +199,7 @@ wsa://com.android.settings
 | JioSaavn | 8.2.1 | 11 | ✅ |Doesn't support fullscreen and rare crashes but running fine
 | Joey (Reddit client) | 2.0.0.1 | 11 | ✅
 | Joplin | 2.4.3 (2097651) | 11 | ✅
-| JuiceSSH | 3.2.2 | ⚠️ | Connecting to SSH server needs multiple tries
+| JuiceSSH | 3.2.2 | 11 | ⚠️ | Connecting to SSH server needs multiple tries
 | Kahoot || 11 | ✅
 | Khan Academy | 7.3.3 | 11 | ✅
 | Kik | 7.10.1.176 (82) | 11 | ✅
@@ -231,7 +231,7 @@ wsa://com.android.settings
 | Microsoft Edge | 95.0.1020.42 | 11 | ❌ | App frequently crashes
 | Microsoft Launcher | 6.210602.1.994630 | 11 | ✅
 | Microsoft PowerApps | 3.21124.20 | 11 | ✅
-| Microsoft Swiftkey Keyboard | 8.10.12.4 | Android 11, 12.1 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
+| Microsoft Swiftkey Keyboard | 8.10.12.4 | 11, 12.1 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Minecraft (Aurora Store) | 1.17.40.06 | 11 | ❌ | Unable to verify game owner
 | Minecraft (China Edition) || 11 | ✅
 | Minecraft (Play Store) | 1.18.0.23 | 11 | ✅
@@ -323,7 +323,7 @@ wsa://com.android.settings
 | Snapchat || 11 | ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored
 | Solid Explorer File Manager | 2.8.16 | 11 | ❌ | App crashes
 | Speedtest by Ookla | 4.6.10 (145526) | 11 | ⚠️ | VPN does not work
-| Spotify | 8.7.30.1221 | Android 11, 12.1 | ✅ | 
+| Spotify | 8.7.30.1221 | 11, 12.1 | ✅ | 
 | Spotify Lite | 1.9.0.2883 | 11 | ✅
 | Squircle IDE | v2022.1.0 | 11 | ✅
 | Standoff 2 | 0.16.6 | 11 | ⚠️ | Battle experience is terrible, includes micro-stutters
