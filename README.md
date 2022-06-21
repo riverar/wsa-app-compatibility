@@ -166,14 +166,14 @@ wsa://com.android.settings
 | Geometry Dash | 2.11 | 11 | ✅ | If you use high refresh rate monitor, there is a small period where the game speeds up before the level plays for the first time and the audio will get desynced. You can simply pause and resume or die once to fix it since it won't happen on second attempt.
 | Girls' Frontline (EN) | 2.0702_362 (362) | 11 | ⚠️ || Game freezes after splash screen, works after installing WSL2, using `wsl --install`
 | Globe2Go | 4.7.4.20.0810/3890 | 11 | ✅
-| Gmail | 2022.03.06.437126241.Release | 11 | ✅ || May require GMS
+| Gmail | <sub>2022.03.06.437126241.Release</sub> | 11 | ✅ || May require GMS
 | Gojek | 4.30.1 | 11 | 🆖 | Requires GMS
 | Golf Rival | 2.54.241 (88) | 11 | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
 | Google Chrome | 94.0.4606.85 | 11 | ✅ | Requires microG or GMS
 | Google Classroom | 8.0.181.20.90.3 | 11 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
 | Google Drive | 2.22.117.3.all.alldpi | 11 | ✅ | Works fine, may require GMS
-| Google Meet | 2021.10.03.404303734.Release | 11 | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
-| Grab | 5.172.200 from Huawei AppGallery | 11 | ✅
+| Google Meet | <sub>2021.10.03.404303734.Release</sub> | 11 | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
+| Grab | 5.172.200 | 11 | ✅
 | Grand Theft Auto: San Andreas || 11 | ✅
 | Guardian Tales | 2.23.2 | 11 | 🆖 | Requires GMS
 | Hay Day | 1.53.46(1700) | 11 | 🆖 | Account synchronization requires GMS, but it can be bypassed with Supercell ID
@@ -225,10 +225,11 @@ wsa://com.android.settings
 | MapleStory M | 1.7000.2835 | 11 | ❌ |Crashes at loading screen
 | Mario Kart Tour | 2.10.0 | 11 | ❌ | Fails to connect to servers after Nintendo login
 | Material Files | 1.5.2 | 11, 12 | ✅
-| microG Settings | from NanoDroid and MinMicroG | 11 | ❌ | App crashes, doesn't load
+| microG Settings | N/A | 11 | ❌ | App crashes, doesn't load
 | Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
 | Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | 11 | ✅
 | Microsoft Edge | 95.0.1020.42 | 11 | ❌ | App frequently crashes
+| Microsoft Edge Canary | 103.0.1264.1 | 11 | ❌ || Fails to load websites
 | Microsoft Launcher | 6.210602.1.994630 | 11 | ✅
 | Microsoft PowerApps | 3.21124.20 | 11 | ✅
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 11, 12.1 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
