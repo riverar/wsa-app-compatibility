@@ -294,6 +294,7 @@ wsa://com.android.settings
 | QooApp | 8.3.3 | 11 | ✅
 | QPython 3L | 3.0.0 | 11 | ✅
 | QQ | 8.2.11 | 11 | ✅
+| Ragnarok M: Eternal Love EU | 1.0.70 | 11 | ✅
 | Rayman Classic | 1.0.1 | 11 | ✅
 | Real Racing 3 | 10.1.0 | 11 | ✅ | Only controller is supported. keyboard doesn't work
 | Reddit || 11 | ✅
