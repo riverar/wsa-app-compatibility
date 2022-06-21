@@ -59,6 +59,7 @@ wsa://com.android.settings
 ```
 
 ## Support table (applications)
+
 | Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
 |-------------|-----------------------|------------------|---------------|--------------|-------|
 | 23andMe | 5.114.0 | 11 | ✅ |
@@ -169,10 +170,12 @@ wsa://com.android.settings
 | Gmail | <sub>2022.03.06.437126241.Release</sub> | 11 | ✅ || May require GMS
 | Gojek | 4.30.1 | 11 | 🆖 | Requires GMS
 | Golf Rival | 2.54.241 (88) | 11 | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
+| Google Calendar | 2022.18.2-448173739-release | 11 | ✅ | Requires GMS | Works fine
 | Google Chrome | 94.0.4606.85 | 11 | ✅ | Requires microG or GMS
 | Google Classroom | 8.0.181.20.90.3 | 11 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
 | Google Drive | 2.22.117.3.all.alldpi | 11 | ✅ | Works fine, may require GMS
 | Google Meet | <sub>2021.10.03.404303734.Release</sub> | 11 | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
+| Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
 | Grab | 5.172.200 | 11 | ✅
 | Grand Theft Auto: San Andreas || 11 | ✅
 | Guardian Tales | 2.23.2 | 11 | 🆖 | Requires GMS
