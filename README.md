@@ -301,6 +301,7 @@ wsa://com.android.settings
 | Remini - AI Photo Enhancer || 11 | ⚠️ | Oops! Something went wrong Your image didn't save. Please try again.
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 11 | ✅
 | Rider | 1.59 | 11 | ✅
+| Robinhood - Food & Booking | 2.2.2 | 12.1 | ⚠️ | App having trouble loading content. Maps & Location picker don't work (Requires GMS). | You can log-in only on one device at the same time. Previous device will log-out upon signing-in on new device.
 | Roblox | 2.499.381 | 11 | ⚠️ | Graphical anomalies | GMS warnings might appear but these can be safely ignored
 | Rocket League Sideswipe | 1.0 (356721) | 11 | ❌ | OpenGL ES 3.1 is unsupported
 | Rootless Launcher | 3.9.1 | 11 | ❌ | App crashes
