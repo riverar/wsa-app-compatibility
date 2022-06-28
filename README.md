@@ -151,7 +151,7 @@ wsa://com.android.settings
 | Fate/Grand Order (US) FGO | 2.22.1 (135) | 11 | ✅ || A little unstable, but playable
 | Files by Google | Unknown | Android 11 | ✅ || Works fine
 | Fire Emblem Heroes | 6.0.0 | 11 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
-| Firefox | 101.2.0 (2015885319) | 11 | ✅
+| Firefox | 101.2.0 (2015885319) | 12 & 11 | ⚠️ | On Android 11, it works albeit with improperly rendered webpages. On Android 12, webpages doesn't render anymore causing to consume more resources | Tested only on Intel HD integrated graphics.
 | Firefox Nightly | 95.0a1 | 11 | ✅
 | foobar2000 | 1.2.30 | 11 | ✅
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
@@ -352,12 +352,12 @@ wsa://com.android.settings
 | Sword Art Online: Unleash Blading | 3.2.0 | 11 | ⚠️ | Can't detect device
 | Symbolab | 9.3.0 | 11 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
-| Tachiyomi | 0.13.4 | 11 | ✅
-| TachiyomiJ2K/TachiJ2K | 1.5.4 | 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window instead of opening TachiJ2K itself.
+| Tachiyomi | 0.13.4 | 11/12 | ✅
+| TachiyomiJ2K/TachiJ2K | 1.5.4 | 11/12 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window instead of opening TachiJ2K itself.
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | 11 | ✅
 | Telegram | 8.1.2 | 11 | ✅
-| Termux | 0.117 | 11 | ⚠️ | `packages.termux.org` mirror is the only one that works
+| Termux (F-droid) | 0.118.0 | 12 & 11 |✅
 | Terraria | 1.4.3.2.2 | 11 | ✅ || Keyboard supported
 | Tesla | 4.6.1 | 11 | ⚠️ | Vehicle graphics and maps do not load, cannot enable phone key. | Internet-based vehicle controls, charge stats, services are functional.
 | The Battle Cats | 11.2.1 | 11 | ✅
