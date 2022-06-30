@@ -174,7 +174,7 @@ Some URIs may not be supported in older versions of WSA.
 | Google Camera | Unknown | 11 | ✅ || Works fine
 | Google Chrome | 94.0.4606.85 | 11 | ✅ | Requires microG or GMS
 | Google Classroom | 8.0.181.20.90.3 | 11 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
-| Google Contacts | 3.68.0.445910596 | N.A. | ✅ || App may be glitchy from time to time, if that happens, restart the app
+| Google Contacts | 3.68.0.445910596 | Unknown | ✅ || App may be glitchy from time to time, if that happens, restart the app
 | Google Drive | 2.22.197.0.all.alldpi | 11 | ✅ | Works fine, may require GMS
 | Google Meet | <sub>2021.10.03.404303734.Release</sub> | 11 | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
