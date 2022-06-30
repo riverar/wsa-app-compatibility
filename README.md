@@ -7,13 +7,14 @@ When editing the Markdown, please keep these rules in mind:
 
 1. Do not link to any APKs.
 2. Double-check your spelling/grammar.
+3. Under the Android versions section, input the name of latest Android version first, followed by older Android version(s), and separated by "&" (ampersand symbol). For instance: 12 & 11.
 
 ## Legend
 
 This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://unicode.org/Public/emoji/1.0/emoji-data.txt). If you are unable to see these characters, please open an issue.
 
 - ✅ Works
-- 🆖 Works, but needs Google Mobile Services
+- 🆖 Works, but needs Google Mobile Services  
 - ⚠️ Works, but with some notable problems
 - ❌ Broken
 
@@ -52,11 +53,7 @@ For example, to launch Apple Music in WSA, use:
 wsa://com.apple.android.music
 ```
 
-Some URIs are not supported in WSA, such as:
-
-```shell
-wsa://com.android.settings
-```
+Some URIs may not be supported in older versions of WSA.
 
 ## Support table (applications)
 
@@ -122,7 +119,7 @@ wsa://com.android.settings
 | Clouds & Sheep 2 | 1.4.6 | 11 | ✅ | Optionally uses GMS
 | Clubhouse | 1.0.11 | 11 | ⚠️ | Unable to login via phone number, it throws error after entering the OTP
 | Comixology | 3.10.18.310421 | 11 | ✅
-| CnC Rivals | 1.8.1 | 11, 12 | ✅ | | It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
+| CnC Rivals | 1.8.1 | 12 & 11 | ✅ | | It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
 | CPU-Z | 1.41 | 11 | ✅
 | Cronometer | 3.13.1 | 11 | ✅
 | Dcoder | 4.0.76 | 11 | ✅
@@ -149,7 +146,7 @@ wsa://com.android.settings
 | Fancade | 1.7.6 | 11 | ❌ | App crashes
 | FAST Speed Test | 1.0.8 (88) | 11 | ✅
 | Fate/Grand Order (US) FGO | 2.22.1 (135) | 11 | ✅ || A little unstable, but playable
-| Files by Google | Unknown | Android 11 | ✅ || Works fine
+| Files by Google | Unknown | 11 | ✅ || Works fine
 | Fire Emblem Heroes | 6.0.0 | 11 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
 | Firefox | 101.2.0 (2015885319) | 12 & 11 | ⚠️ | On Android 11, it works albeit with improperly rendered webpages. On Android 12, webpages doesn't render anymore causing to consume more resources | Tested only on Intel HD integrated graphics.
 | Firefox Nightly | 95.0a1 | 11 | ✅
@@ -163,7 +160,7 @@ wsa://com.android.settings
 | Game Dev Story | 2.47 | 11 | ❌ | App can start but with infinite "loading" screen
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | Garage: Bad Dream Adventure | 1.0.191 | 11 | ⚠️ | Stuck after start of Chapter 1
-| GBoard | UNKNOWN | 11, 12.1 | ⚠️ | Will not work as expected in newest WSA (2204.x)
+| GBoard | Unknown | 12 & 11 | ⚠️ | Will not work as expected in newest WSA (2204.x)
 | GCash | 5.51.0 | 11 | 🆖 | Requires GMS. Will warn "limited functionality" if no GMS is present, if present, works normally. 
 | Geekbench |5.4.1| 11 | ✅
 | GeoGebra | 5.0.674.0 | 11 | ✅
@@ -174,10 +171,10 @@ wsa://com.android.settings
 | Gojek | 4.30.1 | 11 | 🆖 | Requires GMS
 | Golf Rival | 2.54.241 (88) | 11 | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
 | Google Calendar | 2022.18.2-448173739-release | 11 | ✅ | Requires GMS | Works fine
-| Google Camera | Unknown | Android 11 | ✅ || Works fine
+| Google Camera | Unknown | 11 | ✅ || Works fine
 | Google Chrome | 94.0.4606.85 | 11 | ✅ | Requires microG or GMS
 | Google Classroom | 8.0.181.20.90.3 | 11 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
-| Google Contacts | 3.68.0.445910596 | ✅ || App may be glitchy from time to time, if that happens, restart the app
+| Google Contacts | 3.68.0.445910596 | N.A. | ✅ || App may be glitchy from time to time, if that happens, restart the app
 | Google Drive | 2.22.197.0.all.alldpi | 11 | ✅ | Works fine, may require GMS
 | Google Meet | <sub>2021.10.03.404303734.Release</sub> | 11 | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
@@ -198,7 +195,7 @@ wsa://com.android.settings
 | Hungry Shark Evolution || 11 | ✅
 | Hyper Square | 3.0.1 | 11 | ✅
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | 11 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64
-| Instagram | 236.0.0.18.109 | 11, 12.1 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories
+| Instagram | 236.0.0.18.109 | 12 & 11 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories
 | iOS app (any) || 11 | ❌ | Thanks for testing, Brad.
 | iPusnas | 1.5.1 | 11 | ✅
 | JAKI - Jakarta Kini | 1.2.34 | 11 | 🆖 | Some features require GMS
@@ -232,7 +229,7 @@ wsa://com.android.settings
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
 | MapleStory M | 1.7000.2835 | 11 | ❌ |Crashes at loading screen
 | Mario Kart Tour | 2.10.0 | 11 | ❌ | Fails to connect to servers after Nintendo login
-| Material Files | 1.5.2 | 11, 12 | ✅
+| Material Files | 1.5.2 | 12 & 11 | ✅
 | microG Settings | N/A | 11 | ❌ | App crashes, doesn't load
 | Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
 | Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | 11 | ✅
@@ -240,7 +237,7 @@ wsa://com.android.settings
 | Microsoft Edge Canary | 103.0.1264.1 | 11 | ❌ || Fails to load websites
 | Microsoft Launcher | 6.210602.1.994630 | 11 | ✅
 | Microsoft PowerApps | 3.21124.20 | 11 | ✅
-| Microsoft Swiftkey Keyboard | 8.10.12.4 | 11, 12.1 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
+| Microsoft Swiftkey Keyboard | 8.10.12.4 | 12 & 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Minecraft (Aurora Store) | 1.17.40.06 | 11 | ❌ | Unable to verify game owner
 | Minecraft (China Edition) || 11 | ✅
 | Minecraft (Play Store) | 1.18.0.23 | 11 | ✅
@@ -313,7 +310,7 @@ wsa://com.android.settings
 | Remini - AI Photo Enhancer || 11 | ⚠️ | Oops! Something went wrong Your image didn't save. Please try again.
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 11 | ✅
 | Rider | 1.59 | 11 | ✅
-| Robinhood - Food & Booking | 2.2.2 | 12.1 | ⚠️ | App having trouble loading content. Maps & Location picker don't work (Requires GMS). | You can log-in only on one device at the same time. Previous device will log-out upon signing-in on new device.
+| Robinhood - Food & Booking | 2.2.2 | 12 | ⚠️ | App having trouble loading content. Maps & Location picker don't work (Requires GMS). | You can log-in only on one device at the same time. Previous device will log-out upon signing-in on new device.
 | Roblox | 2.499.381 | 11 | ⚠️ | Graphical anomalies | GMS warnings might appear but these can be safely ignored
 | Rocket League Sideswipe | 1.0 (356721) | 11 | ❌ | OpenGL ES 3.1 is unsupported
 | Rootless Launcher | 3.9.1 | 11 | ❌ | App crashes
@@ -336,9 +333,9 @@ wsa://com.android.settings
 | Snapchat || 11 | ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored
 | Solid Explorer File Manager | 2.8.16 | 11 | ❌ | App crashes
 | Speedtest by Ookla | 4.6.10 (145526) | 11 | ⚠️ | VPN does not work
-| Spotify | 8.7.30.1221 | 11, 12.1 | ✅ | 
+| Spotify | 8.7.30.1221 | 12 & 11 | ✅ | 
 | Spotify Lite | 1.9.0.2883 | 11 | ✅
-| Squircle IDE | v2022.1.2 | 11, 12 | ✅
+| Squircle IDE | v2022.1.2 | 12 & 11 | ✅
 | Standoff 2 | 0.16.6 | 11 | ⚠️ | Battle experience is terrible, includes micro-stutters
 | Stardew Valley | 1.4.5.151 | 11 | ✅
 | State of Survival | 1.13.40 | 11 | ✅
@@ -355,7 +352,7 @@ wsa://com.android.settings
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
 | Tachiyomi | 0.13.4 | 12 & 11 | ✅
 | TachiyomiAZ | 8.7.0-AZ | 12 & 11 | ✅
-| TachiyomiJ2K/TachiJ2K | 1.5.4 | 11/12 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window instead of opening TachiJ2K itself.
+| TachiyomiJ2K/TachiJ2K | 1.5.4 | 12 & 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window instead of opening TachiJ2K itself.
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | 11 | ✅
 | Telegram | 8.1.2 | 11 | ✅
