@@ -353,7 +353,7 @@ wsa://com.android.settings
 | Sword Art Online: Unleash Blading | 3.2.0 | 11 | ⚠️ | Can't detect device
 | Symbolab | 9.3.0 | 11 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
-| Tachiyomi | 0.13.4 | 11/12 | ✅
+| Tachiyomi | 0.13.4 | 12 & 11 | ✅
 | TachiyomiAZ | 8.7.0-AZ | 12 & 11 | ✅
 | TachiyomiJ2K/TachiJ2K | 1.5.4 | 11/12 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window instead of opening TachiJ2K itself.
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
