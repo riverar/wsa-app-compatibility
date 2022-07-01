@@ -7,7 +7,7 @@ When editing the Markdown, please keep these rules in mind:
 
 1. Do not link to any APKs.
 2. Double-check your spelling/grammar.
-3. Under the Android versions section, input the name of latest Android version first, followed by older Android version(s), and separated by "&" (ampersand symbol). For instance: 12 & 11.
+3. In the Android column, ensure the latest version of Android is listed first. Separate subsequent versions with a comma `,` (e.g. `11`, `12, 11`, or `13, 12, 11`).
 
 ## Legend
 
