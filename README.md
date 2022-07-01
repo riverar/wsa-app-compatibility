@@ -142,7 +142,7 @@ wsa://com.android.settings
 | Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
 | Excel | 16.0.14527.20162 | 11 | ✅
-| F-Droid | 1.13.1 | 11 | ✅
+| F-Droid | 1.15.2 | 11/12 | ✅
 | F1 TV| 2.0.5 | 11 | ⚠️ | Terrible app experience including screen flashes and crashes while watching a video
 | FaceApp: Face Editor || 11 | ❌
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | 11 | ⚠️ | Chat Heads don't work
@@ -259,7 +259,7 @@ wsa://com.android.settings
 | MX Player | 1.40.9 | 11 | ✅
 | MX Player Pro | 1.39.13 | 11 | ⚠️ | App crashes, but videos can be played from external sources
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to correct orientation in a second.
-| Neko | 2.6.2 | 11 | ✅
+| Neko | 2.9.3 | 11/12 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
 | Network IP Scanner | 3.2 | 11 | ⚠️ | Only scans WSA's own VirtWifi network
