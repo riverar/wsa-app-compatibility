@@ -151,7 +151,7 @@ wsa://com.android.settings
 | Fate/Grand Order (US) FGO | 2.22.1 (135) | 11 | ✅ || A little unstable, but playable
 | Files by Google | Unknown | Android 11 | ✅ || Works fine
 | Fire Emblem Heroes | 6.0.0 | 11 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
-| Firefox | 101.2.0 (2015885319) | 12 & 11 | ⚠️ | On Android 11, it works albeit with improperly rendered webpages. On Android 12, webpages doesn't render anymore causing to consume more resources | Tested only on Intel HD integrated graphics.
+| Firefox | 102.1.1 (2015887775) | 12 & 11 | ⚠️ | On Android 11, it works albeit with broken rendered webpages. On Android 12, webpages now renders but there's a white box, a temporary workaround is to maximize and restore the window. | Tested only on Intel HD integrated graphics.
 | Firefox Nightly | 95.0a1 | 11 | ✅
 | foobar2000 | 1.2.30 | 11 | ✅
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
