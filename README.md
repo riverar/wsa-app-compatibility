@@ -198,7 +198,7 @@ wsa://com.android.settings
 | Hungry Shark Evolution || 11 | ✅
 | Hyper Square | 3.0.1 | 11 | ✅
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | 11 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64
-| IFTTT | 4.29.2 | 12 | 🆖 | Need GMS to receive notification. Created an applet in IFTTT to forward notifications from my Android phone to my PC. Please ingore the Notification Reader Access error, since the Apps in WSA cannot read the notification center.| Note: To avoid Play Protect preventing login to Google Store, use GMS version open_gapps-x86_64-11.0-pico-20220215. Refer to WSAGAScript Issue #213. 
+| IFTTT | 4.29.2 | 12 | 🆖 | Need GMS to receive notification. Ignore the Notification Reader Access error. | To avoid Play Protect blocking login to the Google Store, use GMS version open_gapps-x86_64-11.0-pico-20220215. (See also: WSAGAScript issue 213)`. 
 | Instagram | 236.0.0.18.109 | 11, 12.1 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories
 | iOS app (any) || 11 | ❌ | Thanks for testing, Brad.
 | iPusnas | 1.5.1 | 11 | ✅
