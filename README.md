@@ -53,7 +53,11 @@ For example, to launch Apple Music in WSA, use:
 wsa://com.apple.android.music
 ```
 
-Some URIs may not be supported in older versions of WSA.
+Some URIs are not supported in WSA, such as:
+
+```shell
+wsa://com.android.settings
+```
 
 ## Support table (applications)
 
