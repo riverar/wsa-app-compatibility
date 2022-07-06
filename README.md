@@ -359,7 +359,7 @@ wsa://com.android.settings
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
 | Tachiyomi | 0.13.4 | 12, 11 | ✅
 | TachiyomiAZ | 8.7.0-AZ | 12, 11 | ✅
-| TachiyomiJ2K/TachiJ2K | 1.5.4 | 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window instead of opening TachiJ2K itself.
+| TachiyomiJ2K/TachiJ2K | 1.5.4 | 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | 11 | ✅
 | Telegram | 8.1.2 | 11 | ✅
