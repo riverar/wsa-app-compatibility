@@ -142,7 +142,7 @@ wsa://com.android.settings
 | Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
 | Excel | 16.0.14527.20162 | 11 | ✅
-| F-Droid | 1.15.2 | 11/12 | ✅
+| F-Droid | 1.15.2 | 11, 12 | ✅
 | F1 TV| 2.0.5 | 11 | ⚠️ | Terrible app experience including screen flashes and crashes while watching a video
 | FaceApp: Face Editor || 11 | ❌
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | 11 | ⚠️ | Chat Heads don't work
