@@ -159,8 +159,8 @@ wsa://com.android.settings
 | Fortnite | 14.10.0 | 11 | ❌ | Crashes at login screen
 | Fortnite Installer | 4.1.4 | 11 | ❌ | "Device not supported" error
 | Fruit Ninja | 3.3.4 | 11 | ✅ | Version check error | Otherwise, other app functionality is fine
-| FTP Server (Free) (F-Droid) | 3.1 - 30100 (11-30) | 11 | ✅
-| FX File Explorer | 8.0.3.0 (r8008) | 11 | ✅ | Tested only on the base version (without FX Plus)
+| FTP Server (Free) (F-Droid) | 3.1 - 30100 | 12, 11 | ✅ | A network connection is required for the FTP service to initialize.
+| FX File Explorer | 8.0.3.0 (r8008) | 12, 11 | ✅ | Tested only on the base version (without FX Plus)
 | Game Dev Story | 2.47 | 11 | ❌ | App can start but with infinite "loading" screen
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | Garage: Bad Dream Adventure | 1.0.191 | 11 | ⚠️ | Stuck after start of Chapter 1
@@ -176,7 +176,7 @@ wsa://com.android.settings
 | Golf Rival | 2.54.241 (88) | 11 | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
 | Google Calendar | 2022.18.2-448173739-release | 11 | ✅ | Requires GMS | Works fine
 | Google Camera | Unknown | 11 | ✅ || Works fine
-| Google Chrome | 94.0.4606.85 | 11 | ✅ | Requires microG or GMS
+| Google Chrome | 103.0.5060.71 | 12, 11 | ✅ | Requires microG or GMS
 | Google Classroom | 8.0.181.20.90.3 | 11 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
 | Google Contacts | 3.68.0.445910596 | Unknown | ✅ || App may be glitchy from time to time, if that happens, restart the app
 | Google Drive | 2.22.197.0.all.alldpi | 11 | ✅ | Works fine, may require GMS
@@ -221,7 +221,7 @@ wsa://com.android.settings
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | Last Day On Earth: Survival || 11 | 🆖 | Might require GMS
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 11 | ❌ | App crashes
-| Lawnchair | 12 Alpha 5 | 11 | ✅
+| Lawnchair | 12 Alpha 5 | 12, 11 | ✅
 | League of Legends: Wild Rift || 11 | ✅
 | Libby | 4.3.1 | 11 | ✅
 | LIMBO Demo | 1.20 | 11 | ✅
@@ -357,7 +357,7 @@ wsa://com.android.settings
 | Sword Art Online: Unleash Blading | 3.2.0 | 11 | ⚠️ | Can't detect device
 | Symbolab | 9.3.0 | 11 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
-| Tachiyomi | 0.13.4 | 12, 11 | ✅
+| Tachiyomi | 0.13.5 | 12, 11 | ✅
 | TachiyomiAZ | 8.7.0-AZ | 12, 11 | ✅
 | TachiyomiJ2K/TachiJ2K | 1.5.5 | 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
