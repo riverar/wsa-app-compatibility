@@ -152,7 +152,7 @@ wsa://com.android.settings
 | Fate/Grand Order (US) FGO | 2.22.1 (135) | 11 | ✅ || A little unstable, but playable
 | Files by Google | Unknown | 11 | ✅ || Works fine
 | Fire Emblem Heroes | 6.0.0 | 11 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
-| Firefox | 102.1.1 (2015887775) | 12, 11 | ⚠️ | On Android 11, it works albeit with broken rendered webpages. On Android 12, webpages now render but there's a white box. A temporary workaround is to maximize and restore the window. | Tested on Intel HD integrated graphics.
+| Firefox | 102.2.0 (2015890455) | 12, 11 | ⚠️ | On Android 11, it works albeit with broken rendered webpages. On Android 12, webpages now render but there's a white box. A temporary workaround is to maximize and restore the window. | Tested on Intel HD integrated graphics. It may sometimes crash when starting the app (happens when the android subsystem is started from a powered off state).
 | Firefox Nightly | 95.0a1 | 11 | ✅
 | foobar2000 | 1.2.30 | 11 | ✅
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
@@ -171,6 +171,7 @@ wsa://com.android.settings
 | Geometry Dash | 2.11 | 11 | ✅ | If you use high refresh rate monitor, there is a small period where the game speeds up before the level plays for the first time and the audio will get desynced. You can simply pause and resume or die once to fix it since it won't happen on second attempt.
 | Girls' Frontline (EN) | 2.0702_362 (362) | 11 | ⚠️ || Game freezes after splash screen, works after installing WSL2, using `wsl --install`
 | Globe2Go | 4.7.4.20.0810/3890 | 11 | ✅
+| GlobeOne | 1.7.4 | 12 | ✅ || May require GMS (otherwise use other login methods available in the app)
 | Gmail | <sub>2022.05.01.440951655.Release</sub> | 11 | ✅ || May require GMS
 | Gojek | 4.30.1 | 11 | 🆖 | Requires GMS
 | Golf Rival | 2.54.241 (88) | 11 | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
