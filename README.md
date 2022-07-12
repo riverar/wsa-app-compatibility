@@ -68,6 +68,7 @@ wsa://com.android.settings
 | 8 ball pool | 5.5.6 | 11 | ✅ |
 | A Dance of Fire and Ice | 1.15.5 | 11 | ✅ || Keyboard supported
 | A+ Gallery | 2.2.55.4 | 11 | ✅ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead.
+| Activity Launcher | 1.14.4 | 12 | ✅ ||Requires an android launcher to pin shortcuts on the home screen.
 | ADM | 12.5.4 | 11 | ✅ |
 | ADM Pro | 6.4.0 | 11 | ✅ |
 | Aegis | 2.0.2 | 11 | ✅ |
@@ -263,7 +264,7 @@ wsa://com.android.settings
 | MX Player | 1.40.9 | 11 | ✅
 | MX Player Pro | 1.39.13 | 11 | ⚠️ | App crashes, but videos can be played from external sources
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to correct orientation in a second.
-| Neko | 2.9.3 | 11, 12 | ✅
+| Neko | 2.9.4 | 11, 12 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
 | Network IP Scanner | 3.2 | 11 | ⚠️ | Only scans WSA's own VirtWifi network
@@ -361,6 +362,7 @@ wsa://com.android.settings
 | Tachiyomi | 0.13.5 | 12, 11 | ✅
 | TachiyomiAZ | 8.7.0-AZ | 12, 11 | ✅
 | TachiyomiJ2K/TachiJ2K | 1.5.5 | 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
+| TachiyomiSY | 1.8.3 | 12, 11 | ✅
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | 11 | ✅
 | Telegram | 8.1.2 | 11 | ✅
