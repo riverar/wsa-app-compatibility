@@ -68,7 +68,7 @@ wsa://com.android.settings
 | 8 ball pool | 5.5.6 | 11 | ✅ |
 | A Dance of Fire and Ice | 1.15.5 | 11 | ✅ || Keyboard supported
 | A+ Gallery | 2.2.55.4 | 11 | ✅ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead.
-| Activity Launcher | 1.14.4 | 12 | ✅ ||Requires an android launcher to pin shortcuts on the home screen.
+| Activity Launcher | 1.14.4 | 12 | ✅ || Requires an Android launcher to pin shortcuts on the home screen.
 | ADM | 12.5.4 | 11 | ✅ |
 | ADM Pro | 6.4.0 | 11 | ✅ |
 | Aegis | 2.0.2 | 11 | ✅ |
