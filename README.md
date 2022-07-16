@@ -171,7 +171,7 @@ wsa://com.android.settings
 | Geekbench |5.4.1| 11 | ✅
 | GeoGebra | 5.0.674.0 | 11 | ✅
 | Geometry Dash | 2.11 | 11 | ✅ | If you use high refresh rate monitor, there is a small period where the game speeds up before the level plays for the first time and the audio will get desynced. You can simply pause and resume or die once to fix it since it won't happen on second attempt.
-| Girls' Frontline (EN) | 2.0900_375 | 11, 12 | ⚠️ || Sometimes freeze while downloading resources, fixed by restarting the app
+| Girls' Frontline (EN) | 2.0900_375 | 12, 11 | ⚠️ || Sometimes freeze while downloading resources, fixed by restarting the app
 | Globe2Go | 4.7.4.20.0810/3890 | 11 | ✅
 | GlobeOne | 1.7.4 | 12 | ✅ || May require GMS (otherwise use other login methods available in the app)
 | Gmail | <sub>2022.05.01.440951655.Release</sub> | 11 | ✅ || May require GMS
