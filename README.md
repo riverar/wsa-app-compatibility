@@ -99,7 +99,7 @@ wsa://com.android.settings
 | Audible | 3.15.0 | 11 | ✅
 | Aurora Store | 4.1.1 | 12, 11 | ✅
 | Authy | 24.8.5 (139) | 11 | ✅ || Produces warnings about GMS which are safe to ignore.
-| Azur Lane | 6.1.2 | 11, 12 | ⚠️ | Sometimes stuck on downloading resources, can be fixed by restarting the app. Overall gameplay, got stable FPS using Nvidia
+| Azur Lane | 6.1.2 | 12, 11 | ⚠️ | Sometimes stuck on downloading resources, can be fixed by restarting the app. Overall gameplay, got stable FPS using NVIDIA GeForce GTX 1050 Ti Mobile
 | Bad Piggies HD | 2.4.3141 | 11 | ✅
 | BanG Dream! Girls Band Party! | 4.5.0 | 11 | 🆖 | Requires GMS
 | Battle Cats Quest | 1.0.4 | 11 | ✅
