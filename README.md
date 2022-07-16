@@ -94,7 +94,7 @@ wsa://com.android.settings
 | Aptoide App Store | 9.20.2.1 | 11 | ✅ | Sometimes, downloads might get stuck
 | AquaMail (Pro) | 1.34.0-118 | 11 | ✅
 | Arcaea | 3.8.8 | 11 | ⚠️ | Keyboard doesn't work on login/register form
-| Arknights | 10.0.01 | 11, 12 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC. Stable FPS throughout the game using Nvidia
+| Arknights | 10.0.01 | 12, 11 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC. Stable FPS throughout the game using NVIDIA GeForce GTX 1050 Ti Mobile
 | Asphalt 9 || 11 | ⚠️ | Keyboard unsupported
 | Audible | 3.15.0 | 11 | ✅
 | Aurora Store | 4.1.1 | 12, 11 | ✅
