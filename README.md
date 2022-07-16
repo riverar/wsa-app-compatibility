@@ -151,7 +151,7 @@ wsa://com.android.settings
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | 11 | ⚠️ | Chat Heads don't work
 | Fancade | 1.7.6 | 11 | ❌ | App crashes
 | FAST Speed Test | 1.0.8 (88) | 11 | ✅
-| Fate/Grand Order (US) FGO | 2.34.0 | 11, 12 | 🆖 || Require Google Play Services, can be skippable if you have Google Play Service (APK) installed
+| Fate/Grand Order (US) FGO | 2.34.0 | 12, 11 | 🆖 || Require Google Play Services, skippable if you have Google Play Service (APK) installed
 | Files by Google | Unknown | 11 | ✅ || Works fine
 | Fire Emblem Heroes | 6.7.0 | 11, 12 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
 | Firefox | 102.2.0 (2015890455) | 12, 11 | ⚠️ | On Android 11, it works albeit with broken rendered webpages. On Android 12, webpages now render but there's a white box. A temporary workaround is to maximize and restore the window. | Tested on Intel HD integrated graphics. It may crash when the app is launched from WSA's cold / powered off state.
