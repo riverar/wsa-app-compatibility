@@ -108,6 +108,7 @@ wsa://com.android.settings
 | Binance | 2.36.5 | 11 | ✅
 | Blue Archive (GB) | 1.39.146794 | 12, 11 | ❌ | Black screen on app launch
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
+| Boost for reddit | 1.12.5 | 12 | ✅
 | Bouncer | 1.26.3 | 11 | ⚠️
 | Brave Browser | 1.30.87 | 11 | ✅
 | Brawl Stars | 38.159 | 11 | ❌ | Game crashes
