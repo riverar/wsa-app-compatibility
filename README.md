@@ -221,6 +221,8 @@ wsa://com.android.settings
 | Joplin | 2.4.3 (2097651) | 11 | ✅
 | JuiceSSH | 3.2.2 | 11 | ⚠️ | Connecting to SSH server needs multiple tries
 | Kahoot || 11 | ✅
+| Katakana Pro | 1.4.4 | 12 |  ✅
+| KawaiiNihongo | 3.10.9 | 12 |  ✅
 | Khan Academy | 7.3.3 | 11 | ✅
 | Kik | 7.10.1.176 (82) | 11 | ✅
 | Kindle | 8.47.1.3370 | 11 | ✅
