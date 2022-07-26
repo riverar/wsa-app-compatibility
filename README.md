@@ -63,6 +63,7 @@ wsa://com.android.settings
 
 | Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
 |-------------|-----------------------|------------------|---------------|--------------|-------|
+| 2 3 4 Player Games | 3.8.0 | 12 | ✅ || Touchscreen is recommended for the Team vs. Team maches or some of the driving games
 | 23andMe | 5.114.0 | 11 | ✅ |
 | 4PDA | 1.9.35 | 11 | ✅ |
 | 8 ball pool | 5.5.6 | 11 | ✅ |
@@ -129,8 +130,10 @@ wsa://com.android.settings
 | CnC Rivals | 1.8.1 | 12, 11 | ✅ | | It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
 | CPU-Z | 1.41 | 11 | ✅
 | Cronometer | 3.13.1 | 11 | ✅
+| Cryptography | 1.24.0 | 12 | ✅
 | Dcoder | 4.0.76 | 11 | ✅
 | Decibel X | 6.4.2 | 11 | ⚠️ | App crashes
+| Decrypto | 1.4.7 | 12 | ✅
 | Delivery Club | 4.64.0 | 11 | ❌ | App crashes after selecting a shipping address
 | Deus Ex GO | 2.1.111374 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
 | Destiny Child | 2.8.6 | 11 | ⚠️ | Poor performance during battles
@@ -193,6 +196,7 @@ wsa://com.android.settings
 | Hay Day | 1.53.46(1700) | 11 | 🆖 | Account synchronization requires GMS, but it can be bypassed with Supercell ID
 | HBO Max | 52.15.0.53 | 11 | ⚠️ | Failed to play video (internal player fails to display image and play sound).
 | Hill Climb Racing | 1.53.0 (501) | 11 | ✅
+| Hirigana Pro | 1.4.4 | 12 | ✅ | Scaling issue when the app is in landscape mode.
 | Hitman Sniper | 1.7.193827 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
 | Hobi | 2.1.7 | 11 | 🆖 | Requires GMS
 | Home Assistant | 2022.3.0-full | 11 | ✅ | Basic functionality works, additional / extended functionality has not been yet tested.
@@ -212,6 +216,7 @@ wsa://com.android.settings
 | Jet Car Stunts 2 | 1.0.13 | 11 | ❌ | Loads up but orientation and menus are broken
 | Jetpack Joyride | 1.52.1 (58461800) | 11 | ⚠️ | Google Play Games sync doesn't work, otherwise the game functionality is fine
 | JioSaavn | 8.2.1 | 11 | ✅ |Doesn't support fullscreen and rare crashes but running fine
+| Jlpt | 4.7 | 12 | ✅ ||
 | Joey (Reddit client) | 2.0.0.1 | 11 | ✅
 | Joplin | 2.4.3 (2097651) | 11 | ✅
 | JuiceSSH | 3.2.2 | 11 | ⚠️ | Connecting to SSH server needs multiple tries
@@ -330,6 +335,7 @@ wsa://com.android.settings
 | SD Maid (pro) | 5.2.2 | 11 | ⚠️ | Unable to grant external storage privileges, can be skipped
 | Shadow Fight 2 | 2.16.0 | 11 | ⚠️ | Optionally uses GMS, Doesn't support keyboard control makes fighting more harder | GMS warnings might appear but these can be safely ignored, Cloud save requires GMS
 | Shadow Fight 3 | 1.25.7 | 11 | ✅ | Optionally uses GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS
+| Shazam | 12.33.0-220714 | 12 | ✅ | Shazam on pop-up doesn't work | Requires microphone for song identification
 | ShemarooMe | 1.0.16 (106) | 11 | ✅
 | Shizuku | 12.3.0.r668.5687d0c | 11 | ✅ | Works well with Wireless debugging
 | Shopee PH | 2.86.09 | 11 | ⚠️ | App works but cannot login
