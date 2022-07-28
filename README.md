@@ -363,9 +363,9 @@ wsa://com.android.settings
 | Symbolab | 9.3.0 | 11 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
 | Tachiyomi | 0.13.5 | 12, 11 | ✅
-| TachiyomiAZ | 8.7.0-AZ | 12, 11 | ✅
-| TachiyomiJ2K/TachiJ2K | 1.5.5 | 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
-| TachiyomiSY | 1.8.3 | 12, 11 | ✅
+| TachiyomiAZ | 8.7.1-AZ | 12, 11 | ✅
+| TachiyomiJ2K/TachiJ2K | 1.5.6 | 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
+| TachiyomiSY | 1.8.4 | 12, 11 | ✅
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | 11 | ✅
