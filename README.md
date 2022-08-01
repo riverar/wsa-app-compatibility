@@ -305,7 +305,7 @@ wsa://com.android.settings
 | Plex Dash | 1.1.1 | 11 | ❌ | App crashes after splash screen
 | Plexamp | 3.8.2 | 11 | ⚠️ | Layout and app orientation issues
 | Pocket | 7.56.0.0 | 11 | ⚠️ | Unable to log in with a Firefox account, instant (push) syncing is unavailable
-| Pokémon GO || 12, 11 | ❌ | This device, OS, or software is not compatible/Unable to authenticate
+| Pokémon GO || 12, 11 | ❌ | This device, OS, or software is not compatible
 | Pokémon Masters EX | 2.19.0 | 11 | ❌ | 10102 An error has occured.
 | Pokémon Unite | 1.2.1.2 | 11 | ⚠️ | Battle experience is terrible
 | PornHub || 11 | ✅
