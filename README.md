@@ -441,6 +441,7 @@ wsa://com.android.settings
 | 创建快捷方式 (Create Shortcut) | 1.17 | 11 | ✅ || Can be used to access any app
 | Дурак Онлайн (Durak Online) | 1.9.2 | 11 | 🆖 | Requires GMS
 | মুনাজাতে মাকবূল ও মাসনূন দু'আ - Munajate Makbul | 1.0 | 11 | ✅
+| ブルーアーカイブ (JP) | 1.21.156614 | 12 | ❌ | Black screen on app launch
 | ウマ娘 プリティーダービー | 1.16.0 | 11 | ⚠️ | Doesn't work with GTX1660. Works with Microsoft Basic Render Driver with graphical issues. | Some features may require GMS.
 | ウマ娘 プリティーダービー | 1.20.0 | 12 | ❌ | Only touch effect works after displaying the developer logo
 | 九黎 | 1.3.5.01 | 11 | ❌ | App crashes
