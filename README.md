@@ -81,7 +81,7 @@ wsa://com.android.settings
 | Alto's Adventure | 1.8.0 | 11 | ✅
 | Alto's Odyssey | 1.0.10 | 11 | ✅
 | Amaze File Manager | 3.5.3 | 11 | ✅ || Avoid updating the app
-| Among Us | 2022.3.29 | 11 | ✅ | Keyboard may be unresponsive. | Xbox controller works.
+| Among Us | 2022.7.12 | 12, 11 | ✅ | Keyboard may be unresponsive. | Xbox controller works.
 | Android System Info | 1.4.2 | 11 | ✅ ||
 | Android System Webview | 103.0.5060.71 | 12 | ✅ ||
 | Android System Webview Dev | 103.0.5060.22 | 11 | ✅ || App installs correctly 
@@ -96,6 +96,7 @@ wsa://com.android.settings
 | AquaMail (Pro) | 1.34.0-118 | 11 | ✅
 | Arcaea | 3.8.8 | 11 | ⚠️ | Keyboard doesn't work on login/register form
 | Arknights | 10.0.01 | 12, 11 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC. Stable FPS throughout the game using NVIDIA GeForce GTX 1050 Ti Mobile
+| Asphalt 8 | 6.3.1a | 12 | ✅ | Keyboard supported in latest version (2206)
 | Asphalt 9 || 11 | ⚠️ | Keyboard unsupported
 | Audible | 3.15.0 | 11 | ✅
 | Aurora Store | 4.1.1 | 12, 11 | ✅
@@ -152,6 +153,7 @@ wsa://com.android.settings
 | F-Droid | 1.15.2 | 11, 12 | ✅
 | F1 TV| 2.0.5 | 11 | ⚠️ | Terrible app experience including screen flashes and crashes while watching a video
 | FaceApp: Face Editor || 11 | ❌
+| Facebook | 377.0.0.22.107 | 12 | ✅ | 
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | 11 | ⚠️ | Chat Heads don't work
 | Fancade | 1.7.6 | 11 | ❌ | App crashes
 | FAST Speed Test | 1.0.8 (88) | 11 | ✅
@@ -209,7 +211,7 @@ wsa://com.android.settings
 | Hyper Square | 3.0.1 | 11 | ✅
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | 11 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64
 | IFTTT | 4.29.2 | 12 | 🆖 | Need GMS to receive notification. Ignore the Notification Reader Access error. | To avoid Play Protect blocking login to the Google Store, use GMS version open_gapps-x86_64-11.0-pico-20220215. (See also: WSAGAScript issue 213)`. 
-| Instagram | 236.0.0.18.109 | 12, 11 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories
+| Instagram | 244.0.0.17.110 | 12, 11 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories (only works in 11. Keyboard app support in 12 is broken.
 | iOS app (any) || 11 | ❌ | Thanks for testing, Brad.
 | iPusnas | 1.5.1 | 11 | ✅
 | JAKI - Jakarta Kini | 1.2.34 | 11 | 🆖 | Some features require GMS
@@ -281,6 +283,7 @@ wsa://com.android.settings
 | NFL | 56.1.7 | 11 | ❌ | App crashes
 | NieR Re[in]carnation | 1.7.1 | 11 | ❌ | Unable to get past the loading screen
 | Nova Launcher | 7.0.49 (7049) | 11 | ⚠️ | UI is messy, but app drawer is fine
+| Nova Launcher Beta | 8.0.2 | 12 | ⚠️ | UI is messy, but app drawer is fine
 | Nu Carnival | 1.0.2-erolabs | 11 | ❌ | App stuck on a black screen
 | Office | 16.0.14527.20162 | 11 | ✅ || Might require microG
 | Office Lens | 16.0.14527.20178 | 11 | ❌ | Might require GMS, cannot sign in
@@ -321,7 +324,7 @@ wsa://com.android.settings
 | QQ | 8.2.11 | 11 | ✅
 | Ragnarok M: Eternal Love EU | 1.0.70 | 11 | ✅
 | Rayman Classic | 1.0.1 | 11 | ✅
-| Real Racing 3 | 10.1.0 | 11 | ✅ | Only controller is supported. keyboard doesn't work
+| Real Racing 3 | 10.1.0 | 12, 11 | ✅ | Only controller is supported. keyboard doesn't work
 | Reddit || 11 | ✅
 | Relay | 10.0.378 | 11 | ✅
 | Remini - AI Photo Enhancer || 11 | ⚠️ | Oops! Something went wrong Your image didn't save. Please try again.
