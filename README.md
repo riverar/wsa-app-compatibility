@@ -146,6 +146,7 @@ wsa://com.android.settings
 | Duolingo | 5.2.35 | 11 | ✅
 | Dwarf Balls | 3.5.2 | 11 | 🆖 | Requires GMS for Google Play login.
 | Easybell | 2.1.30 | 11 | ✅
+| EDS Lite | 2.0.0.237 | 12 | ✅ || Tested on an Intel x86-64 CPU (may work on AMD64 or ARM64). Recommended to add the exFAT module if you have a container that use this filesystem.
 | Emby | 2.0.48g | 11 | ✅
 | Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
@@ -160,7 +161,7 @@ wsa://com.android.settings
 | Fate/Grand Order (US) FGO | 2.34.0 | 12, 11 | 🆖 || Require Google Play Services, skippable if you have Google Play Service (APK) installed
 | Files by Google | Unknown | 11 | ✅ || Works fine
 | Fire Emblem Heroes | 6.7.0 | 12, 11 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
-| Firefox | 102.2.0 (2015890455) | 12, 11 | ⚠️ | On Android 11, it works albeit with broken rendered webpages. On Android 12, webpages now render but there's a white box. A temporary workaround is to maximize and restore the window. | Tested on Intel HD integrated graphics. It may crash when the app is launched from WSA's cold / powered off state.
+| Firefox | 103.2.0 (2015895967) | 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
 | Firefox Nightly | 95.0a1 | 11 | ✅
 | foobar2000 | 1.2.30 | 11 | ✅
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
@@ -185,7 +186,7 @@ wsa://com.android.settings
 | Golf Rival | 2.54.241 (88) | 11 | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
 | Google Calendar | 2022.18.2-448173739-release | 11 | ✅ | Requires GMS | Works fine
 | Google Camera | Unknown | 11 | ✅ || Works fine
-| Google Chrome | 103.0.5060.71 | 12, 11 | ✅ | Requires microG or GMS
+| Google Chrome | 103.0.5060.129 | 12, 11 | ✅ | Requires microG or GMS to sync with Google Account
 | Google Classroom | 8.0.181.20.90.3 | 11 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
 | Google Contacts | 3.68.0.445910596 | Unknown | ✅ || App may be glitchy from time to time, if that happens, restart the app
 | Google Drive | 2.22.197.0.all.alldpi | 11 | ✅ | Works fine, may require GMS
@@ -409,7 +410,7 @@ wsa://com.android.settings
 | Vidio | 5.64.5-f0aa483a3d | 11 | 🆖 || Might require GMS for login
 | Vivaldi Browser | 4.3.2439.61 | 11 | ✅
 | VK | 6.58 | 11 | ✅
-| VLC | 3.4.0 | 11 | ✅
+| VLC | 3.5.1 | 12, 11 | ✅ || Keyboard supported
 | VSCO | 264 | 11 | ⚠️ | Cannot sign in
 | War Robots | 7.7.7 (134783) | 11 | ✅ | GMS warnings might appear but these can be safely ignored
 | Warden | 1.0.3.release | 11 | ⚠️ | App screen flashes otherwise functionality-wise its normal
