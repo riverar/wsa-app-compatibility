@@ -87,6 +87,7 @@ wsa://com.android.settings
 | Android System Webview Dev | 103.0.5060.22 | 11 | ✅ || App installs correctly 
 | Angry Birds Epic | 3.0.27463.4821 | 11 | ⚠️ | Terrible in-game experience, bad performance and low FPS
 | AniLabX | 3.8.12 (Iridium) - Beta | 11 | ✅
+| Animal Crossing: Pocket Camp | 5.0.2 | 12 | ❌ | error 802-1-01a-069-008 ||
 | Aniyomi | 0.12.3.7 | 12 | ✅
 | AntennaPod | 2.5.0 | 11 | ✅
 | APKMirror Installer (Beta) | 1.3.2 | 11 | ⚠️ | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes
