@@ -287,7 +287,7 @@ wsa://com.android.settings
 | NewPipe | 0.22.1 | 11 | ✅
 | NFL | 56.1.7 | 11 | ❌ | App crashes
 | NieR Re[in]carnation | 1.7.1 | 11 | ❌ | Unable to get past the loading screen
-| Nintendo Switch Online | 2.2.0 | 13 | ✅ | Only displays in portrait 
+| Nintendo Switch Online | 2.2.0 | 12 | ✅ | Only displays in portrait 
 | Nova Launcher | 7.0.49 (7049) | 11 | ⚠️ | UI is messy, but app drawer is fine
 | Nova Launcher Beta | 8.0.2 | 12 | ⚠️ | UI is messy, but app drawer is fine
 | Nu Carnival | 1.0.2-erolabs | 11 | ❌ | App stuck on a black screen
