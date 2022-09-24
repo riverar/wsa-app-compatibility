@@ -71,7 +71,7 @@ wsa://com.android.settings
 | A Dance of Fire and Ice | 1.15.5 | 11 | ✅ || Keyboard supported
 | A+ Gallery | 2.2.55.4 | 11 | ✅ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead.
 | Activity Launcher | 1.14.4 | 12 | ✅ || Requires an Android launcher to pin shortcuts on the home screen.
-| AdGuard | 3.6.10 | 12 | ⚠️ | "Local VPN" doesn't work even with the above workaround. "HTTPS Filtering" doesn't work due to problems with recognition of manually installed certificates. 
+| AdGuard | 3.6.10 | 12 | ⚠️ | "Local VPN" doesn't work even with the above workaround. "HTTPS Filtering" doesn't work due to problems with recognition of manually installed certificates. | Not to be confused with "AdGuard Content Blocker"
 | ADM | 12.5.4 | 11 | ✅ |
 | ADM Pro | 6.4.0 | 11 | ✅ |
 | Aegis | 2.0.2 | 11 | ✅ |
