@@ -100,12 +100,14 @@ wsa://com.android.settings
 | Arknights | 10.0.01 | 12, 11 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC. Stable FPS throughout the game using NVIDIA GeForce GTX 1050 Ti Mobile
 | Asphalt 8 | 6.3.1a | 12 | ✅ | Keyboard supported in latest version (2206)
 | Asphalt 9 || 11 | ⚠️ | Keyboard unsupported
+| AtB | 1.23 | 12 | ❌ | Crashes during loading, as it relies on Google Services Framework and on having the latter be given `read_device_config` permissions, which doesn't seem to be possible to give.
 | Audible | 3.15.0 | 11 | ✅
 | Aurora Store | 4.1.1 | 12, 11 | ✅
 | Authy | 24.8.5 (139) | 11 | ✅ || Produces warnings about GMS which are safe to ignore.
 | Azur Lane | 6.1.2 | 12, 11 | ⚠️ | Sometimes stuck on downloading resources, can be fixed by restarting the app. Overall gameplay, got stable FPS using NVIDIA GeForce GTX 1050 Ti Mobile
 | Bad Piggies HD | 2.4.3141 | 11 | ✅
 | BanG Dream! Girls Band Party! | 4.5.0 | 11 | 🆖 | Requires GMS
+| BankID (Norway) | 1.6.19 | 12 | ❌ | Spams the desktop browser with new tabs about how the app thinks the phone is rooted. 
 | Battle Cats Quest | 1.0.4 | 11 | ✅
 | BBC iPlayer | 4.137.0.25403 | 11 | ✅ | Sideloaded
 | Berry Browser | 3.57.8 | 11, 12 | ✅
@@ -130,6 +132,7 @@ wsa://com.android.settings
 | Clouds & Sheep 2 | 1.4.6 | 11 | ✅ | Optionally uses GMS
 | Clubhouse | 1.0.11 | 11 | ⚠️ | Unable to login via phone number, it throws error after entering the OTP
 | Comixology | 3.10.18.310421 | 11 | ✅
+| Coop Medlem | 3.4.30 | 12 | ⚠️ | Coopay activation fails because the app looks for whether a lockscreen is enabled or not | Core functionality works, although a bit slowly. 
 | CnC Rivals | 1.8.1 | 12, 11 | ✅ | | It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
 | CPU-Z | 1.41 | 11 | ✅
 | Cronometer | 3.13.1 | 11 | ✅
@@ -170,6 +173,7 @@ wsa://com.android.settings
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
 | Fortnite | 14.10.0 | 11 | ❌ | Crashes at login screen
 | Fortnite Installer | 4.1.4 | 11 | ❌ | "Device not supported" error
+| Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
 | Fruit Ninja | 3.3.4 | 11 | ✅ | Version check error | Otherwise, other app functionality is fine
 | FTP Server (Free) (F-Droid) | 3.1 - 30100 | 12, 11 | ✅ | A network connection is required for the FTP service to initialize.
 | FX File Explorer | 8.0.3.0 (r8008) | 12, 11 | ✅ | Tested only on the base version (without FX Plus)
@@ -283,6 +287,7 @@ wsa://com.android.settings
 | Neko | 2.9.4 | 12, 11 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
+| Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
 | Network IP Scanner | 3.2 | 11 | ⚠️ | Only scans WSA's own VirtWifi network
 | NewPipe | 0.22.1 | 11 | ✅
 | NFL | 56.1.7 | 11 | ❌ | App crashes
@@ -303,6 +308,7 @@ wsa://com.android.settings
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | 11 | ✅
 | Oreo: Twist, Lick, Dunk | 1.5.6 | 11 | ✅ | Minor graphical glitches
 | OsmAnd~ | 3.9.10 | 11 | ✅
+| Oss (Norway) | 2.9.2 | 12 | ❌ | Crashes on startup. The error log shows `java.lang.UnsatisfiedLinkError: couldn't find DSO to load: libhermes.so`
 | Oto Music | 3.0.2 | 11 | ✅ || Requires app restart to refresh list
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
@@ -345,6 +351,7 @@ wsa://com.android.settings
 | SAI (Split APKs Installer) (F-Droid) | 4.5 | 12 | ✅ || Used rootless method only, not yet tested for rooted WSA
 | SATRIA | 1.0.0 | 11 | ❌ | Needs fingerprint reader support
 | SD Maid (pro) | 5.2.2 | 11 | ⚠️ | Unable to grant external storage privileges, can be skipped
+| Settings | 12, API 32 | 12 | ⚠️ | Setting screenlock to "Swipe", makes it impossible to use any apps without re-installing the entire Subsystem, since no method is provided on the lockscreen to swipe or otherwise unlock. Adding a Google account in the Account menu doesn't work. "Backup" and "SOS Alarm" sends the phone back to the main Settings menu. | Included by default in Subsystem. Accessed by creating a Windows shortcut with this path: `%LOCALAPPDATA%\Microsoft\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\WsaClient.exe /launch wsa://com.android.settings`
 | Shadow Fight 2 | 2.16.0 | 11 | ⚠️ | Optionally uses GMS, Doesn't support keyboard control makes fighting more harder | GMS warnings might appear but these can be safely ignored, Cloud save requires GMS
 | Shadow Fight 3 | 1.25.7 | 11 | ✅ | Optionally uses GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS
 | Shazam | 12.33.0-220714 | 12 | ✅ | Shazam on pop-up doesn't work | Requires microphone for song identification
@@ -363,6 +370,7 @@ wsa://com.android.settings
 | Smash Hit | 1.4.3 | 11 | ✅
 | Snapchat || 11 | ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored
 | Solid Explorer File Manager | 2.8.16 | 11 | ❌ | App crashes
+| SoundHound | 10.1.2 | 12 | ✅ |  | Ensure in Windows' audio settings that the microphone has a high enough sound level 
 | Speedtest by Ookla | 4.6.10 (145526) | 11 | ⚠️ | VPN does not work
 | Spotify | 8.7.30.1221 | 12, 11 | ✅ | 
 | Spotify Lite | 1.9.0.2883 | 11 | ✅
@@ -414,6 +422,7 @@ wsa://com.android.settings
 | Vanced MicroG | 0.2.22.212658 | 11 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account
 | Via Browser | 4.3.1 | 11 | ✅
 | Vidio | 5.64.5-f0aa483a3d | 11 | 🆖 || Might require GMS for login
+| Vipps | 2.142.0 | 12 | ❌ | Shows an error message about requiring "Google Services", even if both Google Play Services and Google Services Framework APKs are installed
 | Vivaldi Browser | 4.3.2439.61 | 11 | ✅
 | VK | 6.58 | 11 | ✅
 | VLC | 3.5.1 | 12, 11 | ✅ || Keyboard supported
