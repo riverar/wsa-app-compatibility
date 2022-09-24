@@ -308,7 +308,7 @@ wsa://com.android.settings
 | Oppo Game Center (China) | 9.7.0_14b2c0c_210521 | 11 | ✅
 | Oreo: Twist, Lick, Dunk | 1.5.6 | 11 | ✅ | Minor graphical glitches
 | OsmAnd~ | 3.9.10 | 11 | ✅
-| Oss (Norway) | 4.7.8 | 12 | ❌ | Crashes on startup. 
+| Oss (Norway) | 2.9.2 | 12 | ❌ | Crashes on startup. The error log shows `java.lang.UnsatisfiedLinkError: couldn't find DSO to load: libhermes.so`
 | Oto Music | 3.0.2 | 11 | ✅ || Requires app restart to refresh list
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
@@ -370,6 +370,7 @@ wsa://com.android.settings
 | Smash Hit | 1.4.3 | 11 | ✅
 | Snapchat || 11 | ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored
 | Solid Explorer File Manager | 2.8.16 | 11 | ❌ | App crashes
+| SoundHound | 10.1.2 | 12 | ✅ |  | Ensure in Windows' audio settings that the microphone has a high enough sound level 
 | Speedtest by Ookla | 4.6.10 (145526) | 11 | ⚠️ | VPN does not work
 | Spotify | 8.7.30.1221 | 12, 11 | ✅ | 
 | Spotify Lite | 1.9.0.2883 | 11 | ✅
@@ -421,6 +422,7 @@ wsa://com.android.settings
 | Vanced MicroG | 0.2.22.212658 | 11 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account
 | Via Browser | 4.3.1 | 11 | ✅
 | Vidio | 5.64.5-f0aa483a3d | 11 | 🆖 || Might require GMS for login
+| Vipps | 2.142.0 | 12 | ❌ | Shows an error message about requiring "Google Services", even if both Google Play Services and Google Services Framework APKs are installed
 | Vivaldi Browser | 4.3.2439.61 | 11 | ✅
 | VK | 6.58 | 11 | ✅
 | VLC | 3.5.1 | 12, 11 | ✅ || Keyboard supported
