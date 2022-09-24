@@ -24,6 +24,7 @@ This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://u
 |---------|---------------|-------|
 | Multi-touch | ✅ | Demo: [Arcaea](https://www.bilibili.com/video/BV1Ph411n7M5)
 | Virtual Wifi (VirtWifi) | ✅
+| IPv6 | ✅ | Loading `ipv6.google.com` in Fennec F-Droid on a PC with IPv6 access, works well
 | Fingerprint Reader | ❌ | Test failed on ROG Flow X13, with SATRIA app
 | VPN | ❌ | VPN Connection request dialog does not appear
 | OpenGL ES 3.1 | ❌
@@ -70,6 +71,7 @@ wsa://com.android.settings
 | A Dance of Fire and Ice | 1.15.5 | 11 | ✅ || Keyboard supported
 | A+ Gallery | 2.2.55.4 | 11 | ✅ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead.
 | Activity Launcher | 1.14.4 | 12 | ✅ || Requires an Android launcher to pin shortcuts on the home screen.
+| AdGuard | 3.6.10 | 12 | ⚠️ | "Local VPN" doesn't work even with the above workaround. "HTTPS Filtering" doesn't work due to problems with recognition of manually installed certificates. 
 | ADM | 12.5.4 | 11 | ✅ |
 | ADM Pro | 6.4.0 | 11 | ✅ |
 | Aegis | 2.0.2 | 11 | ✅ |
@@ -100,6 +102,7 @@ wsa://com.android.settings
 | Arknights | 10.0.01 | 12, 11 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC. Stable FPS throughout the game using NVIDIA GeForce GTX 1050 Ti Mobile
 | Asphalt 8 | 6.3.1a | 12 | ✅ | Keyboard supported in latest version (2206)
 | Asphalt 9 || 11 | ⚠️ | Keyboard unsupported
+| ASUS Router | 1.0.0.7.35 | 12 | ✅ | The text on the bottom bar is more narrow than it should be, resulting in cutting off the last letters or taking up two lines. | 
 | AtB | 1.23 | 12 | ❌ | Crashes during loading, as it relies on Google Services Framework and on having the latter be given `read_device_config` permissions, which doesn't seem to be possible to give.
 | Audible | 3.15.0 | 11 | ✅
 | Aurora Store | 4.1.1 | 12, 11 | ✅
@@ -174,6 +177,7 @@ wsa://com.android.settings
 | Fortnite | 14.10.0 | 11 | ❌ | Crashes at login screen
 | Fortnite Installer | 4.1.4 | 11 | ❌ | "Device not supported" error
 | Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
+| Google Translate | 6.45.0.474938783.2-release | 12 | ❌ | Crashes on startup due to reliance on Google Services Framework
 | Fruit Ninja | 3.3.4 | 11 | ✅ | Version check error | Otherwise, other app functionality is fine
 | FTP Server (Free) (F-Droid) | 3.1 - 30100 | 12, 11 | ✅ | A network connection is required for the FTP service to initialize.
 | FX File Explorer | 8.0.3.0 (r8008) | 12, 11 | ✅ | Tested only on the base version (without FX Plus)
@@ -360,6 +364,7 @@ wsa://com.android.settings
 | Shopee PH | 2.86.09 | 11 | ⚠️ | App works but cannot login
 | Shosetsu | 2.0.0-2417 | 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
 | Showtime | 3.1.1 | 11 | ❌ | App crashes when you try to login. Button clicks dont work
+| SIM Toolkit (Google) | 12, API 32 | 12 | ❌ | Does not launch even with a shortcut.
 | Simple Gallery | 5.3.9 | 11 | ❌ | App crashes when you try to view a photo
 | Sky Map | 1.10.0 - RC3 | 11 | 🆖 | Complains about missing accelerometer controls, requires GMS
 | Sky: Children of the Light | 0.15.1 | 11 | ❌ | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing
@@ -382,6 +387,7 @@ wsa://com.android.settings
 | Steam Chat | 1.0 | 11 | ✅
 | Steam Link | 1.1.81 | 11 | ❌ | App crashes
 | Stickman Hook | 7.2.8 | 11 | ❌ | Game fails to initialize
+| Stocard | 10.12.1 | 12 | ✅ |  | To log in to an earlier Stocard account that is set to use Google login, it needs to be transitioned from a Google-based account to an E-mail-based account, which has to be done on a phone.
 | Subway Surfers | 2.24.2 | 11 | ✅ | Doesn't support keyboard control
 | SwiFTP Server| 1.24 | 11 | ✅
 | Sword Art Online: Integral Factor| 1.9.2 | 11 | ✅ | Keyboard unsupported
@@ -453,6 +459,7 @@ wsa://com.android.settings
 | ZArchiver | 0.9.5.8 (9596) | 11 | ✅
 | Zenly (w/o GMS) | 4.55.2 | 11 | ⚠️ | App crashes after login, but background location works
 | Zoom | 5.8.3.2634 | 11 | ⚠️ | Camera severely glitched, share screen doesn't work due to WSA's windowed nature.
+| Æ | 2.0.7 | 12 | ✅ | Adding debit cards requires Vipps, an app that is shown above in this list as not working. | 
 | 白夜極光 (Alchemy Stars) | 1.2.2 | 11 | ⚠️ | Poor in-game performance
 | 明日方舟 (Arknights Simplified Chinese) | 1.6.01 | 11 | ✅
 | 哔哩哔哩 (Bilibili) || 11 | ✅
