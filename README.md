@@ -173,7 +173,7 @@ wsa://com.android.settings
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
 | Fortnite | 14.10.0 | 11 | ❌ | Crashes at login screen
 | Fortnite Installer | 4.1.4 | 11 | ❌ | "Device not supported" error
-| Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with a sideloaded Settings app.
+| Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
 | Fruit Ninja | 3.3.4 | 11 | ✅ | Version check error | Otherwise, other app functionality is fine
 | FTP Server (Free) (F-Droid) | 3.1 - 30100 | 12, 11 | ✅ | A network connection is required for the FTP service to initialize.
 | FX File Explorer | 8.0.3.0 (r8008) | 12, 11 | ✅ | Tested only on the base version (without FX Plus)
