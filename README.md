@@ -134,10 +134,11 @@ wsa://com.android.settings
 | Clash Royale | 3.6.1 | 11 | ❌ | App crashes
 | Clouds & Sheep 2 | 1.4.6 | 11 | ✅ | Optionally uses GMS
 | Clubhouse | 1.0.11 | 11 | ⚠️ | Unable to login via phone number, it throws error after entering the OTP
+| CnC Rivals | 1.8.1 | 12, 11 | ✅ | | It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
 | Comixology | 3.10.18.310421 | 11 | ✅
 | Coop Medlem | 3.4.30 | 12 | ⚠️ | Coopay activation fails because the app looks for whether a lockscreen is enabled or not | Core functionality works, although a bit slowly. 
-| CnC Rivals | 1.8.1 | 12, 11 | ✅ | | It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
 | CPU-Z | 1.41 | 11 | ✅
+| Crazy Taxi Classic | 4.7 | 12 | ❌ | An error message on startup says "Download failed because the resources could not be found." | OBB installation has not yet been tested.
 | Cronometer | 3.13.1 | 11 | ✅
 | Cryptography | 1.24.0 | 12 | ✅
 | Dcoder | 4.0.76 | 11 | ✅
@@ -148,6 +149,7 @@ wsa://com.android.settings
 | Destiny Child | 2.8.6 | 11 | ⚠️ | Poor performance during battles
 | DevCheck | 3.39 | 11 | ❌ | Blank screen on startup
 | Device Info HW | 5.4.1 | 11 | ✅
+| Deezer | 7.0.14.1 beta | 12 | ✅ | The Deezer Labs crossfade function doesn't seem to work as of September 2022 | Music and menus seem to work pretty well, even with HiFi bitrates.
 | DirecTV for Tablet | 5.29.001 | 11 | ⚠️ || Frequent crashing, other functionality proper.
 | Discord | 98.6 | 11 | ✅
 | DMM Games Store | 2.8.0 | 11 | 🆖 | Requires GMS
@@ -161,7 +163,7 @@ wsa://com.android.settings
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
 | Excel | 16.0.14527.20162 | 11 | ✅
 | F-Droid | 1.15.2 | 11, 12 | ✅
-| F1 TV| 2.0.5 | 11 | ⚠️ | Terrible app experience including screen flashes and crashes while watching a video
+| F1 TV | 2.0.5 | 11 | ⚠️ | Terrible app experience including screen flashes and crashes while watching a video
 | FaceApp: Face Editor || 11 | ❌
 | Facebook | 377.0.0.22.107 | 12 | ✅ | 
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | 11 | ⚠️ | Chat Heads don't work
@@ -201,6 +203,7 @@ wsa://com.android.settings
 | Google Classroom | 8.0.181.20.90.3 | 11 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
 | Google Contacts | 3.68.0.445910596 | Unknown | ✅ || App may be glitchy from time to time, if that happens, restart the app
 | Google Drive | 2.22.197.0.all.alldpi | 11 | ✅ | Works fine, may require GMS
+| Google Home | 2.58.1.7 | 12 | ❌ | An error message on startup says "Home cannot run without Google Play Services, which are not supported by your device."
 | Google Meet | <sub>2021.10.03.404303734.Release</sub> | 11 | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
 | Grab | 5.172.200 | 11 | ✅
@@ -339,6 +342,7 @@ wsa://com.android.settings
 | QPython 3L | 3.0.0 | 11 | ✅
 | QQ | 8.2.11 | 11 | ✅
 | Ragnarok M: Eternal Love EU | 1.0.70 | 11 | ✅
+| Rayman Adventures | 3.9.95 ARMv7 | 12 | ✅ | Gameplay speed is tied to framerate, and even an Nvidia 1050Ti occasionally get slowdowns in the ARM version. | The game works well without major problems. The x86_64 version was discontinued after 3.9.0 and is no longer able to download game assets on first launch. Xbox Series controller works both with Bluetooth and USB, but only during levels.
 | Rayman Classic | 1.0.1 | 11 | ✅
 | Real Racing 3 | 10.1.0 | 12, 11 | ✅ | Only controller is supported. keyboard doesn't work
 | Reddit || 11 | ✅
@@ -387,8 +391,10 @@ wsa://com.android.settings
 | Steam Chat | 1.0 | 11 | ✅
 | Steam Link | 1.1.81 | 11 | ❌ | App crashes
 | Stickman Hook | 7.2.8 | 11 | ❌ | Game fails to initialize
+| Strawberry Shortcake Dress Up Dreams | 1.4 | 12 | ❌ | An error message on startup says "Download Failed - An unexpected error occured. (Error Code: 15)" The error log indicate that it relies on Google Services Framework. | 
 | Stocard | 10.12.1 | 12 | ✅ |  | To log in to an earlier Stocard account that is set to use Google login, it needs to be transitioned from a Google-based account to an E-mail-based account, which has to be done on a phone.
 | Subway Surfers | 2.24.2 | 11 | ✅ | Doesn't support keyboard control
+| Suzy Cube | 1.0.12 | 12 | ❌ | Shows a black screen after the developer logo screen. The error log shows `Unity: NullReferenceException: A null value was found where an object instance was required.`
 | SwiFTP Server| 1.24 | 11 | ✅
 | Sword Art Online: Integral Factor| 1.9.2 | 11 | ✅ | Keyboard unsupported
 | Sword Art Online: Memory Defrag | 3.0.2 | 11 | ✅ | Keyboard unsupported
@@ -403,6 +409,7 @@ wsa://com.android.settings
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | 11 | ✅
 | Telegram | 8.1.2 | 11 | ✅
+| Terminal Emulator for Android | 1.0.70-rebuild | 12 | ✅ | A warning shows up about the app being designed for older Android versions, but can be dismissed
 | Termux (F-droid) | 0.118.0 | 12, 11 |✅
 | Terraria | 1.4.3.2.2 | 11 | ✅ || Keyboard supported
 | Tesla | 4.6.1 | 11 | ⚠️ | Vehicle graphics and maps do not load, cannot enable phone key. | Internet-based vehicle controls, charge stats, services are functional.
