@@ -394,7 +394,7 @@ wsa://com.android.settings
 | Strawberry Shortcake Dress Up Dreams | 1.4 | 12 | ❌ | An error message on startup says "Download Failed - An unexpected error occured. (Error Code: 15)" The error log indicate that it relies on Google Services Framework. | 
 | Stocard | 10.12.1 | 12 | ✅ |  | To log in to an earlier Stocard account that is set to use Google login, it needs to be transitioned from a Google-based account to an E-mail-based account, which has to be done on a phone.
 | Subway Surfers | 2.24.2 | 11 | ✅ | Doesn't support keyboard control
-| Suzy Cube | 1.0.12 | 12 | ❌ | Shows a black screen after the developer logo screen. The error log shows "Unity: NullReferenceException: A null value was found where an object instance was required."
+| Suzy Cube | 1.0.12 | 12 | ❌ | Shows a black screen after the developer logo screen. The error log shows `Unity: NullReferenceException: A null value was found where an object instance was required.`
 | SwiFTP Server| 1.24 | 11 | ✅
 | Sword Art Online: Integral Factor| 1.9.2 | 11 | ✅ | Keyboard unsupported
 | Sword Art Online: Memory Defrag | 3.0.2 | 11 | ✅ | Keyboard unsupported
