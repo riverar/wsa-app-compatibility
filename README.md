@@ -409,7 +409,7 @@ wsa://com.android.settings
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | 11 | ✅
 | Telegram | 8.1.2 | 11 | ✅
-| Terminal Emulator for Android | 1.0.70-rebuild | 12 | | A warning shows up about the app being designed for older Android versions, but can be dismissed
+| Terminal Emulator for Android | 1.0.70-rebuild | 12 | ✅ | A warning shows up about the app being designed for older Android versions, but can be dismissed
 | Termux (F-droid) | 0.118.0 | 12, 11 |✅
 | Terraria | 1.4.3.2.2 | 11 | ✅ || Keyboard supported
 | Tesla | 4.6.1 | 11 | ⚠️ | Vehicle graphics and maps do not load, cannot enable phone key. | Internet-based vehicle controls, charge stats, services are functional.
