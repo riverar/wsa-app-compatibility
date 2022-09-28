@@ -83,6 +83,7 @@ wsa://com.android.settings
 | Alto's Adventure | 1.8.0 | 11 | ✅
 | Alto's Odyssey | 1.0.10 | 11 | ✅
 | Amaze File Manager | 3.5.3 | 11 | ✅ || Avoid updating the app
+| Amazon Alexa | 2.2.466191.0 | 12 | ✅ |
 | Among Us | 2022.7.12 | 12, 11 | ✅ | Keyboard may be unresponsive. | Xbox controller works.
 | Android System Info | 1.4.2 | 11 | ✅ ||
 | Android System Webview | 103.0.5060.71 | 12 | ✅ ||
@@ -320,6 +321,7 @@ wsa://com.android.settings
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
 | Phigros || 11 | ✅
+| Philips Hue | 3.36.0 | 12 | ❌ | Crashes on startup.
 | Pixel People | 4.7 | 11 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable.
 | Plants vs Zombies 2 | 9.2.2 | 11 | ✅ | Cloud save using Google Play Games works if GMS is available
 | Playstation App | 21.11.2 | 11 | ⚠️ | Runs very slow and takes some time to connect to voice chat, beside that it works  
