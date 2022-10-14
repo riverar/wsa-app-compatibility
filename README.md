@@ -171,6 +171,7 @@ wsa://com.android.settings
 | Fancade | 1.7.6 | 11 | ❌ | App crashes
 | FAST Speed Test | 1.0.8 (88) | 11 | ✅
 | Fate/Grand Order (US) FGO | 2.34.0 | 12, 11 | 🆖 || Require Google Play Services, skippable if you have Google Play Service (APK) installed
+| Fennec F-Droid | 105.1.0 | 12 | ❌ | While the app is correctly installed, it crashes very often, and sites load very, very slowly compared to Firefox Nightly.
 | Files by Google | Unknown | 11 | ✅ || Works fine
 | Fire Emblem Heroes | 6.7.0 | 12, 11 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
 | Firefox | 103.2.0 (2015895967) | 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
@@ -291,6 +292,8 @@ wsa://com.android.settings
 | Muslim Pro | 1.2.3 | 11 | 🆖 | Requires GMS
 | MX Player | 1.40.9 | 11 | ✅
 | MX Player Pro | 1.39.13 | 11 | ⚠️ | App crashes, but videos can be played from external sources
+| My Little Pony World | 2022.2.0 aarch64 | 12 | ⚠️ | An authentication error warning about not being signed in with Google shows up on boot, but can be clicked past. The game is heavily graphically demanding on an x64 PC, averaging 15fps with an Nvidia 1050Ti.
+| MyPostNord (Norway) | 3.2 | 12 | ❌ | Crashes instantly. The error log shows `java.lang.UnsatisfiedLinkError: couldn't find DSO to load: libjscexecutor.so`
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to correct orientation in a second.
 | Neko | 2.9.4 | 12, 11 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
@@ -333,6 +336,8 @@ wsa://com.android.settings
 | Pokémon Masters EX | 2.19.0 | 11 | ❌ | 10102 An error has occured.
 | Pokémon Unite | 1.2.1.2 | 11 | ⚠️ | Battle experience is terrible
 | PornHub || 11 | ✅
+| Posten (Norway) | 5.16.4 | 12 | ❌ | If installed through the APKPure app, it crashes after the splash screen. If trying to install a locally downloaded XAPK over ADB that simply had its file extension changed to `.apk`, the error message `Failure [INSTALL_PARSE_FAILED_UNEXPECTED_EXCEPTION: Failed to parse /data/app/vmdl1025447652.tmp/base.apk: AndroidManifest.xml]` shows up.
+| PostNord | 8.22.2 | 12 | ⚠️ | On the "Verify mobile number" page, keyboard key presses are not recognised, making it impossible to verify phone numbers.
 | Pou | 1.4.84 | 11 | ✅
 | PowerPoint | 16.0.14527.20162 | 11 | ✅ | Might require GMS / MicroG
 | Prep Ladder | 2.0.79-p | 11 | ⚠️ | Video pane opens but no audio or video and time keeps on going
@@ -357,6 +362,7 @@ wsa://com.android.settings
 | Roblox | 2.499.381 | 11 | ⚠️ | Graphical anomalies | GMS warnings might appear but these can be safely ignored
 | Rocket League Sideswipe | 1.0 (356721) | 11 | ❌ | OpenGL ES 3.1 is unsupported
 | Rootless Launcher | 3.9.1 | 11 | ❌ | App crashes
+| Ruler (F-Droid) | 1.1 | 12 | ❌ | While the app is correctly installed, the ruler lengths are wildly off-course no matter how much in-app calibration is done. | The app also refuse to recognise values above circa 100mm for the 70mm calibration line.
 | SAI (Split APKs Installer) (Play Store) | 4.5 | 12 | ✅ || Used rootless method only, not yet tested for rooted WSA
 | SAI (Split APKs Installer) (F-Droid) | 4.5 | 12 | ✅ || Used rootless method only, not yet tested for rooted WSA
 | SATRIA | 1.0.0 | 11 | ❌ | Needs fingerprint reader support
@@ -436,6 +442,7 @@ wsa://com.android.settings
 | Vanced Manager | 2.6.2 (Crimson) | 11 | ✅
 | Vanced MicroG | 0.2.22.212658 | 11 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account
 | Via Browser | 4.3.1 | 11 | ✅
+| Viaplay | 5.48 | 12 | ✅ |  | Episode playback of at least Nella the Princess Knight works correctly, as do the phone-app-exclusive download functionality.
 | Vidio | 5.64.5-f0aa483a3d | 11 | 🆖 || Might require GMS for login
 | Vipps | 2.142.0 | 12 | ❌ | Shows an error message about requiring "Google Services", even if both Google Play Services and Google Services Framework APKs are installed
 | Vivaldi Browser | 4.3.2439.61 | 11 | ✅
