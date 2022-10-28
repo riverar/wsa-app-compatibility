@@ -64,7 +64,7 @@ wsa://com.android.settings
 
 | Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
 |-------------|-----------------------|------------------|---------------|--------------|-------|
-| 2 3 4 Player Games | 3.8.0 | 12 | ✅ || Touchscreen is recommended for the Team vs. Team maches or some of the driving games
+| 2 3 4 Player Games | 3.8.8 | 12 | ✅ || Touchscreen is recommended for the Team vs. Team maches or some of the driving games
 | 23andMe | 5.114.0 | 11 | ✅ |
 | 4PDA | 1.9.35 | 11 | ✅ |
 | 8 ball pool | 5.5.6 | 11 | ✅ |
@@ -91,7 +91,7 @@ wsa://com.android.settings
 | Angry Birds Epic | 3.0.27463.4821 | 11 | ⚠️ | Terrible in-game experience, bad performance and low FPS
 | AniLabX | 3.8.12 (Iridium) - Beta | 11 | ✅
 | Animal Crossing: Pocket Camp | 5.0.2 | 12 | ❌ | error 802-1-01a-069-008 ||
-| Aniyomi | 0.12.3.7 | 12 | ✅
+| Aniyomi | 0.12.3.8 | 12 | ✅
 | AntennaPod | 2.5.0 | 11 | ✅
 | APKMirror Installer (Beta) | 1.3.2 | 11 | ⚠️ | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes
 | APKPure | 3.17.26 | 11 | ✅ | Sometimes, it might require multiple attempts to install an app
@@ -295,7 +295,7 @@ wsa://com.android.settings
 | My Little Pony World | 2022.2.0 aarch64 | 12 | ⚠️ | An authentication error warning about not being signed in with Google shows up on boot, but can be clicked past. The game is heavily graphically demanding on an x64 PC, averaging 15fps with an Nvidia 1050Ti.
 | MyPostNord (Norway) | 3.2 | 12 | ❌ | Crashes instantly. The error log shows `java.lang.UnsatisfiedLinkError: couldn't find DSO to load: libjscexecutor.so`
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to correct orientation in a second.
-| Neko | 2.9.4 | 12, 11 | ✅
+| Neko | 2.11.3 | 12, 11 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
 | Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
@@ -372,7 +372,7 @@ wsa://com.android.settings
 | Shadow Fight 3 | 1.25.7 | 11 | ✅ | Optionally uses GMS, Cloud save using Facebook not working | Keyboard control are supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS
 | Shazam | 12.33.0-220714 | 12 | ✅ | Shazam on pop-up doesn't work | Requires microphone for song identification
 | ShemarooMe | 1.0.16 (106) | 11 | ✅
-| Shizuku | 12.3.0.r668.5687d0c | 11 | ✅ | Works well with Wireless debugging
+| Shizuku | 12.14.0.r914.e88de6a | 12,11 | ⚠️ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on).
 | Shopee PH | 2.86.09 | 11 | ⚠️ | App works but cannot login
 | Shosetsu | 2.0.0-2417 | 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
 | Showtime | 3.1.1 | 11 | ❌ | App crashes when you try to login. Button clicks dont work
@@ -409,9 +409,10 @@ wsa://com.android.settings
 | Sword Art Online: Unleash Blading | 3.2.0 | 11 | ⚠️ | Can't detect device
 | Symbolab | 9.3.0 | 11 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
-| Tachiyomi | 0.13.6 | 12, 11 | ✅
+| Tachiyomi (Preview) | 0.13.6-5104 | 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
+| Tachiyomi (Release) | 0.13.6 | 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
 | TachiyomiAZ | 8.7.1-AZ | 12, 11 | ✅
-| TachiyomiJ2K/TachiJ2K | 1.5.6 | 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
+| TachiyomiJ2K/TachiJ2K | 1.5.9 | 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
 | TachiyomiSY | 1.8.5 | 12, 11 | ✅
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
