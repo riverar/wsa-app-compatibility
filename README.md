@@ -116,7 +116,7 @@ wsa://com.android.settings
 | BBC iPlayer | 4.137.0.25403 | 11 | ✅ | Sideloaded
 | Berry Browser | 3.57.8 | 11, 12 | ✅
 | Binance | 2.36.5 | 11 | ✅
-| Blue Archive (GB) | 1.39.146794 | 12, 11 | ❌ | Black screen on app launch
+| Blue Archive (GB) | 1.39.146794 | 12, 11 | ❌ | crashed when trying to log in/enter game
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
 | Boost for reddit | 1.12.5 | 12 | ✅
 | Bouncer | 1.26.3 | 11 | ⚠️
