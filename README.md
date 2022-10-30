@@ -488,6 +488,7 @@ wsa://com.android.settings
 | ウマ娘 プリティーダービー | 1.20.0 | 12 | ❌ | Only touch effect works after displaying the developer logo
 | 九黎 | 1.3.5.01 | 11 | ❌ | App crashes
 | 公主连结R (Princess Connect! Re: Dive (Simplified Chinese) | 3.4.10 | 11 | ✅
+| 神魔之塔 (Tower of Saviors) | 2022.600 | 12 | ✅ | Gameplay and graphics are excellent, but the game will crash at random when downloading game data. | The first time you open it, it will have difficulty downloading game data because it will crash randomly; simply be patient and keep restarting.
 | 云·原神 (Genshin Impact (Cloud app) )|| 11 | ✅
 | 原神（Genshin Impact） | 2.2.0 | 11 | ⚠️ | Working but heavy graphical glitches - [video](https://www.bilibili.com/video/BV1zT4y1o73D?)
 | 崩坏学园2 (Honkai Gakuen 2)| 8.5 | 11 | ✅ || Game has inbox keyboard controller for WASD
