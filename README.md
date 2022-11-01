@@ -267,6 +267,7 @@ wsa://com.android.settings
 | MapleStory M | 1.7000.2835 | 11 | ❌ |Crashes at loading screen
 | Mario Kart Tour | 2.10.0 | 11 | ❌ | Fails to connect to servers after Nintendo login
 | Material Files | 1.5.2 | 12, 11 | ✅
+| Meta Quest (Oculus) | 181.1.0.81.114 | 12 | ⚠️ | Can't log in with a Meta account, but you can install the Facebook or Instagram app and enable "Logging in with accounts" in the Meta Accounts Center, and use the in-app login. Doesn't detects Quest 2 nearby, due to no Bluetooth support.
 | microG Settings | N/A | 11 | ❌ | App crashes, doesn't load
 | Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
 | Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | 11 | ✅
