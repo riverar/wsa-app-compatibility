@@ -210,7 +210,7 @@ wsa://com.android.settings
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
 | Grab | 5.172.200 | 11 | ✅
 | Grand Theft Auto: San Andreas || 11 | ✅
-| Guardian Tales | 2.23.2 | 11 | 🆖 | Requires GMS
+| Guardian Tales | 2.53.1 | 12, 11 | 🆖 | Requires GMS
 | Gycso | 1.1.0 | 11, 12 | ✅ |
 | Hay Day | 1.53.46(1700) | 11 | 🆖 | Account synchronization requires GMS, but it can be bypassed with Supercell ID
 | HBO Max | 52.15.0.53 | 11 | ⚠️ | Failed to play video (internal player fails to display image and play sound).
