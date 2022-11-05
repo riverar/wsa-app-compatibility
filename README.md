@@ -259,6 +259,7 @@ wsa://com.android.settings
 | Line Rangers | 7.6.3 | 11 | ✅
 | LinkedIn | 4.1.632 | 11 | ✅
 | LNReader | 1.1.12 | 12 | ✅|| Partial keyboard navigation is available (example: arrows key up and down - scrolls) when reading light novel.
+| Love Live! All Stars | 3.6.0 | 12 | ⚠️ | Requires GMS, Hovers around 20-30 FPS with stuttering and slowdown on taps, requires root access and disabling SELinux. | Tested on a Ryzen 5 5600X and Nvidia RTX 3060 Ti
 | LSPosed | 1.8.0 | 11 | ✅
 | Magic Tiles 3 | 8.086.201 | 11 | ✅
 | Magisk | Internal build? | 11 | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131)
