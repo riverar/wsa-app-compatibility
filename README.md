@@ -212,6 +212,7 @@ wsa://com.android.settings
 | Grand Theft Auto: San Andreas || 11 | ✅
 | Guardian Tales | 2.53.1 | 12, 11 | 🆖 | Requires GMS
 | Gycso | 1.1.0 | 11, 12 | ✅ |
+| Hatsune Miku: Colorful Stage! | 1.3.2 | | ⚠️ | App either crashes when loading into game after login or app screen turns dark
 | Hay Day | 1.53.46(1700) | 11 | 🆖 | Account synchronization requires GMS, but it can be bypassed with Supercell ID
 | HBO Max | 52.15.0.53 | 11 | ⚠️ | Failed to play video (internal player fails to display image and play sound).
 | Hill Climb Racing | 1.53.0 (501) | 11 | ✅
@@ -344,7 +345,7 @@ wsa://com.android.settings
 | PowerPoint | 16.0.14527.20162 | 11 | ✅ | Might require GMS / MicroG
 | Prep Ladder | 2.0.79-p | 11 | ⚠️ | Video pane opens but no audio or video and time keeps on going
 | Princess Connect! Re: Dive (Korean) | 5.6.1 | 12 | ❌ | Only touch effect works after displaying the publisher logo
-| Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 11 | ⚠️ | Battle experience is terrible, cannot sync with Google Play Games
+| Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 11 | ⚠️ | Battle experience is terrible, cannot sync with Google Play Games 
 | Pydroid | 5.00_x86_64 | 11 | ✅
 | Q-Dance | 8.0.7 | 11 | ❌ | App crashes
 | QooApp | 8.3.3 | 11 | ✅
@@ -507,3 +508,4 @@ wsa://com.android.settings
 | 文件管理器+ | 2.7.1 | 11 | ✅
 | 超星学习通 | 4.6.1 | 11 | ✅
 | 超星学习通 | 5.0.3 | 11 | ❌ | Crashes on startup
+| プロジェクトセカイ カラフルステージ！ feat. 初音ミク (Project Sekai Colorful Stage JP) | 1.3.2 | | ⚠️ | App either crashes when loading into game after login or app screen turns dark
