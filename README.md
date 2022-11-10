@@ -451,6 +451,7 @@ wsa://com.android.settings
 | Vivaldi Browser | 4.3.2439.61 | 11 | ✅
 | VK | 6.58 | 11 | ✅
 | VLC | 3.5.1 | 12, 11 | ✅ || Keyboard supported
+| Voice Recorder (com.media.bestrecorder.audiorecorder) | 55.1 | 12 | ✅
 | VSCO | 264 | 11 | ⚠️ | Cannot sign in
 | War Robots | 7.7.7 (134783) | 11 | ✅ | GMS warnings might appear but these can be safely ignored
 | Warden | 1.0.3.release | 11 | ⚠️ | App screen flashes otherwise functionality-wise its normal
