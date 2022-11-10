@@ -214,6 +214,7 @@ wsa://com.android.settings
 | Gycso | 1.1.0 | 11, 12 | ✅ |
 | Hay Day | 1.53.46(1700) | 11 | 🆖 | Account synchronization requires GMS, but it can be bypassed with Supercell ID
 | HBO Max | 52.15.0.53 | 11 | ⚠️ | Failed to play video (internal player fails to display image and play sound).
+| Hidden Settings | 1.7.5 | 12 | ✅
 | Hill Climb Racing | 1.53.0 (501) | 11 | ✅
 | Hirigana Pro | 1.4.4 | 12 | ✅ | Scaling issue when the app is in landscape mode.
 | Hitman Sniper | 1.7.193827 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
