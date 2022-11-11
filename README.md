@@ -398,7 +398,7 @@ wsa://com.android.settings
 | Snapchat || 11 | ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored
 | Solid Explorer File Manager | 2.8.16 | 11 | ❌ | App crashes
 | SoundHound | 10.1.2 | 12 | ✅ |  | Ensure in Windows' audio settings that the microphone has a high enough sound level 
-| Speedtest by Ookla | 4.6.10 (145526) | 11 | ⚠️ | VPN does not work
+| Speedtest by Ookla | 4.8.0 (177906) | 12 | ✅ | VPN workaround is needed once after installation, to allow the app to create VPN connections.
 | Spotify | 8.7.30.1221 | 12, 11 | ✅ | 
 | Spotify Lite | 1.9.0.2883 | 11 | ✅
 | Squircle IDE | v2022.1.2 | 12, 11 | ✅
