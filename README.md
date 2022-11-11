@@ -277,6 +277,7 @@ wsa://com.android.settings
 | microG Settings | N/A | 11 | ❌ | App crashes, doesn't load
 | Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
 | Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | 11 | ✅
+| Microsoft Bing - Search & earn | 23.5.401109307 | 12 | ✅
 | Microsoft Edge | 95.0.1020.42 | 11 | ❌ | App frequently crashes
 | Microsoft Edge Canary | 103.0.1264.1 | 11 | ❌ || Fails to load websites
 | Microsoft Launcher | 6.210602.1.994630 | 11 | ✅
