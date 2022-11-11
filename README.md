@@ -309,6 +309,7 @@ wsa://com.android.settings
 | Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
 | Network IP Scanner | 3.2 | 11 | ⚠️ | Only scans WSA's own VirtWifi network
 | NewPipe | 0.22.1 | 11 | ✅
+| NextDNS | 1.2 | 12 | ✅ || VPN workaround is needed once after installation, to allow the app to create VPN connections.
 | NFL | 57.0.7 | 11 | ⚠️ | Videos/streams do not play or load. If embedded in an article, they only play without sound.
 | NieR Re[in]carnation | 1.7.1 | 11 | ❌ | Unable to get past the loading screen
 | Nintendo Switch Online | 2.2.0 | 12 | ✅ | Only displays in portrait 
