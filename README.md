@@ -334,7 +334,7 @@ wsa://com.android.settings
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
 | Phigros || 11 | ✅
-| Philips Hue | 3.36.0 | 12 | ❌ | Crashes on startup.
+| Philips Hue | 4.29.0 | 12 | ✅ 
 | Pixel People | 4.7 | 11 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable.
 | Plants vs Zombies 2 | 9.2.2 | 11 | ✅ | Cloud save using Google Play Games works if GMS is available
 | Playstation App | 21.11.2 | 11 | ⚠️ | Runs very slow and takes some time to connect to voice chat, beside that it works  
