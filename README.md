@@ -302,7 +302,7 @@ wsa://com.android.settings
 | MX Player | 1.40.9 | 11 | ✅
 | MX Player Pro | 1.39.13 | 11 | ⚠️ | App crashes, but videos can be played from external sources
 | My Little Pony World | 2022.2.0 aarch64 | 12 | ⚠️ | An authentication error warning about not being signed in with Google shows up on boot, but can be clicked past. The game is heavily graphically demanding on an x64 PC, averaging 15fps with an Nvidia 1050Ti.
-| MyPostNord (Norway) | 3.2 | 12 | ❌ | Crashes instantly. The error log shows `java.lang.UnsatisfiedLinkError: couldn't find DSO to load: libjscexecutor.so`
+| MyPostNord (Norway) | 3.12 | 12 | ✅ 
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to correct orientation in a second.
 | Neko | 2.11.3 | 12, 11 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
