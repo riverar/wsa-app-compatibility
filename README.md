@@ -215,7 +215,7 @@ wsa://com.android.settings
 | Guardian Tales | 2.53.1 | 12, 11 | 🆖 | Requires GMS
 | Gycso | 1.1.0 | 11, 12 | ✅ |
 | Hatsune Miku: Colorful Stage! | 1.3.2 | 11, 12 | ❌ | App either crashes when loading into game after login or app screen turns dark
-| Hay Day | 1.53.46(1700) | 11 | 🆖 | Account synchronization requires GMS, but it can be bypassed with Supercell ID
+| Hay Day | 1.55.93 (1706) | 1 | ❌ | App crashes on startup
 | HBO Max | 52.15.0.53 | 11 | ⚠️ | Failed to play video (internal player fails to display image and play sound).
 | Hidden Settings | 1.7.5 | 12 | ✅
 | Hill Climb Racing | 1.53.0 (501) | 11 | ✅
