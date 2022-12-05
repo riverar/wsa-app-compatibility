@@ -101,6 +101,7 @@ wsa://com.android.settings
 | AquaMail (Pro) | 1.34.0-118 | 11 | ✅
 | Arcaea | 3.8.8 | 11 | ⚠️ | Keyboard doesn't work on login/register form
 | Arknights | 10.0.01 | 12, 11 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC. Stable FPS throughout the game using NVIDIA GeForce GTX 1050 Ti Mobile
+| Arknights (CN Server) | 1.9.21 | 12 | ✅
 | Asphalt 8 | 6.3.1a | 12 | ✅ | Keyboard supported in latest version (2206)
 | Asphalt 9 || 11 | ⚠️ | Keyboard unsupported
 | ASUS Router | 1.0.0.7.35 | 12 | ✅ | The text on the bottom bar is more narrow than it should be, resulting in cutting off the last letters or taking up two lines. | 
@@ -352,7 +353,10 @@ wsa://com.android.settings
 | PowerPoint | 16.0.14527.20162 | 11 | ✅ | Might require GMS / MicroG
 | Prep Ladder | 2.0.79-p | 11 | ⚠️ | Video pane opens but no audio or video and time keeps on going
 | Princess Connect! Re: Dive (Korean) | 5.6.1 | 12 | ❌ | Only touch effect works after displaying the publisher logo
+| Princess Connect! Re: Dive (Japanese) | 6.7.0 | 12 | ❌ | Only touch effect works after displaying the publisher logo
+| Princess Connect! Re: Dive (Simplified Chinese) | 4.9.6 | 12 | ❌ | Only touch effect works after displaying "loading..."
 | Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 11 | ⚠️ | Battle experience is terrible, cannot sync with Google Play Games
+| Princess Connect! Re: Dive (Global) | 4.4.1 | 12 | ❌ | Only touch effect works after displaying the publisher logo
 | Pydroid | 5.00_x86_64 | 11 | ✅
 | Q-Dance | 8.0.7 | 11 | ❌ | App crashes
 | QooApp | 8.3.3 | 11 | ✅
