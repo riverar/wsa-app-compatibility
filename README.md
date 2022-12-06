@@ -445,6 +445,7 @@ wsa://com.android.settings
 | TP-Link Tapo | 2.4.25 | 11 | ✅
 | Trello | 2021.14.1.16332-production | 11 | ⚠️ | Login needs web browser installed in WSA, using Windows' default browser will not work
 | True Skate | 1.5.39 | 11 | ✅ | Minor graphical glitches
+| Trust: Crypto & Bitcoin Wallet | 6.57.1 | 12 | ✅ || for login, you have to go to Android settings => System => Date & Time and toggle the "Set Time Automatically" option. you can access it by this comman .\adb.exe shell "am start -n com.android.settings/.Settings"
 | Tune In Pro | 28.7 (267721) | 11 | ✅
 | Twitter | 9.16.1-release.00 | 11 | ✅ | Optionally requires GMS
 | UC Browser | 13.0.0.1288 (x86) | 11 | ✅ || Avoid updating the app
