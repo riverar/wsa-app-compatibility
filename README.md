@@ -332,6 +332,7 @@ wsa://com.android.settings
 | OsmAnd~ | 3.9.10 | 11 | ✅
 | Oss (Norway) | 2.9.2 | 12 | ❌ | Crashes on startup. The error log shows `java.lang.UnsatisfiedLinkError: couldn't find DSO to load: libhermes.so`
 | Oto Music | 3.0.2 | 11 | ✅ || Requires app restart to refresh list
+| OTT Navigator | 1.6.7.7 | ❌ | Crashes on video playback
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
 | Phigros || 11 | ✅
@@ -429,6 +430,7 @@ wsa://com.android.settings
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | 11 | ✅
 | Telegram | 8.1.2 | 11 | ✅
+| Televizo | 1.9.0.1 | 11 | ❌ | Crashes on video playback
 | Terminal Emulator for Android | 1.0.70-rebuild | 12 | ✅ | A warning shows up about the app being designed for older Android versions, but can be dismissed
 | Termux (F-droid) | 0.118.0 | 12, 11 |✅
 | Terraria | 1.4.3.2.2 | 11 | ✅ || Keyboard supported
