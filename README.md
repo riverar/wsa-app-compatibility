@@ -80,6 +80,7 @@ wsa://com.android.settings
 | AIMP | 3.10.1052 | 11 | ✅
 | Alan Walker-The Aviation Game | 3.0.6 | 11 | ✅ || Touchscreen and cursor works; keyboard doesn't work
 | Alien: Blackout | 2.0 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
+| Aliexpress | 8.58.0 | 12 | ❌ | Crashes on boot, sometimes shows "Oops, something went wrong, please clear app data or reinstall the app." but it never loads
 | Alto's Adventure | 1.8.0 | 11 | ✅
 | Alto's Odyssey | 1.0.10 | 11 | ✅
 | Amaze File Manager | 3.5.3 | 11 | ✅ || Avoid updating the app
