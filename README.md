@@ -443,6 +443,7 @@ wsa://com.android.settings
 | TikTok (Global) | 25.0.3 | 11, 12 | ✅
 | TikTok (TV Version) | 1.6.0 | 11 | ❌ | App crashes
 | TikTok Lite | 21.7.1 | 11 | ❌ | App crashes
+| Tivimate | 4.4.0 | 11 | ✅ |   Compatibility Options -> Force App to be non-resizeable ; Disable smooth resize ; Keyboard Compatibility ;ForceFullScreen [F11] Note: Version 4.5. And above force crashes, the latest working version remains 4.4.0
 | TP-Link Tapo | 2.4.25 | 11 | ✅
 | Trello | 2021.14.1.16332-production | 11 | ⚠️ | Login needs web browser installed in WSA, using Windows' default browser will not work
 | True Skate | 1.5.39 | 11 | ✅ | Minor graphical glitches
