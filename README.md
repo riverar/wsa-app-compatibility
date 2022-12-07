@@ -113,7 +113,7 @@ wsa://com.android.settings
 | Azur Lane | 6.1.2 | 12, 11 | ⚠️ | Sometimes stuck on downloading resources, can be fixed by restarting the app. Overall gameplay, got stable FPS using NVIDIA GeForce GTX 1050 Ti Mobile
 | Bad Piggies HD | 2.4.3141 | 11 | ✅
 | BanG Dream! Girls Band Party! | 4.5.0 | 11 | 🆖 | Requires GMS
-| BankID (Norway) | 1.6.19 | 12 | ❌ | Spams the desktop browser with new tabs about how the app thinks the phone is rooted. 
+| BankID (Norway) | 2.1 | 12 | ❌ | Spams the desktop browser with new tabs about how the app thinks the phone is rooted. 
 | Battle Cats Quest | 1.0.4 | 11 | ✅
 | BBC iPlayer | 4.137.0.25403 | 11 | ✅ | Sideloaded
 | Berry Browser | 3.57.8 | 11, 12 | ✅
