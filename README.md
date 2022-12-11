@@ -241,7 +241,8 @@ wsa://com.android.settings
 | JAKI - Jakarta Kini | 1.2.34 | 11 | 🆖 | Some features require GMS
 | Jet Car Stunts 2 | 1.0.13 | 11 | ❌ | Loads up but orientation and menus are broken
 | Jetpack Joyride | 1.52.1 (58461800) | 11 | ⚠️ | Google Play Games sync doesn't work, otherwise the game functionality is fine
-| JioSaavn | 8.2.1 | 11 | ✅ |Doesn't support fullscreen and rare crashes but running fine
+|JioSaavn | 8.2.1 | 11 | ✅ |Doesn't support fullscreen and rare crashes but running fine
+|Jiocinema| 3.0.2.7 | 11 | ✅ | intial crash and lag(might be my low hardware issue) but after two runs worked flawlessly 
 | Jlpt | 4.7 | 12 | ✅ ||
 | Joey (Reddit client) | 2.0.0.1 | 11 | ✅
 | Joplin | 2.4.3 (2097651) | 11 | ✅
