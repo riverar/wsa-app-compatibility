@@ -477,6 +477,7 @@ wsa://com.android.settings
 | Warden | 1.0.3.release | 11 | ⚠️ | App screen flashes otherwise functionality-wise its normal
 | Warfare Incorporated | 1.63 | 11 | ✅ | The selection box does not work.
 | Wealthsimple Trade | 2.27.1 (2195) | 11 | ✅
+| WeChat | 8.0.15 (2001) | 12 | ✅
 | WhatsApp | 2.21.20.20 | 11 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed
 | Where is my Water? || 11 | ⚠️ | Many images are replaced with white rectangles
 | Where is my Water? 2 || 11 | ⚠️ | Most images are replaced with white rectangles, Vignette overlay is full white and covered the whole playing area. The ground is not textured correctly.
