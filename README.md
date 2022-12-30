@@ -238,6 +238,7 @@ wsa://com.android.settings
 | Intra | 1.3.8 | 12 | ✅ || VPN workaround is needed once after installation to allow the app to create VPN connections.
 | iOS app (any) || 11 | ❌ | Thanks for testing, Brad.
 | iPusnas | 1.5.1 | 11 | ✅
+| iRobot | 5.2.4-release | 12 | ❌ | Error message `java.lang.UnsatisfiedLinkError: dlopen failed: library "libcore_jni.so" not found`
 | JAKI - Jakarta Kini | 1.2.34 | 11 | 🆖 | Some features require GMS
 | Jet Car Stunts 2 | 1.0.13 | 11 | ❌ | Loads up but orientation and menus are broken
 | Jetpack Joyride | 1.52.1 (58461800) | 11 | ⚠️ | Google Play Games sync doesn't work, otherwise the game functionality is fine
