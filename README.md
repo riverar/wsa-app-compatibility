@@ -322,7 +322,7 @@ wsa://com.android.settings
 | Nova Launcher | 7.0.49 (7049) | 11 | ⚠️ | UI is messy, but app drawer is fine
 | Nova Launcher Beta | 8.0.2 | 12 | ⚠️ | UI is messy, but app drawer is fine
 | Nu Carnival | 1.0.2-erolabs | 11 | ❌ | App stuck on a black screen
-| Octopath Traveller: Champions of the Continent (CotC) | 1.5.0 (753410) | 12 | ❌ | OpenGL ES 3.1 (or higher) is unsupported | Security policy violation: 32  (Most likely due to OpenGL issue)
+| Octopath Traveler: Champions of the Continent (CotC) | 1.5.0 (753410) | 12 | ❌ | OpenGL ES 3.1 (or higher) is unsupported | Security policy violation: 32  (Most likely due to OpenGL issue)
 | Office | 16.0.14527.20162 | 11 | ✅ || Might require microG
 | Office Lens | 16.0.14527.20178 | 11 | ❌ | Might require GMS, cannot sign in
 | Okay? | 4.08 | 11 | ✅
