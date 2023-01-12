@@ -60,9 +60,13 @@ Some URIs are not supported in WSA, such as:
 wsa://com.android.settings
 ```
 
-## Support table (applications)
+## Support tables
+
+* [Games](#games)
+* [Non-Games](#non-games)
 
 ### Non-games
+
 | Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
 |-------------|-----------------------|------------------|---------------|--------------|-------|
 | 23andMe | 5.114.0 | 11 | ✅ |
@@ -407,6 +411,7 @@ wsa://com.android.settings
 | 超星学习通 | 5.0.3 | 11 | ❌ | Crashes on startup
 
 ### Games
+
 | Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
 |-------------|-----------------------|------------------|---------------|--------------|-------|
 | 2 3 4 Player Games | 3.8.8 | 12 | ✅ || Touchscreen is recommended for the Team vs. Team maches or some of the driving games
