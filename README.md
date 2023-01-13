@@ -406,7 +406,7 @@ wsa://com.apple.android.music
 
 ### Games
 
-| Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
+| Game | Latest tested version | Android versions | Support level | Known Issues | Notes |
 |-------------|-----------------------|------------------|---------------|--------------|-------|
 | 2 3 4 Player Games | 3.8.8 | 12 | ✅ || Touchscreen is recommended for the Team vs. Team maches or some of the driving games
 | 8 ball pool | 5.5.6 | 11 | ✅ |
