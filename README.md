@@ -56,11 +56,10 @@ wsa://com.apple.android.music
 
 ## Support tables
 
+* [Apps](#apps)
 * [Games](#games)
-* [Non-Games](#non-games)
 
-### Non-games
-
+### Apps
 | Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
 |-------------|-----------------------|------------------|---------------|--------------|-------|
 | 23andMe | 5.114.0 | 11 | ✅ |
