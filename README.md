@@ -281,7 +281,7 @@ wsa://com.apple.android.music
 | Q-Dance | 8.0.7 | 11 | ❌ | App crashes
 | QooApp | 8.3.3 | 11 | ✅
 | QPython 3L | 3.0.0 | 11 | ✅
-| QQ | 8.2.11 | 11 | ✅
+| QQ | 8.9.28 | 13, 12 | ❌ | App crashes
 | Reddit || 11 | ✅
 | Relay | 10.0.378 | 11 | ✅
 | Remini - AI Photo Enhancer || 11 | ⚠️ | Oops! Something went wrong Your image didn't save. Please try again.
@@ -363,7 +363,7 @@ wsa://com.apple.android.music
 | VSCO | 264 | 11 | ⚠️ | Cannot sign in
 | Warden | 1.0.3.release | 11 | ⚠️ | App screen flashes otherwise functionality-wise its normal
 | Wealthsimple Trade | 2.27.1 (2195) | 11 | ✅
-| WeChat | 8.0.15 (2001) | 12 | ✅
+| WeChat | 8.0.32 | 13, 12 | ✅
 | WhatsApp | 2.21.20.20 | 11 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed
 | Word | 16.0.14430.20246 | 11 | ✅ || Might require microG
 | Wulkanowy (F-Droid) | 1.4.3 | 11 | ✅
