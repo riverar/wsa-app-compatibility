@@ -310,7 +310,7 @@ wsa://com.apple.android.music
 | Smart Launcher | 5.5 Build 052 | 11 | ✅
 | Smart Life | 3.32.5 | 11 | ❌ | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted
 | Snapchat || 11 | ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored
-| Solid Explorer File Manager | 2.8.16 | 11 | ❌ | App crashes
+| Solid Explorer File Manager | 2.8.28b | 12 | ✅
 | SoundHound | 10.1.2 | 12 | ✅ |  | Ensure in Windows' audio settings that the microphone has a high enough sound level 
 | Speedtest by Ookla | 4.8.0 (177906) | 12 | ✅ | VPN workaround is needed once after installation, to allow the app to create VPN connections.
 | Spotify | 8.7.30.1221 | 12, 11 | ✅ | 
@@ -419,6 +419,7 @@ wsa://com.apple.android.music
 | Among Us | 2022.7.12 | 12, 11 | ✅ | Keyboard may be unresponsive. | Xbox controller works.
 | Angry Birds Epic | 3.0.27463.4821 | 11 | ⚠️ | Terrible in-game experience, bad performance and low FPS
 | Animal Crossing: Pocket Camp | 5.0.2 | 12 | ❌ | error 802-1-01a-069-008 ||
+| Archero | 4.8.2 | 12 | ✅ | Requires GMS and Play Games to load your cloud progress
 | Arknights | 10.0.01 | 12, 11 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC. Stable FPS throughout the game using NVIDIA GeForce GTX 1050 Ti Mobile
 | Arknights (明日方舟; Simplified Chinese) | 1.6.01 | 11 | ✅
 | Arknights (CN Server) | 1.9.21 | 12 | ✅
@@ -459,7 +460,7 @@ wsa://com.apple.android.music
 | Grand Theft Auto: San Andreas || 11 | ✅
 | Guardian Tales | 2.53.1 | 12, 11 | 🆖 | Requires GMS
 | Hatsune Miku: Colorful Stage! | 1.3.2 | 11, 12 | ❌ | App either crashes when loading into game after login or app screen turns dark
-| Hay Day | 1.55.93 (1706) | 1 | ❌ | App crashes on startup
+| Hay Day | 1.55.93 (1706) | 1 | ❌ | App crashes on startup (Worked on 1.54.71 and earlier)
 | Hill Climb Racing | 1.53.0 (501) | 11 | ✅
 | Hitman Sniper | 1.7.193827 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
 | Honkai Impact 3rd| 5.1.0 | 11 | ⚠️ | Poor graphics quality
@@ -468,6 +469,7 @@ wsa://com.apple.android.music
 | Jet Car Stunts 2 | 1.0.13 | 11 | ❌ | Loads up but orientation and menus are broken
 | Jetpack Joyride | 1.52.1 (58461800) | 11 | ⚠️ | Google Play Games sync doesn't work, otherwise the game functionality is fine
 | KINGDOM HEARTS Uχ Dark Road | 4.4.0 (Offline) | 11 | ✅ | GMS warnings might appear but these can be safely ignored
+| King of Thieves | 2.57.1 | ✅
 | Konosuba:FD | 1.12.1 | 11 | 🆖 | Requires GMS
 | Last Day On Earth: Survival || 11 | 🆖 | Might require GMS
 | League of Legends: Wild Rift || 11 | ✅
@@ -485,6 +487,7 @@ wsa://com.apple.android.music
 | My Little Pony World | 2022.2.0 aarch64 | 12 | ⚠️ | An authentication error warning about not being signed in with Google shows up on boot, but can be clicked past. The game is heavily graphically demanding on an x64 PC, averaging 15fps with an Nvidia 1050Ti.
 | NieR Re[in]carnation | 1.7.1 | 11 | ❌ | Unable to get past the loading screen
 | Plants vs Zombies 2 | 9.2.2 | 11 | ✅ | Cloud save using Google Play Games works if GMS is available
+| Pojav Launcher | dahlia-209 | 12 | ✅ | Performance was great with an i7-10700K and a RTX 3060 Ti, but will probably be worse on lower hardware.
 | Pokémon GO || 12, 11 | ❌ | This device, OS, or software is not compatible
 | Pokémon Masters EX | 2.19.0 | 11 | ❌ | 10102 An error has occured.
 | Pokémon Unite | 1.2.1.2 | 11 | ⚠️ | Battle experience is terrible
