@@ -65,7 +65,7 @@ wsa://com.apple.android.music
 | 23andMe | 5.114.0 | 11 | ✅ |
 | 4PDA | 1.9.35 | 11 | ✅ |
 | A+ Gallery | 2.2.55.4 | 11 | ✅ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead.
-| Activity Launcher | 1.14.6 | 12 | ⚠️ | As of WSA version 2209.40000.28.0, you can't pin shortcuts to a home area of a launcher (like lawnchair) with the error `Current launcher does not support PinShortcut. Unable to create shortcut.` | You can still launch specific activities on any app 
+| Activity Launcher | 1.14.6 | 12 | ⚠️ | As of WSA version 2209.40000.28.0, you can't pin shortcuts to a home area of a launcher (like Lawnchair) with the error `Current launcher does not support PinShortcut. Unable to create shortcut.` | You can still launch specific activities on any app 
 | AdGuard | 3.6.10 | 12 | ⚠️ | "Local VPN" doesn't work even with the above workaround. "HTTPS Filtering" doesn't work due to problems with recognition of manually installed certificates. | Not to be confused with "AdGuard Content Blocker"
 | ADM | 12.5.4 | 11 | ✅ |
 | ADM Pro | 6.4.0 | 11 | ✅ |
