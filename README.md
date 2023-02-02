@@ -485,7 +485,7 @@ wsa://com.apple.android.music
 | Monument Valley 2 | 2.0.3 | 11 | ✅
 | Mortal Kombat X (APKPure) | 5.9.0 | 11 | ❌ | Stuck on initialization screen, message shows up saying "Download failed to start"
 | My Little Pony World | 2022.2.0 aarch64 | 12 | ⚠️ | An authentication error warning about not being signed in with Google shows up on boot, but can be clicked past. The game is heavily graphically demanding on an x64 PC, averaging 15fps with an Nvidia 1050Ti.
-| NieR Re[in]carnation | 1.7.1 | 11 | ❌ | Unable to get past the loading screen
+| NieR Re[in]carnation | 2.17.0 | 13, 12, 11 | 🆖 | Requires GMS to get past loading screen. If GMS is installed, terrible in-game experience, includes poor performance and low FPS. | Tested on a Ryzen 9 5900X and Nvidia RTX 3080
 | Plants vs Zombies 2 | 9.2.2 | 11 | ✅ | Cloud save using Google Play Games works if GMS is available
 | Pojav Launcher | dahlia-209 | 12 | ✅ | Performance was great with an i7-10700K and a RTX 3060 Ti, but will probably be worse on lower hardware.
 | Pokémon GO || 12, 11 | ❌ | This device, OS, or software is not compatible
