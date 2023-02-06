@@ -357,7 +357,7 @@ wsa://com.apple.android.music
 | Trust: Crypto & Bitcoin Wallet | 6.57.1 | 12 | ✅ || for login, you have to go to Android settings => System => Date & Time and toggle the "Set Time Automatically" option. you can access it by this comman .\adb.exe shell "am start -n com.android.settings/.Settings"
 | Tune In Pro | 28.7 (267721) | 11 | ✅
 | Twitter | 9.16.1-release.00 | 11 | ✅ | Optionally requires GMS
-| Twitter Lite | 3.1.1 | 12 | ✅ || Starts as a PWA (Progressive Web App) like Kiwi Browser instead of a real app.
+| Twitter Lite | 3.1.1 | 12 | ✅ ||
 | UC Browser | 13.0.0.1288 (x86) | 11 | ✅ || Avoid updating the app
 | Uptodown App Store | 4.35 | 11 | ⚠️ | Keeps "analyzing device" on app details page, thus its unable to download APKs.
 | Vanced Manager | 2.6.2 (Crimson) | 11 | ✅
