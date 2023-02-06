@@ -65,7 +65,7 @@ wsa://com.apple.android.music
 | 23andMe | 5.114.0 | 11 | ✅ |
 | 4PDA | 1.9.35 | 11 | ✅ |
 | A+ Gallery | 2.2.55.4 | 11 | ✅ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead.
-| Activity Launcher | 1.14.4 | 12 | ✅ || Requires an Android launcher to pin shortcuts on the home screen.
+| Activity Launcher | 1.14.6 | 12 | ⚠️ | As of WSA version 2209.40000.28.0, you can't pin shortcuts to a home area of a launcher (like Lawnchair) with the error `Current launcher does not support PinShortcut. Unable to create shortcut.` | You can still launch specific activities on any app 
 | AdGuard | 3.6.10 | 12 | ⚠️ | "Local VPN" doesn't work even with the above workaround. "HTTPS Filtering" doesn't work due to problems with recognition of manually installed certificates. | Not to be confused with "AdGuard Content Blocker"
 | ADM | 12.5.4 | 11 | ✅ |
 | ADM Pro | 6.4.0 | 11 | ✅ |
@@ -96,6 +96,7 @@ wsa://com.apple.android.music
 | BBC iPlayer | 4.137.0.25403 | 11 | ✅ | Sideloaded
 | Berry Browser | 3.57.8 | 11, 12 | ✅
 | Binance | 2.36.5 | 11 | ✅
+| Bondee | 2.0.0.636 | 12 | ⚠️ | Has scaling issues. Specifically, after the introductory part, the app uses abnormally huge elements which makes it impossible to navigate.
 | Boost for reddit | 1.12.5 | 12 | ✅
 | Bouncer | 1.26.3 | 11 | ⚠️
 | Brave Browser | 1.30.87 | 11 | ✅
@@ -110,6 +111,7 @@ wsa://com.apple.android.music
 | CPU-Z | 1.41 | 11 | ✅
 | Cronometer | 3.13.1 | 11 | ✅
 | Cryptography | 1.24.0 | 12 | ✅
+| CX File Explorer | 1.9.6 | 12 | ✅
 | Dcoder | 4.0.76 | 11 | ✅
 | Decibel X | 6.4.2 | 11 | ⚠️ | App crashes
 | Decrypto | 1.4.7 | 12 | ✅
@@ -131,13 +133,15 @@ wsa://com.apple.android.music
 | F1 TV | 2.0.5 | 11 | ⚠️ | Terrible app experience including screen flashes and crashes while watching a video
 | FaceApp: Face Editor || 11 | ❌
 | Facebook | 377.0.0.22.107 | 12 | ✅ | 
+| Facebook Lite | 339.0.0.10.100 | 12 | ✅ |
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | 11 | ⚠️ | Chat Heads don't work
+| Facebook Messenger Lite | 334.0.0.10.101 | ✅ | 
 | Fancade | 1.7.6 | 11 | ❌ | App crashes
 | FAST Speed Test | 1.0.8 (88) | 11 | ✅
 | Fate/Grand Order (US) FGO | 2.34.0 | 12, 11 | 🆖 || Require Google Play Services, skippable if you have Google Play Service (APK) installed
 | Fennec F-Droid | 105.1.0 | 12 | ❌ | While the app is correctly installed, it crashes very often, and sites load very, very slowly compared to Firefox Nightly.
 | Files by Google | Unknown | 11 | ✅ || Works fine
-| Firefox | 103.2.0 (2015895967) | 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
+| Firefox | 109.1.1 (20159227175) | 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
 | Firefox Nightly | 95.0a1 | 11 | ✅
 | Firefox Focus | 106.1 | 12 | ✅
 | foobar2000 | 1.2.30 | 11 | ✅
@@ -176,8 +180,9 @@ wsa://com.apple.android.music
 | huaCtrl PRO | 1.0.27 | 11 | ✅
 | Huawei AppGallery | 11.4.2.300 | 11 | ✅ | Frequent crashes were experienced, otherwise the app functionality is fine
 | Hyper Square | 3.0.1 | 11 | ✅
-| IFTTT | 4.29.2 | 12 | 🆖 | Need GMS to receive notification. Ignore the Notification Reader Access error. | To avoid Play Protect blocking login to the Google Store, use GMS version open_gapps-x86_64-11.0-pico-20220215. (See also: WSAGAScript issue 213)`. 
+| IFTTT | 4.29.2 | 12 | 🆖 | Need GMS to receive notification. Ignore the Notification Reader Access error. | To avoid Play Protect blocking login to the Google Store, use GMS version open_gapps-x86_64-11.0-pico-20220215. (See also: WSAGAScript issue #213). 
 | Instagram | 244.0.0.17.110 | 12, 11 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories (only works in 11. Keyboard app support in 12 is broken.
+| Instagram Lite | 339.0.0.10.100 | 12 | ✅ 
 | Intra | 1.3.8 | 12 | ✅ || VPN workaround is needed once after installation to allow the app to create VPN connections.
 | iOS app (any) || 11 | ❌ | Thanks for testing, Brad.
 | iPusnas | 1.5.1 | 11 | ✅
@@ -195,6 +200,7 @@ wsa://com.apple.android.music
 | Khan Academy | 7.3.3 | 11 | ✅
 | Kik | 7.10.1.176 (82) | 11 | ✅
 | Kindle | 8.47.1.3370 | 11 | ✅
+| Kiwi Browser | 107.0.5304.74 | ✅ |
 | Kobo Books | 8.40.29843 | 11 | ⚠️ | Aspect ratio and resolution are fixed, appears blurry when resized
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 11 | ❌ | App crashes
@@ -226,7 +232,8 @@ wsa://com.apple.android.music
 | Mobile Legends | 1.6.66.7281 | 11 | ✅
 | MOLA | 2.1.3 | 11 | ❌ | App crashes
 | Monument Browser | 1.0.333 | 12 | ✅
-| Moodle | 3.9.5 | 11 | ✅
+| Moodle | 3.9.5 | 11 | ✅ 
+| MPV | 2022-07-30-release | 12 | ✅ ||Keyboard navigation supported in the media player
 | MT File Manager | 2.10.0 | 11 | ✅
 | Musically (TikTok) | 7.8.0 | 11 | ✅
 | Muslim Pro | 1.2.3 | 11 | 🆖 | Requires GMS
@@ -234,7 +241,7 @@ wsa://com.apple.android.music
 | MX Player Pro | 1.39.13 | 11 | ⚠️ | App crashes, but videos can be played from external sources
 | MyPostNord (Norway) | 3.12 | 12 | ✅ 
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to correct orientation in a second.
-| Neko | 2.11.3 | 12, 11 | ✅
+| Neko | 2.12.7 | 12, 11 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
 | Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
@@ -264,6 +271,7 @@ wsa://com.apple.android.music
 | OTT Navigator | 1.6.7.7 | ❌ | Crashes on video playback
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
+| Package Manager | 6.7 | 12 | ✅ ||Recommeded with use of Shizuku for multi-app installation
 | Phigros || 11 | ✅
 | Philips Hue | 4.29.0 | 12 | ✅ 
 | Pixel People | 4.7 | 11 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable.
@@ -290,6 +298,7 @@ wsa://com.apple.android.music
 | Robinhood - Food & Booking | 2.2.2 | 12 | ⚠️ | App having trouble loading content. Maps & Location picker don't work (Requires GMS). | You can log-in only on one device at the same time. Previous device will log-out upon signing-in on new device.
 | Rootless Launcher | 3.9.1 | 11 | ❌ | App crashes
 | Ruler (F-Droid) | 1.1 | 12 | ❌ | While the app is correctly installed, the ruler lengths are wildly off-course no matter how much in-app calibration is done. | The app also refuse to recognise values above circa 100mm for the 70mm calibration line.
+| Saikou β (Beta) | 1.2.0.24 | 12 | ✅ || Some keyboard functionality is somewhat limited but usable (both media playback and manga reading)
 | SAI (Split APKs Installer) (Play Store) | 4.5 | 12 | ✅ || Used rootless method only, not yet tested for rooted WSA
 | SAI (Split APKs Installer) (F-Droid) | 4.5 | 12 | ✅ || Used rootless method only, not yet tested for rooted WSA
 | SATRIA | 1.0.0 | 11 | ❌ | Needs fingerprint reader support
@@ -323,10 +332,10 @@ wsa://com.apple.android.music
 | SwiFTP Server| 1.24 | 11 | ✅
 | Symbolab | 9.3.0 | 11 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
-| Tachiyomi (Preview) | 0.13.6-5104 | 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
-| Tachiyomi (Release) | 0.13.6 | 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
+| Tachiyomi (Preview) | 0.14.3-5465 | 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
+| Tachiyomi (Release) | 0.14.3 | 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
 | TachiyomiAZ | 8.7.1-AZ | 12, 11 | ✅
-| TachiyomiJ2K/TachiJ2K | 1.5.9 | 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
+| TachiyomiJ2K/TachiJ2K | 1.6.0 | 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
 | TachiyomiSY | 1.8.5 | 12, 11 | ✅
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
@@ -348,6 +357,7 @@ wsa://com.apple.android.music
 | Trust: Crypto & Bitcoin Wallet | 6.57.1 | 12 | ✅ || for login, you have to go to Android settings => System => Date & Time and toggle the "Set Time Automatically" option. you can access it by this comman .\adb.exe shell "am start -n com.android.settings/.Settings"
 | Tune In Pro | 28.7 (267721) | 11 | ✅
 | Twitter | 9.16.1-release.00 | 11 | ✅ | Optionally requires GMS
+| Twitter Lite | 3.1.1 | 12 | ✅ ||
 | UC Browser | 13.0.0.1288 (x86) | 11 | ✅ || Avoid updating the app
 | Uptodown App Store | 4.35 | 11 | ⚠️ | Keeps "analyzing device" on app details page, thus its unable to download APKs.
 | Vanced Manager | 2.6.2 (Crimson) | 11 | ✅
@@ -358,7 +368,7 @@ wsa://com.apple.android.music
 | Vipps | 2.142.0 | 12 | ❌ | Shows an error message about requiring "Google Services", even if both Google Play Services and Google Services Framework APKs are installed
 | Vivaldi Browser | 4.3.2439.61 | 11 | ✅
 | VK | 6.58 | 11 | ✅
-| VLC | 3.5.1 | 12, 11 | ✅ || Keyboard supported
+| VLC | 3.5.3 | 12, 11 | ✅ || Keyboard supported in media player
 | Voice Recorder | 55.1 | 12 | ✅ || com.media.bestrecorder.audiorecorder
 | VSCO | 264 | 11 | ⚠️ | Cannot sign in
 | Warden | 1.0.3.release | 11 | ⚠️ | App screen flashes otherwise functionality-wise its normal
