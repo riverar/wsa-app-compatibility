@@ -180,7 +180,7 @@ wsa://com.apple.android.music
 | huaCtrl PRO | 1.0.27 | 11 | ✅
 | Huawei AppGallery | 11.4.2.300 | 11 | ✅ | Frequent crashes were experienced, otherwise the app functionality is fine
 | Hyper Square | 3.0.1 | 11 | ✅
-| IFTTT | 4.29.2 | 12 | 🆖 | Need GMS to receive notification. Ignore the Notification Reader Access error. | To avoid Play Protect blocking login to the Google Store, use GMS version open_gapps-x86_64-11.0-pico-20220215. (See also: WSAGAScript issue 213). 
+| IFTTT | 4.29.2 | 12 | 🆖 | Need GMS to receive notification. Ignore the Notification Reader Access error. | To avoid Play Protect blocking login to the Google Store, use GMS version open_gapps-x86_64-11.0-pico-20220215. (See also: WSAGAScript issue #213). 
 | Instagram | 244.0.0.17.110 | 12, 11 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply stories (only works in 11. Keyboard app support in 12 is broken.
 | Instagram Lite | 339.0.0.10.100 | 12 | ✅ 
 | Intra | 1.3.8 | 12 | ✅ || VPN workaround is needed once after installation to allow the app to create VPN connections.
