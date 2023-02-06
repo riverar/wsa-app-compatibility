@@ -96,7 +96,7 @@ wsa://com.apple.android.music
 | BBC iPlayer | 4.137.0.25403 | 11 | ✅ | Sideloaded
 | Berry Browser | 3.57.8 | 11, 12 | ✅
 | Binance | 2.36.5 | 11 | ✅
-| Bondee | 2.0.0.636 | 12 | ⚠️ | App starts (with the intro), after the intro (the part where you sign in) it uses huge elements (like icons and text rather than the default setting) that is near impossible to navigate (Tried resizing the window size to no avail).
+| Bondee | 2.0.0.636 | 12 | ⚠️ | Has scaling issues. Specifically, after the introductory part, the app uses abnormally huge elements which makes it impossible to navigate.
 | Boost for reddit | 1.12.5 | 12 | ✅
 | Bouncer | 1.26.3 | 11 | ⚠️
 | Brave Browser | 1.30.87 | 11 | ✅
