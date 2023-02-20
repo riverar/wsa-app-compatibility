@@ -231,6 +231,7 @@ wsa://com.apple.android.music
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
 | Mobile Legends | 1.6.66.7281 | 11 | ✅
 | MOLA | 2.1.3 | 11 | ❌ | App crashes
+| Monogolf | 3.4.10 | 13 | ✅ | 
 | Monument Browser | 1.0.333 | 12 | ✅
 | Moodle | 3.9.5 | 11 | ✅ 
 | MPV | 2022-07-30-release | 12 | ✅ ||Keyboard navigation supported in the media player
