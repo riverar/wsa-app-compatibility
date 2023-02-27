@@ -231,6 +231,7 @@ wsa://com.apple.android.music
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
 | Mobile Legends | 1.6.66.7281 | 11 | ✅
 | MOLA | 2.1.3 | 11 | ❌ | App crashes
+| Monogolf | 3.4.10 | 13 | ✅ | 
 | Monument Browser | 1.0.333 | 12 | ✅
 | Moodle | 3.9.5 | 11 | ✅ 
 | MPV | 2022-07-30-release | 12 | ✅ ||Keyboard navigation supported in the media player
@@ -319,6 +320,7 @@ wsa://com.apple.android.music
 | Slack | 21.11.20.0-B | 11 | ✅
 | Smart Launcher | 5.5 Build 052 | 11 | ✅
 | Smart Life | 3.32.5 | 11 | ❌ | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted
+| Smash Hit | 1.4.3 | 13 | ✅ |
 | Snapchat || 11 | ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored
 | Solid Explorer File Manager | 2.8.28b | 12 | ✅
 | SoundHound | 10.1.2 | 12 | ✅ |  | Ensure in Windows' audio settings that the microphone has a high enough sound level 
