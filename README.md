@@ -454,7 +454,7 @@ wsa://com.apple.android.music
 | Brawl Stars | 38.159 | 11 | ❌ | Game crashes
 | Candy Crush Saga | 1.213.2.1 (12132011) | 11 | ✅
 | Clash Mini | 1.1142.10 | 11 | ❌ | App crashes
-| Clash of Clans | 14.211.3 | 11 | ❌ | App crashes
+| Clash of Clans | 15.83.28 | 13 | ❌ | App crashes
 | Clash Royale | 3.6.1 | 11 | ❌ | App crashes
 | Clouds & Sheep 2 | 1.4.6 | 11 | ✅ | Optionally uses GMS
 | Crazy Taxi Classic | 4.7 | 12 | ❌ | An error message on startup says "Download failed because the resources could not be found." | OBB installation has not yet been tested.
