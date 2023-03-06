@@ -65,7 +65,7 @@ wsa://com.apple.android.music
 | 23andMe | 5.114.0 | 11 | ✅ |
 | 4PDA | 1.9.35 | 11 | ✅ |
 | A+ Gallery | 2.2.55.4 | 11 | ✅ | You might face graphical glitches when using dark theme, hence its recommended to use light theme instead.
-| Activity Launcher | 1.14.6 | 12 | ⚠️ | As of WSA version 2209.40000.28.0, you can't pin shortcuts to a home area of a launcher (like Lawnchair) with the error `Current launcher does not support PinShortcut. Unable to create shortcut.` | You can still launch specific activities on any app 
+| Activity Launcher | 1.14.6 | 13,12 | ⚠️ | As of WSA version 2209.40000.28.0, you can't pin shortcuts to a home area of a launcher (like Lawnchair or Rootless Pixel Launcher) with the error `Current launcher does not support PinShortcut. Unable to create shortcut.` | You can still launch specific activities on any app 
 | AdGuard | 3.6.10 | 12 | ⚠️ | "Local VPN" doesn't work even with the above workaround. "HTTPS Filtering" doesn't work due to problems with recognition of manually installed certificates. | Not to be confused with "AdGuard Content Blocker"
 | ADM | 12.5.4 | 11 | ✅ |
 | ADM Pro | 6.4.0 | 11 | ✅ |
@@ -111,7 +111,7 @@ wsa://com.apple.android.music
 | CPU-Z | 1.41 | 11 | ✅
 | Cronometer | 3.13.1 | 11 | ✅
 | Cryptography | 1.24.0 | 12 | ✅
-| CX File Explorer | 1.9.6 | 12 | ✅
+| CX File Explorer | 1.9.6 | 13,12 | ✅
 | Dcoder | 4.0.76 | 11 | ✅
 | Decibel X | 6.4.2 | 11 | ⚠️ | App crashes
 | Decrypto | 1.4.7 | 12 | ✅
@@ -119,6 +119,7 @@ wsa://com.apple.android.music
 | DevCheck | 3.39 | 11 | ❌ | Blank screen on startup
 | Device Info HW | 5.4.1 | 11 | ✅
 | Deezer | 7.0.14.1 beta | 12 | ✅ | The Deezer Labs crossfade function doesn't seem to work as of September 2022 | Music and menus seem to work pretty well, even with HiFi bitrates.
+| Digital Wellness | 1.5.500315346 (471337) | 13 | ✅ | Its not available in the Settings App by default, requires Activity Launcher to launch it. | You can make it show in the launcher if you enable "Show icon on app list".
 | DirecTV for Tablet | 5.29.001 | 11 | ⚠️ || Frequent crashing, other functionality proper.
 | Discord | 98.6 | 11 | ✅
 | DMM Games Store | 2.8.0 | 11 | 🆖 | Requires GMS
@@ -129,7 +130,7 @@ wsa://com.apple.android.music
 | Emby | 2.0.48g | 11 | ✅
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
 | Excel | 16.0.14527.20162 | 11 | ✅
-| F-Droid | 1.15.2 | 11, 12 | ✅
+| F-Droid | 1.15.6 | 13, 12, 11 | ✅
 | F1 TV | 2.0.5 | 11 | ⚠️ | Terrible app experience including screen flashes and crashes while watching a video
 | FaceApp: Face Editor || 11 | ❌
 | Facebook | 377.0.0.22.107 | 12 | ✅ | 
@@ -139,20 +140,21 @@ wsa://com.apple.android.music
 | Fancade | 1.7.6 | 11 | ❌ | App crashes
 | FAST Speed Test | 1.0.8 (88) | 11 | ✅
 | Fate/Grand Order (US) FGO | 2.34.0 | 12, 11 | 🆖 || Require Google Play Services, skippable if you have Google Play Service (APK) installed
+| FDM (Free Download Manager) (Play Store) | 6.18.1.4896 | 13 | ❌ | The app crashed after the splash screen (after granting its needed permissions) | Tested on an Intel x64-64 CPU
 | Fennec F-Droid | 105.1.0 | 12 | ❌ | While the app is correctly installed, it crashes very often, and sites load very, very slowly compared to Firefox Nightly.
 | Files by Google | Unknown | 11 | ✅ || Works fine
-| Firefox | 109.1.1 (20159227175) | 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
+| Firefox | 110.1.0 (2015936103) | 13, 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
 | Firefox Nightly | 95.0a1 | 11 | ✅
 | Firefox Focus | 106.1 | 12 | ✅
 | foobar2000 | 1.2.30 | 11 | ✅
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
 | Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
 | Google Translate | 6.45.0.474938783.2-release | 12 | ❌ | Crashes on startup due to reliance on Google Services Framework
-| FTP Server (Free) (F-Droid) | 3.1 - 30100 | 12, 11 | ✅ | A network connection is required for the FTP service to initialize.
-| FX File Explorer | 8.0.3.0 (r8008) | 12, 11 | ✅ | Tested only on the base version (without FX Plus)
+| FTP Server (Free) (F-Droid) | 3.1 - 30100 | 13, 12, 11 | ✅ | A network connection is required for the FTP service to initialize.
+| FX File Explorer | 8.0.3.0 (r8008) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | GBoard | Unknown | 12, 11 | ⚠️ | Will not work as expected in newest WSA (2204.x)
-| GCash | 5.51.0 | 11 | 🆖 | Requires GMS. Will warn "limited functionality" if no GMS is present, if present, works normally. 
+| GCash | 5.61.0 | 13, 12, 11 | 🆖 | Requires GMS. Will warn "limited functionality" if no GMS is present, if present, works normally. When it is launched for the first time, it will crash due to lack of permissions granted. Works perfectly fine if the permissions are granted beforehand.
 | Geekbench |5.4.1| 11 | ✅
 | GeoGebra | 5.0.674.0 | 11 | ✅
 | Globe2Go | 4.7.4.20.0810/3890 | 11 | ✅
@@ -204,8 +206,9 @@ wsa://com.apple.android.music
 | Kiwi Browser | 107.0.5304.74 | ✅ |
 | Kobo Books | 8.40.29843 | 11 | ⚠️ | Aspect ratio and resolution are fixed, appears blurry when resized
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
+| Kotatsu | 4.4.4 | 13 | ✅ | | Keyboard navigation is supported
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 11 | ❌ | App crashes
-| Lawnchair | 12 Alpha 5 | 12, 11 | ✅
+| Lawnchair | 12 Alpha 5 | 13, 12, 11 | ⚠️ | If your running the Android 13 of the subsystem (2211.40000.11.0), if you launch any app from either the home screen or the app drawer, it crashes with an error: _java.lang.NoSuchMethodError: No virtual method setSplashscreen(I)V in class Landroid/app/ActivityOptions; or is superclasses (declaration of 'android.app.ActivityOption'..._ | Works fine on Android 11 or 12 versions of the subsystem.
 | Libby | 4.3.1 | 11 | ✅
 | LINE | 12.0.1 | 11 | ✅
 | Line Rangers | 7.6.3 | 11 | ✅
@@ -243,7 +246,7 @@ wsa://com.apple.android.music
 | MX Player Pro | 1.39.13 | 11 | ⚠️ | App crashes, but videos can be played from external sources
 | MyPostNord (Norway) | 3.12 | 12 | ✅ 
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to correct orientation in a second.
-| Neko | 2.12.7 | 12, 11 | ✅
+| Neko | 2.12.8 | 13, 12, 11 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
 | Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
@@ -300,16 +303,17 @@ wsa://com.apple.android.music
 | Rider | 1.59 | 11 | ✅
 | Robinhood - Food & Booking | 2.2.2 | 12 | ⚠️ | App having trouble loading content. Maps & Location picker don't work (Requires GMS). | You can log-in only on one device at the same time. Previous device will log-out upon signing-in on new device.
 | Rootless Launcher | 3.9.1 | 11 | ❌ | App crashes
+| Rootless Pixel Launcher | 3.9.1 | 13 | ✅ |
 | Ruler (F-Droid) | 1.1 | 12 | ❌ | While the app is correctly installed, the ruler lengths are wildly off-course no matter how much in-app calibration is done. | The app also refuse to recognise values above circa 100mm for the 70mm calibration line.
-| Saikou β (Beta) | 1.2.0.24 | 12 | ✅ || Some keyboard functionality is somewhat limited but usable (both media playback and manga reading)
+| Saikou β (Beta) | 1.2.1.0 | 13, 12 | ✅ || Some keyboard functionality is somewhat limited but usable (both media playback and manga reading)
 | SAI (Split APKs Installer) (Play Store) | 4.5 | 12 | ✅ || Used rootless method only, not yet tested for rooted WSA
 | SAI (Split APKs Installer) (F-Droid) | 4.5 | 12 | ✅ || Used rootless method only, not yet tested for rooted WSA
 | SATRIA | 1.0.0 | 11 | ❌ | Needs fingerprint reader support
 | SD Maid (pro) | 5.2.2 | 11 | ⚠️ | Unable to grant external storage privileges, can be skipped
 | Settings | 12, API 32 | 12 | ⚠️ | Setting screenlock to "Swipe", makes it impossible to use any apps without re-installing the entire Subsystem, since no method is provided on the lockscreen to swipe or otherwise unlock. Adding a Google account in the Account menu doesn't work. "Backup" and "SOS Alarm" sends the phone back to the main Settings menu. | Included by default in Subsystem. Accessed by creating a Windows shortcut with this path: `%LOCALAPPDATA%\Microsoft\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\WsaClient.exe /launch wsa://com.android.settings`
-| Shazam | 12.33.0-220714 | 12 | ✅ | Shazam on pop-up doesn't work | Requires microphone for song identification
+| Shazam | 13.19.0-230223 | 13, 12 | ✅ | Shazam on pop-up doesn't work | Requires microphone for song identification
 | ShemarooMe | 1.0.16 (106) | 11 | ✅
-| Shizuku | 12.14.0.r914.e88de6a | 12,11 | ⚠️ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on).
+| Shizuku | 13.2.1.r958.5f9516b | 13, 12,11 | ⚠️ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on).
 | Shopee PH | 2.86.09 | 11 | ⚠️ | App works but cannot login
 | Shosetsu | 2.0.0-2417 | 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
 | Showtime | 3.1.1 | 11 | ❌ | App crashes when you try to login. Button clicks dont work
@@ -336,11 +340,11 @@ wsa://com.apple.android.music
 | SwiFTP Server| 1.24 | 11 | ✅
 | Symbolab | 9.3.0 | 11 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
-| Tachiyomi (Preview) | 0.14.3-5465 | 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
-| Tachiyomi (Release) | 0.14.3 | 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
-| TachiyomiAZ | 8.7.1-AZ | 12, 11 | ✅
-| TachiyomiJ2K/TachiJ2K | 1.6.0 | 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
-| TachiyomiSY | 1.8.5 | 12, 11 | ✅
+| Tachiyomi (Preview) | 0.14.5-5602 | 13, 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
+| Tachiyomi (Release) | 0.14.5 | 13, 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
+| TachiyomiAZ | 8.7.4-AZ | 13, 12, 11 | ✅
+| TachiyomiJ2K/TachiJ2K | 1.6.2 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
+| TachiyomiSY | 1.9.0 | 13, 12, 11 | ✅
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | 11 | ✅
