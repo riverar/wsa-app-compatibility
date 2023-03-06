@@ -111,7 +111,7 @@ wsa://com.apple.android.music
 | CPU-Z | 1.41 | 11 | ✅
 | Cronometer | 3.13.1 | 11 | ✅
 | Cryptography | 1.24.0 | 12 | ✅
-| CX File Explorer | 1.9.6 | 13,12 | ✅
+| CX File Explorer | 1.9.6 | 13, 12 | ✅
 | Dcoder | 4.0.76 | 11 | ✅
 | Decibel X | 6.4.2 | 11 | ⚠️ | App crashes
 | Decrypto | 1.4.7 | 12 | ✅
