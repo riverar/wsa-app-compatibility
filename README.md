@@ -208,7 +208,8 @@ wsa://com.apple.android.music
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | Kotatsu | 4.4.4 | 13 | ✅ | | Keyboard navigation is supported
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 11 | ❌ | App crashes
-| Lawnchair | 12 Alpha 5 | 13, 12, 11 | ⚠️ | If your running the Android 13 of the subsystem (2211.40000.11.0), if you launch any app from either the home screen or the app drawer, it crashes with an error: _java.lang.NoSuchMethodError: No virtual method setSplashscreen(I)V in class Landroid/app/ActivityOptions; or is superclasses (declaration of 'android.app.ActivityOption'..._ | Works fine on Android 11 or 12 versions of the subsystem.
+| Lawnchair | 12 Alpha 5 | 13, 12, 11 | ⚠️ | If your running the Android 13 of the subsystem (2211.40000.11.0), if you launch any app from either the home screen or the app drawer, it crashes with an error: `java.lang.NoSuchMethodError: No virtual method setSplashscreen(I)V in class Landroid/app/ActivityOptions; or is superclasses (declaration of 'android.app.ActivityOption'...` | Works fine on Android 11 or 12 versions of the subsystem.
+| Lazada | 7.19.1 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appear too often if logging in. Weird scaling options (interface elements are too large) | Keep it in portrait for the app to be usable.
 | Libby | 4.3.1 | 11 | ✅
 | LINE | 12.0.1 | 11 | ✅
 | Line Rangers | 7.6.3 | 11 | ✅
@@ -219,6 +220,7 @@ wsa://com.apple.android.music
 | ManCityApp | 2.1.11 | 11 | 🆖 || Might require GMS
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
 | Material Files | 1.5.2 | 12, 11 | ✅
+| Maya (Paymaya) | 2.85.1 | 13 | ❌ | App crashes immediately upon launching the app 
 | Meta Quest (Oculus) | 181.1.0.81.114 | 12 | ⚠️ | Can't log in with a Meta account, but you can install the Facebook or Instagram app and enable "Logging in with accounts" in the Meta Accounts Center, and use the in-app login. Doesn't detects Quest 2 nearby, due to no Bluetooth support.
 | microG Settings | N/A | 11 | ❌ | App crashes, doesn't load
 | Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
@@ -314,7 +316,7 @@ wsa://com.apple.android.music
 | Shazam | 13.19.0-230223 | 13, 12 | ✅ | Shazam on pop-up doesn't work | Requires microphone for song identification
 | ShemarooMe | 1.0.16 (106) | 11 | ✅
 | Shizuku | 13.2.1.r958.5f9516b | 13, 12,11 | ⚠️ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on).
-| Shopee PH | 2.86.09 | 11 | ⚠️ | App works but cannot login
+| Shopee PH | 2.98.30 | 13,11 | ✅ | Google login requires GMS installed (use Email or Facebook login as alternatives). Banner information are stretched horizontally 
 | Shosetsu | 2.0.0-2417 | 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
 | Showtime | 3.1.1 | 11 | ❌ | App crashes when you try to login. Button clicks dont work
 | SIM Toolkit (Google) | 12, API 32 | 12 | ❌ | Does not launch even with a shortcut.
