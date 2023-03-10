@@ -209,13 +209,14 @@ wsa://com.apple.android.music
 | Kotatsu | 4.4.4 | 13 | ✅ | | Keyboard navigation is supported
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 11 | ❌ | App crashes
 | Lawnchair | 12 Alpha 5 | 13, 12, 11 | ⚠️ | If your running the Android 13 of the subsystem (2211.40000.11.0), if you launch any app from either the home screen or the app drawer, it crashes with an error: _java.lang.NoSuchMethodError: No virtual method setSplashscreen(I)V in class Landroid/app/ActivityOptions; or is superclasses (declaration of 'android.app.ActivityOption'..._ | Works fine on Android 11 or 12 versions of the subsystem.
+| Lawnchair 2 | 10.06.2018 | 13 | ✅ |
 | Libby | 4.3.1 | 11 | ✅
 | LINE | 12.0.1 | 11 | ✅
 | Line Rangers | 7.6.3 | 11 | ✅
 | LinkedIn | 4.1.632 | 11 | ✅
 | LNReader | 1.1.12 | 12 | ✅|| Partial keyboard navigation is available (example: arrows key up and down - scrolls) when reading light novel.
-| LSPosed | 1.8.0 | 11 | ✅
-| Magisk | Internal build? | 11 | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131)
+| LSPosed | 1.8.6 | 13 | ✅
+| Magisk | 25.2 | 13 | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131)
 | ManCityApp | 2.1.11 | 11 | 🆖 || Might require GMS
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
 | Material Files | 1.5.2 | 12, 11 | ✅
