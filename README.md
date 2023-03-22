@@ -455,9 +455,9 @@ wsa://com.apple.android.music
 | Command and Conquer: Rivals | 1.8.1 | 12, 11 | ✅ | | It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
 | Endless Frontier - Idle RPG | 3.5.3 | 12 | ❌ | OpenGL ES 3.1 is unsupported
 | Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
-| Blue Archive (GB) | 1.41.164236  | 12, 11 | ❌ | crashed when trying to log in/enter game
+| Blue Archive (GB) | 1.41.164236  | 12, 11 | ❌ | Crashed when trying to log in/enter game
 | Blue Archive (ブルーアーカイブ; JP) | 1.21.156614 | 12 | ❌ | Black screen on app launch
-| Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
+| Blue Archive (KR) | 1.39.146794 | 13, 12, 11| ❌ | Crashed when trying to log in/enter game
 | Brawl Stars | 38.159 | 11 | ❌ | Game crashes
 | Candy Crush Saga | 1.213.2.1 (12132011) | 11 | ✅
 | Clash Mini | 1.1142.10 | 11 | ❌ | App crashes
