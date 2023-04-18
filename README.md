@@ -154,7 +154,7 @@ wsa://com.apple.android.music
 | FX File Explorer | 8.0.3.0 (r8008) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | GBoard | Unknown | 12, 11 | ⚠️ | Will not work as expected in newest WSA (2204.x)
-| GCash | 5.62.0 | 13, 12, 11 | 🆖 | Requires GMS. Will warn "limited functionality" if no GMS is present, if present, works normally. When it is launched for the first time, it will crash due to lack of permissions granted on previous version (5.61.0 and below). Starting with 5.62.0, an alert pops up `We have detected that you are running the GCash app on emulator. You will not able to proceed.` 
+| GCash | 5.62.0 | 13, 12, 11 | 🆖 | Requires GMS. Will warn "limited functionality" if no GMS is present, if present, works normally. When it is launched for the first time, it will crash due to lack of permissions granted on previous version (5.61.0 and below). Starting with 5.62.0, an alert pops up `We have detected that you are running the GCash app on emulator. You will not be able to proceed.` 
 | Geekbench |5.4.1| 11 | ✅
 | GeoGebra | 5.0.674.0 | 11 | ✅
 | Globe2Go | 4.7.4.20.0810/3890 | 11 | ✅
