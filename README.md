@@ -543,6 +543,7 @@ wsa://com.apple.android.music
 | The Battle of Polytopia | 2.0.59.5719 | 11 | ❌ | Validation error
 | The King Of Fighters Allstar | 1.9.3 | 11 | ✅ | Blank screen / app crash on first boot, works on second boot upwards
 | This War of Mine | 1.0 | 11 | ❌ | Infinite loop at start-up screen
+| Traffic Racer | 3.5 | 11,12,13 | ✅ | Keyboard supported
 | True Skate | 1.5.39 | 11 | ✅ | Minor graphical glitches
 | Uma Musume: Pretty Derby (ウマ娘 プリティーダービー; JP) | 1.16.0 | 11 | ⚠️ | Doesn't work with GTX1660. Works with Microsoft Basic Render Driver with graphical issues. | Some features may require GMS.
 | Uma Musume: Pretty Derby (ウマ娘 プリティーダービー; JP) | 1.20.0 | 12 | ❌ | Only touch effect works after displaying the developer logo
