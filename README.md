@@ -501,6 +501,7 @@ wsa://com.apple.android.music
 | Minecraft (Aurora Store) | 1.17.40.06 | 11 | ❌ | Unable to verify game owner
 | Minecraft (China Edition) || 11 | ✅
 | Minecraft (Play Store) | 1.18.0.23 | 11 | ✅
+| osu!lazer | 2023.403.1 | 5-13 | ⚠️ | Runs with terrible performance, high latency, generally unplayable
 | Monument Valley | 2.7.17 | 11 | ✅
 | Monument Valley 2 | 2.0.3 | 11 | ✅
 | Mortal Kombat X (APKPure) | 5.9.0 | 11 | ❌ | Stuck on initialization screen, message shows up saying "Download failed to start"
