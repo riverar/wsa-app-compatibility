@@ -507,6 +507,7 @@ wsa://com.apple.android.music
 | My Little Pony World | 2022.2.0 aarch64 | 12 | ⚠️ | An authentication error warning about not being signed in with Google shows up on boot, but can be clicked past. The game is heavily graphically demanding on an x64 PC, averaging 15fps with an Nvidia 1050Ti.
 | NieR Re[in]carnation | 2.17.0 | 13, 12, 11 | 🆖 | Requires GMS to get past loading screen. If GMS is installed, terrible in-game experience, includes poor performance and low FPS. | Tested on a Ryzen 9 5900X and Nvidia RTX 3080
 | New Star Soccer | 4.27 | 13, 12, 11 | ✅ | Keyboard not supported
+| osu!lazer | 2023.403.1 | 5-13 | ⚠️ | Runs with terrible performance, high latency, generally unplayable
 | Plants vs Zombies 2 | 9.2.2 | 11 | ✅ | Cloud save using Google Play Games works if GMS is available
 | Pojav Launcher | dahlia-209 | 12 | ✅ | Performance was great with an i7-10700K and a RTX 3060 Ti, but will probably be worse on lower hardware.
 | Pokémon GO || 12, 11 | ❌ | This device, OS, or software is not compatible
@@ -544,6 +545,7 @@ wsa://com.apple.android.music
 | The Battle of Polytopia | 2.0.59.5719 | 11 | ❌ | Validation error
 | The King Of Fighters Allstar | 1.9.3 | 11 | ✅ | Blank screen / app crash on first boot, works on second boot upwards
 | This War of Mine | 1.0 | 11 | ❌ | Infinite loop at start-up screen
+| Traffic Racer | 3.5 | 11,12,13 | ✅ | Keyboard supported
 | True Skate | 1.5.39 | 11 | ✅ | Minor graphical glitches
 | Uma Musume: Pretty Derby (ウマ娘 プリティーダービー; JP) | 1.16.0 | 11 | ⚠️ | Doesn't work with GTX1660. Works with Microsoft Basic Render Driver with graphical issues. | Some features may require GMS.
 | Uma Musume: Pretty Derby (ウマ娘 プリティーダービー; JP) | 1.20.0 | 12 | ❌ | Only touch effect works after displaying the developer logo
