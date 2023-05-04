@@ -468,6 +468,7 @@ wsa://com.apple.android.music
 | Deus Ex GO | 2.1.111374 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
 | Destiny Child | 2.8.6 | 11 | ⚠️ | Poor performance during battles
 | Dwarf Balls | 3.5.2 | 11 | 🆖 | Requires GMS for Google Play login.
+| Extreme Car Driving Simulator | 6.74.0 | 13, 12, 11 | ✅ | Keyboard & controller supported
 | Fire Emblem Heroes | 6.7.0 | 12, 11 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
 | Fortnite | 14.10.0 | 11 | ❌ | Crashes at login screen
 | Fortnite Installer | 4.1.4 | 11 | ❌ | "Device not supported" error
