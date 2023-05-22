@@ -76,10 +76,11 @@ wsa://com.apple.android.music
 | Amaze File Manager | 3.5.3 | 11 | ✅ || Avoid updating the app
 | Amazon Alexa | 2.2.466191.0 | 12 | ✅ |
 | Android System Info | 1.4.2 | 11 | ✅ ||
-| Android System Webview | 103.0.5060.71 | 12 | ✅ ||
+| Android System Webview | 113.0.5672.76 | 13, 12 | ✅ ||
 | Android System Webview Dev | 103.0.5060.22 | 11 | ✅ || App installs correctly 
 | AniLabX | 3.8.12 (Iridium) - Beta | 11 | ✅
-| Aniyomi | 0.12.3.8 | 12 | ✅
+| Animiru | 0.14.2.0 | 13 | ✅ | 
+| Aniyomi | 0.12.3.10 | 13, 12 | ✅ |
 | AntennaPod | 2.5.0 | 11 | ✅
 | APKMirror Installer (Beta) | 1.3.2 | 11 | ⚠️ | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes
 | APKPure | 3.17.26 | 11 | ✅ | Sometimes, it might require multiple attempts to install an app
@@ -108,11 +109,12 @@ wsa://com.apple.android.music
 | ChMate | 0.8.10.153 | 11 | ✅
 | Clubhouse | 1.0.11 | 11 | ⚠️ | Unable to login via phone number, it throws error after entering the OTP
 | Comixology | 3.10.18.310421 | 11 | ✅
+| Cignal Play | 2.2-play | 13 | ⚠️ | Stuck on loading animation when viewing live tv
 | Coop Medlem | 3.4.30 | 12 | ⚠️ | Coopay activation fails because the app looks for whether a lockscreen is enabled or not | Core functionality works, although a bit slowly. 
 | CPU-Z | 1.41 | 11 | ✅
 | Cronometer | 3.13.1 | 11 | ✅
 | Cryptography | 1.24.0 | 12 | ✅
-| CX File Explorer | 1.9.6 | 13, 12 | ✅
+| CX File Explorer | 2.0.0 | 13, 12 | ✅
 | Dcoder | 4.0.76 | 11 | ✅
 | Decibel X | 6.4.2 | 11 | ⚠️ | App crashes
 | Decrypto | 1.4.7 | 12 | ✅
@@ -141,10 +143,10 @@ wsa://com.apple.android.music
 | Fancade | 1.7.6 | 11 | ❌ | App crashes
 | FAST Speed Test | 1.0.8 (88) | 11 | ✅
 | Fate/Grand Order (US) FGO | 2.34.0 | 12, 11 | 🆖 || Require Google Play Services, skippable if you have Google Play Service (APK) installed
-| FDM (Free Download Manager) (Play Store) | 6.18.1.4896 | 13 | ✅ | The app crashed after the splash screen (after granting its needed permissions) on some versions of the subsystem (due to libhoudini). Works fine again as of WSA 2301.40000.7.0 | Tested on an Intel x64-64 CPU
+| FDM (Free Download Manager) (Play Store) | 6.18.1.4896 | 13 | ✅ | The app crashed after the splash screen (after granting its needed permissions) on some versions of the subsystem (due to libhoudini). Works fine again as of WSA 2301.40000.7.0 | Tested on an Intel x86_64 CPU
 | Fennec F-Droid | 105.1.0 | 12 | ❌ | While the app is correctly installed, it crashes very often, and sites load very, very slowly compared to Firefox Nightly.
 | Files by Google | Unknown | 11 | ✅ || Works fine
-| Firefox | 110.1.0 (2015936103) | 13, 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
+| Firefox | 113.1.0 (2015950743) | 13, 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
 | Firefox Nightly | 95.0a1 | 11 | ✅
 | Firefox Focus | 106.1 | 12 | ✅
 | foobar2000 | 1.2.30 | 11 | ✅
@@ -152,7 +154,7 @@ wsa://com.apple.android.music
 | Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
 | Google Translate | 6.45.0.474938783.2-release | 12 | ❌ | Crashes on startup due to reliance on Google Services Framework
 | FTP Server (Free) (F-Droid) | 3.1 - 30100 | 13, 12, 11 | ✅ | A network connection is required for the FTP service to initialize.
-| FX File Explorer | 8.0.3.0 (r8008) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
+| FX File Explorer | 9.0.1.2 (r9012) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | GBoard | Unknown | 12, 11 | ⚠️ | Will not work as expected in newest WSA (2204.x)
 | GCash | 5.62.0 | 13, 12, 11 | 🆖 | Requires GMS. Will warn "limited functionality" if no GMS is present, if present, works normally. When it is launched for the first time, it will crash due to lack of permissions granted on previous version (5.61.0 and below). Starting with 5.62.0, an alert pops up `We have detected that you are running the GCash app on emulator. You will not be able to proceed.` 
@@ -164,7 +166,7 @@ wsa://com.apple.android.music
 | Gojek | 4.30.1 | 11 | 🆖 | Requires GMS
 | Google Calendar | 2022.18.2-448173739-release | 11 | ✅ | Requires GMS | Works fine
 | Google Camera | Unknown | 11 | ✅ || Works fine
-| Google Chrome | 103.0.5060.129 | 12, 11 | ✅ | Requires microG or GMS to sync with Google Account
+| Google Chrome | 113.0.5672.131 | 13, 12, 11 | ✅ | Requires microG or GMS to sync with Google Account |
 | Google Classroom | 8.0.181.20.90.3 | 11 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
 | Google Contacts | 3.68.0.445910596 | Unknown | ✅ || App may be glitchy from time to time, if that happens, restart the app
 | Google Drive | 2.22.197.0.all.alldpi | 11 | ✅ | Works fine, may require GMS
@@ -204,7 +206,7 @@ wsa://com.apple.android.music
 | Khan Academy | 7.3.3 | 11 | ✅
 | Kik | 7.10.1.176 (82) | 11 | ✅
 | Kindle | 8.47.1.3370 | 11 | ✅
-| Kiwi Browser | 107.0.5304.74 | ✅ |
+| Kiwi Browser | 107.0.5304.74 | 12,13 | ✅ |
 | Kobo Books | 8.40.29843 | 11 | ⚠️ | Aspect ratio and resolution are fixed, appears blurry when resized
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | Kotatsu | 4.4.4 | 13 | ✅ | | Keyboard navigation is supported
@@ -249,7 +251,7 @@ wsa://com.apple.android.music
 | MX Player Pro | 1.39.13 | 11 | ⚠️ | App crashes, but videos can be played from external sources
 | MyPostNord (Norway) | 3.12 | 12 | ✅ 
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to correct orientation in a second.
-| Neko | 2.12.8 | 13, 12, 11 | ✅
+| Neko | 2.13.2 | 13, 12, 11 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
 | Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
@@ -318,7 +320,7 @@ wsa://com.apple.android.music
 | ShemarooMe | 1.0.16 (106) | 11 | ✅
 | Shizuku | 13.2.1.r958.5f9516b | 13, 12,11 | ⚠️ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on).
 | Shopee PH | 2.98.30 | 13,11 | ✅ | Google login requires GMS installed (use Email or Facebook login as alternatives). Banner information are stretched horizontally 
-| Shosetsu | 2.0.0-2417 | 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
+| Shosetsu | 2.0.0-2417 | 13, 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
 | Showtime | 3.1.1 | 11 | ❌ | App crashes when you try to login. Button clicks dont work
 | SIM Toolkit (Google) | 12, API 32 | 12 | ❌ | Does not launch even with a shortcut.
 | Simple Gallery | 5.3.9 | 11 | ❌ | App crashes when you try to view a photo
@@ -343,11 +345,11 @@ wsa://com.apple.android.music
 | SwiFTP Server| 1.24 | 11 | ✅
 | Symbolab | 9.3.0 | 11 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
-| Tachiyomi (Preview) | 0.14.5-5620 | 13, 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
-| Tachiyomi (Release) | 0.14.5 | 13, 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
+| Tachiyomi (Preview) | 0.14.6-5796 | 13, 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
+| Tachiyomi (Release) | 0.14.6 | 13, 12, 11 | ✅ | The notification about "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification.
 | TachiyomiAZ | 8.7.4-AZ | 13, 12, 11 | ✅
-| TachiyomiJ2K/TachiJ2K | 1.6.2 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
-| TachiyomiSY | 1.9.0 | 13, 12, 11 | ✅
+| TachiyomiJ2K/TachiJ2K | 1.6.6 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
+| TachiyomiSY | 1.9.3 | 13, 12, 11 | ✅
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
 | Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | 11 | ✅
@@ -547,7 +549,8 @@ wsa://com.apple.android.music
 | The Battle of Polytopia | 2.0.59.5719 | 11 | ❌ | Validation error
 | The King Of Fighters Allstar | 1.9.3 | 11 | ✅ | Blank screen / app crash on first boot, works on second boot upwards
 | This War of Mine | 1.0 | 11 | ❌ | Infinite loop at start-up screen
-| Traffic Racer | 3.5 | 11,12,13 | ✅ | Keyboard supported
+| Traffic Racer | 3.5 | 13,12,11 | ✅ | | Keyboard supported
+| Toca Kitchen 2 | 2.2-play | 13 | ⚠️ | You can't access the game settings (or any swipe action) with a keyboard and mouse even with trackpad gestures | Recommended to use a touchscreen but it is also possible to play the game with just only the mouse.
 | True Skate | 1.5.39 | 11 | ✅ | Minor graphical glitches
 | Uma Musume: Pretty Derby (ウマ娘 プリティーダービー; JP) | 1.16.0 | 11 | ⚠️ | Doesn't work with GTX1660. Works with Microsoft Basic Render Driver with graphical issues. | Some features may require GMS.
 | Uma Musume: Pretty Derby (ウマ娘 プリティーダービー; JP) | 1.20.0 | 12 | ❌ | Only touch effect works after displaying the developer logo
