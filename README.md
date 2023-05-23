@@ -510,6 +510,7 @@ wsa://com.apple.android.music
 | NieR Re[in]carnation | 2.17.0 | 13, 12, 11 | 🆖 | Requires GMS to get past loading screen. If GMS is installed, terrible in-game experience, includes poor performance and low FPS. | Tested on a Ryzen 9 5900X and Nvidia RTX 3080
 | New Star Soccer | 4.27 | 13, 12, 11 | ✅ | Keyboard not supported
 | osu!lazer | 2023.403.1 | 5-13 | ⚠️ | Runs with terrible performance, high latency, generally unplayable
+| Penguin Isle | 1.59.1 | 5-13 | ✅ | Great performance, but UI size breaks with weird resolutions.
 | Plants vs Zombies 2 | 9.2.2 | 11 | ✅ | Cloud save using Google Play Games works if GMS is available
 | Pojav Launcher | dahlia-209 | 12 | ✅ | Performance was great with an i7-10700K and a RTX 3060 Ti, but will probably be worse on lower hardware.
 | Pokémon GO || 12, 11 | ❌ | This device, OS, or software is not compatible
