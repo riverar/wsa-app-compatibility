@@ -459,6 +459,7 @@ wsa://com.apple.android.music
 | Blue Archive (GB) | 1.41.164236  | 12, 11 | ❌ | crashed when trying to log in/enter game
 | Blue Archive (ブルーアーカイブ; JP) | 1.21.156614 | 12 | ❌ | Black screen on app launch
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
+| Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with nvidia graphics
 | Brawl Stars | 38.159 | 11 | ❌ | Game crashes
 | Candy Crush Saga | 1.213.2.1 (12132011) | 11 | ✅
 | Clash Mini | 1.1142.10 | 11 | ❌ | App crashes
