@@ -9,6 +9,11 @@ When editing the Markdown, please keep these rules in mind:
 2. Double-check your spelling/grammar.
 3. In the Android column, ensure the latest version of Android is listed first. Separate subsequent versions with a comma `,` (e.g. `11`, `12, 11`, or `13, 12, 11`).
 
+## Issues / Support
+
+We can't offer support for the Windows Subsystem for Android (WSA) or Android apps.
+Instead, try asking the folks that hang out in the [WSA subreddit](https://www.reddit.com/r/WSA/). Good luck!
+
 ## Legend
 
 This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://unicode.org/Public/emoji/1.0/emoji-data.txt). If you are unable to see these characters, please open an issue.
