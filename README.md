@@ -579,3 +579,4 @@ wsa://com.apple.android.music
 | 東方LostWord (Touhou: Lost Word) | 1.16.0 | 11 | ❌
 | 战双帕弥什 (Punishing: Gray Raven) || 11 | ✅ || Keyboard is supported
 | プロジェクトセカイ カラフルステージ！ feat. 初音ミク (Project Sekai Colorful Stage JP) | 1.3.2 | 11, 12 | ❌ | App either crashes when loading into game after login or app screen turns dark
+| 世界計畫 繽紛舞台! feat. 初音未來 (Project Sekai Colorful Stage TW) | 2.3.1.10995 | 13, 12 | ❌ | App hangs when loading LIVE or crashes. Performance issues such as FPS spikes, freezing, etc. Broken textures and animations.
