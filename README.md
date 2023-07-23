@@ -101,6 +101,7 @@ wsa://com.apple.android.music
 | BandLab | 10.45.0 | 13, 12 | 🆖 | Slight audio lag with Android 12, it was fixed in Microsoft's 2303.40000.3.0 update | Only tested from installing from Google Play Store with Google services, otherwise app has no issues whatsoever. It's responsive, and in Android 13 there's no audio lag. |
 | BankID (Norway) | 2.1 | 12 | ❌ | Spams the desktop browser with new tabs about how the app thinks the phone is rooted. 
 | BBC iPlayer | 4.137.0.25403 | 11 | ✅ | Sideloaded
+| BBC Sounds | 2.13.0.19989 | 13 | ✅
 | Berry Browser | 3.57.8 | 11, 12 | ✅
 | Binance | 2.36.5 | 11 | ✅
 | Bondee | 2.0.0.636 | 12 | ⚠️ | Has scaling issues. Specifically, after the introductory part, the app uses abnormally huge elements which makes it impossible to navigate.
