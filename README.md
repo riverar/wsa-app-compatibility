@@ -514,6 +514,7 @@ wsa://com.apple.android.music
 | Monument Valley | 2.7.17 | 11 | ✅
 | Monument Valley 2 | 2.0.3 | 11 | ✅
 | Mortal Kombat X (APKPure) | 5.9.0 | 11 | ❌ | Stuck on initialization screen, message shows up saying "Download failed to start"
+| Muse Dash | 3.3.0 | 6-11 | ❌ | Stuck on a black screen, nothing loads.
 | My Little Pony World | 2022.2.0 aarch64 | 12 | ⚠️ | An authentication error warning about not being signed in with Google shows up on boot, but can be clicked past. The game is heavily graphically demanding on an x64 PC, averaging 15fps with an Nvidia 1050Ti.
 | My Talking Angela 2 (Play Store) | 2.2.4.21687 (ARM64_v8a) | 13 | ⚠️ | Does not resize into window, even when the "Resize" button (on bottom right) is clicked on. Bug in Angela's tub (go to Bathroom -> Tub): While grabbing the soap to massage on Angela, the shower head briefly appears, then disappears in 1 second. | 
 | NieR Re[in]carnation | 2.17.0 | 13, 12, 11 | 🆖 | Requires GMS to get past loading screen. If GMS is installed, terrible in-game experience, includes poor performance and low FPS. | Tested on a Ryzen 9 5900X and Nvidia RTX 3080
