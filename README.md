@@ -474,6 +474,7 @@ wsa://com.apple.android.music
 | Clash Royale | 3.6.1 | 11 | ❌ | App crashes
 | Clouds & Sheep 2 | 1.4.6 | 11 | ✅ | Optionally uses GMS
 | Crazy Taxi Classic | 4.7 | 12 | ❌ | An error message on startup says "Download failed because the resources could not be found." | OBB installation has not yet been tested.
+| Death Palette(Matsuro) | 4.3.0 | 11 | ✅ | 
 | Deus Ex GO | 2.1.111374 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
 | Destiny Child | 2.8.6 | 11 | ⚠️ | Poor performance during battles
 | Dwarf Balls | 3.5.2 | 11 | 🆖 | Requires GMS for Google Play login.
