@@ -463,7 +463,7 @@ wsa://com.apple.android.music
 | Command and Conquer: Rivals | 1.8.1 | 12, 11 | ✅ | | It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
 | Endless Frontier - Idle RPG | 3.5.3 | 12 | ❌ | OpenGL ES 3.1 is unsupported
 | Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
-| Blue Archive (GB) | 1.41.164236  | 12, 11 | ❌ | crashed when trying to log in/enter game
+| Blue Archive (GB) | 1.53.225706  | 13,12, 11 | ❌ | Crashed when trying to log in/enter the game.
 | Blue Archive (ブルーアーカイブ; JP) | 1.21.156614 | 12 | ❌ | Black screen on app launch
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
 | Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with nvidia graphics
@@ -507,7 +507,7 @@ wsa://com.apple.android.music
 | LIMBO Demo | 1.20 | 11 | ✅
 | Love Live! All Stars | 3.6.0 | 12 | ⚠️ | Requires GMS, Hovers around 20-30 FPS with stuttering and slowdown on taps, requires root access and disabling SELinux. | Tested on a Ryzen 5 5600X and Nvidia RTX 3060 Ti
 | Magic Tiles 3 | 8.086.201 | 11 | ✅
-| MapleStory M | 1.7000.2835 | 11 | ❌ |Crashes at loading screen
+| MapleStory M | 1.9300.3921 | 13 | ✅ |
 | Mario Kart Tour | 2.10.0 | 11 | ❌ | Fails to connect to servers after Nintendo login
 | Minecraft (Aurora Store) | 1.17.40.06 | 11 | ❌ | Unable to verify game owner
 | Minecraft (China Edition) || 11 | ✅
