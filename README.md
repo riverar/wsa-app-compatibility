@@ -515,7 +515,7 @@ wsa://com.apple.android.music
 | Mario Kart Tour | 2.10.0 | 11 | ❌ | Fails to connect to servers after Nintendo login
 | Minecraft (Aurora Store) | 1.17.40.06 | 11 | ❌ | Unable to verify game owner
 | Minecraft (China Edition) || 11 | ✅
-| Minecraft (Play Store) | 1.20.40.20 | 13, 11 | ⚠️ | Mouse issue: while in-game, moving the camera by scrolling doesn't work, but on game menu, scrolling works as the player's avatar is looking toward the cursor. In main menu, the avatar doesnt look at the cursor, as it should be on PC.
+| Minecraft (Play Store) | 1.20.40.20 | 13, 11 | ⚠️ | Mouse issue: while in-game, moving the camera by scrolling doesn't work, but on game menu, scrolling works as the player's avatar is looking toward the cursor. In main menu, the avatar doesnt look at the cursor, as it should be on PC (and mouse and keyboard connected to Android device).
 | Monument Valley | 2.7.17 | 11 | ✅
 | Monument Valley 2 | 2.0.3 | 11 | ✅
 | Mortal Kombat X (APKPure) | 5.9.0 | 11 | ❌ | Stuck on initialization screen, message shows up saying "Download failed to start"
