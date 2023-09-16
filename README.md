@@ -33,7 +33,7 @@ This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://u
 | Fingerprint Reader | ❌ | Test failed on ROG Flow X13, with SATRIA app
 | VPN | ❌ | VPN Connection request dialog does not appear
 | OpenGL ES 3.1 | ❌
-| Vulkan | ❌
+| Vulkan | ✅ | Added as experimental feature in [2307.40000.2.0](https://github.com/microsoft/WSA/discussions/374)
 
 ### Workarounds
 
@@ -515,7 +515,7 @@ wsa://com.apple.android.music
 | Mario Kart Tour | 2.10.0 | 11 | ❌ | Fails to connect to servers after Nintendo login
 | Minecraft (Aurora Store) | 1.17.40.06 | 11 | ❌ | Unable to verify game owner
 | Minecraft (China Edition) || 11 | ✅
-| Minecraft (Play Store) | 1.18.0.23 | 11 | ✅
+| Minecraft (Play Store) | 1.20.40.20 | 13, 11 | ⚠️ | Mouse issue: The avatar doesnt look at the cursor in the main and game menus, as it sould be on PC (and mouse and keyboard connected to Android device). While in-game, it doesnt recognize the mouse and instead the touchscreen controls will be used, but the keyboard works. Once entered into any text field (e.g. entering command in chat) and exited, the avatar now looks at the cursor again in the game and main menus, but in-game the camera no longer moves, until you restart the app.   |
 | Monument Valley | 2.7.17 | 11 | ✅
 | Monument Valley 2 | 2.0.3 | 11 | ✅
 | Mortal Kombat X (APKPure) | 5.9.0 | 11 | ❌ | Stuck on initialization screen, message shows up saying "Download failed to start"
