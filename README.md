@@ -313,6 +313,7 @@ wsa://com.apple.android.music
 | Relay | 10.0.378 | 11 | ✅
 | Remini - AI Photo Enhancer || 11 | ⚠️ | Oops! Something went wrong Your image didn't save. Please try again.
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 11 | ✅
+| ReVanced Manager | 1.9.5 | 13 | ✅ | 
 | Rider | 1.59 | 11 | ✅
 | Robinhood - Food & Booking | 2.2.2 | 12 | ⚠️ | App having trouble loading content. Maps & Location picker don't work (Requires GMS). | You can log-in only on one device at the same time. Previous device will log-out upon signing-in on new device.
 | Rootless Launcher | 3.9.1 | 11 | ❌ | App crashes
@@ -414,6 +415,7 @@ wsa://com.apple.android.music
 | YouTube (Google)| 16.40.35 | 11 | 🆖 | Requires GMS
 | YouTube Music (Google) | 5.07.50 | 11 | 🆖 | Requires GMS
 | YouTube Music Vanced | 43.9.50 | 11 | ✅
+| YouTube Music ReVanced | 6.19.51 | 13 | ✅ || Used the x86-64 version as base
 | Youtube Vanced | 16.29.39 | 11 | ⚠️ | Picture-in-picture doesn't work & Can't join channel membership
 | ZArchiver | 0.9.5.8 (9596) | 11 | ✅
 | Zenly (w/o GMS) | 4.55.2 | 11 | ⚠️ | App crashes after login, but background location works
