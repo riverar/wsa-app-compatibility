@@ -149,7 +149,6 @@ wsa://com.apple.android.music
 | Facebook Messenger Lite | 334.0.0.10.101 | 12 | ✅ | 
 | Fancade | 1.7.6 | 11 | ❌ | App crashes
 | FAST Speed Test | 1.0.8 (88) | 11 | ✅
-| Fate/Grand Order (US) FGO | 2.34.0 | 12, 11 | 🆖 || Require Google Play Services, skippable if you have Google Play Service (APK) installed
 | FDM (Free Download Manager) (Play Store) | 6.18.1.4896 | 13 | ✅ | The app crashed after the splash screen (after granting its needed permissions) on some versions of the subsystem (due to libhoudini). Works fine again as of WSA 2301.40000.7.0 | Tested on an Intel x86_64 CPU
 | Fennec F-Droid | 105.1.0 | 12 | ❌ | While the app is correctly installed, it crashes very often, and sites load very, very slowly compared to Firefox Nightly.
 | Files by Google | Unknown | 11 | ✅ || Works fine
@@ -160,7 +159,7 @@ wsa://com.apple.android.music
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
 | Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
 | Google Translate | 6.45.0.474938783.2-release | 12 | ❌ | Crashes on startup due to reliance on Google Services Framework
-| FTP Server (Free) (F-Droid) | 3.1 - 30100 | 13, 12, 11 | ✅ | A network connection is required for the FTP service to initialize.
+| FTP Server (Free) (F-Droid) | 3.1 - 30100 | 13, 12, 11 | ✅ | A network connection is required for the FTP service to initialize. Does not work with `Local network access` turned on in WSA Settings
 | FX File Explorer | 9.0.1.2 (r9012) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | GBoard | Unknown | 12, 11 | ⚠️ | Will not work as expected in newest WSA (2204.x)
@@ -180,6 +179,7 @@ wsa://com.apple.android.music
 | Google Home | 2.58.1.7 | 12 | ❌ | An error message on startup says "Home cannot run without Google Play Services, which are not supported by your device."
 | Google Meet | <sub>2021.10.03.404303734.Release</sub> | 11 | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
+| Google Play Store | <sub>37.4.24-29 [0] [PR] 56388002</sub> | 13 | 🆖 | Requires GMS. If you're changing languages a lot in the app, there's a prompt to restart the app to complete the update. Wait for a few seconds, then tap/click restart to proceed (sometime works, sometimes not). | Play Protect certification status will be `Device is uncertified`
 | Grab | 5.172.200 | 11 | ✅
 | Gycso | 1.1.0 | 11, 12 | ✅ |
 | HBO Max | 52.15.0.53 | 11 | ⚠️ | Failed to play video (internal player fails to display image and play sound).
@@ -245,7 +245,6 @@ wsa://com.apple.android.music
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
-| Mobile Legends | 1.6.66.7281 | 11 | ✅
 | MOLA | 2.1.3 | 11 | ❌ | App crashes
 | Monogolf | 3.4.10 | 13 | ✅ | 
 | Monument Browser | 1.0.333 | 12 | ✅
@@ -483,6 +482,7 @@ wsa://com.apple.android.music
 | Dwarf Balls | 3.5.2 | 11 | 🆖 | Requires GMS for Google Play login.
 | Extreme Car Driving Simulator | 6.74.0 | 13, 12, 11 | ✅ | Keyboard & controller supported
 | F1 Mobile Racing | 5.1.11 | 7-13 | ❌ | No 3D rendering with any of the GPUs selected. Just shows a purple screen in game.
+| Fate/Grand Order (US) FGO | 2.34.0 | 12, 11 | 🆖 || Require Google Play Services, skippable if you have Google Play Service (APK) installed
 | Fire Emblem Heroes | 6.7.0 | 12, 11 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
 | Fortnite | 14.10.0 | 11 | ❌ | Crashes at login screen
 | Fortnite Installer | 4.1.4 | 11 | ❌ | "Device not supported" error
@@ -516,6 +516,7 @@ wsa://com.apple.android.music
 | Minecraft (Aurora Store) | 1.17.40.06 | 11 | ❌ | Unable to verify game owner
 | Minecraft (China Edition) || 11 | ✅
 | Minecraft (Play Store) | 1.18.0.23 | 11 | ✅
+| Mobile Legends | 1.6.66.7281 | 11 | ✅
 | Monument Valley | 2.7.17 | 11 | ✅
 | Monument Valley 2 | 2.0.3 | 11 | ✅
 | Mortal Kombat X (APKPure) | 5.9.0 | 11 | ❌ | Stuck on initialization screen, message shows up saying "Download failed to start"
