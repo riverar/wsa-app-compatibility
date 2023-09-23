@@ -452,7 +452,7 @@ wsa://com.apple.android.music
 | Angry Birds Epic | 3.0.27463.4821 | 11 | ⚠️ | Terrible in-game experience, bad performance and low FPS
 | Animal Crossing: Pocket Camp | 5.0.2 | 12 | ❌ | error 802-1-01a-069-008 ||
 | Archero | 4.8.2 | 12 | ✅ | Requires GMS and Play Games to load your cloud progress
-| Arknights | 10.0.01 | 12, 11 | 🆖 | Can't login using Google account. Unstable FPS throught the game, especially low FPS in combat for AMD system PC. Stable FPS throughout the game using NVIDIA GeForce GTX 1050 Ti Mobile
+| Arknights | 18.9.81 | 13 | ✅ | Stable FPS throughout the game using NVIDIA GeForce GTX 1650, AMD GPU untested.
 | Arknights (明日方舟; Simplified Chinese) | 1.6.01 | 11 | ✅
 | Arknights (CN Server) | 1.9.21 | 12 | ✅
 | Asphalt 8 | 6.3.1a | 12 | ✅ | Keyboard supported in latest version (2206)
@@ -467,7 +467,7 @@ wsa://com.apple.android.music
 | Command and Conquer: Rivals | 1.8.1 | 12, 11 | ✅ | | It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
 | Endless Frontier - Idle RPG | 3.5.3 | 12 | ❌ | OpenGL ES 3.1 is unsupported
 | Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
-| Blue Archive (GB) | 1.53.225706  | 13,12, 11 | ❌ | Crashed when trying to log in/enter the game.
+| Blue Archive (GB) | 1.53.225706 | 13 | 🆖 | Tested with GMS / Google login, stable framerate on High settings using Nvidia GeForce GTX 1650.
 | Blue Archive (ブルーアーカイブ; JP) | 1.35.231115 | 13 | ✅ | Installing the HEVC video extension (9NMZLZ57R3T7) will work properly. If not installed, it will be stuck in black screen.
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
 | Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with nvidia graphics
