@@ -517,8 +517,7 @@ wsa://com.apple.android.music
 | Mario Kart Tour | 2.10.0 | 11 | ❌ | Fails to connect to servers after Nintendo login
 | Minecraft (Aurora Store) | 1.17.40.06 | 11 | ❌ | Unable to verify game owner
 | Minecraft (China Edition) || 11 | ✅
-| Minecraft (Play Store) | 1.20.40.20 | 13, 11 | ⚠️ | Mouse issue: The avatar doesnt look at the cursor in the main and game menus, as it sould be on PC (and mouse and keyboard connected to Android device). While in-game, it doesnt recognize the mouse and instead the touchscreen controls will be used, but the keyboard works. Once entered into any text field (e.g. entering command in chat) and exited, the avatar now looks at the cursor again in the game and main menus, but in-game the camera no longer moves, until you restart the app.   |
-| Minecraft (Play Store) | 1.18.0.23 | 11 | ✅
+| Minecraft (Play Store) | 1.20.40.20 | 13, 11 | ⚠️ | Mouse issue: The avatar doesnt look at the cursor in the main and game menus, as it should be on PC (and mouse and keyboard connected to Android device). While in the game, it does not recognize the mouse and instead the touchscreen controls will be used, but the keyboard works. Once entered into any text field (e.g. entering command in chat) and exited, the avatar now looks at the cursor again in the game and main menus, but back in the game the camera no longer moves and the letters and numbers on the keyboard no longer works, until you restart the app.   |
 | Mobile Legends | 1.6.66.7281 | 11 | ✅
 | Monument Valley | 2.7.17 | 11 | ✅
 | Monument Valley 2 | 2.0.3 | 11 | ✅
