@@ -149,7 +149,6 @@ wsa://com.apple.android.music
 | Facebook Messenger Lite | 334.0.0.10.101 | 12 | ✅ | 
 | Fancade | 1.7.6 | 11 | ❌ | App crashes
 | FAST Speed Test | 1.0.8 (88) | 11 | ✅
-| Fate/Grand Order (US) FGO | 2.34.0 | 12, 11 | 🆖 || Require Google Play Services, skippable if you have Google Play Service (APK) installed
 | FDM (Free Download Manager) (Play Store) | 6.18.1.4896 | 13 | ✅ | The app crashed after the splash screen (after granting its needed permissions) on some versions of the subsystem (due to libhoudini). Works fine again as of WSA 2301.40000.7.0 | Tested on an Intel x86_64 CPU
 | Fennec F-Droid | 105.1.0 | 12 | ❌ | While the app is correctly installed, it crashes very often, and sites load very, very slowly compared to Firefox Nightly.
 | Files by Google | Unknown | 11 | ✅ || Works fine
@@ -160,7 +159,7 @@ wsa://com.apple.android.music
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
 | Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
 | Google Translate | 6.45.0.474938783.2-release | 12 | ❌ | Crashes on startup due to reliance on Google Services Framework
-| FTP Server (Free) (F-Droid) | 3.1 - 30100 | 13, 12, 11 | ✅ | A network connection is required for the FTP service to initialize.
+| FTP Server (Free) (F-Droid) | 3.1 - 30100 | 13, 12, 11 | ✅ | A network connection is required for the FTP service to initialize. Does not work with `Local network access` turned on in WSA Settings
 | FX File Explorer | 9.0.1.2 (r9012) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | GBoard | Unknown | 12, 11 | ⚠️ | Will not work as expected in newest WSA (2204.x)
@@ -180,6 +179,7 @@ wsa://com.apple.android.music
 | Google Home | 2.58.1.7 | 12 | ❌ | An error message on startup says "Home cannot run without Google Play Services, which are not supported by your device."
 | Google Meet | <sub>2021.10.03.404303734.Release</sub> | 11 | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
+| Google Play Store | <sub>37.4.24-29 [0] [PR] 56388002</sub> | 13 | 🆖 | Requires GMS. If you're changing languages a lot in the app, there's a prompt to restart the app to complete the update. Wait for a few seconds, then tap/click restart to proceed (sometime works, sometimes not). | Play Protect certification status will be `Device is uncertified`
 | Grab | 5.172.200 | 11 | ✅
 | Gycso | 1.1.0 | 11, 12 | ✅ |
 | HBO Max | 52.15.0.53 | 11 | ⚠️ | Failed to play video (internal player fails to display image and play sound).
@@ -245,7 +245,6 @@ wsa://com.apple.android.music
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
-| Mobile Legends | 1.6.66.7281 | 11 | ✅
 | MOLA | 2.1.3 | 11 | ❌ | App crashes
 | Monogolf | 3.4.10 | 13 | ✅ | 
 | Monument Browser | 1.0.333 | 12 | ✅
@@ -313,6 +312,7 @@ wsa://com.apple.android.music
 | Relay | 10.0.378 | 11 | ✅
 | Remini - AI Photo Enhancer || 11 | ⚠️ | Oops! Something went wrong Your image didn't save. Please try again.
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 11 | ✅
+| ReVanced Manager | 1.9.5 | 13 | ✅ | 
 | Rider | 1.59 | 11 | ✅
 | Robinhood - Food & Booking | 2.2.2 | 12 | ⚠️ | App having trouble loading content. Maps & Location picker don't work (Requires GMS). | You can log-in only on one device at the same time. Previous device will log-out upon signing-in on new device.
 | Rootless Launcher | 3.9.1 | 11 | ❌ | App crashes
@@ -414,6 +414,7 @@ wsa://com.apple.android.music
 | YouTube (Google)| 16.40.35 | 11 | 🆖 | Requires GMS
 | YouTube Music (Google) | 5.07.50 | 11 | 🆖 | Requires GMS
 | YouTube Music Vanced | 43.9.50 | 11 | ✅
+| YouTube Music ReVanced | 6.19.51 | 13 | ✅ || Used the x86-64 version as base
 | Youtube Vanced | 16.29.39 | 11 | ⚠️ | Picture-in-picture doesn't work & Can't join channel membership
 | ZArchiver | 0.9.5.8 (9596) | 11 | ✅
 | Zenly (w/o GMS) | 4.55.2 | 11 | ⚠️ | App crashes after login, but background location works
@@ -467,7 +468,7 @@ wsa://com.apple.android.music
 | Endless Frontier - Idle RPG | 3.5.3 | 12 | ❌ | OpenGL ES 3.1 is unsupported
 | Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
 | Blue Archive (GB) | 1.53.225706  | 13,12, 11 | ❌ | Crashed when trying to log in/enter the game.
-| Blue Archive (ブルーアーカイブ; JP) | 1.21.156614 | 12 | ❌ | Black screen on app launch
+| Blue Archive (ブルーアーカイブ; JP) | 1.35.231115 | 13 | ✅ | Installing the HEVC video extension (9NMZLZ57R3T7) will work properly. If not installed, it will be stuck in black screen.
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
 | Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with nvidia graphics
 | Brawl Stars | 38.159 | 11 | ❌ | Game crashes
@@ -483,6 +484,7 @@ wsa://com.apple.android.music
 | Dwarf Balls | 3.5.2 | 11 | 🆖 | Requires GMS for Google Play login.
 | Extreme Car Driving Simulator | 6.74.0 | 13, 12, 11 | ✅ | Keyboard & controller supported
 | F1 Mobile Racing | 5.1.11 | 7-13 | ❌ | No 3D rendering with any of the GPUs selected. Just shows a purple screen in game.
+| Fate/Grand Order (US) FGO | 2.34.0 | 12, 11 | 🆖 || Require Google Play Services, skippable if you have Google Play Service (APK) installed
 | Fire Emblem Heroes | 6.7.0 | 12, 11 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
 | Fortnite | 14.10.0 | 11 | ❌ | Crashes at login screen
 | Fortnite Installer | 4.1.4 | 11 | ❌ | "Device not supported" error
@@ -516,6 +518,8 @@ wsa://com.apple.android.music
 | Minecraft (Aurora Store) | 1.17.40.06 | 11 | ❌ | Unable to verify game owner
 | Minecraft (China Edition) || 11 | ✅
 | Minecraft (Play Store) | 1.20.40.20 | 13, 11 | ⚠️ | Mouse issue: The avatar doesnt look at the cursor in the main and game menus, as it sould be on PC (and mouse and keyboard connected to Android device). While in-game, it doesnt recognize the mouse and instead the touchscreen controls will be used, but the keyboard works. Once entered into any text field (e.g. entering command in chat) and exited, the avatar now looks at the cursor again in the game and main menus, but in-game the camera no longer moves, until you restart the app.   |
+| Minecraft (Play Store) | 1.18.0.23 | 11 | ✅
+| Mobile Legends | 1.6.66.7281 | 11 | ✅
 | Monument Valley | 2.7.17 | 11 | ✅
 | Monument Valley 2 | 2.0.3 | 11 | ✅
 | Mortal Kombat X (APKPure) | 5.9.0 | 11 | ❌ | Stuck on initialization screen, message shows up saying "Download failed to start"
