@@ -137,6 +137,7 @@ wsa://com.apple.android.music
 | DuckDuckGo Privacy Browser+ | 5.142.2 | 12 | ✅
 | Easybell | 2.1.30 | 11 | ✅
 | EDS Lite | 2.0.0.237 | 12 | ✅ || Tested on an Intel x86-64 CPU (may work on AMD64 or ARM64). Recommended to add the exFAT module if you have a container that use this filesystem.
+| eGovPH | 1.3.8 | 13 | ⚠️ || Tested on a WSA install with GMS. Basic features work such as navigating through the app features/pages but for eReport, the app can't progress beyond the Current Location permission prompt as clicking the "Enable Location" doesn't do anything; the workaround is to access it via the Suggested eGovPH Services part. The PhilSys Digital ID page works as well. eKYC verification is problematic as the built-in laptop camera is wonky with eGovPH's image handling, affecting the verification process. Some pages display no content (notably FAQs and application details)
 | Emby | 2.0.48g | 11 | ✅
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
 | Excel | 16.0.14527.20162 | 11 | ✅
