@@ -200,6 +200,7 @@ wsa://com.apple.android.music
 | Ipsos MediaLink | 5.2.20 | 13 | ✅ || The VPN workaround is required, as are Accessibility permissions, and a CA certificate needs installing (wsa://com.android.settings) 
 | iPusnas | 1.5.1 | 11 | ✅
 | iRobot | 5.2.4-release | 12 | ❌ | Error message `java.lang.UnsatisfiedLinkError: dlopen failed: library "libcore_jni.so" not found`
+| Insta360 | 1.49.0 | 12 | ❌ | Error message `Sorry, Insta360 app is temporarily incompatible with your device.`
 | JAKI - Jakarta Kini | 1.2.34 | 11 | 🆖 | Some features require GMS
 |JioSaavn | 8.2.1 | 11 | ✅ |Doesn't support fullscreen and rare crashes but running fine
 |Jiocinema| 3.0.2.7 | 11 | ✅ | May crash initially but subsequent runs should work correctly. 
