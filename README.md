@@ -81,7 +81,7 @@ wsa://com.apple.android.music
 | Amaze File Manager | 3.5.3 | 11 | ✅ || Avoid updating the app
 | Amazon Alexa | 2.2.466191.0 | 12 | ✅ |
 | Android System Info | 1.4.2 | 11 | ✅ ||
-| Android System Webview | 115.0.5790.138 | 13, 12 | ✅ ||
+| Android System Webview | 118.0.5993.111 | 13, 12 | ✅ ||
 | Android System Webview Dev | 103.0.5060.22 | 11 | ✅ || App installs correctly 
 | AniLabX | 3.8.12 (Iridium) - Beta | 11 | ✅
 | Animiru | 0.14.2.0 | 13 | ✅ | 
@@ -112,7 +112,7 @@ wsa://com.apple.android.music
 | Bromite | 94.0.4606.94 | 11 | ✅ || Use x64 build
 | CamScanner | 6.3.0.2110240000 | 11 | ❌ | WSA freezes after taking a snap
 | Canvas Student | 6.14.1 | 11 | ✅
-| Character.AI | 1.6.2 | 13 | ✅ | Sometimes, the text box for the prompt is broken when you resize the window. Restarting the app will restore the textbox.
+| Character.AI | 1.7.2 | 13 | ✅ | Sometimes, the text box for the prompt is broken when you resize the window. Restarting the app will restore the textbox.
 | ChMate | 0.8.10.153 | 11 | ✅
 | Clubhouse | 1.0.11 | 11 | ⚠️ | Unable to login via phone number, it throws error after entering the OTP
 | Comixology | 3.10.18.310421 | 11 | ✅
@@ -137,6 +137,7 @@ wsa://com.apple.android.music
 | DuckDuckGo Privacy Browser+ | 5.142.2 | 12 | ✅
 | Easybell | 2.1.30 | 11 | ✅
 | EDS Lite | 2.0.0.237 | 12 | ✅ || Tested on an Intel x86-64 CPU (may work on AMD64 or ARM64). Recommended to add the exFAT module if you have a container that use this filesystem.
+| eGovPH | 1.3.8 | 13 | ⚠️ || Tested on a WSA install with GMS. Basic features work such as navigating through the app features/pages but for eReport, the app can't progress beyond the Current Location permission prompt as clicking the "Enable Location" doesn't do anything; the workaround is to access it via the Suggested eGovPH Services part. The PhilSys Digital ID page works as well. eKYC verification is problematic as the built-in laptop camera is wonky with eGovPH's image handling, affecting the verification process. Some pages display no content (notably FAQs and application details)
 | Emby | 2.0.48g | 11 | ✅
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
 | Excel | 16.0.14527.20162 | 11 | ✅
@@ -152,7 +153,7 @@ wsa://com.apple.android.music
 | FDM (Free Download Manager) (Play Store) | 6.18.1.4896 | 13 | ✅ | The app crashed after the splash screen (after granting its needed permissions) on some versions of the subsystem (due to libhoudini). Works fine again as of WSA 2301.40000.7.0 | Tested on an Intel x86_64 CPU
 | Fennec F-Droid | 105.1.0 | 12 | ❌ | While the app is correctly installed, it crashes very often, and sites load very, very slowly compared to Firefox Nightly.
 | Files by Google | Unknown | 11 | ✅ || Works fine
-| Firefox | 116.0 (2015964775) | 13, 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
+| Firefox | 119.0.1 (2015982999) | 13, 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
 | Firefox Nightly | 95.0a1 | 11 | ✅
 | Firefox Focus | 106.1 | 12 | ✅
 | foobar2000 | 1.2.30 | 11 | ✅
@@ -172,7 +173,7 @@ wsa://com.apple.android.music
 | Gojek | 4.30.1 | 11 | 🆖 | Requires GMS
 | Google Calendar | 2022.18.2-448173739-release | 11 | ✅ | Requires GMS | Works fine
 | Google Camera | Unknown | 11 | ✅ || Works fine
-| Google Chrome | 115.0.5790.138 | 13, 12, 11 | ✅ | Requires microG or GMS to sync with Google Account |
+| Google Chrome | 119.0.6045.66 | 13, 12, 11 | ✅ | Requires microG or GMS to sync with Google Account |
 | Google Classroom | 8.0.181.20.90.3 | 11 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
 | Google Contacts | 3.68.0.445910596 | Unknown | ✅ || App may be glitchy from time to time, if that happens, restart the app
 | Google Drive | 2.22.197.0.all.alldpi | 11 | ✅ | Works fine, may require GMS
@@ -200,6 +201,7 @@ wsa://com.apple.android.music
 | Ipsos MediaLink | 5.2.20 | 13 | ✅ || The VPN workaround is required, as are Accessibility permissions, and a CA certificate needs installing (wsa://com.android.settings) 
 | iPusnas | 1.5.1 | 11 | ✅
 | iRobot | 5.2.4-release | 12 | ❌ | Error message `java.lang.UnsatisfiedLinkError: dlopen failed: library "libcore_jni.so" not found`
+| Insta360 | 1.49.0 | 12 | ❌ | Error message `Sorry, Insta360 app is temporarily incompatible with your device.`
 | JAKI - Jakarta Kini | 1.2.34 | 11 | 🆖 | Some features require GMS
 |JioSaavn | 8.2.1 | 11 | ✅ |Doesn't support fullscreen and rare crashes but running fine
 |Jiocinema| 3.0.2.7 | 11 | ✅ | May crash initially but subsequent runs should work correctly. 
@@ -216,15 +218,16 @@ wsa://com.apple.android.music
 | Kiwi Browser | 107.0.5304.74 | 12,13 | ✅ |
 | Kobo Books | 8.40.29843 | 11 | ⚠️ | Aspect ratio and resolution are fixed, appears blurry when resized
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
-| Kotatsu | 6.2.3 | 13 | ✅ | | Keyboard navigation is supported
+| Kotatsu | 6.2.6 | 13 | ✅ | | Keyboard navigation is supported
 | Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 11 | ❌ | App crashes
 | Lawnchair | 12 Alpha 5 | 13, 12, 11 | ⚠️ | If your running the Android 13 of the subsystem (2211.40000.11.0), if you launch any app from either the home screen or the app drawer, it crashes with an error: `java.lang.NoSuchMethodError: No virtual method setSplashscreen(I)V in class Landroid/app/ActivityOptions; or is superclasses (declaration of 'android.app.ActivityOption'...` | Works fine on Android 11 or 12 versions of the subsystem.
-| Lazada | 7.19.1 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appear too often if logging in. Weird scaling options (interface elements are too large) | Keep it in portrait for the app to be usable.
+| Lazada | 7.37.0 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appear too often if logging in. Weird scaling options (interface elements are too large) | Keep it in portrait for the app to be usable.
 | Libby | 4.3.1 | 11 | ✅
 | LINE | 12.0.1 | 11 | ✅
 | Line Rangers | 7.6.3 | 11 | ✅
 | LinkedIn | 4.1.632 | 11 | ✅
-| LNReader | 1.1.12 | 12 | ✅|| Partial keyboard navigation is available (example: arrows key up and down - scrolls) when reading light novel.
+| Logcat Reader | 1.7.2 | 13 | ✅ | 
+| LNReader | 1.1.18 | 13, 12 | ✅|| Partial keyboard navigation is available (example: arrows key up and down - scrolls) when reading light novel.
 | LSPosed | 1.8.6 | 11, 13 | ✅
 | Magisk | 25.2 | 11, 13 | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131)
 | ManCityApp | 2.1.11 | 11 | 🆖 || Might require GMS
@@ -255,6 +258,7 @@ wsa://com.apple.android.music
 | Muslim Pro | 1.2.3 | 11 | 🆖 | Requires GMS
 | MX Player | 1.40.9 | 11 | ✅
 | MX Player Pro | 1.39.13 | 11 | ⚠️ | App crashes, but videos can be played from external sources
+| myPLDT Smart | 2.0.1 | 13 | ✅ | Requires GMS only logging in using Google account. You can try logging in with e-mail instead. | Sideloaded installation
 | MyPostNord (Norway) | 3.12 | 12 | ✅ 
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to correct orientation in a second.
 | NClientV2 (Release)| 3.0.2 | 13 | ✅ | Keyboard navigation is unsupported when reading. | You can try enabling `Disguise app in drawer` but it doesn't work in the Windows start menu, but works with an installed launcher like Lawnchair or Rootless Pixel Launcher.
@@ -308,6 +312,7 @@ wsa://com.apple.android.music
 | QooApp | 8.3.3 | 11 | ✅
 | QPython 3L | 3.0.0 | 11 | ✅
 | QQ | 8.9.28 | 13, 12 | ❌ | App crashes
+| QuickNovel | 3.1.4 | 13 | ✅
 | Reddit || 11 | ✅
 | Relay | 10.0.378 | 11 | ✅
 | Remini - AI Photo Enhancer || 11 | ⚠️ | Oops! Something went wrong Your image didn't save. Please try again.
@@ -325,10 +330,11 @@ wsa://com.apple.android.music
 | SD Maid (pro) | 5.2.2 | 11 | ⚠️ | Unable to grant external storage privileges, can be skipped
 | Settings | 12, API 32 | 12 | ⚠️ | Setting screenlock to "Swipe", makes it impossible to use any apps without re-installing the entire Subsystem, since no method is provided on the lockscreen to swipe or otherwise unlock. Adding a Google account in the Account menu doesn't work. "Backup" and "SOS Alarm" sends the phone back to the main Settings menu. | Included by default in Subsystem. Accessed by creating a Windows shortcut with this path: `%LOCALAPPDATA%\Microsoft\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\WsaClient.exe /launch wsa://com.android.settings`
 | Shazam | 13.19.0-230223 | 13, 12 | ✅ | Shazam on pop-up doesn't work | Requires microphone for song identification
+| Shein | 9.9.4 | 13 | ✅ || Keep it in portrait to be usbale
 | ShemarooMe | 1.0.16 (106) | 11 | ✅
-| Shizuku | 13.3.0.r993.5392b9 | 13, 12,11 | ⚠️ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on).
-| Shopee PH | 2.98.30 | 13,11 | ✅ | Google login requires GMS installed (use Email or Facebook login as alternatives). Banner information are stretched horizontally 
-| Shosetsu | 2.0.0-2417 | 13, 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
+| Shizuku (Play Store) | 13.5.2.r1028.2bbf671 | 13, 12, 11 | ✅ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on). | The service also works with root (Tested with Magisk)
+| Shopee (PH) | 3.12.16 | 13,11 | ✅ | Google login requires GMS installed (use Email or Facebook login as alternatives). Banner information are stretched horizontally 
+| Shosetsu | 2.4.4 | 13, 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
 | Showtime | 3.1.1 | 11 | ❌ | App crashes when you try to login. Button clicks dont work
 | SIM Toolkit (Google) | 12, API 32 | 12 | ❌ | Does not launch even with a shortcut.
 | Simple Gallery | 5.3.9 | 11 | ❌ | App crashes when you try to view a photo
@@ -353,13 +359,12 @@ wsa://com.apple.android.music
 | SwiFTP Server| 1.24 | 11 | ✅
 | Symbolab | 9.3.0 | 11 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
-| Tachiyomi (Preview) | 0.14.6-6132 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
-| Tachiyomi (Release) | 0.14.7 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
+| Tachiyomi (Preview) | 0.14.7-6191 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
+| Tachiyomi (Stable) | 0.14.7 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
 | TachiyomiAZ | 8.7.4-AZ | 13, 12, 11 | ✅
-| TachiyomiJ2K/TachiJ2K | 1.7.3 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
-| TachiyomiSY | 1.9.3 | 13, 12, 11 | ✅
+| TachiyomiJ2K/TachiJ2K | 1.7.1 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
+| TachiyomiSY | 1.9.4 | 13, 12, 11 | ✅
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
-| Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | TeamViewer | 15.22.136 | 11 | ✅
 | Telegram | 8.1.2 | 11 | ✅
 | Televizo | 1.9.0.1 | 11 | ❌ | Crashes on video playback
@@ -468,7 +473,7 @@ wsa://com.apple.android.music
 | Endless Frontier - Idle RPG | 3.5.3 | 12 | ❌ | OpenGL ES 3.1 is unsupported
 | Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
 | Blue Archive (GB) | 1.53.225706 | 13 | 🆖 | Tested with GMS / Google login, stable framerate on High settings using Nvidia GeForce GTX 1650.
-| Blue Archive (ブルーアーカイブ; JP) | 1.35.231115 | 13 | ✅ | Installing the HEVC video extension (9NMZLZ57R3T7) will work properly. If not installed, it will be stuck in black screen.
+| Blue Archive (ブルーアーカイブ; JP) | 1.35.231115 | 13 | ✅ | Installing the HEVC video extension (9NMZLZ57R3T7 or 9N4WGH0Z6VHQ) will work properly. If not installed, it will be stuck in black screen.
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
 | Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with nvidia graphics
 | Brawl Stars | 38.159 | 11 | ❌ | Game crashes
@@ -562,6 +567,7 @@ wsa://com.apple.android.music
 | Sword Art Online: Integral Factor| 1.9.2 | 11 | ✅ | Keyboard unsupported
 | Sword Art Online: Memory Defrag | 3.0.2 | 11 | ✅ | Keyboard unsupported
 | Sword Art Online: Unleash Blading | 3.2.0 | 11 | ⚠️ | Can't detect device
+| Teamfight Tactics | 12.5.4259171 | 11 | ⚠️ | Crashes often before getting in game but after getting in, not many issues. Can get laggy at times but somewhat playable.
 | Terraria | 1.4.3.2.2 | 11 | ✅ || Keyboard supported
 | The Battle Cats | 11.2.1 | 11 | ✅
 | The Battle of Polytopia | 2.0.59.5719 | 11 | ❌ | Validation error
