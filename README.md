@@ -235,6 +235,7 @@ wsa://com.apple.android.music
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
 | Material Files | 1.5.2 | 12, 11 | ✅
 | Maya (Paymaya) | 2.85.1 | 13 | ❌ | App crashes immediately upon launching the app 
+| McDonald's | 2.76.0 | 13 | ❌ | Device verification fails on the first welcome screen and displays "Your device did not pass our security check. Please check that you run a Google trusted OS version, that the device is not rooted, and that you have no harmful apps installed.
 | Meta Quest (Oculus) | 181.1.0.81.114 | 12 | ⚠️ | Can't log in with a Meta account, but you can install the Facebook or Instagram app and enable "Logging in with accounts" in the Meta Accounts Center, and use the in-app login. Doesn't detect Quest 2 nearby, due to no Bluetooth support.
 | microG Settings | N/A | 11 | ❌ | App crashes, doesn't load
 | Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
@@ -294,6 +295,7 @@ wsa://com.apple.android.music
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
 | Package Manager | 6.7 | 12 | ✅ ||Recommeded with use of Shizuku for multi-app installation
+| PalawanPay | 1.0.400396 | 13 | ✅ ||The app works but WSA's developer options should be disabled prior to opening the app as the app will lock you out if it detects it was turned on 
 | Phigros || 11 | ✅
 | Philips Hue | 4.29.0 | 12 | ✅ 
 | Pixel People | 4.7 | 11 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable.
@@ -343,6 +345,7 @@ wsa://com.apple.android.music
 | Skype | 8.91.0.406 | 12 | ✅
 | SkySafari | 6.8.6.15 | 11 | 🆖 | Failed license check on startup, appears to require GMS
 | Slack | 21.11.20.0-B | 11 | ✅
+| Smart | 3.3.4 | 13 | ✅ | Tested on WSA with GMS installed. The app works fine and all navigation options can be navigated.
 | Smart Launcher | 5.5 Build 052 | 11 | ✅
 | Smart Life | 3.32.5 | 11 | ❌ | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted
 | Smash Hit | 1.4.3 | 13 | ✅ |
