@@ -208,6 +208,7 @@ wsa://com.apple.android.music
 | Jiocinema | 3.0.2.7 | 11 | ✅ | May crash initially but subsequent runs should work correctly. 
 | Jlpt | 4.7 | 12 | ✅ ||
 | Joey (Reddit client) | 2.0.0.1 | 11 | ✅
+| Jolibee  | 1.21.1 | 13 | ✅
 | Joplin | 2.4.3 (2097651) | 11 | ✅
 | JuiceSSH | 3.2.2 | 11 | ⚠️ | Connecting to SSH server needs multiple tries
 | Kahoot || 11 | ✅
