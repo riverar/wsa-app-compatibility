@@ -296,7 +296,7 @@ wsa://com.apple.android.music
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
 | Package Manager | 6.7 | 12 | ✅ ||Recommeded with use of Shizuku for multi-app installation
-| PalawanPay | 1.0.400396 | 13 | ✅ ||The app works but WSA's developer options should be disabled prior to opening the app as the app will lock you out if it detects it was turned on 
+| PalawanPay | 1.0.400396 | 13 | ✅ |The app works but WSA's developer options should be disabled prior to opening the app as the app will lock you out if it detects it was turned on 
 | Phigros || 11 | ✅
 | Philips Hue | 4.29.0 | 12 | ✅ 
 | Pixel People | 4.7 | 11 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable.
