@@ -137,7 +137,7 @@ wsa://com.apple.android.music
 | DuckDuckGo Privacy Browser+ | 5.142.2 | 12 | ✅
 | Easybell | 2.1.30 | 11 | ✅
 | EDS Lite | 2.0.0.237 | 12 | ✅ || Tested on an Intel x86-64 CPU (may work on AMD64 or ARM64). Recommended to add the exFAT module if you have a container that use this filesystem.
-| eGovPH | 1.3.8 | 13 | ⚠️ || Tested on a WSA install with GMS. Basic features work such as navigating through the app features/pages but for eReport, the app can't progress beyond the Current Location permission prompt as clicking the "Enable Location" doesn't do anything; the workaround is to access it via the Suggested eGovPH Services part. The PhilSys Digital ID page works as well. eKYC verification is problematic as the built-in laptop camera is wonky with eGovPH's image handling, affecting the verification process. Some pages display no content (notably FAQs and application details)
+| eGovPH | 1.9.1 | 13 | ⚠️ | Tested on a WSA install with GMS.  The app doesn't start properly if you didn't grant the permissions beforehand in android settings. For eReport, the app can't progress beyond the Current Location permission prompt as clicking the "Enable Location" doesn't do anything (even with the location permission granted for WSA in Windows); the workaround is to access it via the Suggested eGovPH Services part (found on the Home tab). eKYC verification is problematic as the built-in laptop camera is wonky with eGovPH's image handling, affecting the verification process (this also applies if you're registering an account from the same laptop for its face verification). Some pages display no content (notably FAQs and application details on some devices) |  Basic features work such as navigating through the app features/pages. The PhilSys Digital ID page works as well and able to recognize it in the verification site on my phone. Recommended to use an up-to-date version of Android System WebView since the app mostly relies on it.
 | Emby | 2.0.48g | 11 | ✅
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
 | Excel | 16.0.14527.20162 | 11 | ✅
@@ -148,7 +148,6 @@ wsa://com.apple.android.music
 | Facebook Lite | 339.0.0.10.100 | 12 | ✅ |
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | 11 | ⚠️ | Chat Heads don't work
 | Facebook Messenger Lite | 334.0.0.10.101 | 12 | ✅ | 
-| Fancade | 1.7.6 | 11 | ❌ | App crashes
 | FAST Speed Test | 1.0.8 (88) | 11 | ✅
 | FDM (Free Download Manager) (Play Store) | 6.18.1.4896 | 13 | ✅ | The app crashed after the splash screen (after granting its needed permissions) on some versions of the subsystem (due to libhoudini). Works fine again as of WSA 2301.40000.7.0 | Tested on an Intel x86_64 CPU
 | Fennec F-Droid | 105.1.0 | 12 | ❌ | While the app is correctly installed, it crashes very often, and sites load very, very slowly compared to Firefox Nightly.
@@ -209,6 +208,7 @@ wsa://com.apple.android.music
 | Jiocinema | 3.0.2.7 | 11 | ✅ | May crash initially but subsequent runs should work correctly. 
 | Jlpt | 4.7 | 12 | ✅ ||
 | Joey (Reddit client) | 2.0.0.1 | 11 | ✅
+| Jolibee  | 1.21.1 | 13 | ✅
 | Joplin | 2.4.3 (2097651) | 11 | ✅
 | JuiceSSH | 3.2.2 | 11 | ⚠️ | Connecting to SSH server needs multiple tries
 | Kahoot || 11 | ✅
@@ -236,6 +236,7 @@ wsa://com.apple.android.music
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
 | Material Files | 1.5.2 | 12, 11 | ✅
 | Maya (Paymaya) | 2.85.1 | 13 | ❌ | App crashes immediately upon launching the app 
+| McDonald's | 2.76.0 | 13 | ❌ | Device verification fails on the first welcome screen and displays "Your device did not pass our security check. Please check that you run a Google trusted OS version, that the device is not rooted, and that you have no harmful apps installed.
 | Meta Quest (Oculus) | 181.1.0.81.114 | 12 | ⚠️ | Can't log in with a Meta account, but you can install the Facebook or Instagram app and enable "Logging in with accounts" in the Meta Accounts Center, and use the in-app login. Doesn't detect Quest 2 nearby, due to no Bluetooth support.
 | microG Settings | N/A | 11 | ❌ | App crashes, doesn't load
 | Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
@@ -295,6 +296,7 @@ wsa://com.apple.android.music
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
 | Package Manager | 6.7 | 12 | ✅ || Recommeded with use of Shizuku for multi-app installation
+| PalawanPay | 1.0.400396 | 13 | ✅ | The app works but WSA's developer options should be disabled prior to opening the app as the app will lock you out if it detects it was turned on
 | Phigros || 11 | ✅
 | Philips Hue | 4.29.0 | 12 | ✅
 | Pixel People | 4.7 | 11 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable.
@@ -311,7 +313,7 @@ wsa://com.apple.android.music
 | Prep Ladder | 2.0.79-p | 11 | ⚠️ | Video pane opens but no audio or video and time keeps on going
 | Pydroid | 5.00_x86_64 | 11 | ✅
 | Q-Dance | 8.0.7 | 11 | ❌ | App crashes
-| QooApp | 8.3.3 | 11 | ✅
+| QooApp | 8.3.35 | 13, 11 | ✅ | QooApp Servant may not work due to WSA's windowed nature
 | QPython 3L | 3.0.0 | 11 | ✅
 | QQ | 8.9.28 | 13, 12 | ❌ | App crashes
 | QuickNovel | 3.1.4 | 13 | ✅
@@ -330,7 +332,7 @@ wsa://com.apple.android.music
 | SAI (Split APKs Installer) (F-Droid) | 4.5 | 12 | ✅ || Used rootless method only, not yet tested for rooted WSA
 | SATRIA | 1.0.0 | 11 | ❌ | Needs fingerprint reader support
 | SD Maid (pro) | 5.2.2 | 11 | ⚠️ | Unable to grant external storage privileges, can be skipped
-| Settings | 12, API 32 | 12 | ⚠️ | Setting screen lock to "Swipe", makes it impossible to use any apps without re-installing the entire Subsystem, since no method is provided on the lock screen to swipe or otherwise unlock. Adding a Google account in the Account menu doesn't work. "Backup" and "SOS Alarm" send the phone back to the main Settings menu. | Included by default in Subsystem. Accessed by creating a Windows shortcut with this path: `%LOCALAPPDATA%\Microsoft\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\WsaClient.exe /launch wsa://com.android.settings`
+| Settings | 13, API 33 | 13 | ⚠️ | Setting screen lock to "Swipe", makes it impossible to use any apps without re-installing the entire Subsystem, since no method is provided on the lock screen to swipe or otherwise unlock. Adding a Google account in the Account menu doesn't work (the settings app will quit if you just clicked back when adding a new Google account). "Backup" and "SOS Alarm" send the phone back to the main Settings menu. | Included by default in Subsystem. Accessed by creating a Windows shortcut with this path: `%LOCALAPPDATA%\Microsoft\WindowsApps\MicrosoftCorporationII.WindowsSubsystemForAndroid_8wekyb3d8bbwe\WsaClient.exe /launch wsa://com.android.settings`
 | Shazam | 13.19.0-230223 | 13, 12 | ✅ | Shazam on pop-up doesn't work | Requires microphone for song identification
 | Shein | 9.9.4 | 13 | ✅ || Keep it in portrait to be usable
 | ShemarooMe | 1.0.16 (106) | 11 | ✅
@@ -344,6 +346,7 @@ wsa://com.apple.android.music
 | Skype | 8.91.0.406 | 12 | ✅
 | SkySafari | 6.8.6.15 | 11 | 🆖 | Failed license check on startup, appears to require GMS
 | Slack | 21.11.20.0-B | 11 | ✅
+| Smart | 3.3.4 | 13 | ✅ | Tested on WSA with GMS installed. The app works fine and all navigation options can be navigated.
 | Smart Launcher | 5.5 Build 052 | 11 | ✅
 | Smart Life | 3.32.5 | 11 | ❌ | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted
 | Smash Hit | 1.4.3 | 13 | ✅ |
@@ -495,6 +498,7 @@ wsa://com.apple.android.music
 | Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
 | Extreme Car Driving Simulator | 6.74.0 | 13, 12, 11 | ✅ | Keyboard & controller supported
 | F1 Mobile Racing | 5.1.11 | 13 - 7 | ❌ | No 3D rendering with any of the GPUs selected. Just shows a purple screen in game.
+| Fancade | 1.7.6 | 11 | ❌ | App crashes
 | Fate/Grand Order (US) FGO | 2.34.0 | 12, 11 | 🆖 || Require Google Play Services, skippable if you have Google Play Service (APK) installed
 | Fire Emblem Heroes | 6.7.0 | 12, 11 | 🆖 | Requires GMS. If GMS is installed, it cannot be played due to SafetyNet error.
 | Flappy Bird | 1.3 | 13 | ⚠️ | Crashes sometimes after 20 points if there's no internet for Google Play Games to be loaded on game startup, which indicates that this game might require GMS | Sideloaded
