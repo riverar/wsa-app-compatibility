@@ -157,8 +157,6 @@ wsa://com.apple.android.music
 | Firefox Focus | 106.1 | 12 | ✅
 | foobar2000 | 1.2.30 | 11 | ✅
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
-| Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
-| Google Translate | 6.45.0.474938783.2-release | 12 | ❌ | Crashes on startup due to reliance on Google Services Framework
 | FTP Server (Free) (F-Droid) | 3.1 - 30100 | 13, 12, 11 | ✅ | A network connection is required for the FTP service to initialize. Does not work with `Local network access` turned on in WSA Settings
 | FX File Explorer | 9.0.1.2 (r9012) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
@@ -168,19 +166,22 @@ wsa://com.apple.android.music
 | GeoGebra | 5.0.674.0 | 11 | ✅
 | Globe2Go | 4.7.4.20.0810/3890 | 11 | ✅
 | GlobeOne | 1.8.37 | 12 | ✅ || May require GMS (otherwise use other login methods available in the app)
-| Gmail | <sub>2022.05.01.440951655.Release</sub> | 11 | ✅ || May require GMS
+| Gmail | 2022.05.01.440951655.Release | 11 | ✅ || May require GMS
 | Gojek | 4.30.1 | 11 | 🆖 | Requires GMS
+| Google | 14.44.29.28.x86_64 | 13 | 🆖 | Requires GMS
 | Google Calendar | 2022.18.2-448173739-release | 11 | ✅ | Requires GMS | Works fine
 | Google Camera | Unknown | 11 | ✅ || Works fine
 | Google Chrome | 119.0.6045.66 | 13, 12, 11 | ✅ | Requires microG or GMS to sync with Google Account |
-| Google Classroom | 8.0.181.20.90.3 | 11 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading of attachments locally is not possible.
+| Google Classroom | 8.0.181.20.90.3 | 11 | ✅ || Notifications are generic (do not show content), clicking on them may not open the app. Uploading attachments locally is not possible.
 | Google Contacts | 3.68.0.445910596 | Unknown | ✅ || App may be glitchy from time to time, if that happens, restart the app
 | Google Drive | 2.22.197.0.all.alldpi | 11 | ✅ | Works fine, may require GMS
 | Google Home | 2.58.1.7 | 12 | ❌ | An error message on startup says "Home cannot run without Google Play Services, which are not supported by your device."
-| Google Meet | <sub>2021.10.03.404303734.Release</sub> | 11 | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
+| Google Meet | 2021.10.03.404303734.Release | 11 | 🆖 | Requires GMS, Share screen doesn't work due to WSA's windowed nature
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
 | Google Play Games | 2023.08.46243 | 13 | 🆖 | Requires GMS
-| Google Play Store | <sub>37.4.24-29 [0] [PR] 56388002</sub> | 13 | 🆖 | Requires GMS. If you're changing languages a lot in the app, there's a prompt to restart the app to complete the update. Wait for a few seconds, then tap/click restart to proceed (sometimes works, sometimes not). | Play Protect certification status will be `Device is uncertified`
+| Google Play Store | 37.4.24-29 [0] [PR] 56388002 | 13 | 🆖 | Requires GMS. If you're changing languages a lot in the app, there's a prompt to restart the app to complete the update. Wait for a few seconds, then tap/click restart to proceed (sometimes works, sometimes not). | Play Protect certification status will be `Device is uncertified`
+| Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
+| Google Translate | 6.45.0.474938783.2-release | 12 | ❌ | Crashes on startup due to reliance on Google Services Framework
 | Grab | 5.172.200 | 11 | ✅
 | Gycso | 1.1.0 | 12, 11 | ✅ |
 | HBO Max | 52.15.0.53 | 11 | ⚠️ | Failed to play video (internal player fails to display image and play sound).
@@ -188,7 +189,7 @@ wsa://com.apple.android.music
 | Hiragana Pro | 1.4.4 | 12 | ✅ | Scaling issue when the app is in landscape mode.
 | Hobi | 2.1.7 | 11 | 🆖 | Requires GMS
 | Home Assistant | 2022.3.0-full | 11 | ✅ | Basic functionality works, additional/extended functionality has not been yet tested.
-| Housesigma Canada Real Estate| 4.3.6 (121) | 11 | ✅
+| Housesigma Canada Real Estate | 4.3.6 (121) | 11 | ✅
 | HTV (hanime tv) | 3.6.7 | 11 | ⚠️ | Failed to play video | Internal player doesn't work, asks for external player and fails again
 | huaCtrl PRO | 1.0.27 | 11 | ✅
 | Huawei AppGallery | 11.4.2.300 | 11 | ✅ | Frequent crashes were experienced, otherwise the app functionality is fine
@@ -211,16 +212,16 @@ wsa://com.apple.android.music
 | Joplin | 2.4.3 (2097651) | 11 | ✅
 | JuiceSSH | 3.2.2 | 11 | ⚠️ | Connecting to SSH server needs multiple tries
 | Kahoot || 11 | ✅
-| Katakana Pro | 1.4.4 | 12 |  ✅
-| KawaiiNihongo | 3.10.9 | 12 |  ✅
+| Katakana Pro | 1.4.4 | 12 | ✅
+| KawaiiNihongo | 3.10.9 | 12 | ✅
+| KernelSU | v0.7.0 | 13 | ✅ || Download this manager app after installing KernelSU root
 | Khan Academy | 7.3.3 | 11 | ✅
 | Kik | 7.10.1.176 (82) | 11 | ✅
 | Kindle | 8.47.1.3370 | 11 | ✅
 | Kiwi Browser | 107.0.5304.74 | 13, 12 | ✅ |
 | Kobo Books | 8.40.29843 | 11 | ⚠️ | Aspect ratio and resolution are fixed, appears blurry when resized
-| KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | Kotatsu | 6.2.6 | 13 | ✅ | | Keyboard navigation is supported
-| Lawnchair | 11.0 Alpha 6.1 (8b01af8).release | 11 | ❌ | App crashes
+| KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | Lawnchair | 12 Alpha 5 | 13, 12, 11 | ⚠️ | If you're running the Android 13 of the subsystem (2211.40000.11.0), if you launch any app from either the home screen or the app drawer, it crashes with an error: `java.lang.NoSuchMethodError: No virtual method setSplashscreen(I)V in class Landroid/app/ActivityOptions; or is superclasses (declaration of 'android.app.ActivityOption'...` | Works fine on Android 11 or 12 versions of the subsystem.
 | Lazada | 7.37.0 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appears too often if logging in. Weird scaling options (interface elements are too large) | Keep it in portrait for the app to be usable.
 | Libby | 4.3.1 | 11 | ✅
@@ -243,7 +244,7 @@ wsa://com.apple.android.music
 | Microsoft Bing - Search & earn | 23.5.401109307 | 12 | ✅
 | Microsoft Edge | 95.0.1020.42 | 11 | ❌ | App frequently crashes
 | Microsoft Edge Canary | 103.0.1264.1 | 11 | ❌ || Fails to load websites
-| Microsoft Launcher | 6.210602.1.994630 | 11 | ✅
+| Microsoft Launcher | 6.230703.0.1122680 | 13, 11 | ✅ | Can't set wallpaper
 | Microsoft PowerApps | 3.21124.20 | 11 | ✅
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
@@ -270,7 +271,7 @@ wsa://com.apple.android.music
 | Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
 | Network IP Scanner | 3.2 | 11 | ⚠️ | Only scans WSA's own VirtWifi network
 | NewPipe | 0.22.1 | 11 | ✅
-| NextDNS | 1.2 | 12 | ✅ || VPN workaround is needed once after installation, to allow the app to create VPN connections.
+| NextDNS | 1.2 | 12 | ✅ || VPN workaround is needed after installation to allow the app to create VPN connections.
 | NFL | 57.0.7 | 11 | ⚠️ | Videos/streams do not play or load. If embedded in an article, they only play without sound.
 | Nintendo Switch Online | 2.2.0 | 12 | ✅ | Only displays in portrait 
 | Nova Launcher | 7.0.49 (7049) | 11 | ⚠️ | UI is messy, but app drawer is fine
@@ -294,10 +295,10 @@ wsa://com.apple.android.music
 | OTT Navigator | 1.6.7.7 | ❌ | Crashes on video playback
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
-| Package Manager | 6.7 | 12 | ✅ ||Recommeded with use of Shizuku for multi-app installation
-| PalawanPay | 1.0.400396 | 13 | ✅ |The app works but WSA's developer options should be disabled prior to opening the app as the app will lock you out if it detects it was turned on 
+| Package Manager | 6.7 | 12 | ✅ || Recommeded with use of Shizuku for multi-app installation
+| PalawanPay | 1.0.400396 | 13 | ✅ | The app works but WSA's developer options should be disabled prior to opening the app as the app will lock you out if it detects it was turned on
 | Phigros || 11 | ✅
-| Philips Hue | 4.29.0 | 12 | ✅ 
+| Philips Hue | 4.29.0 | 12 | ✅
 | Pixel People | 4.7 | 11 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable.
 | Playstation App | 21.11.2 | 11 | ⚠️ | Runs very slow and takes some time to connect to voice chat, beside that it works  
 | Plex | 8.26.2.29389 | 11 | ✅
@@ -352,15 +353,15 @@ wsa://com.apple.android.music
 | Snapchat || 11 | ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored
 | Solid Explorer File Manager | 2.8.28b | 12 | ✅
 | SoundHound | 10.1.2 | 12 | ✅ |  | Ensure in Windows' audio settings that the microphone has a high enough sound level 
-| Speedtest by Ookla | 4.8.0 (177906) | 12 | ✅ | VPN workaround is needed once after installation, to allow the app to create VPN connections.
+| Speedtest by Ookla | 4.8.0 (177906) | 12 | ✅ | VPN workaround is needed after installation to allow the app to create VPN connections.
 | Spotify | 8.7.30.1221 | 12, 11 | ✅ | 
 | Spotify Lite | 1.9.0.2883 | 11 | ✅
 | Squircle IDE | v2022.1.2 | 12, 11 | ✅
 | Steam | 2.3.13 | 11 | ✅
 | Steam Chat | 1.0 | 11 | ✅
 | Steam Link | 1.1.81 | 11 | ❌ | App crashes
-| Stocard | 10.12.1 | 12 | ✅ |  | To log in to an earlier Stocard account that is set to use Google login, it needs to be transitioned from a Google-based account to an E-mail-based account, which has to be done on a phone.
-| SwiFTP Server| 1.24 | 11 | ✅
+| Stocard | 10.12.1 | 12 | ✅ || To log in to an earlier Stocard account that is set to use Google login, it needs to be transitioned from a Google-based account to an E-mail-based account, which has to be done on a phone.
+| SwiFTP Server | 1.24 | 11 | ✅
 | Symbolab | 9.3.0 | 11 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
 | Tachiyomi (Preview) | 0.14.7-6191 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
@@ -381,7 +382,7 @@ wsa://com.apple.android.music
 | TikTok (Global) | 25.0.3 | 12, 11 | ✅
 | TikTok (TV Version) | 1.6.0 | 11 | ❌ | App crashes
 | TikTok Lite | 21.7.1 | 11 | ❌ | App crashes
-| Tivimate | 4.4.0 | 11 | ✅ |   Compatibility Options -> Force App to be non-resizeable ; Disable smooth resize ; Keyboard Compatibility ;ForceFullScreen [F11] Note: Version 4.5. And above force crashes, the latest working version remains 4.4.0
+| Tivimate | 4.4.0 | 11 | ✅ | Compatibility Options -> Force App to be non-resizeable ; Disable smooth resize ; Keyboard Compatibility ; ForceFullScreen [F11] Note: Version 4.5. And above force crashes, the latest working version remains 4.4.0
 | TP-Link Tapo | 2.4.25 | 11 | ✅
 | Trello | 2021.14.1.16332-production | 11 | ⚠️ | Login needs web browser installed in WSA, using Windows' default browser will not work
 | Trust: Crypto & Bitcoin Wallet | 6.57.1 | 12 | ✅ || For login, you have to go to Android settings => System => Date & Time and toggle the "Set Time Automatically" option. you can access it by this command .\adb.exe shell "am start -n com.android.settings/.Settings"
@@ -406,12 +407,13 @@ wsa://com.apple.android.music
 | Wealthsimple Trade | 2.27.1 (2195) | 11 | ✅
 | WeChat | 8.0.32 | 13, 12 | ✅
 | WhatsApp | 2.21.20.20 | 11 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed
+| Windscribe | 3.74.1243 | 13 | ✅ || VPN workaround is needed after installation to allow the app to create VPN connections.
 | Word | 16.0.14430.20246 | 11 | ✅ || Might require microG
 | Wulkanowy (F-Droid) | 1.4.3 | 11 | ✅
 | Wulkanowy (Play Store) | 1.4.3 | 11 | 🆖
 | Wyze | 2.30.0 | 11 | ✅
 | Xbox Game Pass (Beta) | 2212.51 | 12 | ✅ || Everything works in this app, tested Cloud Gaming on Windows 11 build 25236 and WSA 2209.400. connected my Xbox Series X controller to PC and the app worked perfectly with it.
-| Xbox Game Pass | 2211.42 | 12 | ✅|| Everything works in this app, tested Cloud Gaming on Windows 11 build 25236 and WSA 2209.400. connected my Xbox Series X controller to PC and the app worked perfectly with it.
+| Xbox Game Pass | 2211.42 | 12 | ✅ || Everything works in this app, tested Cloud Gaming on Windows 11 build 25236 and WSA 2209.400. connected my Xbox Series X controller to PC and the app worked perfectly with it.
 | Xbox Family Settings | 20221104 | 12 | ✅
 | Xbox Beta | 2211.2.7 | 12 | ✅
 | Xbox | 2211.1.4 | 12 | ✅
@@ -461,6 +463,7 @@ wsa://com.apple.android.music
 | Among Us | 2022.7.12 | 12, 11 | ✅ | Keyboard may be unresponsive. | Xbox controller works.
 | Angry Birds Epic | 3.0.27463.4821 | 11 | ⚠️ | Terrible in-game experience, bad performance and low FPS
 | Animal Crossing: Pocket Camp | 5.0.2 | 12 | ❌ | error 802-1-01a-069-008 ||
+| Arcaea | 3.8.8 | 11 | ⚠️ | Keyboard doesn't work on login/register form
 | Archero | 4.8.2 | 12 | ✅ | Requires GMS and Play Games to load your cloud progress
 | Arknights | 18.9.81 | 13 | ✅ | Stable FPS throughout the game using NVIDIA GeForce GTX 1650, AMD GPU untested.
 | Arknights (明日方舟; Simplified Chinese) | 1.6.01 | 11 | ✅
@@ -470,30 +473,29 @@ wsa://com.apple.android.music
 | Azur Lane | 6.1.2 | 12, 11 | ⚠️ | Sometimes stuck on downloading resources, can be fixed by restarting the app. Overall gameplay, got stable FPS using NVIDIA GeForce GTX 1050 Ti Mobile
 | Bad Piggies HD | 2.4.3141 | 11 | ✅
 | BanG Dream! Girls Band Party! | 4.5.0 | 11 | 🆖 | Requires GMS
-| Beat the Boss 4 | 1.7.7 | 13 | ✅
-| Arcaea | 3.8.8 | 11 | ⚠️ | Keyboard doesn't work on login/register form
 | Battle Cats Quest | 1.0.4 | 11 | ✅
-| C.A.T.S (Crash Arena Turbo Stars) | 2.40.2 | 11 | ✅ | GMS warnings might appear but these can be safely ignored
-| CarX Highway Racing | 1.17.1 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
-| Command and Conquer: Rivals | 1.8.1 | 12, 11 | ✅ | | It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
-| Cricket (Play Games) | 2023.08.46243 | 13 | 🆖 || Requires GMS
-| Endless Frontier - Idle RPG | 3.5.3 | 12 | ❌ | OpenGL ES 3.1 is unsupported
-| Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
+| Beat the Boss 4 | 1.7.7 | 13 | ✅
 | Blue Archive (GB) | 1.53.225706 | 13 | 🆖 | Tested with GMS / Google login, stable framerate on High settings using NVIDIA GeForce GTX 1650.
 | Blue Archive (ブルーアーカイブ; JP) | 1.35.231115 | 13 | ✅ | Installing the HEVC video extension (9NMZLZ57R3T7 or 9N4WGH0Z6VHQ) will work properly. If not installed, it will be stuck in black screen.
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
 | Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with Nvidia graphics
 | Brawl Stars | 38.159 | 11 | ❌ | Game crashes
+| C.A.T.S (Crash Arena Turbo Stars) | 2.40.2 | 11 | ✅ | GMS warnings might appear but these can be safely ignored
 | Candy Crush Saga | 1.213.2.1 (12132011) | 11 | ✅
+| CarX Highway Racing | 1.17.1 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
 | Clash Mini | 1.1142.10 | 11 | ❌ | App crashes
 | Clash of Clans | 15.292.12 | 13 | ❌ | App crashes
 | Clash Royale | 3.6.1 | 11 | ❌ | App crashes
 | Clouds & Sheep 2 | 1.4.6 | 11 | ✅ | Optionally uses GMS
+| Command and Conquer: Rivals | 1.8.1 | 12, 11 | ✅ || It will pop up "Won't run without GPlay services" when starts, but works fine except GPlay login. You may use link email instead.
 | Crazy Taxi Classic | 4.7 | 12 | ❌ | An error message on startup says "Download failed because the resources could not be found." | OBB installation has not yet been tested.
-| Death Palette(Matsuro) | 4.3.0 | 11 | ✅ | 
+| Cricket (Play Games) | 2023.08.46243 | 13 | 🆖 || Requires GMS
+| Death Palette (Matsuro) | 4.3.0 | 11 | ✅ | 
 | Deus Ex GO | 2.1.111374 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
 | Destiny Child | 2.8.6 | 11 | ⚠️ | Poor performance during battles
 | Dwarf Balls | 3.5.2 | 11 | 🆖 | Requires GMS for Google Play login.
+| Endless Frontier - Idle RPG | 3.5.3 | 12 | ❌ | OpenGL ES 3.1 is unsupported
+| Epic Seven | 1.0.406 | 11 | ⚠️ | Low FPS, unable to sign in with Google
 | Extreme Car Driving Simulator | 6.74.0 | 13, 12, 11 | ✅ | Keyboard & controller supported
 | F1 Mobile Racing | 5.1.11 | 13 - 7 | ❌ | No 3D rendering with any of the GPUs selected. Just shows a purple screen in game.
 | Fancade | 1.7.6 | 11 | ❌ | App crashes
@@ -514,8 +516,8 @@ wsa://com.apple.android.music
 | Hay Day | 1.55.93 (1706) | 1 | ❌ | App crashes on startup (Worked on 1.54.71 and earlier)
 | Hill Climb Racing | 1.53.0 (501) | 11 | ✅
 | Hitman Sniper | 1.7.193827 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
-| Honkai Impact 3rd| 5.1.0 | 11 | ⚠️ | Poor graphics quality
-| Hop Mania (Play Games) | 2023.08.46243 | 13 | 🆖 || Requires GMS and arrow keys works too
+| Honkai Impact 3rd | 5.1.0 | 11 | ⚠️ | Poor graphics quality
+| Hop Mania (Play Games) | 2023.08.46243 | 13 | 🆖 || Requires GMS, keyboard supported
 | Hungry Shark Evolution || 11 | ✅
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | 11 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64
 | Jet Car Stunts 2 | 1.0.13 | 11 | ❌ | Loads up but orientation and menus are broken
@@ -539,8 +541,8 @@ wsa://com.apple.android.music
 | Monument Valley 2 | 2.0.3 | 11 | ✅
 | Mortal Kombat X (APKPure) | 5.9.0 | 11 | ❌ | Stuck on initialization screen, message shows up saying "Download failed to start"
 | Muse Dash | 3.3.0 | 11 - 6 | ❌ | Stuck on a black screen, nothing loads.
-| My Little Pony World | 2022.2.0 aarch64 | 12 | ⚠️ | An authentication error warning about not being signed in with Google shows up on boot, but can be clicked past. The game is heavily graphically demanding on an x64 PC, averaging 15fps with an Nvidia 1050 Ti.
-| My Talking Angela 2 (Play Store) | 2.2.4.21687 (ARM64_v8a) | 13 | ⚠️ | Does not resize into window, even when the "Resize" button (on the bottom right) is clicked on. Bug in Angela's tub (go to Bathroom -> Tub): While grabbing the soap to massage Angela, the shower head briefly appears, then disappears in 1 second. | 
+| My Little Pony World | 2022.2.0 aarch64 | 12 | ⚠️ | An authentication error warning about not being signed in with Google shows up on boot, but can be clicked past. The game is heavily graphically demanding on an x64 PC, averaging 15 FPS with an Nvidia 1050 Ti.
+| My Talking Angela 2 (Play Store) | 2.2.4.21687 (ARM64_v8a) | 13 | ⚠️ | Does not resize into window, even when the "Resize" button (on the bottom right) is clicked on. Bug in Angela's tub (go to Bathroom → Tub): While grabbing the soap to massage Angela, the shower head briefly appears, then disappears in 1 second. | 
 | NieR Re[in]carnation | 2.17.0 | 13, 12, 11 | 🆖 | Requires GMS to get past loading screen. If GMS is installed, terrible in-game experience, including poor performance and low FPS. | Tested on a Ryzen 9 5900X and Nvidia RTX 3080
 | New Star Soccer | 4.27 | 13, 12, 11 | ✅ | Keyboard not supported
 | osu!lazer | 2023.403.1 | 13 - 5 | ⚠️ | Runs with terrible performance, high latency, generally unplayable
@@ -566,11 +568,11 @@ wsa://com.apple.android.music
 | Rocket League Sideswipe | 1.0 (356721) | 11 | ❌ | OpenGL ES 3.1 is unsupported
 | Sdorica | 4.5.3 | 13 | ✅ |
 | Shadow Fight 2 | 2.16.0 | 11 | ⚠️ | Optionally uses GMS, doesn't support keyboard control makes fighting harder | GMS warnings might appear but these can be safely ignored, Cloud save requires GMS
-| Shadow Fight 3 | 1.25.7 | 11 | ✅ | Optionally uses GMS, Cloud save using Facebook not working | Keyboard control is supported uses (W A D X) to use analog, GMS warnings might appear but these can be safely ignored, Cloud save requires GMS
+| Shadow Fight 3 | 1.25.7 | 11 | ✅ | Optionally uses GMS, Cloud save using Facebook not working | Keyboard control is supported (uses the keys W, A, D, X for analog input), GMS warnings might appear but these can be safely ignored, Cloud save requires GMS
 | Sky: Children of the Light | 0.15.1 | 11 | ❌ | OpenGL ES 3.1, Vulkan 1.0.3 and Vulkan level 0 missing
 | Smash Hit | 1.4.3 | 11 | ✅
-| Snake (Play Games) | 2023.08.46243 | 13 | 🆖 | Full screen must be entered to correct orientation | Requires GMS, keyboard supported
-| Solitaire (Play Games) | 2023.08.46243 | 13 | 🆖 || Requires GMS
+| Snake (Play Games) | 2023.08.46243 | 13 | ⚠️ | Full screen must be entered to correct orientation. On the other hand, sprites and assets might not be fully loaded if there's no internet connection. This might lead to anomalies such as invisible food, missing head | Requires GMS, keyboard supported
+| Solitaire (Play Games) | 2023.08.46243 | 13 | 🆖 || Requires GMS, keyboard supported
 | Standoff 2 | 0.16.6 | 11 | ⚠️ | Battle experience is terrible, includes micro-stutters
 | Stardew Valley | 1.4.5.151 | 11 | ✅
 | State of Survival | 1.13.40 | 11 | ✅
@@ -587,10 +589,10 @@ wsa://com.apple.android.music
 | The Battle of Polytopia | 2.0.59.5719 | 11 | ❌ | Validation error
 | The King Of Fighters Allstar | 1.9.3 | 11 | ✅ | Blank screen/app crash on first boot, works on second boot upwards
 | This War of Mine | 1.0 | 11 | ❌ | Infinite loop at start-up screen
-| Traffic Racer | 3.5 | 13, 12, 11 | ✅ | | Keyboard supported
+| Traffic Racer | 3.5 | 13, 12, 11 | ✅ || Keyboard supported
 | Toca Kitchen 2 | 2.2-play | 13 | ⚠️ | You can't access the game settings (or any swipe action) with a keyboard and mouse even with trackpad gestures | Recommended to use a touchscreen but it is also possible to play the game with just only the mouse.
 | True Skate | 1.5.39 | 11 | ✅ | Minor graphical glitches
-| Uma Musume: Pretty Derby (ウマ娘 プリティーダービー; JP) | 1.16.0 | 11 | ⚠️ | Doesn't work with GTX1660. Works with Microsoft Basic Render Driver with graphical issues. | Some features may require GMS.
+| Uma Musume: Pretty Derby (ウマ娘 プリティーダービー; JP) | 1.16.0 | 11 | ⚠️ | Doesn't work with Nvidia GeForce GTX 1660. Works with Microsoft Basic Render Driver with graphical issues. | Some features may require GMS.
 | Uma Musume: Pretty Derby (ウマ娘 プリティーダービー; JP) | 1.20.0 | 12 | ❌ | Only touch effect works after displaying the developer logo
 | Uma Musume: Pretty Derby (Korean) | 1.0.1 | 12 | ❌ | Only touch effect works after displaying the developer logo
 | War Robots | 7.7.7 (134783) | 11 | ✅ | GMS warnings might appear but these can be safely ignored
@@ -604,7 +606,7 @@ wsa://com.apple.android.music
 | 白夜極光 (Alchemy Stars) | 1.2.2 | 11 | ⚠️ | Poor in-game performance
 | 公主连结R (Princess Connect! Re: Dive (Simplified Chinese) | 3.4.10 | 11 | ✅
 | 神魔之塔 (Tower of Saviors) | 2022.600 | 12 | ✅ | Gameplay and graphics are excellent, but the game will crash at random when downloading game data. | The first time you open it, it will have difficulty downloading game data because it will crash randomly; simply be patient and keep restarting.
-| 云·原神 (Genshin Impact (Cloud app) ) || 11 | ✅
+| 云·原神 (Genshin Impact (Cloud app)) || 11 | ✅
 | 原神（Genshin Impact）| 2.2.0 | 11 | ⚠️ | Working but heavy graphical glitches - [video](https://www.bilibili.com/video/BV1zT4y1o73D?)
 | 崩坏学园2 (Honkai Gakuen 2) | 8.5 | 11 | ✅ || Game has inbox keyboard controller for WASD
 | 東方LostWord (Touhou: Lost Word) | 1.16.0 | 11 | ❌
