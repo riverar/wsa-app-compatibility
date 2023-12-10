@@ -203,6 +203,7 @@ wsa://com.apple.android.music
 | iPusnas | 1.5.1 | 11 | ✅
 | iRobot | 5.2.4-release | 12 | ❌ | Error message `java.lang.UnsatisfiedLinkError: dlopen failed: library "libcore_jni.so" not found`
 | Insta360 | 1.49.0 | 12 | ❌ | Error message `Sorry, Insta360 app is temporarily incompatible with your device.`
+| J2ME Loader | 1.7.9-open | 13, 12, 11 | ✅
 | JAKI - Jakarta Kini | 1.2.34 | 11 | 🆖 | Some features require GMS
 | JioSaavn | 8.2.1 | 11 | ✅ | Doesn't support fullscreen and rare crashes but running fine
 | Jiocinema | 3.0.2.7 | 11 | ✅ | May crash initially but subsequent runs should work correctly. 
@@ -554,6 +555,7 @@ wsa://com.apple.android.music
 | Pokémon Masters EX | 2.19.0 | 11 | ❌ | 10102 An error has occured.
 | Pokémon Unite | 1.2.1.2 | 11 | ⚠️ | Battle experience is terrible
 | Pou | 1.4.84 | 11 | ✅
+| Prince of Persia: The Shadow and the Flame | 2.0.2 | 13, 12, 11 | ✅
 | Princess Connect! Re: Dive (Korean) | 5.6.1 | 12 | ❌ | Only touch effect works after displaying the publisher logo
 | Princess Connect! Re: Dive (Japanese) | 6.7.0 | 12 | ❌ | Only touch effect works after displaying the publisher logo
 | Princess Connect! Re: Dive (Simplified Chinese) | 4.9.6 | 12 | ❌ | Only touch effect works after displaying "loading..."
