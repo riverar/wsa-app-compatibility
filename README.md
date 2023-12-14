@@ -513,7 +513,7 @@ wsa://com.apple.android.music
 | Golf Rival | 2.54.241 (88) | 11 | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
 | Grand Theft Auto: San Andreas || 11 | ✅
 | Guardian Tales | 2.53.1 | 12, 11 | 🆖 | Requires GMS
-| Hatsune Miku: Colorful Stage! | 1.3.2 | 12, 11 | ❌ | App either crashes when loading into game after login or app screen turns dark
+| Hatsune Miku: Colorful Stage! | 2.3.8 | 13 | ✅ | Game performs well with "lite" setting, frame drop in 3d  
 | Hay Day | 1.55.93 (1706) | 1 | ❌ | App crashes on startup (Worked on 1.54.71 and earlier)
 | Hill Climb Racing | 1.53.0 (501) | 11 | ✅
 | Hitman Sniper | 1.7.193827 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
