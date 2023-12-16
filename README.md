@@ -533,6 +533,7 @@ wsa://com.apple.android.music
 | Magic Tiles 3 | 8.086.201 | 11 | ✅
 | MapleStory M | 1.9300.3921 | 13 | ✅ |
 | Mario Kart Tour | 2.10.0 | 11 | ❌ | Fails to connect to servers after Nintendo login
+| MementoMori: AFKRPG | 2.4.0 | 13 | ✅ | Rarely the game will show an error regarding connectivity issue, just restart the game and it'll work fine most of the time. If you experience black background in the battle scene, try restarting the game. | Might require GMS. Tested on i7-12700H and Laptop RTX 3060, and WSA with GMS installed.
 | Minecraft (Aurora Store) | 1.17.40.06 | 11 | ❌ | Unable to verify game owner
 | Minecraft (China Edition) || 11 | ✅
 | Minecraft (Play Store) | 1.20.40.22 | 13, 11 | ⚠️ | Mouse and keyboard issue: The avatar doesn't look at the cursor in the main and game menus, as it should be on PC (and mouse and keyboard connected to Android device). While in the game, it does not recognize the mouse and instead the touchscreen controls will be used, but the keyboard works. Once entered into any text field (e.g. entering command in chat) and exited, the avatar now looks at the cursor again in the game and main menus; but back in the game, the camera no longer moves, and the letters, numbers and the spacebar on the keyboard no longer works, until you restart the app. Otherwise, it works with no issues.
