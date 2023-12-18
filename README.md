@@ -29,6 +29,7 @@ This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://u
 |---------|---------------|-------|
 | Multi-touch | ✅ | Demo: [Arcaea](https://www.bilibili.com/video/BV1Ph411n7M5)
 | Virtual Wifi (VirtWifi) | ✅
+| Bluetooth | ❌ ([GitHub issue](https://github.com/microsoft/WSA/issues/103))
 | IPv6 | ✅ | Loading `ipv6.google.com` in Fennec F-Droid on a PC with IPv6 access, works well
 | Fingerprint Reader | ❌ | Test failed on ROG Flow X13, with SATRIA app
 | VPN | ❌ | VPN Connection request dialog does not appear
