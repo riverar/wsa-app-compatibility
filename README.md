@@ -550,6 +550,7 @@ wsa://com.apple.android.music
 | New Star Soccer | 4.27 | 13, 12, 11 | ✅ | Keyboard not supported
 | osu!lazer | 2023.403.1 | 13 - 5 | ⚠️ | Runs with terrible performance, high latency, generally unplayable
 | PAC-MAN (Play Games) | 2023.08.46243 | 13 | 🆖 || Requires GMS, keyboard supported
+| PC Creator 2 - Computer Tycoon | 4.1.5 | 13 | ❌ | Mouse does not work with the tutorial, so it cannot be completed ||
 | Penguin Isle | 1.59.1 | 13 - 5 | ✅ | Great performance, but UI size breaks with weird resolutions.
 | Plants vs Zombies 2 | 10.9.1 | 13, 11 | ✅ | Cloud save using Google Play Games works if GMS is available
 | Pojav Launcher | dahlia-209 | 12 | ✅ | Performance was great with an i7-10700K and an RTX 3060 Ti, but will probably be worse on lower hardware.
