@@ -113,7 +113,7 @@ wsa://com.apple.android.music
 | Bromite | 94.0.4606.94 | 11 | ✅ || Use x64 build
 | CamScanner | 6.3.0.2110240000 | 11 | ❌ | WSA freezes after taking a snap
 | Canvas Student | 6.14.1 | 11 | ✅
-| Character.AI | 1.7.2 | 13 | ✅ | Sometimes, the text box for the prompt is broken when you resize the window. Restarting the app will restore the textbox.
+| Character.AI | 1.7.5 | 13 | ✅ | Sometimes, the text box for the prompt is broken when you resize the window. Restarting the app will restore the textbox.
 | ChMate | 0.8.10.153 | 11 | ✅
 | Clubhouse | 1.0.11 | 11 | ⚠️ | Unable to login via phone number, it throws an error after entering the OTP
 | Comixology | 3.10.18.310421 | 11 | ✅
@@ -123,6 +123,7 @@ wsa://com.apple.android.music
 | Cronometer | 3.13.1 | 11 | ✅
 | Cryptography | 1.24.0 | 12 | ✅
 | CX File Explorer | 2.0.0 | 13, 12 | ✅
+| Dantotsu | 2.0.0 | 13 | ✅ | To sign-in to the anilist integration, set the default browser to use a browser app in WSA (e.g. Firefox) since it opens the default brower on Windows. This also happens with links as well. | Hovering the mouse pointer, highlights the input element. Keyboard usage is supported on the Manga reader and Media Player.
 | Dcoder | 4.0.76 | 11 | ✅
 | Decibel X | 6.4.2 | 11 | ⚠️ | App crashes
 | Decrypto | 1.4.7 | 12 | ✅
@@ -153,12 +154,11 @@ wsa://com.apple.android.music
 | FDM (Free Download Manager) (Play Store) | 6.18.1.4896 | 13 | ✅ | The app crashed after the splash screen (after granting its needed permissions) on some versions of the subsystem (due to libhoudini). Works fine again as of WSA 2301.40000.7.0 | Tested on an Intel x86_64 CPU
 | Fennec F-Droid | 105.1.0 | 12 | ❌ | While the app is correctly installed, it crashes very often, and sites load very, very slowly compared to Firefox Nightly.
 | Files by Google | Unknown | 11 | ✅ || Works fine
-| Firefox | 119.0.1 (2015982999) | 13, 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
+| Firefox | 121.0 (2015991663) | 13, 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
 | Firefox Nightly | 95.0a1 | 11 | ✅
 | Firefox Focus | 106.1 | 12 | ✅
 | foobar2000 | 1.2.30 | 11 | ✅
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
-| FTP Server (Free) (F-Droid) | 3.1 - 30100 | 13, 12, 11 | ✅ | A network connection is required for the FTP service to initialize. Does not work with `Local network access` turned on in WSA Settings
 | FX File Explorer | 9.0.1.2 (r9012) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | GBoard | Unknown | 12, 11 | ⚠️ | Will not work as expected in newest WSA (2204.x)
@@ -222,7 +222,7 @@ wsa://com.apple.android.music
 | Kindle | 8.47.1.3370 | 11 | ✅
 | Kiwi Browser | 107.0.5304.74 | 13, 12 | ✅ |
 | Kobo Books | 8.40.29843 | 11 | ⚠️ | Aspect ratio and resolution are fixed, appears blurry when resized
-| Kotatsu | 6.2.6 | 13 | ✅ | | Keyboard navigation is supported
+| Kotatsu | 6.5.4 | 13 | ✅ | | Keyboard navigation is supported
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | Lawnchair | 12 Alpha 5 | 13, 12, 11 | ⚠️ | If you're running the Android 13 of the subsystem (2211.40000.11.0), if you launch any app from either the home screen or the app drawer, it crashes with an error: `java.lang.NoSuchMethodError: No virtual method setSplashscreen(I)V in class Landroid/app/ActivityOptions; or is superclasses (declaration of 'android.app.ActivityOption'...` | Works fine on Android 11 or 12 versions of the subsystem.
 | Lazada | 7.37.0 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appears too often if logging in. Weird scaling options (interface elements are too large) | Keep it in portrait for the app to be usable.
@@ -257,17 +257,17 @@ wsa://com.apple.android.music
 | Monogolf | 3.4.10 | 13 | ✅ | 
 | Monument Browser | 1.0.333 | 12 | ✅
 | Moodle | 3.9.5 | 11 | ✅ 
-| MPV | 2022-07-30-release | 12 | ✅ || Keyboard navigation supported in the media player
+| MPV | 2023-11-30-release | 13, 12 | ✅ | Picture in Picture doesn't work | Keyboard navigation supported in the media player
 | MT File Manager | 2.10.0 | 11 | ✅
 | Musically (TikTok) | 7.8.0 | 11 | ✅
 | Muslim Pro | 1.2.3 | 11 | 🆖 | Requires GMS
 | MX Player | 1.40.9 | 11 | ✅
 | MX Player Pro | 1.39.13 | 11 | ⚠️ | App crashes, but videos can be played from external sources
-| myPLDT Smart | 2.0.1 | 13 | ✅ | Requires GMS only logging in using Google account. You can try logging in with e-mail instead. | Sideloaded installation
+| myPLDT Smart | 2.0.1 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | Sideloaded installation
 | MyPostNord (Norway) | 3.12 | 12 | ✅ 
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to the correct orientation in a second.
-| NClientV2 (Release)| 3.0.2 | 13 | ✅ | Keyboard navigation is unsupported when reading. | You can try enabling `Disguise app in drawer` but it doesn't work in the Windows start menu, but works with an installed launcher like Lawnchair or Rootless Pixel Launcher.
-| Neko | 2.14.0 | 13, 12, 11 | ✅
+| NClientV2 (Release)| 3.0.5 | 13 | ✅ | Keyboard navigation is unsupported when reading. | You can try enabling `Disguise app in drawer` but it doesn't work in the Windows start menu, but works with an installed launcher like Lawnchair or Rootless Pixel Launcher.
+| Neko | 2.14.2 | 13, 12, 11 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
 | Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
@@ -363,13 +363,14 @@ wsa://com.apple.android.music
 | Steam Chat | 1.0 | 11 | ✅
 | Steam Link | 1.1.81 | 11 | ❌ | App crashes
 | Stocard | 10.12.1 | 12 | ✅ || To log in to an earlier Stocard account that is set to use Google login, it needs to be transitioned from a Google-based account to an E-mail-based account, which has to be done on a phone.
+| SwiFTP FTP Server (Free) (F-Droid) | 3.1 - 30100 | 13, 12, 11 | ✅ | A network connection is required for the FTP service to initialize. Does not work with `Local network access` turned on in WSA Settings
 | SwiFTP Server | 1.24 | 11 | ✅
 | Symbolab | 9.3.0 | 11 | ✅ || Keyboard not working, in-app keyboard is available though
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
-| Tachiyomi (Preview) | 0.14.7-6191 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
-| Tachiyomi (Stable) | 0.14.7 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
-| TachiyomiAZ | 8.7.4-AZ | 13, 12, 11 | ✅
-| TachiyomiJ2K/TachiJ2K | 1.7.1 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself.
+| Tachiyomi (Preview) | 0.14.7-6355 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
+| Tachiyomi (Stable) | 0.14.7 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Hovering the mouse pointer, highlights the input element. Some of the notifications will be missing due to the Windows Action Center limit of 20.
+| TachiyomiAZ | 8.7.5-AZ | 13, 12, 11 | ✅
+| TachiyomiJ2K/TachiJ2K | 1.7.3 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself when you have multiple Tachiyomi forks are installed.
 | TachiyomiSY | 1.9.4 | 13, 12, 11 | ✅
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
 | TeamViewer | 15.22.136 | 11 | ✅
@@ -425,6 +426,7 @@ wsa://com.apple.android.music
 | Yahoo! Fantasy Sports | 10.31.0 | 11 | ❌ | App crashes on launch
 | Yandex.Maps | 10.6.0 | 11 | ⚠️ | Map doesn't work
 | Ymusic | 3.7.2 | 11 | ✅
+| Yodayo | 1.4.2 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
 | YouTube (Google)| 16.40.35 | 11 | 🆖 | Requires GMS
 | YouTube Music (Google) | 5.07.50 | 11 | 🆖 | Requires GMS
 | YouTube Music Vanced | 43.9.50 | 11 | ✅
