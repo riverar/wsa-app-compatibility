@@ -165,6 +165,7 @@ wsa://com.apple.android.music
 | GCash | 5.62.0 | 13, 12, 11 | 🆖 | Requires GMS. Will warn "limited functionality" if no GMS is present, if present, works normally. When it is launched for the first time, it will crash due to lack of permissions granted on previous versions (5.61.0 and below). Starting with 5.62.0, an alert pops up `We have detected that you are running the GCash app on emulator. You will not be able to proceed.` 
 | Geekbench | 5.4.1 | 11 | ✅
 | GeoGebra | 5.0.674.0 | 11 | ✅
+| GitHub | 1.146.0 | 13 | ✅ | Opening any web links in the using the "Windows default app" doesn't work (including the sign-in). | Set a default browser app first (like Chrome) if you want to use external links within the app
 | Globe2Go | 4.7.4.20.0810/3890 | 11 | ✅
 | GlobeOne | 1.8.37 | 12 | ✅ || May require GMS (otherwise use other login methods available in the app)
 | Gmail | 2022.05.01.440951655.Release | 11 | ✅ || May require GMS
@@ -244,15 +245,15 @@ wsa://com.apple.android.music
 | Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
 | Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | 11 | ✅
 | Microsoft Bing - Search & earn | 23.5.401109307 | 12 | ✅
-| Microsoft Edge | 95.0.1020.42 | 11 | ❌ | App frequently crashes
+| Microsoft Edge | 120.0.2210.157 | 13,11 | ❌ | Always stuck in Microsoft Edge First Run Experience and a few seconds later, crashes out
 | Microsoft Edge Canary | 103.0.1264.1 | 11 | ❌ || Fails to load websites
 | Microsoft Launcher | 6.230703.0.1122680 | 13, 11 | ✅ | Can't set wallpaper
 | Microsoft PowerApps | 3.21124.20 | 11 | ✅
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
-| Mihon (Preview) | 0.16.0-6442 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
-| Mihon (Stable) | 0.16.0 | 13 | ✅ |Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
+| Mihon (Beta) | 0.16.3-6499 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
+| Mihon (Stable) | 0.16.3 | 13 | ✅ |Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
 | MOLA | 2.1.3 | 11 | ❌ | App crashes
@@ -372,8 +373,8 @@ wsa://com.apple.android.music
 | Tachiyomi (Preview) | 0.15.3-6421 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
 | Tachiyomi (Stable) | 0.15.3 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Hovering the mouse pointer, highlights the input element. Some of the notifications will be missing due to the Windows Action Center limit of 20.
 | TachiyomiAZ | 8.8.0-AZ | 13, 12, 11 | ✅
-| TachiyomiJ2K/TachiJ2K | 1.7.3 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself when you have multiple Tachiyomi forks are installed.
-| TachiyomiSY | 1.10.1 | 13, 12, 11 | ✅
+| TachiyomiJ2K/TachiJ2K | 1.7.4 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself when you have multiple Tachiyomi forks are installed.
+| TachiyomiSY | 1.10.2 | 13, 12, 11 | ✅
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
 | TeamViewer | 15.22.136 | 11 | ✅
 | Telegram | 8.1.2 | 11 | ✅
