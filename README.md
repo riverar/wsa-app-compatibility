@@ -463,6 +463,7 @@ wsa://com.apple.android.music
 | 8 ball pool | 5.5.6 | 11 | ✅ |
 | A Dance of Fire and Ice | 1.15.5 | 11 | ✅ || Keyboard supported
 | AFK Arena | 1.72.01 | 11 | ⚠️ | Can't login using Google account
+| AirTycoon Online 3 | 1.3.0 | 13 | ⚠️ | You need touchscreen for making the flight routes (using a tablet with spacedesk works just fine and is easy to set up)
 | Alan Walker-The Aviation Game | 3.0.6 | 11 | ✅ || Touchscreen and cursor works; keyboard doesn't work
 | Alien: Blackout | 2.0 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
 | Alto's Adventure | 1.8.15 | 13, 11 | ✅
@@ -477,6 +478,7 @@ wsa://com.apple.android.music
 | Arknights (CN Server) | 1.9.21 | 12 | ✅
 | Asphalt 8 | 6.3.1a | 12 | ✅ | Keyboard supported in latest version (2206)
 | Asphalt 9 || 11 | ⚠️ | Keyboard unsupported
+| Avakin Life || 13 | ⚠️ | Low FPS with iGPUs
 | Azur Lane | 6.1.2 | 12, 11 | ⚠️ | Sometimes stuck on downloading resources, can be fixed by restarting the app. Overall gameplay, got stable FPS using NVIDIA GeForce GTX 1050 Ti Mobile
 | Bad Piggies HD | 2.4.3141 | 11 | ✅
 | BanG Dream! Girls Band Party! | 4.5.0 | 11 | 🆖 | Requires GMS
@@ -486,7 +488,7 @@ wsa://com.apple.android.music
 | Blue Archive (ブルーアーカイブ; JP) | 1.35.231115 | 13 | ✅ | Installing the HEVC video extension (9NMZLZ57R3T7 or 9N4WGH0Z6VHQ) will work properly. If not installed, it will be stuck in black screen.
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
 | Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with Nvidia graphics
-| Brawl Stars | 38.159 | 11 | ❌ | Game crashes
+| Brawl Stars | 38.159 | 11,13 | ❌ | Game crashes
 | C.A.T.S (Crash Arena Turbo Stars) | 2.40.2 | 11 | ✅ | GMS warnings might appear but these can be safely ignored
 | Candy Crush Saga | 1.213.2.1 (12132011) | 11 | ✅
 | CarX Highway Racing | 1.17.1 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
