@@ -272,7 +272,7 @@ wsa://com.apple.android.music
 | MyPostNord (Norway) | 3.12 | 12 | ✅ 
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to the correct orientation in a second.
 | NClientV2 (Release)| 3.0.5 | 13 | ✅ | Keyboard navigation is unsupported when reading. | You can try enabling `Disguise app in drawer` but it doesn't work in the Windows start menu, but works with an installed launcher like Lawnchair or Rootless Pixel Launcher.
-| Neko | 2.14.2 | 13, 12, 11 | ✅
+| Neko | 2.16.0 | 13, 12, 11 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
 | Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
