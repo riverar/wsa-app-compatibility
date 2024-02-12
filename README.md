@@ -111,6 +111,7 @@ wsa://com.apple.android.music
 | Brave Browser | 1.30.87 | 11 | ✅
 | BritBox by BBC & ITV | 2.1.2 (20043) | 11 | ❌ | App crashes on start
 | Bromite | 94.0.4606.94 | 11 | ✅ || Use x64 build
+| Camera | 2.0.002 | 13 | ⚠️ | While taking pictures or video works fine but changing the camera (to an inactive virtual camera) freezes the app. | Included in the subsystem
 | CamScanner | 6.3.0.2110240000 | 11 | ❌ | WSA freezes after taking a snap
 | Canvas Student | 6.14.1 | 11 | ✅
 | Character.AI | 1.7.5 | 13 | ✅ | Sometimes, the text box for the prompt is broken when you resize the window. Restarting the app will restore the textbox.
@@ -236,6 +237,7 @@ wsa://com.apple.android.music
 | LSPosed | 1.8.6 | 13, 11 | ✅
 | Magisk | 25.2 | 13, 11 | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131)
 | ManCityApp | 2.1.11 | 11 | 🆖 || Might require GMS
+| MangaYomi | 0.1.65 | 13 | ✅ | Doesn't support keyboard (media) controls on the media player | Manga reader supports keyboard navigation
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
 | Material Files | 1.5.2 | 12, 11 | ✅
 | Maya (Paymaya) | 2.85.1 | 13 | ❌ | App crashes immediately upon launching the app 
@@ -252,7 +254,7 @@ wsa://com.apple.android.music
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
-| Mihon (Beta) | 0.16.3-6499 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
+| Mihon (Beta) | 0.16.3-6501 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
 | Mihon (Stable) | 0.16.3 | 13 | ✅ |Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
@@ -270,7 +272,7 @@ wsa://com.apple.android.music
 | MyPostNord (Norway) | 3.12 | 12 | ✅ 
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to the correct orientation in a second.
 | NClientV2 (Release)| 3.0.5 | 13 | ✅ | Keyboard navigation is unsupported when reading. | You can try enabling `Disguise app in drawer` but it doesn't work in the Windows start menu, but works with an installed launcher like Lawnchair or Rootless Pixel Launcher.
-| Neko | 2.14.2 | 13, 12, 11 | ✅
+| Neko | 2.16.0 | 13, 12, 11 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
 | Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
@@ -287,6 +289,7 @@ wsa://com.apple.android.music
 | Office Lens | 16.0.14527.20178 | 11 | ❌ | Might require GMS, cannot sign in
 | Okay? | 4.08 | 11 | ✅
 | One Store | 7.6.0 | 11 | ✅
+| Open Camera (F-droid) | 1.52 | 13 | ❌ | Crashes upon launching the app
 | Opera Browser Beta | 65.1.3381.61349 (x86_64) | 11 | ✅ || Change app layout to Tablet Mode for a better experience
 | Opera GX : Gaming Browser | 1.3.6 | 11 | ✅
 | Opera Mini Beta | 61.0.2254.59921 | 11 | 🆖 | Requires GMS
@@ -319,6 +322,8 @@ wsa://com.apple.android.music
 | Pydroid | 5.00_x86_64 | 11 | ✅
 | Q-Dance | 8.0.7 | 11 | ❌ | App crashes
 | QooApp | 8.3.35 | 13, 11 | ✅ | QooApp Servant may not work due to WSA's windowed nature
+| QR & Barcode Scanner (F-droid) | 1.10 | 13 | ⚠️ | Errors out with a `Unable to access camera` even using a built-in laptop camera | You can still generate QR codes for URLs and other stuff
+| QR Scanner (F-droid) | 4.5.8 | 13 | ✅ | Does not work with a virtual camera | It can scan and generate QR codes
 | QPython 3L | 3.0.0 | 11 | ✅
 | QQ | 8.9.28 | 13, 12 | ❌ | App crashes
 | QuickNovel | 3.1.4 | 13 | ✅
@@ -341,7 +346,7 @@ wsa://com.apple.android.music
 | Shazam | 13.19.0-230223 | 13, 12 | ✅ | Shazam on pop-up doesn't work | Requires microphone for song identification
 | Shein | 9.9.4 | 13 | ✅ || Keep it in portrait to be usable
 | ShemarooMe | 1.0.16 (106) | 11 | ✅
-| Shizuku (Play Store) | 13.5.2.r1028.2bbf671 | 13, 12, 11 | ✅ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on). | The service also works with root (Tested with Magisk)
+| Shizuku (Play Store) | 13.5.3.r1036.fff3f87 | 13, 12, 11 | ✅ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on). | The service also works with root (Tested with Magisk)
 | Shopee (PH) | 3.12.16 | 13, 11 | ✅ | Google login requires GMS installed (use Email or Facebook login as alternatives). Banner information is stretched horizontally 
 | Shosetsu | 2.4.4 | 13, 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
 | Showtime | 3.1.1 | 11 | ❌ | App crashes when you try to login. Button clicks don't work
@@ -380,7 +385,7 @@ wsa://com.apple.android.music
 | Telegram | 8.1.2 | 11 | ✅
 | Televizo | 1.9.0.1 | 11 | ❌ | Crashes on video playback
 | Terminal Emulator for Android | 1.0.70-rebuild | 12 | ✅ | A warning shows up about the app being designed for older Android versions, but can be dismissed
-| Termux (F-droid) | 0.118.0 | 12, 11 |✅
+| Termux (F-droid) | 0.118.0 | 13, 12, 11 |✅
 | Tesla | 4.6.1 | 11 | ⚠️ | Vehicle graphics and maps do not load, cannot enable phone key. | Internet-based vehicle controls, charge stats, services are functional.
 | The Globe and Mail | 6.2.0 (100) | 11 | ✅
 | TIDAL | 2.49.0 | 11 | ✅
@@ -430,6 +435,7 @@ wsa://com.apple.android.music
 | Yandex.Maps | 10.6.0 | 11 | ⚠️ | Map doesn't work
 | Ymusic | 3.7.2 | 11 | ✅
 | Yodayo | 1.4.2 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
+| Yokai | 1.7.12 | 13 | ✅
 | YouTube (Google)| 16.40.35 | 11 | 🆖 | Requires GMS
 | YouTube Music (Google) | 5.07.50 | 11 | 🆖 | Requires GMS
 | YouTube Music Vanced | 43.9.50 | 11 | ✅
