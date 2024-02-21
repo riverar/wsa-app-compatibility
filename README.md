@@ -400,7 +400,7 @@ wsa://com.apple.android.music
 | Tune In Pro | 28.7 (267721) | 11 | ✅
 | Twitter | 9.16.1-release.00 | 11 | ✅ | Optionally requires GMS
 | Twitter Lite | 3.1.1 | 12 | ✅ ||
-| UC Browser | 13.0.0.1288 (x86) | 11 | ✅ || Avoid updating the app
+| UC Browser | 13.0.0.1288 (x86) | 11 | ✅ | Avoid updating the app
 | Uptodown App Store | 4.35 | 11 | ⚠️ | Keeps "analyzing device" on app details page, thus it's unable to download APKs.
 | Vanced Manager | 2.6.2 (Crimson) | 11 | ✅
 | Vanced MicroG | 0.2.22.212658 | 11 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account
