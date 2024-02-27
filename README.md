@@ -629,6 +629,6 @@ wsa://com.apple.android.music
 | 崩坏学园2 (Honkai Gakuen 2) | 8.5 | 11 | ✅ || Game has inbox keyboard controller for WASD
 | 東方LostWord (Touhou: Lost Word) | 1.16.0 | 11 | ❌
 | 战双帕弥什 (Punishing: Gray Raven) || 11 | ✅ || Keyboard is supported
-| プロジェクトセカイ カラフルステージ！ feat. 初音ミク (Project Sekai Colorful Stage JP) | 1.3.2 | 12, 11 | ❌ | App either crashes when loading into game after login or app screen turns dark
+| プロジェクトセカイ カラフルステージ！ feat. 初音ミク (Project Sekai Colorful Stage JP) | 3.3.1.Luna | 13, 12, 11 | ⚠️ | Works well, sometimes FPS spikes when a lot of notes appear | Requires a linked account with progress in it to be able to skip the tutorial(on start screen click the 3 lines on the top right for account settings), if not, the game crashes or freezes on a blackscreen. Multi-Touch Display required. Starting a LIVE takes a while on slower machines.
 | 世界計畫 繽紛舞台! feat. 初音未來 (Project Sekai Colorful Stage TW) | 2.3.1.10995 | 13, 12 | ❌ | App hangs when loading LIVE or crashes. Performance issues such as FPS spikes, freezing, etc. Broken textures and animations.
 | Subtransit Drive | 1.0.7.2 | 11 | ❌ | Crashes at startup because Vulkan or OpenGL ES 3.1 is required
