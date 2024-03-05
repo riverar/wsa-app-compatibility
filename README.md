@@ -495,7 +495,7 @@ wsa://com.apple.android.music
 | Beat the Boss 4 | 1.7.7 | 13 | ✅
 | Blue Archive (GB) | 1.53.225706 | 13 | 🆖 | Tested with GMS / Google login, stable framerate on High settings using NVIDIA GeForce GTX 1650.
 | Blue Archive (ブルーアーカイブ; JP) | 1.35.231115 | 13 | ✅ | Installing the HEVC video extension (9NMZLZ57R3T7 or 9N4WGH0Z6VHQ) will work properly. If not installed, it will be stuck in black screen.
-| Blue Archive (Global) | 1.60.260228 | 13 | ❌ | The app crashes with no context loaded in few seconds | Installed via `apk` command
+| Blue Archive (Global) | 1.60.260228 | 13 | ❌ | The app crashes with no context loaded in few seconds | Installed via `adb` command
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
 | Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with Nvidia graphics
 | Brawl Stars | 38.159 | 11,13 | ❌ | Game crashes
