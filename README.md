@@ -314,7 +314,7 @@ wsa://com.apple.android.music
 | Plex Dash | 1.1.1 | 11 | ❌ | App crashes after splash screen
 | Plexamp | 3.8.2 | 11 | ⚠️ | Layout and app orientation issues
 | Pocket | 7.56.0.0 | 11 | ⚠️ | Unable to log in with a Firefox account, instant (push) syncing is unavailable
-| Pokémon Home | 3.1.2 | 13 | ✅/🆖 | | Depending where the plain subscribed, it may requires GMS support if subscribed via Google Play
+| Pokémon Home | 3.1.2 | 13 | ✅/🆖 | | Depending where the plan subscribed, it may requires GMS support if subscribed via Google Play
 | Polar Flow | 6.12.0 | 12 | ✅ | Not able to sync via Bluetooth since WSA doesn't support it. | Syncing via web and interaction is otherwise fine.
 | PornHub || 11 | ✅
 | Posten (Norway) | 5.16.4 | 12 | ❌ | If installed through the APKPure app, it crashes after the splash screen. If trying to install a locally downloaded XAPK over ADB that simply had its file extension changed to `.apk`, the error message `Failure [INSTALL_PARSE_FAILED_UNEXPECTED_EXCEPTION: Failed to parse /data/app/vmdl1025447652.tmp/base.apk: AndroidManifest.xml]` shows up.
