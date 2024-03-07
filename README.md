@@ -32,7 +32,7 @@ This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://u
 | Bluetooth | ❌ ([GitHub issue](https://github.com/microsoft/WSA/issues/103))
 | IPv6 | ✅ | Loading `ipv6.google.com` in Fennec F-Droid on a PC with IPv6 access, works well
 | Fingerprint Reader | ❌ | Test failed on ROG Flow X13, with SATRIA app
-| VPN | ❌ | VPN Connection request dialog does not appear
+| VPN | ❌⚠️ | VPN Connection request dialog does not appear (but some vpns can work, Tunnelbear is one of them...)
 | OpenGL ES 3.1 | ❌
 | Vulkan | ✅ | Added as experimental feature in [2307.40000.2.0](https://github.com/microsoft/WSA/discussions/374)
 
