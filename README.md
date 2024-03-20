@@ -307,17 +307,20 @@ wsa://com.apple.android.music
 | PalawanPay | 1.0.400396 | 13 | ✅ | The app works but WSA's developer options should be disabled prior to opening the app as the app will lock you out if it detects it was turned on
 | Phigros || 11 | ✅
 | Philips Hue | 4.29.0 | 12 | ✅
+| Photomath | 8.22.0 | 13 | ✅ || Installed via `adb` command
 | Pixel People | 4.7 | 11 | ✅ | Changing window size breaks the game. Runs at low FPS but is still playable.
 | Playstation App | 21.11.2 | 11 | ⚠️ | Runs very slow and takes some time to connect to voice chat, beside that it works  
 | Plex | 8.26.2.29389 | 11 | ✅
 | Plex Dash | 1.1.1 | 11 | ❌ | App crashes after splash screen
 | Plexamp | 3.8.2 | 11 | ⚠️ | Layout and app orientation issues
 | Pocket | 7.56.0.0 | 11 | ⚠️ | Unable to log in with a Firefox account, instant (push) syncing is unavailable
+| Pokémon Home | 3.1.2 | 13 | ✅/🆖 | | Depending where the plan subscribed, it may requires GMS support if subscribed via Google Play
 | Polar Flow | 6.12.0 | 12 | ✅ | Not able to sync via Bluetooth since WSA doesn't support it. | Syncing via web and interaction is otherwise fine.
 | PornHub || 11 | ✅
 | Posten (Norway) | 5.16.4 | 12 | ❌ | If installed through the APKPure app, it crashes after the splash screen. If trying to install a locally downloaded XAPK over ADB that simply had its file extension changed to `.apk`, the error message `Failure [INSTALL_PARSE_FAILED_UNEXPECTED_EXCEPTION: Failed to parse /data/app/vmdl1025447652.tmp/base.apk: AndroidManifest.xml]` shows up.
 | PostNord | 8.22.2 | 12 | ⚠️ | On the "Verify mobile number" page, keyboard key presses are not recognised, making it impossible to verify phone numbers.
 | PowerPoint | 16.0.14527.20162 | 11 | ✅ | Might require GMS / MicroG
+| P R O T O | 1.27.0 | 13 | ⚠️ | Zoom in circuit simulation will be reset when resizing window
 | Prep Ladder | 2.0.79-p | 11 | ⚠️ | Video pane opens but no audio or video and time keeps on going
 | Pydroid | 5.00_x86_64 | 11 | ✅
 | Q-Dance | 8.0.7 | 11 | ❌ | App crashes
@@ -492,6 +495,7 @@ wsa://com.apple.android.music
 | Beat the Boss 4 | 1.7.7 | 13 | ✅
 | Blue Archive (GB) | 1.53.225706 | 13 | 🆖 | Tested with GMS / Google login, stable framerate on High settings using NVIDIA GeForce GTX 1650.
 | Blue Archive (ブルーアーカイブ; JP) | 1.35.231115 | 13 | ✅ | Installing the HEVC video extension (9NMZLZ57R3T7 or 9N4WGH0Z6VHQ) will work properly. If not installed, it will be stuck in black screen.
+| Blue Archive (Global) | 1.60.260228 | 13 | ❌ | The app crashes with no context loaded in few seconds | Installed via `adb` command
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
 | Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with Nvidia graphics
 | Brawl Stars | 38.159 | 11,13 | ❌ | Game crashes
@@ -613,6 +617,7 @@ wsa://com.apple.android.music
 | Uma Musume: Pretty Derby (ウマ娘 プリティーダービー; JP) | 1.16.0 | 11 | ⚠️ | Doesn't work with Nvidia GeForce GTX 1660. Works with Microsoft Basic Render Driver with graphical issues. | Some features may require GMS.
 | Uma Musume: Pretty Derby (ウマ娘 プリティーダービー; JP) | 1.20.0 | 12 | ❌ | Only touch effect works after displaying the developer logo
 | Uma Musume: Pretty Derby (Korean) | 1.0.1 | 12 | ❌ | Only touch effect works after displaying the developer logo
+| Uma Musume: Pretty Derby (賽馬娘Pretty Derby; TW/HK/MO) | 1.26.8 | 13 | ❌ | Only touch effect works after displaying the developer logo
 | War Robots | 7.7.7 (134783) | 11 | ✅ | GMS warnings might appear but these can be safely ignored
 | Warfare Incorporated | 1.63 | 11 | ✅ | The selection box does not work.
 | Where is my Water? || 11 | ⚠️ | Many images are replaced with white rectangles
