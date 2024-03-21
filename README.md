@@ -523,6 +523,8 @@ wsa://com.apple.android.music
 | Flappy Bird | 1.3 | 13 | ⚠️ | Crashes sometimes after 20 points if there's no internet for Google Play Games to be loaded on game startup, which indicates that this game might require GMS | Sideloaded
 | Fortnite | 14.10.0 | 11 | ❌ | Crashes at login screen
 | Fortnite Installer | 4.1.4 | 11 | ❌ | "Device not supported" error
+| Fractal Space | 2.640 | 13-5 | ✅ || No keyboard support. Works fine on controller
+| Fractal Space HD | 2.640 | 13-5 | ❌ || Crash on startup, borked
 | Fruit Ninja | 3.3.4 | 11 | ✅ | Version check error | Otherwise, other app functionality is fine
 | Game Dev Story | 2.47 | 11 | ❌ | App can start but with infinite "loading" screen
 | Garage: Bad Dream Adventure | 1.0.191 | 11 | ⚠️ | Stuck after start of Chapter 1
