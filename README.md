@@ -219,6 +219,7 @@ wsa://com.apple.android.music
 | Kahoot || 11 | ✅
 | Katakana Pro | 1.4.4 | 12 | ✅
 | KawaiiNihongo | 3.10.9 | 12 | ✅
+| KDE Connect | 1.29.0 | 13-7 | ❌ | Does not see any device on discover besides host computer, cannot connect to an external phone or computer |
 | KernelSU | v0.7.0 | 13 | ✅ || Download this manager app after installing KernelSU root
 | Khan Academy | 7.3.3 | 11 | ✅
 | Kik | 7.10.1.176 (82) | 11 | ✅
