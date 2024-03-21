@@ -584,7 +584,7 @@ wsa://com.apple.android.music
 | Ragnarok M: Eternal Love EU | 1.0.70 | 11 | ✅
 | Rayman Adventures | 3.9.95 ARMv7 | 12 | ✅ | Gameplay speed is tied to framerate, and even an Nvidia 1050 Ti occasionally gets slowdowns in the ARM version. | The game works well without major problems. The x86_64 version was discontinued after 3.9.0 and is no longer able to download game assets on first launch. Xbox Series controller works both with Bluetooth and USB, but only during levels.
 | Rayman Classic | 1.0.1 | 11 | ✅
-| Real Racing 3 | 10.1.0 | 12, 11 | ✅ | Only controller is supported. Keyboard doesn't work
+| Real Racing 3 | 10.1.0 | 12, 11 | ✅ | Only controller is supported. Map keyboard controls to a controller via [Key2Joy](https://github.com/luttje/Key2Joy), use [this](https://github.com/ios7jbpro/WSAKey2Joy/blob/main/RR3.k2j.json) pre-made config. [Demo](https://youtu.be/Bw4iAUDl2cQ).
 | RFS - Real Flight Simulator | 1.6.1 | 12.1 | ⚠️ | Does not work with keyboard | Works only by connecting a controller or on PCs with touch
 | Roblox | 2.499.381 | 11 | ⚠️ | Graphical anomalies | GMS warnings might appear but these can be safely ignored
 | Rocket League Sideswipe | 1.0 (356721) | 11 | ❌ | OpenGL ES 3.1 is unsupported
