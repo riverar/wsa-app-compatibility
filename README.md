@@ -90,7 +90,7 @@ wsa://com.apple.android.music
 | AntennaPod | 2.5.0 | 11 | ✅
 | APKMirror Installer (Beta) | 1.3.2 | 11 | ⚠️ | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes
 | APKPure | 3.17.26 | 11 | ✅ | Sometimes, it might require multiple attempts to install an app
-| Apple Music | 3.7.1 | 11 | ✅
+| Apple Music | 3.7.1 | 11 | ✅ | To achieve Hi-Res Lossless, turn off WSA, open settings>sound>more sound settings>pick your device>properties>advanced and set format as 24-bit 192000 Hz (Studio Quality), then start WSA
 | App分享 (AppShare) | 2.1.1 (164) | 11 | ❌ | Can't login
 | Aptoide App Store | 9.20.2.1 | 11 | ✅ | Sometimes, downloads might get stuck
 | AquaMail (Pro) | 1.34.0-118 | 11 | ✅
