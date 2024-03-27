@@ -487,7 +487,7 @@ wsa://com.apple.android.music
 | Arknights | 18.9.81 | 13 | ✅ | Stable FPS throughout the game using NVIDIA GeForce GTX 1650, AMD GPU untested.
 | Arknights (明日方舟; Simplified Chinese) | 1.6.01 | 11 | ✅
 | Arknights (CN Server) | 1.9.21 | 12 | ✅
-| Asphalt 8 | 6.3.1a | 12 | ✅ | Keyboard supported in latest version (2206)
+| Asphalt 8 | 7.6.0i| 12, 13 | ✅ | Keyboard supported in latest version (2311.40000.5.0) but requires GMS for game progress syncing thru Google Account. Account progress syncing works using a WSA install with GMS and a Google account.
 | Asphalt 9 || 11 | ⚠️ | Keyboard unsupported
 | Avakin Life || 13 | ⚠️ | Low FPS with iGPUs
 | Azur Lane | 6.1.2 | 12, 11 | ⚠️ | Sometimes stuck on downloading resources, can be fixed by restarting the app. Overall gameplay, got stable FPS using NVIDIA GeForce GTX 1050 Ti Mobile
