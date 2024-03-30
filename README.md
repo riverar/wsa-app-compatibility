@@ -181,6 +181,7 @@ wsa://com.apple.android.music
 | Google Home | 3.14.1.5 | 13 | 🆖 | Requires GMS. | Tested on a WSA install with GMS. Bluetooth permissions can be easily bypassed by closing and opening the app again.
 | Google Keep Notes | 5.24.092.02.90 | 13 | 🆖 | Requires GMS | Tested inside WSA with GMS. The app works properly, including notes, and account syncing, and responds accordingly to app window sizing including its landscape mode.
 | Google Meet | 233.0.611229457.duo.android_20240218.16_p2 | 11, 13 | 🆖 | Requires GMS.| Tested with an NVIDIA RTX 4060 Laptop GPU. The share screen doesn't work due to WSA's windowed nature. Camera effects apart from lighting cannot be enabled and instead display "Something went wrong and the effect can't be started" 
+| Google Messages | messages.android_20240312_00_RC02.phone_dynamic | 13 | 🆖 | Requires GMS.| Tested under WSA with GMS installed. Phone pairing works, along with RCS messaging to phone contacts. Responsive design by resizing also works, albeit it can be quite finnicky. Syncing also works, provided a Google account is present.|
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
 | Google Play Games | 2023.08.46243 | 13 | 🆖 | Requires GMS
 | Google Play Store | 37.4.24-29 [0] [PR] 56388002 | 13 | 🆖 | Requires GMS. If you're changing languages a lot in the app, there's a prompt to restart the app to complete the update. Wait for a few seconds, then tap/click restart to proceed (sometimes works, sometimes not). | Play Protect certification status will be `Device is uncertified`
