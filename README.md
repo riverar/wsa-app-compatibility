@@ -181,6 +181,7 @@ wsa://com.apple.android.music
 | Google Home | 3.14.1.5 | 13 | 🆖 | Requires GMS. | Tested on a WSA install with GMS. Bluetooth permissions can be easily bypassed by closing and opening the app again.
 | Google Keep Notes | 5.24.092.02.90 | 13 | 🆖 | Requires GMS | Tested inside WSA with GMS. The app works properly, including notes, and account syncing, and responds accordingly to app window sizing including its landscape mode.
 | Google Meet | 233.0.611229457.duo.android_20240218.16_p2 | 11, 13 | 🆖 | Requires GMS.| Tested with an NVIDIA RTX 4060 Laptop GPU. The share screen doesn't work due to WSA's windowed nature. Camera effects apart from lighting cannot be enabled and instead display "Something went wrong and the effect can't be started" 
+| Google Messages | messages.android_20240312_00_RC02.phone_dynamic | 13 | 🆖 | Requires GMS.| Tested under WSA with GMS installed. Phone pairing works, along with RCS messaging to phone contacts. Responsive design by resizing also works, albeit it can be quite finnicky. Syncing also works, provided a Google account is present.|
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
 | Google Play Games | 2023.08.46243 | 13 | 🆖 | Requires GMS
 | Google Play Store | 37.4.24-29 [0] [PR] 56388002 | 13 | 🆖 | Requires GMS. If you're changing languages a lot in the app, there's a prompt to restart the app to complete the update. Wait for a few seconds, then tap/click restart to proceed (sometimes works, sometimes not). | Play Protect certification status will be `Device is uncertified`
@@ -487,7 +488,7 @@ wsa://com.apple.android.music
 | Arknights | 18.9.81 | 13 | ✅ | Stable FPS throughout the game using NVIDIA GeForce GTX 1650, AMD GPU untested.
 | Arknights (明日方舟; Simplified Chinese) | 1.6.01 | 11 | ✅
 | Arknights (CN Server) | 1.9.21 | 12 | ✅
-| Asphalt 8 | 6.3.1a | 12 | ✅ | Keyboard supported in latest version (2206)
+| Asphalt 8 | 7.6.0i| 12, 13 | ✅ | Keyboard supported in latest version (2311.40000.5.0) but requires GMS for game progress syncing thru Google Account. Account progress syncing works using a WSA install with GMS and a Google account.
 | Asphalt 9 || 11 | ⚠️ | Keyboard unsupported
 | Avakin Life || 13 | ⚠️ | Low FPS with iGPUs
 | Azur Lane | 6.1.2 | 12, 11 | ⚠️ | Sometimes stuck on downloading resources, can be fixed by restarting the app. Overall gameplay, got stable FPS using NVIDIA GeForce GTX 1050 Ti Mobile
