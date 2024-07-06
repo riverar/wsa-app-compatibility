@@ -140,7 +140,7 @@ wsa://com.apple.android.music
 | DuckDuckGo Privacy Browser+ | 5.142.2 | 12 | ✅
 | Easybell | 2.1.30 | 11 | ✅
 | EDS Lite | 2.0.0.237 | 12 | ✅ || Tested on an Intel x86-64 CPU (may work on AMD64 or ARM64). Recommended to add the exFAT module if you have a container that uses this filesystem.
-| eGovPH | 2.2.0 | 13 | ⚠️ | Tested on a WSA build with GMS installed and no root/Magisk. ([WSABuilds non-LTS, no Magisk/root installed, 2311.40000.5.0](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0)) It is also recommended to temporarily disable developer settings before starting the app, even if this version (2.2.0) works with developer settings enabled. With Magisk/root installed, it would alert "This device is jailbroken, you cannot continue". If no GMS services are present, it will tell you "This device is not supported for required Google Play Services".  The app doesn't start properly if you didn't grant the permissions beforehand in Android settings. For eReport, the app can't progress beyond the Current Location permission prompt as clicking the "Enable Location" doesn't do anything (even with the location permission granted for WSA in Windows); the workaround is to access it via the Suggested eGovPH Services part (found on the Home tab), however, it is stuck in report details as it still checks for the location permission. eKYC verification is problematic as the built-in laptop camera is wonky with eGovPH's image handling, affecting the verification process (this also applies if you're registering an account from the same device for its face verification). Some pages display no content (notably FAQs and application details in some cases) |  Basic features work such as navigating through the app features/pages. The PhilSys Digital ID page works as well and can recognize it in the verification site from another device. Recommended to use an up-to-date version of Android System WebView since the app mostly relies on it.
+| eGovPH | 2.2.0 | 13 | ⚠️ | Tested on 3 WSA builds, stock WSA, with GMS installed and no root/Magisk/KernelSU, and with GMS-Magisk/KernelSU installed ([WSABuilds non-LTS, no Magisk/root installed, 2311.40000.5.0](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0)), ([WSABuilds LTS, with GMS, KernelSU/Magisk installed, 2311.40000.5.0](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0_LTS_3)). It is also recommended to temporarily disable developer settings before starting the app, even if this version (2.2.0) works with developer settings enabled. With Magisk/root installed, it would alert "This device is jailbroken, you cannot continue". If no GMS services are present, it will tell you "This device is not supported for required Google Play Services".  The app doesn't start properly if you didn't grant the permissions beforehand in Android settings. For eReport, the app can't progress beyond the Current Location permission prompt as clicking the "Enable Location" doesn't do anything (even with the location permission granted for WSA in Windows); the workaround is to access it via the Suggested eGovPH Services part (found on the Home tab), however, it is stuck in report details as it still checks for the location permission. eKYC verification is problematic as the built-in laptop camera is wonky with eGovPH's image handling, affecting the verification process (this also applies if you're registering an account from the same device for its face verification). Some pages display no content (notably FAQs and application details in some cases) |  Basic features work such as navigating through the app features/pages. The PhilSys Digital ID page works as well and can recognize it in the verification site from another device. Recommended to use an up-to-date version of Android System WebView since the app mostly relies on it.
 | Emby | 2.0.48g | 11 | ✅
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
 | Excel | 16.0.14527.20162 | 11 | ✅
@@ -168,7 +168,7 @@ wsa://com.apple.android.music
 | GeoGebra | 5.0.674.0 | 11 | ✅
 | GitHub | 1.146.0 | 13 | ✅ | Opening any web links using the "Windows default app" doesn't work (including the sign-in). | Set a default browser app first (like Chrome) if you want to use external links within the app
 | Globe2Go | 4.7.4.20.0810/3890 | 11 | ✅
-| GlobeOne | 1.8.37 | 12 | ✅ || May require GMS (otherwise use other login methods available in the app)
+| GlobeOne | 1.9.39 | 12, 13| ✅ || May require GMS (otherwise use other login methods available in the app)
 | Gmail | 2022.05.01.440951655.Release | 11 | ✅ || May require GMS
 | Gojek | 4.30.1 | 11 | 🆖 | Requires GMS
 | Google | 14.44.29.28.x86_64 | 13 | 🆖 | Requires GMS
@@ -247,7 +247,7 @@ wsa://com.apple.android.music
 | Maya (Paymaya) | 2.85.1 | 13 | ❌ | App crashes immediately upon launching the app 
 | McDonald's | 2.76.0 | 13 | ❌ | Device verification fails on the first welcome screen and displays "Your device did not pass our security check. Please check that you run a Google trusted OS version, that the device is not rooted, and that you have no harmful apps installed.
 | Meta Quest (Oculus) | 181.1.0.81.114 | 12 | ⚠️ | Can't log in with a Meta account, but you can install the Facebook or Instagram app and enable "Logging in with accounts" in the Meta Accounts Center, and use the in-app login. Doesn't detect Quest 2 nearby, due to no Bluetooth support.
-| microG Settings | N/A | 11 | ❌ | App crashes, doesn't load
+| microG Settings | 0.3.1.4.240913 | 13 | ✅ | 
 | Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
 | Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | 11 | ✅
 | Microsoft Bing - Search & earn | 23.5.401109307 | 12 | ✅
@@ -447,7 +447,7 @@ wsa://com.apple.android.music
 | YouTube Music (Google) | 5.07.50 | 11 | 🆖 | Requires GMS
 | YouTube Music Vanced | 43.9.50 | 11 | ✅
 | YouTube Music ReVanced | 6.19.51 | 13 | ✅ || Used the x86-64 version as base
-| Youtube Vanced | 16.29.39 | 11 | ⚠️ | Picture-in-picture doesn't work & Can't join channel membership
+| Youtube ReVanced | 19.16.39 | 11, 13 | ⚠️ | Picture-in-picture doesn't work & Can't join channel membership
 | ZArchiver | 0.9.5.8 (9596) | 11 | ✅
 | Zenly (w/o GMS) | 4.55.2 | 11 | ⚠️ | App crashes after login, but background location works
 | Zoom | 5.8.3.2634 | 11 | ⚠️ | Camera severely glitched, share screen doesn't work due to WSA's windowed nature.
