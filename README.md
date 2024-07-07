@@ -78,7 +78,7 @@ wsa://com.apple.android.music
 | Aegis | 2.0.2 | 11 | ✅ |
 | AIDE | 3.2.210316 | 11 | ✅ || Might optionally require GMS
 | AIMP | 3.10.1052 | 11 | ✅
-| Aliexpress | 8.76.5 | 13 | ⚠️ | The home and search pages have significant scaling issues that make it nearly impossible to navigate through the app.
+| AliExpress | 8.101.15 | 13 | ⚠️ | Sometimes the app crashes after `Sorry, we have detected unusual traffic from your network`, has significant scaling issues that can be mitigated by maximizing the window
 | Amaze File Manager | 3.5.3 | 11 | ✅ || Avoid updating the app
 | Amazon Alexa | 2.2.466191.0 | 12 | ✅ |
 | Android System Info | 1.4.2 | 11 | ✅ ||
