@@ -369,6 +369,7 @@ wsa://com.apple.android.music
 | Smash Hit | 1.4.3 | 13 | ✅ |
 | Snapchat || 11 | ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored
 | Solid Explorer File Manager | 2.8.28b | 12 | ✅
+| Sonic Mania Plus - NETFLIX | 5.0.1 | 13 | ✅ | Sometimes an NGP Error will happen
 | SoundHound | 10.1.2 | 12 | ✅ |  | Ensure in Windows' audio settings that the microphone has a high enough sound level 
 | Speedtest by Ookla | 4.8.0 (177906) | 12 | ✅ | VPN workaround is needed after installation to allow the app to create VPN connections.
 | Spotify | 8.7.30.1221 | 12, 11 | ✅ | 
