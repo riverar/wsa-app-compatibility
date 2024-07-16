@@ -105,8 +105,8 @@ wsa://com.apple.android.music
 | BBC Sounds | 2.13.0.19989 | 13 | ✅
 | Berry Browser | 3.57.8 | 12, 11 | ✅
 | Binance | 2.36.5 | 11 | ✅
-| Bondee | 2.0.0.636 | 12 | ⚠️ | Has scaling issues. Specifically, after the introductory part, the app uses abnormally huge elements which makes it impossible to navigate.
-| Boost for Reddit | 1.12.5 | 12 | ✅
+| Bloons TD 6 - NETFLIX | 43.3 | 13 | ✅ | Scaling can be a problems unless F11 and re-scaling is enabled |
+| Boost for Reddit | 1.12.5 | 12 | ✅ 
 | Bouncer | 1.26.3 | 11 | ⚠️
 | Brave Browser | 1.30.87 | 11 | ✅
 | BritBox by BBC & ITV | 2.1.2 (20043) | 11 | ❌ | App crashes on start
@@ -370,6 +370,8 @@ wsa://com.apple.android.music
 | Snapchat || 11 | ⚠️ | Camera view is flipped | GMS warnings might appear but these can be safely ignored
 | Solid Explorer File Manager | 2.8.28b | 12 | ✅
 | Sonic Mania Plus - NETFLIX | 5.0.1 | 13 | ✅ | Sometimes an NGP Error will happen
+| Sonic Prime Dash | 1.9.0 | 13 | ✅ | |White bars as the border|
+| Sonic The Hedgehog 2 Classic | 1.10.2 | 13 | ✅ |
 | SoundHound | 10.1.2 | 12 | ✅ |  | Ensure in Windows' audio settings that the microphone has a high enough sound level 
 | Speedtest by Ookla | 4.8.0 (177906) | 12 | ✅ | VPN workaround is needed after installation to allow the app to create VPN connections.
 | Spotify | 8.7.30.1221 | 12, 11 | ✅ | 
