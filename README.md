@@ -232,7 +232,7 @@ wsa://com.apple.android.music
 | Koguma | 0.0.1 | 13 | ✅
 | Kotatsu | 6.8.3 | 13 | ✅ | | Keyboard navigation is supported
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
-| Lawnchair | 14 beta 2 | 13, 12, 11 | ✅ | The app drawer seems to be blank in portrait. A workaround would be either maximizing the app or resize it to be in a landscape orientation.
+| Lawnchair | 14 beta 2 | 13, 12, 11 | ✅ | The app drawer seems to be blank in portrait. A workaround would be either maximizing the app or resize it to be in a landscape orientation. Can't change the wallpaper with a toast notification: `Disabled by your admin`.
 | Lazada | 7.37.0 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appears too often if logging in. Weird scaling options (interface elements are too large) | Keep it in portrait for the app to be usable.
 | Libby | 4.3.1 | 11 | ✅
 | LINE | 12.0.1 | 11 | ✅
@@ -344,7 +344,7 @@ wsa://com.apple.android.music
 | Rider | 1.59 | 11 | ✅
 | Robinhood - Food & Booking | 2.2.2 | 12 | ⚠️ | App having trouble loading content. Maps & Location picker don't work (Requires GMS). | You can log in only on one device at the same time. Previous device will log out upon signing in on new device.
 | Rootless Launcher | 3.9.1 | 11 | ❌ | App crashes
-| Rootless Pixel Launcher | 3.9.1 | 13 | ✅ |
+| Rootless Pixel Launcher | 3.9.1 | 13 | ✅ | Can't change wallpaper with a message: `Disabled by your admin`.
 | Ruler (F-Droid) | 1.1 | 12 | ❌ | While the app is correctly installed, the ruler lengths are wildly off-course no matter how much in-app calibration is done. | The app also refuses to recognise values above circa 100mm for the 70mm calibration line.
 | Saikou β (Beta) | 1.2.1.0 | 13, 12 | ✅ || Some keyboard functionality is somewhat limited but usable (both media playback and manga reading)
 | SAI (Split APKs Installer) (Play Store) | 4.5 | 12 | ✅ || Used rootless method only, not yet tested for rooted WSA
