@@ -98,7 +98,7 @@ wsa://com.apple.android.music
 | AtB | 1.23 | 12 | ❌ | Crashes during loading, as it relies on Google Services Framework and on having the latter be given `read_device_config` permissions, which doesn't seem to be possible to give.
 | Audible | 3.15.0 | 11 | ✅
 | Aurora Store | 4.1.1 | 12, 11 | ✅
-| Authy | 24.8.5 (139) | 11 | ✅ || Produces warnings about GMS which are safe to ignore.
+| Authy | 26.1.0 | 11 | ❌ | This device does not meet the minimum integrity requirements. |
 | BandLab | 10.45.0 | 13, 12 | 🆖 | Slight audio lag with Android 12, it was fixed in Microsoft's 2303.40000.3.0 update | Only tested from installing from Google Play Store with Google services, otherwise app has no issues whatsoever. It's responsive, and in Android 13 there's no audio lag. |
 | BankID (Norway) | 2.1 | 12 | ❌ | Spams the desktop browser with new tabs about how the app thinks the phone is rooted. 
 | BBC iPlayer | 4.137.0.25403 | 11 | ✅ | Sideloaded
