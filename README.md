@@ -431,7 +431,8 @@ wsa://com.apple.android.music
 | WeChat | 8.0.32 | 13, 12 | ✅
 | WhatsApp | 2.21.20.20 | 11 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed
 | Windscribe | 3.74.1243 | 13 | ✅ || VPN workaround is needed after installation to allow the app to create VPN connections.
-| Word | 16.0.14430.20246 | 11 | ✅ || Might require microG
+| Windy|42.2.3 | 13 | ✅ || The satellite features of this app work, alongside with location features, although you have to grant the app access to it.
+| Word | 16.0.14430.20246 | 11 | ✅ || Might require microG services.
 | Wulkanowy (F-Droid) | 1.4.3 | 11 | ✅
 | Wulkanowy (Play Store) | 1.4.3 | 11 | 🆖
 | Wyze | 2.30.0 | 11 | ✅
