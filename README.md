@@ -184,10 +184,11 @@ wsa://com.apple.android.music
 | Google Messages | messages.android<br>20240312_00_RC02<br>phone_dynamic | 13 | 🆖 | Requires GMS.| Tested under WSA with GMS installed. Phone pairing works, along with RCS messaging to phone contacts. Responsive design by resizing also works, albeit it can be quite finnicky. Syncing also works, provided a Google account is present.|
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
 | Google Play Games | 2023.08.46243 | 13 | 🆖 | Requires GMS
-| Google Play Store | 40.4.31-31 [0] [PR] 621249419 | 13 | 🆖 | Requires GMS. If you're changing languages a lot in the app, there's a prompt to restart the app to complete the update. Wait for a few seconds, then tap/click restart to proceed (sometimes works, sometimes not). | Play Protect certification status will be `Device is uncertified`
+| Google Play Store | 41.9.17-31 [0] [PR] 652617032 | 13 | 🆖 | Requires GMS. If you're changing languages a lot in the app, there's a prompt to restart the app to complete the update. Wait for a few seconds, then tap/click restart to proceed (sometimes works, sometimes not). | Play Protect certification status will be `Device is uncertified`
 | Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
 | Google Translate | 6.45.0.474938783.2-release | 12 | ❌ | Crashes on startup due to reliance on Google Services Framework
 | Grab | 5.172.200 | 11 | ✅
+| Grayjay | 253 | 13 | ✅ || Tested with the unversal installer variant. Works well on an Intel CPU with integrated graphics (performance may vary)
 | Gycso | 1.1.0 | 12, 11 | ✅ |
 | HBO Max | 52.15.0.53 | 11 | ⚠️ | Failed to play video (internal player fails to display image and play sound).
 | Hidden Settings | 1.7.5 | 12 | ✅
@@ -200,6 +201,7 @@ wsa://com.apple.android.music
 | Huawei AppGallery | 11.4.2.300 | 11 | ✅ | Frequent crashes were experienced, otherwise the app functionality is fine
 | Hyper Square | 3.0.1 | 11 | ✅
 | IFTTT | 4.29.2 | 12 | 🆖 | Need GMS to receive notification. Ignore the Notification Reader Access error. | To avoid Play Protect blocking login to the Google Store, use GMS version open_gapps-x86_64-11.0-pico-20220215. (See also: WSAGAScript issue #213). 
+| Infinity | 7.2.9 | 13 | ✅ ||Works well in portrait and landscape resizing.
 | Instagram | 244.0.0.17.110 | 12, 11 | ⚠️ || Need to use an Android keyboard (eg. MS SwiftKey) to be able to reply to stories (only works in 11. Keyboard app support in 12 is broken.
 | Instagram Lite | 339.0.0.10.100 | 12 | ✅ 
 | Intra | 1.3.8 | 12 | ✅ || VPN workaround is needed after installation to allow the app to create VPN connections.
@@ -230,7 +232,7 @@ wsa://com.apple.android.music
 | Koguma | 0.0.1 | 13 | ✅
 | Kotatsu | 6.8.3 | 13 | ✅ | | Keyboard navigation is supported
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
-| Lawnchair | 12 Alpha 5 | 13, 12, 11 | ⚠️ | If you're running the Android 13 of the subsystem (2211.40000.11.0), if you launch any app from either the home screen or the app drawer, it crashes with an error: `java.lang.NoSuchMethodError: No virtual method setSplashscreen(I)V in class Landroid/app/ActivityOptions; or is superclasses (declaration of 'android.app.ActivityOption'...` | Works fine on Android 11 or 12 versions of the subsystem.
+| Lawnchair | 14 beta 2 | 13, 12, 11 | ✅ | The app drawer seems to be blank in portrait. A workaround would be either maximizing the app or resize it to be in a landscape orientation. Can't change the wallpaper with a toast notification: `Disabled by your admin`.
 | Lazada | 7.37.0 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appears too often if logging in. Weird scaling options (interface elements are too large) | Keep it in portrait for the app to be usable.
 | Libby | 4.3.1 | 11 | ✅
 | LINE | 12.0.1 | 11 | ✅
@@ -258,7 +260,7 @@ wsa://com.apple.android.music
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
-| Mihon (Beta) | 0.16.5-6639 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. 
+| Mihon (Beta) | 0.16.5-r6789 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader and paste it to any windows app (like Paint).
 | Mihon (Stable) | 0.16.5 | 13 | ✅ |Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in.
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
@@ -276,7 +278,7 @@ wsa://com.apple.android.music
 | MyPostNord (Norway) | 3.12 | 12 | ✅ 
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to the correct orientation in a second.
 | NClientV2 (Release)| 3.0.5 | 13 | ✅ | Keyboard navigation is unsupported when reading. | You can try enabling `Disguise app in drawer` but it doesn't work in the Windows start menu, but works with an installed launcher like Lawnchair or Rootless Pixel Launcher.
-| Neko | 2.16.4 | 13, 12, 11 | ✅
+| Neko | 2.16.10 | 13, 12, 11 | ✅
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
 | Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
@@ -338,11 +340,11 @@ wsa://com.apple.android.music
 | Relay | 10.0.378 | 11 | ✅
 | Remini - AI Photo Enhancer || 11 | ⚠️ | Oops! Something went wrong Your image didn't save. Please try again.
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 11 | ✅
-| ReVanced Manager | 1.9.5 | 13 | ✅ | 
+| ReVanced Manager | 1.20.1 | 13 | ✅ | 
 | Rider | 1.59 | 11 | ✅
 | Robinhood - Food & Booking | 2.2.2 | 12 | ⚠️ | App having trouble loading content. Maps & Location picker don't work (Requires GMS). | You can log in only on one device at the same time. Previous device will log out upon signing in on new device.
 | Rootless Launcher | 3.9.1 | 11 | ❌ | App crashes
-| Rootless Pixel Launcher | 3.9.1 | 13 | ✅ |
+| Rootless Pixel Launcher | 3.9.1 | 13 | ✅ | Can't change wallpaper with a message: `Disabled by your admin`.
 | Ruler (F-Droid) | 1.1 | 12 | ❌ | While the app is correctly installed, the ruler lengths are wildly off-course no matter how much in-app calibration is done. | The app also refuses to recognise values above circa 100mm for the 70mm calibration line.
 | Saikou β (Beta) | 1.2.1.0 | 13, 12 | ✅ || Some keyboard functionality is somewhat limited but usable (both media playback and manga reading)
 | SAI (Split APKs Installer) (Play Store) | 4.5 | 12 | ✅ || Used rootless method only, not yet tested for rooted WSA
@@ -395,7 +397,7 @@ wsa://com.apple.android.music
 | Telegram | 8.1.2 | 11 | ✅
 | Televizo | 1.9.0.1 | 11 | ❌ | Crashes on video playback
 | Terminal Emulator for Android | 1.0.70-rebuild | 12 | ✅ | A warning shows up about the app being designed for older Android versions, but can be dismissed
-| Termux (F-droid) | 0.118.0 | 13, 12, 11 |✅
+| Termux (F-droid) | 0.118.1 | 13, 12, 11 |✅
 | Tesla | 4.6.1 | 11 | ⚠️ | Vehicle graphics and maps do not load, cannot enable phone key. | Internet-based vehicle controls, charge stats, services are functional.
 | The Globe and Mail | 6.2.0 (100) | 11 | ✅
 | TIDAL | 2.49.0 | 11 | ✅
@@ -444,8 +446,9 @@ wsa://com.apple.android.music
 | Yahoo! Fantasy Sports | 10.31.0 | 11 | ❌ | App crashes on launch
 | Yandex.Maps | 10.6.0 | 11 | ⚠️ | Map doesn't work
 | Ymusic | 3.7.2 | 11 | ✅
-| Yodayo | 1.4.2 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
-| Yokai | 1.7.12 | 13 | ✅
+| Yodayo (Play Store)| 1.4.2 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
+| Yodayo (APK) | 1.19.0 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
+| Yokai | 1.8.4.3 | 13 | ✅
 | YouTube (Google)| 16.40.35 | 11 | 🆖 | Requires GMS
 | YouTube Music (Google) | 5.07.50 | 11 | 🆖 | Requires GMS
 | YouTube Music Vanced | 43.9.50 | 11 | ✅
