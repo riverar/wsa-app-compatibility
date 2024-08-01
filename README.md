@@ -448,7 +448,7 @@ wsa://com.apple.android.music
 | Yandex.Maps | 10.6.0 | 11 | ⚠️ | Map doesn't work
 | Ymusic | 3.7.2 | 11 | ✅
 | Yodayo (Play Store)| 1.4.2 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
-| Yodayo (APK) | 1.19.0 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
+| Yodayo (APK) | 1.19.0 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
 | Yokai | 1.8.4.3 | 13 | ✅
 | YouTube (Google)| 16.40.35 | 11 | 🆖 | Requires GMS
 | YouTube Music (Google) | 5.07.50 | 11 | 🆖 | Requires GMS
