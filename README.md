@@ -88,7 +88,7 @@ wsa://com.apple.android.music
 | Animiru | 0.16.0.0 | 13 | ✅ | 
 | Aniyomi | 0.15.2.1 | 13, 12 | ✅ |
 | AntennaPod | 2.5.0 | 11 | ✅
-| APKMirror Installer (Beta) | 1.3.2 | 11 | ⚠️ | Cannot remove ads without subscription which requires Location to be turned on. Apart from this, there are random crashes
+| APKMirror Installer (Beta) | 1.3.2 | 11 | ⚠️ | Cannot remove ads without a subscription which requires Location to be turned on. Apart from this, there are random crashes
 | APKPure | 3.17.26 | 11 | ✅ | Sometimes, it might require multiple attempts to install an app
 | Apple Music | 3.7.1 | 11 | ✅ | To achieve Hi-Res Lossless, turn off WSA, open settings>sound>more sound settings>pick your device>properties>advanced and set format as 24-bit 192000 Hz (Studio Quality), then start WSA
 | App分享 (AppShare) | 2.1.1 (164) | 11 | ❌ | Can't login
@@ -140,7 +140,7 @@ wsa://com.apple.android.music
 | DuckDuckGo Privacy Browser+ | 5.142.2 | 12 | ✅
 | Easybell | 2.1.30 | 11 | ✅
 | EDS Lite | 2.0.0.237 | 12 | ✅ || Tested on an Intel x86-64 CPU (may work on AMD64 or ARM64). Recommended to add the exFAT module if you have a container that uses this filesystem.
-| eGovPH | 2.2.0 | 13 | ⚠️ | Tested on 3 WSA builds, stock WSA, with GMS installed and no root/Magisk/KernelSU, and with GMS-Magisk/KernelSU installed ([WSABuilds non-LTS, no Magisk/root installed, 2311.40000.5.0](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0)), ([WSABuilds LTS, with GMS, KernelSU/Magisk installed, 2311.40000.5.0](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0_LTS_3)). It is also recommended to temporarily disable developer settings before starting the app, even if this version (2.2.0) works with developer settings enabled. With Magisk/root installed, it would alert "This device is jailbroken, you cannot continue". If no GMS services are present, it will tell you "This device is not supported for required Google Play Services".  The app doesn't start properly if you didn't grant the permissions beforehand in Android settings. For eReport, the app can't progress beyond the Current Location permission prompt as clicking the "Enable Location" doesn't do anything (even with the location permission granted for WSA in Windows); the workaround is to access it via the Suggested eGovPH Services part (found on the Home tab), however, it is stuck in report details as it still checks for the location permission. eKYC verification is problematic as the built-in laptop camera is wonky with eGovPH's image handling, affecting the verification process (this also applies if you're registering an account from the same device for its face verification). Some pages display no content (notably FAQs and application details in some cases) |  Basic features work such as navigating through the app features/pages. The PhilSys Digital ID page works as well and can recognize it in the verification site from another device. Recommended to use an up-to-date version of Android System WebView since the app mostly relies on it.
+| eGovPH | 2.2.0 | 13 | ⚠️ | Tested on 3 WSA builds, stock WSA, with GMS installed and no root/Magisk/KernelSU, and with GMS-Magisk/KernelSU installed ([WSABuilds non-LTS, no Magisk/root installed, 2311.40000.5.0](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0)), ([WSABuilds LTS, with GMS, KernelSU/Magisk installed, 2311.40000.5.0](https://github.com/MustardChef/WSABuilds/releases/tag/Windows_11_2311.40000.5.0_LTS_3)). It is also recommended to temporarily disable developer settings before starting the app. With Magisk/root installed, it would alert "This device is jailbroken, you cannot continue". If no GMS services are present, it will tell you "This device is not supported for required Google Play Services".  The app doesn't start properly if you didn't grant permission beforehand in Android settings. For eReport, the app can't progress beyond the Current Location permission prompt as clicking the "Enable Location" doesn't do anything (even with the location permission granted for WSA in Windows); the workaround is to access it via the Suggested eGovPH Services part (found on the Home tab), however, it is stuck in report details as it still checks for the location permission. eKYC verification is problematic as the built-in laptop camera is wonky with eGovPH's image handling, affecting the verification process (this also applies if you're registering an account from the same device for its face verification). Some pages display no content (notably FAQs and application details in some cases) |  Basic features work such as navigating through the app features/pages. The PhilSys Digital ID page also works and can recognize it in the verification site from another device. Recommended to use an up-to-date version of Android System WebView since the app mostly relies on it.
 | Emby | 2.0.48g | 11 | ✅
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
 | Excel | 16.0.14527.20162 | 11 | ✅
@@ -181,7 +181,7 @@ wsa://com.apple.android.music
 | Google Home | 3.14.1.5 | 13 | 🆖 | Requires GMS. | Tested on a WSA install with GMS. Bluetooth permissions can be easily bypassed by closing and opening the app again.
 | Google Keep Notes | 5.24.092.02.90 | 13 | 🆖 | Requires GMS | Tested inside WSA with GMS. The app works properly, including notes, and account syncing, and responds accordingly to app window sizing including its landscape mode.
 | Google Meet | 233.0.611229457<br>duo.android<br>20240218.16_p2 | 11, 13 | 🆖 | Requires GMS.| Tested with an NVIDIA RTX 4060 Laptop GPU. The share screen doesn't work due to WSA's windowed nature. Camera effects apart from lighting cannot be enabled and instead display "Something went wrong and the effect can't be started" 
-| Google Messages | messages.android<br>20240312_00_RC02<br>phone_dynamic | 13 | 🆖 | Requires GMS.| Tested under WSA with GMS installed. Phone pairing works, along with RCS messaging to phone contacts. Responsive design by resizing also works, albeit it can be quite finnicky. Syncing also works, provided a Google account is present.|
+| Google Messages | messages.android<br>20240312_00_RC02<br>phone_dynamic | 13 | 🆖 | Requires GMS.| Tested under WSA with GMS installed. Phone pairing works, along with RCS messaging to phone contacts. Responsive design by resizing also works, albeit it can be quite finicky. Syncing also works, provided a Google account is present.|
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
 | Google Play Games | 2023.08.46243 | 13 | 🆖 | Requires GMS
 | Google Play Store | 41.9.17-31 [0] [PR] 652617032 | 13 | 🆖 | Requires GMS. If you're changing languages a lot in the app, there's a prompt to restart the app to complete the update. Wait for a few seconds, then tap/click restart to proceed (sometimes works, sometimes not). | Play Protect certification status will be `Device is uncertified`
@@ -310,7 +310,7 @@ wsa://com.apple.android.music
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
 | Package Manager | v7.0 | 13,12 | ✅ || Recommeded with use of Shizuku for multi-app installation
-| PalawanPay | 1.0.400396 | 13 | ✅ | The app works but WSA's developer options should be disabled prior to opening the app as the app will lock you out if it detects it was turned on
+| PalawanPay | 1.0.400396 | 13 | ✅ | The app works but WSA's developer options should be disabled before opening the app as the app will lock you out if it detects it was turned on
 | Phigros || 11 | ✅
 | Philips Hue | 4.29.0 | 12 | ✅
 | Photomath | 8.22.0 | 13 | ✅ || Installed via `adb` command
@@ -365,7 +365,7 @@ wsa://com.apple.android.music
 | Skype | 8.91.0.406 | 12 | ✅
 | SkySafari | 6.8.6.15 | 11 | 🆖 | Failed license check on startup, appears to require GMS
 | Slack | 21.11.20.0-B | 11 | ✅
-| Smart | 3.4.0 | 13 | ✅ | Tested on WSA with GMS installed. The app works fine and all navigation options can be navigated.
+| Smart GigaLife | 3.4.2 | 13 | ⚠️  | Tested on WSA with GMS installed. Suppose Magisk DenyList is not enabled for the app, in that case, it will display a warning: **We noticed that your device OS has been reconfigured** and warns the user that their GigaLife account may be at risk. Enabling DenyList for this would bypass this behavior. The app works fine and all navigation options can be navigated.
 | Smart Launcher | 5.5 Build 052 | 11 | ✅
 | Smart Life | 3.32.5 | 11 | ❌ | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted
 | Smash Hit | 1.4.3 | 13 | ✅ |
