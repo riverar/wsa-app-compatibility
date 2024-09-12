@@ -260,7 +260,7 @@ wsa://com.apple.android.music
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
-| Mihon (Beta) | 0.16.5-r6789 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader and paste it to any windows app (like Paint).
+| Mihon (Beta) | 0.16.5-r6789 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
 | Mihon (Stable) | 0.16.5 | 13 | ✅ |Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in.
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
@@ -448,7 +448,7 @@ wsa://com.apple.android.music
 | Yandex.Maps | 10.6.0 | 11 | ⚠️ | Map doesn't work
 | Ymusic | 3.7.2 | 11 | ✅
 | Yodayo (Play Store)| 1.4.2 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
-| Yodayo (APK) | 1.19.0 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
+| Yodayo (APK) | 1.19.0 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
 | Yokai | 1.8.4.3 | 13 | ✅
 | YouTube (Google)| 16.40.35 | 11 | 🆖 | Requires GMS
 | YouTube Music (Google) | 5.07.50 | 11 | 🆖 | Requires GMS
