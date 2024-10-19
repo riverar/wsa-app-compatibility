@@ -187,6 +187,7 @@ wsa://com.apple.android.music
 | Google Play Store | 43.0.18-31 [0] [PR] 679686942 | 13 | 🆖 | Requires GMS. If you're changing languages a lot in the app, there's a prompt to restart the app to complete the update. Wait for a few seconds, then tap/click restart to proceed (sometimes works, sometimes not) or alternatively, clear the app data and open it again. | Play Protect certification status will be `Device is uncertified`
 | Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
 | Google Translate | 6.45.0.474938783.2-release | 12 | ❌ | Crashes on startup due to reliance on Google Services Framework
+| GoTyme | 1.36.0 | 13 | ❌ | App crashes immediately upon launching the app 
 | Grab | 5.172.200 | 11 | ✅
 | Grayjay | 253 | 13 | ✅ || Tested with the unversal installer variant. Works well on an Intel CPU with integrated graphics (performance may vary)
 | Gycso | 1.1.0 | 12, 11 | ✅ |
