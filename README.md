@@ -233,6 +233,7 @@ wsa://com.apple.android.music
 | Koguma | 0.0.1 | 13 | ✅
 | Kotatsu | 6.8.3 | 13 | ✅ | | Keyboard navigation is supported
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
+| LANDBANK | 6.1.1 | 13 | ✅ | The app runs for the most part, however, during the user signing up for a bank account, it alerts you to `Error: The device is incompatible with the SDK` when verifying the identity of the user signing up
 | Lawnchair | 14 beta 2 | 13, 12, 11 | ✅ | The app drawer seems to be blank in portrait. A workaround would be either maximizing the app or resize it to be in a landscape orientation. Can't change the wallpaper with a toast notification: `Disabled by your admin`.
 | Lazada | 7.37.0 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appears too often if logging in. Weird scaling options (interface elements are too large) | Keep it in portrait for the app to be usable.
 | Libby | 4.3.1 | 11 | ✅
@@ -311,7 +312,7 @@ wsa://com.apple.android.music
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
 | Package Manager | v7.0 | 13,12 | ✅ || Recommeded with use of Shizuku for multi-app installation
-| PalawanPay | 1.0.400396 | 13 | ✅ | The app works but WSA's developer options should be disabled before opening the app as the app will lock you out if it detects it was turned on
+| PalawanPay | 1.0.4634210 | 13 | ❌ | Starting in this version, Google Play will alert you with "This app won't work for your device" and if you sideloaded an older version of the app, the app prompts you to update but when you press "Update app", it takes you to the Google Play listing, it only lets you uninstall it, or open the app.
 | Phigros || 11 | ✅
 | Philips Hue | 4.29.0 | 12 | ✅
 | Photomath | 8.22.0 | 13 | ✅ || Installed via `adb` command
