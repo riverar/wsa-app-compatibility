@@ -429,6 +429,7 @@ wsa://com.apple.android.music
 | Voice Recorder | 55.1 | 12 | ✅ || com.media.bestrecorder.audiorecorder
 | VSCO | 264 | 11 | ⚠️ | Cannot sign in
 | Warden | 1.0.3.release | 11 | ⚠️ | App screen flashes otherwise functionality-wise its normal
+| Wattpad | 10.44.0 | 13 |  ✅  | *The Wattpad version tested in this WSA install (Magisk with GMS) is a modded one (no ads).* App works, including the theming and responsive design based on the window size. Online sign in works as well (tested using Facebook SSO), along with offline reading support. 
 | Wealthsimple Trade | 2.27.1 (2195) | 11 | ✅
 | WeChat | 8.0.32 | 13, 12 | ✅
 | WhatsApp | 2.21.20.20 | 11 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed
