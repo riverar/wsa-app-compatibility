@@ -358,7 +358,7 @@ wsa://com.apple.android.music
 | Shein | 9.9.4 | 13 | ✅ || Keep it in portrait to be usable
 | ShemarooMe | 1.0.16 (106) | 11 | ✅
 | Shizuku (Play Store) | 13.5.4.r1049.0r53409 | 13, 12, 11 | ✅ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on). | The service also works with root (Tested with Magisk)
-| Shopee (PH) | 3.12.16 | 13, 11 | ✅ | Google login requires GMS installed (use Email or Facebook login as alternatives). Banner information is stretched horizontally 
+| Shopee (PH) | 3.12.16 | 13, 11 | ⚠️ | Any login attempt, even if Magisk DenyList is enabled for Shopee PH, would result in a ``Login Failed (F13) error: Oops, your account has been restricted due to unusual activities. Please make sure you comply with Shopee policies.`` Google login requires GMS installed (use Email or Facebook login as alternatives). Banner information is stretched horizontally 
 | Shosetsu | 2.4.4 | 13, 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
 | Showtime | 3.1.1 | 11 | ❌ | App crashes when you try to login. Button clicks don't work
 | SIM Toolkit (Google) | 12, API 32 | 12 | ❌ | Does not launch even with a shortcut.
