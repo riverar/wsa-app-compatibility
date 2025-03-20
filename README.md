@@ -231,6 +231,8 @@ wsa://com.apple.android.music
 | Kiwi Browser | 107.0.5304.74 | 13, 12 | ✅ |
 | Kobo Books | 8.40.29843 | 11 | ⚠️ | Aspect ratio and resolution are fixed, appears blurry when resized
 | Koguma | 0.0.1 | 13 | ✅
+| Komikku (stable) | 1.12.6 | 13 | ✅
+| Komikku (beta) | 1.13.0-9845 | 13 | ✅
 | Kotatsu | 7.7.11 | 13 | ✅ | | Keyboard navigation is supported
 | Kotatsu Nightly | N20250315 | 13 | ✅ | | Keyboard navigation is supported
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
@@ -264,8 +266,8 @@ wsa://com.apple.android.music
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
-| Mihon (Beta) | 0.17.1-r7128 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
-| Mihon (Stable) | 0.17.1 | 13 | ✅ |Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in.
+| Mihon (Beta) | 0.18.1-r7155 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
+| Mihon (Stable) | 0.18.0 | 13 | ✅ |Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
 | MOLA | 2.1.3 | 11 | ❌ | App crashes
