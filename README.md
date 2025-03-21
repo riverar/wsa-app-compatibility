@@ -62,6 +62,11 @@ wsa://com.apple.android.music
 
 ## Support tables
 
+The support tables will now be split into different categories:<br>
+<br>
+Apps will be split into different categories (example: Finance, Productivity, Casual, System, Music/Video, Imaging..)
+
+
 * [Apps](#apps)
 * [Games](#games)
 
