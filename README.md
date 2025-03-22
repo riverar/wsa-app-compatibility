@@ -10,7 +10,7 @@ When editing the Markdown, please keep these rules in mind:
 3. In the Android column, ensure the latest version of Android is listed first. Separate subsequent versions with a comma `,` (e.g. `11`, `12, 11`, or `13, 12, 11`).
 
 ## Note about Windows Subsystem for Android
-Microsoft has announced the end-of-life support for [Windows Subsystem for Android](https://learn.microsoft.com/en-us/windows/android/wsa/) starting from March 5, 2025.
+The [Windows Subsystem for Android](https://learn.microsoft.com/windows/android/wsa/) is no longer available in the Microsoft Store as of March 5, 2025.
 
 ## Issues / Support
 
