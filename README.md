@@ -115,9 +115,9 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
 |-------------|-----------------------|------------------|---------------|--------------|-------|
 | Android System Info | 1.4.2 | 11 | ✅ ||
-| Android System Webview | 118.0.5993.111 | 13, 12 | ✅ ||
+| Android System Webview | 133.0.6943.137 | 13, 12 | ✅ ||
 | Android System Webview Beta | 131.0.6778.2 | 13, 12 | ✅ ||
-| Android System Webview Dev | 103.0.5060.22 | 11 | ✅ || App installs correctly 
+| Android System Webview Dev | 103.0.5060.22 | 11 | ✅ ||
 | Camera | 2.0.002 | 13 | ⚠️ | While taking pictures or video works fine but changing the camera (to an inactive virtual camera) freezes the app. | Included in the subsystem
 
 ### Streaming
@@ -138,9 +138,12 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | AniLabX | 3.8.12 (Iridium) - Beta | 11 | ✅
 | Animiru | 0.16.0.0 | 13 | ✅ | 
 | Aniyomi | 0.15.2.1 | 13, 12 | ✅ |
-| Mihon (Beta) | 0.17.0-r6971 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
-| Mihon (Stable) | 0.17.0 | 13 | ✅ |Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in.
-
+| Mihon (Beta) | 0.18.1-r7155 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
+| Mihon (Stable) | 0.18.0 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
+| Komikku (stable) | 1.12.6 | 13 | ✅
+| Komikku (beta) | 1.13.0-9845 | 13 | ✅
+| Kotatsu | 7.7.11 | 13 | ✅ | | Keyboard navigation is supported
+| Kotatsu Nightly | N20250315 | 13 | ✅ | | Keyboard navigation is supported
 ### AI
 | Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
 |-------------|-----------------------|------------------|---------------|--------------|-------|
