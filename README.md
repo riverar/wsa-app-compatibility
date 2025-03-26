@@ -80,10 +80,11 @@ wsa://com.apple.android.music
 | AIMP | 3.10.1052 | 11 | ✅
 | AliExpress | 8.101.15 | 13 | ⚠️ | Sometimes the app crashes after `Sorry, we have detected unusual traffic from your network`, has significant scaling issues that can be mitigated by maximizing the window
 | Amaze File Manager | 3.5.3 | 11 | ✅ || Avoid updating the app
-| Amazon Alexa | 2.2.466191.0 | 12 | ✅ |
+| Amazon Alexa | 2.2.466191.0 | 12 | ✅ ||
 | Android System Info | 1.4.2 | 11 | ✅ ||
 | Android System Webview | 133.0.6943.137 | 13, 12 | ✅ ||
-| Android System Webview Dev | 103.0.5060.22 | 11 | ✅ || App installs correctly 
+| Android System Webview Beta | 131.0.6778.2 | 13, 12 | ✅ ||
+| Android System Webview Dev | 103.0.5060.22 | 11 | ✅ ||
 | AniLabX | 3.8.12 (Iridium) - Beta | 11 | ✅
 | Animiru | 0.16.0.0 | 13 | ✅ | 
 | Aniyomi | 0.15.2.1 | 13, 12 | ✅ |
@@ -114,7 +115,7 @@ wsa://com.apple.android.music
 | Camera | 2.0.002 | 13 | ⚠️ | While taking pictures or video works fine but changing the camera (to an inactive virtual camera) freezes the app. | Included in the subsystem
 | CamScanner | 6.3.0.2110240000 | 11 | ❌ | WSA freezes after taking a snap
 | Canvas Student | 6.14.1 | 11 | ✅
-| Character.AI | 1.7.5 | 13 | ✅ | Sometimes, the text box for the prompt is broken when you resize the window. Restarting the app will restore the textbox.
+| Character.AI | 1.7.5 | 13 | ✅ | Sometimes the text box for the prompt is broken when you resize the window. Restarting the app will restore the textbox.
 | ChMate | 0.8.10.153 | 11 | ✅
 | Clubhouse | 1.0.11 | 11 | ⚠️ | Unable to login via phone number, it throws an error after entering the OTP
 | Comixology | 3.10.18.310421 | 11 | ✅
@@ -155,7 +156,7 @@ wsa://com.apple.android.music
 | FDM (Free Download Manager) (Play Store) | 6.18.1.4896 | 13 | ✅ | The app crashed after the splash screen (after granting its needed permissions) on some versions of the subsystem (due to libhoudini). Works fine again as of WSA 2301.40000.7.0 | Tested on an Intel x86_64 CPU
 | Fennec F-Droid | 105.1.0 | 12 | ❌ | While the app is correctly installed, it crashes very often, and sites load very, very slowly compared to Firefox Nightly.
 | Files by Google | Unknown | 11 | ✅ || Works fine
-| Firefox |136.0.1 (2016078447) | 13, 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
+| Firefox | 136.0.1 (2016078447) | 13, 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
 | Firefox Nightly | 95.0a1 | 11 | ✅
 | Firefox Focus | 106.1 | 12 | ✅
 | foobar2000 | 1.2.30 | 11 | ✅
@@ -238,7 +239,7 @@ wsa://com.apple.android.music
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | LANDBANK | 6.1.1 | 13 | ✅ | The app runs for the most part, however, during the user signing up for a bank account, it alerts you to `Error: The device is incompatible with the SDK` when verifying the identity of the user signing up
 | Lawnchair | 14 beta 2 | 13, 12, 11 | ✅ | The app drawer seems to be blank in portrait. A workaround would be either maximizing the app or resize it to be in a landscape orientation. Can't change the wallpaper with a toast notification: `Disabled by your admin`.
-| Lazada | 7.37.0 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appears too often if logging in. Weird scaling options (interface elements are too large) | Keep it in portrait for the app to be usable.
+| Lazada | 7.62.0 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appears too often if logging in. Weird scaling options (interface elements are too large, [an example](https://ibb.co/98qFhmm)) | Keep it in portrait for the app to be usable.
 | Libby | 4.3.1 | 11 | ✅
 | LINE | 12.0.1 | 11 | ✅
 | Line Rangers | 7.6.3 | 11 | ✅
@@ -267,7 +268,7 @@ wsa://com.apple.android.music
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
 | Mihon (Beta) | 0.18.1-r7155 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
-| Mihon (Stable) | 0.18.0 | 13 | ✅ |Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
+| Mihon (Stable) | 0.18.0 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
 | MOLA | 2.1.3 | 11 | ❌ | App crashes
@@ -364,7 +365,7 @@ wsa://com.apple.android.music
 | Shein | 9.9.4 | 13 | ✅ || Keep it in portrait to be usable
 | ShemarooMe | 1.0.16 (106) | 11 | ✅
 | Shizuku (Play Store) | 13.5.4.r1049.0r53409 | 13, 12, 11 | ✅ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on). | The service also works with root (Tested with Magisk)
-| Shopee (PH) | 3.35.31 | 13, 11 | ⚠️ | Any login attempt, even if Magisk DenyList is enabled for Shopee PH, would result in a ``Login Failed (F13) error: Oops, your account has been restricted due to unusual activities. Please make sure you comply with Shopee policies.`` Google login requires GMS installed (use Email or Facebook login as alternatives). Banner information is stretched horizontally 
+| Shopee (PH) | 3.35.31 | 13, 11 | ⚠️ | Any login attempt, even if Magisk DenyList is enabled for Shopee PH, would result in a ``Login Failed (F13) error: Oops, your account has been restricted due to unusual activities. Please make sure you comply with Shopee policies.`` Google login requires GMS installed (use Email or Facebook login as alternatives). Banner information is stretched horizontally. Sometimes [this error](https://ibb.co/FxcxxcZ) pops up if you don't log in.
 | Shosetsu | 2.4.4 | 13, 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
 | Showtime | 3.1.1 | 11 | ❌ | App crashes when you try to login. Button clicks don't work
 | SIM Toolkit (Google) | 12, API 32 | 12 | ❌ | Does not launch even with a shortcut.
@@ -400,7 +401,7 @@ wsa://com.apple.android.music
 | Tachiyomi (Stable) | 0.15.3 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Hovering the mouse pointer, highlights the input element. Some of the notifications will be missing due to the Windows Action Center limit of 20.
 | TachiyomiAZ | 8.8.1-AZ | 13, 12, 11 | ✅
 | TachiyomiJ2K/TachiJ2K | 1.7.4 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself when you have multiple Tachiyomi forks are installed.
-| TachiyomiSY | 1.10.5 | 13, 12, 11 | ✅
+| TachiyomiSY | 1.11.0 | 13, 12, 11 | ✅
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
 | TeamViewer | 15.22.136 | 11 | ✅
 | Telegram | 8.1.2 | 11 | ✅
