@@ -265,9 +265,10 @@ wsa://com.apple.android.music
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
 | Mihon (Beta) | 0.17.0-r6971 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
 | Mihon (Stable) | 0.17.0 | 13 | ✅ |Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in.
+| Minecraft (Stable) | 1.21.62 | Any |❌| App Crashes after Loading Screen | Some Sources indicate the App May Work With Google Play Services or Micro G Services Installed 
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
-| MOLA | 2.1.3 | 11 | ❌ | App crashes
+| MOLA | 2.1.3 | 11 | | App crashes
 | Monogolf | 3.4.10 | 13 | ✅ | 
 | Monument Browser | 1.0.333 | 12 | ✅
 | Moodle | 3.9.5 | 11 | ✅ 
