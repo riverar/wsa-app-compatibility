@@ -95,6 +95,8 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | GCash | 5.62.0 | 13, 12, 11 | 🆖 | Requires GMS and developer options disabled. Will warn "limited functionality" if no GMS is present, if present, it works normally. When it is launched for the first time, it will crash due to a lack of permissions granted on previous versions (5.61.0 and below). Starting with 5.62.0, an alert pops up `We have detected that you are running the GCash app on emulator. You will not be able to proceed.` 
 | GoTyme | 1.36.0 | 13 | ❌ | App crashes immediately upon launching the app
 | LANDBANK | 6.1.1 | 13 | ✅ | The app runs for the most part, however, during the user signing up for a bank account, it alerts you to `Error: The device is incompatible with the SDK` when verifying the identity of the user signing up
+| PalawanPay | 1.0.4634210 | 13 | ❌ | Starting in this version, Google Play will alert you with "This app won't work for your device" and if you sideloaded an older version of the app, the app prompts you to update but when you press "Update app", it takes you to the Google Play listing, it only lets you uninstall it, or open the app.
+
 
 ### Productivity
 | Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
@@ -157,6 +159,7 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 ### Google apps
 | Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
 |-------------|-----------------------|------------------|---------------|--------------|-------|
+| GBoard | Unknown | 12, 11 | ⚠️ | Will not work as expected in newest WSA (2204.x)
 | Google | 14.44.29.28.x86_64 | 13 | 🆖 | Requires GMS
 | Google Calendar | 2022.18.2-448173739-release | 11 | ✅ | Requires GMS | Works fine
 | Google Camera | Unknown | 11 | ✅ || Works fine
@@ -174,6 +177,45 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | Google Services Framework (APK) | 12, API 32 | 12 | ❌ | Although installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app.
 | Google Translate | 6.45.0.474938783.2-release | 12 | ❌ | Crashes on startup due to reliance on Google Services Framework
 
+### Microsoft apps
+| Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
+|-------------|-----------------------|------------------|---------------|--------------|-------|
+| Excel | 16.0.14527.20162 | 11 | ✅
+| Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
+| GitHub | 1.146.0 | 13 | ✅ | Opening any web links using the "Windows default app" doesn't work (including the sign-in). | Set a default browser app first (like Chrome) if you want to use external links within the app
+| Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
+| Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | 11 | ✅
+| Microsoft Bing - Search & earn | 23.5.401109307 | 12 | ✅
+| Microsoft Edge | 120.0.2210.157 | 13,11 | ❌ | Always stuck in Microsoft Edge First Run Experience and a few seconds later, crashes out
+| Microsoft Edge Canary | 103.0.1264.1 | 11 | ❌ || Fails to load websites
+| Microsoft Launcher | 6.230703.0.1122680 | 13, 11 | ✅ | Can't set wallpaper
+| Microsoft PowerApps | 3.21124.20 | 11 | ✅
+| Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
+| Microsoft Teams | 1416/1.0.0 | 12 | ✅
+| Office | 16.0.14527.20162 | 11 | ✅ || Might require microG
+| Office Lens | 16.0.14527.20178 | 11 | ❌ | Might require GMS, cannot sign in
+| PowerPoint | 16.0.14527.20162 | 11 | ✅ | Might require GMS / MicroG
+| Word | 16.0.14430.20246 | 11 | ✅ || Might require microG services.
+
+### Anime and Manga
+| Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
+|-------------|-----------------------|------------------|---------------|--------------|-------|
+
+### Networking Tools
+| Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
+|-------------|-----------------------|------------------|---------------|--------------|-------|
+
+### Utilities
+| Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
+|-------------|-----------------------|------------------|---------------|--------------|-------|
+
+### E-commerce and app stores
+| Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
+|-------------|-----------------------|------------------|---------------|--------------|-------|
+| AliExpress | 8.101.15 | 13 | ⚠️ | Sometimes the app crashes after `Sorry, we have detected unusual traffic from your network`, has significant scaling issues that can be mitigated by maximizing the window
+| Lazada | 7.62.0 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appears too often if logging in. Weird scaling options (interface elements are too large, [an example](https://ibb.co/98qFhmm)) | Keep it in portrait for the app to be usable.
+| Shopee (PH) | 3.35.31 | 13, 11 | ⚠️ | Any login attempt, even if Magisk DenyList is enabled for Shopee PH, would result in a ``Login Failed (F13) error: Oops, your account has been restricted due to unusual activities. Please make sure you comply with Shopee policies.`` Google login requires GMS installed (use Email or Facebook login as alternatives). Banner information is stretched horizontally. Sometimes [this error](https://ibb.co/FxcxxcZ) pops up if you don't log in.
+| Aptoide App Store | 9.20.2.1 | 11 | ✅ | Sometimes, downloads might get stuck
 
 ### Apps
 | Application | Latest tested version | Android versions | Support level | Known Issues | Notes |
@@ -188,14 +230,12 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | Aegis | 2.0.2 | 11 | ✅ |
 | AIDE | 3.2.210316 | 11 | ✅ || Might optionally require GMS
 | AIMP | 3.10.1052 | 11 | ✅
-| AliExpress | 8.101.15 | 13 | ⚠️ | Sometimes the app crashes after `Sorry, we have detected unusual traffic from your network`, has significant scaling issues that can be mitigated by maximizing the window
 | Amaze File Manager | 3.5.3 | 11 | ✅ || Avoid updating the app
 | Amazon Alexa | 2.2.466191.0 | 12 | ✅ |
 | AntennaPod | 2.5.0 | 11 | ✅
 | APKMirror Installer (Beta) | 1.3.2 | 11 | ⚠️ | Cannot remove ads without a subscription which requires Location to be turned on. Apart from this, there are random crashes
 | APKPure | 3.17.26 | 11 | ✅ | Sometimes, it might require multiple attempts to install an app
 | App分享 (AppShare) | 2.1.1 (164) | 11 | ❌ | Can't login
-| Aptoide App Store | 9.20.2.1 | 11 | ✅ | Sometimes, downloads might get stuck
 | AquaMail (Pro) | 1.34.0-118 | 11 | ✅
 | ASUS Router | 1.0.0.7.35 | 12 | ✅ | The text on the bottom bar is more narrow than it should be, resulting in cutting off the last letters or taking up two lines. | 
 | AtB | 1.23 | 12 | ❌ | Crashes during loading, as it relies on Google Services Framework and on having the latter be given `read_device_config` permissions, which doesn't seem to be possible to give.
@@ -242,7 +282,6 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | EDS Lite | 2.0.0.237 | 12 | ✅ || Tested on an Intel x86-64 CPU (may work on AMD64 or ARM64). Recommended to add the exFAT module if you have a container that uses this filesystem.
 | Emby | 2.0.48g | 11 | ✅
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
-| Excel | 16.0.14527.20162 | 11 | ✅
 | F-Droid | 1.19.1 | 13, 12, 11 | ✅
 | F1 TV | 2.0.5 | 11 | ⚠️ | Terrible app experience including screen flashes and crashes while watching a video
 | FaceApp: Face Editor || 11 | ❌
@@ -256,16 +295,12 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | foobar2000 | 1.2.30 | 11 | ✅
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
 | FX File Explorer | 9.0.1.2 (r9012) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
-| Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
-| GBoard | Unknown | 12, 11 | ⚠️ | Will not work as expected in newest WSA (2204.x)
 | Geekbench | 5.4.1 | 11 | ✅
 | GeoGebra | 5.0.674.0 | 11 | ✅
-| GitHub | 1.146.0 | 13 | ✅ | Opening any web links using the "Windows default app" doesn't work (including the sign-in). | Set a default browser app first (like Chrome) if you want to use external links within the app
 | Globe2Go | 4.7.4.20.0810/3890 | 11 | ✅
 | GlobeOne | 1.9.39 | 12, 13| ✅ || May require GMS (otherwise use other login methods available in the app)
 | Gmail | 2022.05.01.440951655.Release | 11 | ✅ || May require GMS
 | Gojek | 4.30.1 | 11 | 🆖 | Requires GMS
-| GoTyme | 1.36.0 | 13 | ❌ | App crashes immediately upon launching the app 
 | Grab | 5.172.200 | 11 | ✅
 | Grayjay | 253 | 13 | ✅ || Tested with the unversal installer variant. Works well on an Intel CPU with integrated graphics (performance may vary)
 | Gycso | 1.1.0 | 12, 11 | ✅ |
@@ -327,15 +362,6 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | McDonald's | 2.76.0 | 13 | ❌ | Device verification fails on the first welcome screen and displays "Your device did not pass our security check. Please check that you run a Google trusted OS version, that the device is not rooted, and that you have no harmful apps installed.
 | Meta Quest (Oculus) | 181.1.0.81.114 | 12 | ⚠️ | Can't log in with a Meta account, but you can install the Facebook or Instagram app and enable "Logging in with accounts" in the Meta Accounts Center, and use the in-app login. Doesn't detect Quest 2 nearby, due to no Bluetooth support.
 | microG Settings | 0.3.1.4.240913 | 13 | ✅ | 
-| Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
-| Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | 11 | ✅
-| Microsoft Bing - Search & earn | 23.5.401109307 | 12 | ✅
-| Microsoft Edge | 120.0.2210.157 | 13,11 | ❌ | Always stuck in Microsoft Edge First Run Experience and a few seconds later, crashes out
-| Microsoft Edge Canary | 103.0.1264.1 | 11 | ❌ || Fails to load websites
-| Microsoft Launcher | 6.230703.0.1122680 | 13, 11 | ✅ | Can't set wallpaper
-| Microsoft PowerApps | 3.21124.20 | 11 | ✅
-| Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
-| Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
@@ -366,8 +392,6 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | Nova Launcher Beta | 8.0.2 | 12 | ⚠️ | UI is messy, but app drawer is fine
 | Nu Carnival | 1.0.2-erolabs | 11 | ❌ | App stuck on a black screen
 | Octopath Traveler: Champions of the Continent (CotC) | 1.5.0 (753410) | 12 | ❌ | OpenGL ES 3.1 (or higher) is unsupported | Security policy violation: 32  (Most likely due to OpenGL issue)
-| Office | 16.0.14527.20162 | 11 | ✅ || Might require microG
-| Office Lens | 16.0.14527.20178 | 11 | ❌ | Might require GMS, cannot sign in
 | Okay? | 4.08 | 11 | ✅
 | One Store | 7.6.0 | 11 | ✅
 | Open Camera (F-droid) | 1.52 | 13 | ❌ | Crashes upon launching the app
@@ -385,7 +409,6 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | OurGroceries | 4.0.10 | 11 | ✅ | Premium keys require Google Play Store
 | Outlook | 4.2138.0 | 11 | ⚠️ | Cannot activate device administrator with Outlook, which prevents activation.
 | Package Manager | v7.0 | 13,12 | ✅ || Recommeded with use of Shizuku for multi-app installation
-| PalawanPay | 1.0.4634210 | 13 | ❌ | Starting in this version, Google Play will alert you with "This app won't work for your device" and if you sideloaded an older version of the app, the app prompts you to update but when you press "Update app", it takes you to the Google Play listing, it only lets you uninstall it, or open the app.
 | Phigros || 11 | ✅
 | Philips Hue | 4.29.0 | 12 | ✅
 | Photomath | 8.22.0 | 13 | ✅ || Installed via `adb` command
@@ -400,7 +423,6 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | PornHub || 11 | ✅
 | Posten (Norway) | 5.16.4 | 12 | ❌ | If installed through the APKPure app, it crashes after the splash screen. If trying to install a locally downloaded XAPK over ADB that simply had its file extension changed to `.apk`, the error message `Failure [INSTALL_PARSE_FAILED_UNEXPECTED_EXCEPTION: Failed to parse /data/app/vmdl1025447652.tmp/base.apk: AndroidManifest.xml]` shows up.
 | PostNord | 8.22.2 | 12 | ⚠️ | On the "Verify mobile number" page, keyboard key presses are not recognised, making it impossible to verify phone numbers.
-| PowerPoint | 16.0.14527.20162 | 11 | ✅ | Might require GMS / MicroG
 | P R O T O | 1.27.0 | 13 | ⚠️ | Zoom in circuit simulation will be reset when resizing window
 | Prep Ladder | 2.0.79-p | 11 | ⚠️ | Video pane opens but no audio or video and time keeps on going
 | Pydroid | 5.00_x86_64 | 11 | ✅
@@ -431,7 +453,6 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | Shein | 9.9.4 | 13 | ✅ || Keep it in portrait to be usable
 | ShemarooMe | 1.0.16 (106) | 11 | ✅
 | Shizuku (Play Store) | 13.5.4.r1049.0r53409 | 13, 12, 11 | ✅ | Can't toggle wireless debugging in WSA 2207.40000.8.0 (android 12), use ADB on PC to use connect instead (even with dev options and USB debugging is on). | The service also works with root (Tested with Magisk)
-| Shopee (PH) | 3.35.31 | 13, 11 | ⚠️ | Any login attempt, even if Magisk DenyList is enabled for Shopee PH, would result in a ``Login Failed (F13) error: Oops, your account has been restricted due to unusual activities. Please make sure you comply with Shopee policies.`` Google login requires GMS installed (use Email or Facebook login as alternatives). Banner information is stretched horizontally. Sometimes [this error](https://ibb.co/FxcxxcZ) pops up if you don't log in.
 | Shosetsu | 2.4.4 | 13, 12 | ✅ | Keyboard navigation is unsupported when reading light novel.
 | Showtime | 3.1.1 | 11 | ❌ | App crashes when you try to login. Button clicks don't work
 | SIM Toolkit (Google) | 12, API 32 | 12 | ❌ | Does not launch even with a shortcut.
@@ -506,7 +527,6 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | WhatsApp | 2.21.20.20 | 11 | ⚠️ | WhatsApp cloud chat backups will not work, app was tested with microG installed
 | Windscribe | 3.74.1243 | 13 | ✅ || VPN workaround is needed after installation to allow the app to create VPN connections.
 | Windy|42.2.3 | 13 | ✅ || The satellite features of this app work, alongside with location features, although you have to grant the app access to it.
-| Word | 16.0.14430.20246 | 11 | ✅ || Might require microG services.
 | Wulkanowy (F-Droid) | 1.4.3 | 11 | ✅
 | Wulkanowy (Play Store) | 1.4.3 | 11 | 🆖
 | Wyze | 2.30.0 | 11 | ✅
