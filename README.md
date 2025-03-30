@@ -565,6 +565,32 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | 超星学习通 | 5.0.3 | 11 | ❌ | Crashes on startup
 
 ### Games
+The game support tables will now be split into different categories (example: Gacha, Casual, MMORPG, MOBA, Racing Sim, Rhythm)
+
+### Gacha
+--------------------------
+| Game | Latest tested version | Android versions | Support level | Known Issues | Notes |
+|-------------|-----------------------|------------------|---------------|--------------|-------|
+| Arknights | 18.9.81 | 13 | ✅ | Stable FPS throughout the game using NVIDIA GeForce GTX 1650, AMD GPU untested.
+| Arknights (明日方舟; Simplified Chinese) | 1.6.01 | 11 | ✅
+| Arknights (CN Server) | 1.9.21 | 12 | ✅
+| Azur Lane | 6.1.2 | 12, 11 | ⚠️ | Sometimes stuck on downloading resources, can be fixed by restarting the app. Overall gameplay, got stable FPS using NVIDIA GeForce GTX 1050 Ti Mobile
+| Blue Archive (GB) | 1.53.225706 | 13 | 🆖 | Tested with GMS / Google login, stable framerate on High settings using NVIDIA GeForce GTX 1650.
+| Blue Archive (ブルーアーカイブ; JP) | 1.35.231115 | 13 | ✅ | Installing the HEVC video extension (9NMZLZ57R3T7 or 9N4WGH0Z6VHQ) will work properly. If not installed, it will be stuck in black screen.
+| Blue Archive (Global) | 1.60.260228 | 13 | ❌ | The app crashes with no context loaded in few seconds | Installed via `adb` command
+| Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
+| Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with Nvidia graphics
+| Girls' Frontline (EN) | 2.0900_375 | 12, 11 | ⚠️ || Sometimes freeze while downloading resources, fixed by restarting the app
+| Honkai Impact 3rd | 7.3.0 | 11, 13 | ⚠️ | Graphics quality is fine, the frame rate does drop down quite a bit during combat, the anti-aliasing isn't as smooth for Kiana and Mei models even at "Max" graphics quality - [as shown in this gameplay video](https://youtu.be/6e-RQ2b2hoM). Combat works but a black screen appears during cutscenes, but cutscene audio still plays in the background. Dialog scenes still appear normal (It is recommended to download all resources for optimal gameplay). Cannot move the character using WASD controls but touch controls for movement/combat skills still work. | Tested under WSA with Google Play, under NVIDIA RTX 4060 Laptop GPU (Vulkan driver is D3D12, but not enabled). It's recommended to change the graphic settings after installing the game for optimal performance.
+| Princess Connect! Re: Dive (Korean) | 5.6.1 | 12 | ❌ | Only touch effect works after displaying the publisher logo
+| Princess Connect! Re: Dive (Japanese) | 6.7.0 | 12 | ❌ | Only touch effect works after displaying the publisher logo
+| Princess Connect! Re: Dive (Simplified Chinese) | 4.9.6 | 12 | ❌ | Only touch effect works after displaying "loading..."
+| Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 11 | ⚠️ | Battle experience is terrible, cannot sync with Google Play Games
+| Princess Connect! Re: Dive (Global) | 4.4.1 | 12 | ❌ | Only touch effect works after displaying the publisher logo
+| 云·原神 (Genshin Impact (Cloud app)) || 11 | ✅
+| 原神（Genshin Impact）| 2.2.0 | 11 | ⚠️ | Working but heavy graphical glitches - [video](https://www.bilibili.com/video/BV1zT4y1o73D?)
+| 崩坏学园2 (Honkai Gakuen 2) | 8.5 | 11 | ✅ || Game has inbox keyboard controller for WASD
+
 
 | Game | Latest tested version | Android versions | Support level | Known Issues | Notes |
 |-------------|-----------------------|------------------|---------------|--------------|-------|
@@ -582,22 +608,13 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | Animal Crossing: Pocket Camp | 5.0.2 | 12 | ❌ | error 802-1-01a-069-008 ||
 | Arcaea | 3.8.8 | 11 | ⚠️ | Keyboard doesn't work on login/register form
 | Archero | 4.8.2 | 12 | ✅ | Requires GMS and Play Games to load your cloud progress
-| Arknights | 18.9.81 | 13 | ✅ | Stable FPS throughout the game using NVIDIA GeForce GTX 1650, AMD GPU untested.
-| Arknights (明日方舟; Simplified Chinese) | 1.6.01 | 11 | ✅
-| Arknights (CN Server) | 1.9.21 | 12 | ✅
 | Asphalt 8 | 7.6.0i| 12, 13 | ✅ | Keyboard supported in latest version (2311.40000.5.0) but requires GMS for game progress syncing thru Google Account. Account progress syncing works using a WSA install with GMS and a Google account.
 | Asphalt 9 || 11 | ⚠️ | Keyboard unsupported
 | Avakin Life || 13 | ⚠️ | Low FPS with iGPUs
-| Azur Lane | 6.1.2 | 12, 11 | ⚠️ | Sometimes stuck on downloading resources, can be fixed by restarting the app. Overall gameplay, got stable FPS using NVIDIA GeForce GTX 1050 Ti Mobile
 | Bad Piggies HD | 2.4.3141 | 11 | ✅
 | BanG Dream! Girls Band Party! | 4.5.0 | 11 | 🆖 | Requires GMS
 | Battle Cats Quest | 1.0.4 | 11 | ✅
 | Beat the Boss 4 | 1.7.7 | 13 | ✅
-| Blue Archive (GB) | 1.53.225706 | 13 | 🆖 | Tested with GMS / Google login, stable framerate on High settings using NVIDIA GeForce GTX 1650.
-| Blue Archive (ブルーアーカイブ; JP) | 1.35.231115 | 13 | ✅ | Installing the HEVC video extension (9NMZLZ57R3T7 or 9N4WGH0Z6VHQ) will work properly. If not installed, it will be stuck in black screen.
-| Blue Archive (Global) | 1.60.260228 | 13 | ❌ | The app crashes with no context loaded in few seconds | Installed via `adb` command
-| Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
-| Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with Nvidia graphics
 | Brawl Stars | 38.159 | 11,13 | ❌ | Game crashes
 | C.A.T.S (Crash Arena Turbo Stars) | 2.40.2 | 11 | ✅ | GMS warnings might appear but these can be safely ignored
 | Candy Crush Saga | 1.213.2.1 (12132011) | 11 | ✅
@@ -629,7 +646,6 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | Game Dev Story | 2.47 | 11 | ❌ | App can start but with infinite "loading" screen
 | Garage: Bad Dream Adventure | 1.0.191 | 11 | ⚠️ | Stuck after start of Chapter 1
 | Geometry Dash | 2.11 | 11 | ✅ | If you use high refresh rate monitor, there is a small period where the game speeds up before the level plays for the first time and the audio will get desynced. You can simply pause and resume or die once to fix it since it won't happen on second attempt.
-| Girls' Frontline (EN) | 2.0900_375 | 12, 11 | ⚠️ || Sometimes freeze while downloading resources, fixed by restarting the app
 | Golf Rival | 2.54.241 (88) | 11 | 🆖 | Requires GMS | Produces warnings about GMS. Issues include not being able to pan.
 | Grand Theft Auto: San Andreas || 11 | ✅
 | Guardian Tales | 2.53.1 | 12, 11 | 🆖 | Requires GMS
@@ -637,7 +653,6 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | Hay Day | 1.55.93 (1706) | 1 | ❌ | App crashes on startup (Worked on 1.54.71 and earlier)
 | Hill Climb Racing | 1.53.0 (501) | 11 | ✅
 | Hitman Sniper | 1.7.193827 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
-| Honkai Impact 3rd | 7.3.0 | 11, 13 | ⚠️ | Graphics quality is fine, the frame rate does drop down quite a bit during combat, the anti-aliasing isn't as smooth for Kiana and Mei models even at "Max" graphics quality - [as shown in this gameplay video](https://youtu.be/6e-RQ2b2hoM). Combat works but a black screen appears during cutscenes, but cutscene audio still plays in the background. Dialog scenes still appear normal (It is recommended to download all resources for optimal gameplay). Cannot move the character using WASD controls but touch controls for movement/combat skills still work. | Tested under WSA with Google Play, under NVIDIA RTX 4060 Laptop GPU (Vulkan driver is D3D12, but not enabled). It's recommended to change the graphic settings after installing the game for optimal performance.
 | Hop Mania (Play Games) | 2023.08.46243 | 13 | 🆖 || Requires GMS, keyboard supported
 | Hungry Shark Evolution || 11 | ✅
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | 11 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64
@@ -679,11 +694,6 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | Pokémon Unite | 1.2.1.2 | 11 | ⚠️ | Battle experience is terrible
 | Pou | 1.4.84 | 11 | ✅
 | Prince of Persia: The Shadow and the Flame | 2.0.2 | 13, 12, 11 | ✅
-| Princess Connect! Re: Dive (Korean) | 5.6.1 | 12 | ❌ | Only touch effect works after displaying the publisher logo
-| Princess Connect! Re: Dive (Japanese) | 6.7.0 | 12 | ❌ | Only touch effect works after displaying the publisher logo
-| Princess Connect! Re: Dive (Simplified Chinese) | 4.9.6 | 12 | ❌ | Only touch effect works after displaying "loading..."
-| Princess Connect! Re: Dive (Traditional Chinese) | 2.9.0 | 11 | ⚠️ | Battle experience is terrible, cannot sync with Google Play Games
-| Princess Connect! Re: Dive (Global) | 4.4.1 | 12 | ❌ | Only touch effect works after displaying the publisher logo
 | Ragnarok M: Eternal Love EU | 1.0.70 | 11 | ✅
 | Rayman Adventures | 3.9.95 ARMv7 | 12 | ✅ | Gameplay speed is tied to framerate, and even an Nvidia 1050 Ti occasionally gets slowdowns in the ARM version. | The game works well without major problems. The x86_64 version was discontinued after 3.9.0 and is no longer able to download game assets on first launch. Xbox Series controller works both with Bluetooth and USB, but only during levels.
 | Rayman Classic | 1.0.1 | 11 | ✅
@@ -732,9 +742,6 @@ Apps will be split into different categories (example: Finance, Productivity, Ca
 | 白夜極光 (Alchemy Stars) | 1.2.2 | 11 | ⚠️ | Poor in-game performance
 | 公主连结R (Princess Connect! Re: Dive (Simplified Chinese) | 3.4.10 | 11 | ✅
 | 神魔之塔 (Tower of Saviors) | 2022.600 | 12 | ✅ | Gameplay and graphics are excellent, but the game will crash at random when downloading game data. | The first time you open it, it will have difficulty downloading game data because it will crash randomly; simply be patient and keep restarting.
-| 云·原神 (Genshin Impact (Cloud app)) || 11 | ✅
-| 原神（Genshin Impact）| 2.2.0 | 11 | ⚠️ | Working but heavy graphical glitches - [video](https://www.bilibili.com/video/BV1zT4y1o73D?)
-| 崩坏学园2 (Honkai Gakuen 2) | 8.5 | 11 | ✅ || Game has inbox keyboard controller for WASD
 | 東方LostWord (Touhou: Lost Word) | 1.16.0 | 11 | ❌
 | 战双帕弥什 (Punishing: Gray Raven) || 11 | ✅ || Keyboard is supported
 | プロジェクトセカイ カラフルステージ！ feat. 初音ミク (Project Sekai Colorful Stage JP) | 3.3.1.Luna | 13, 12, 11 | ⚠️ | Works well, sometimes FPS spikes when a lot of notes appear | Requires an account with progress on it to be able to skip the tutorial(on start screen click the 3 lines on the top right for account settings), if not, the game crashes or freezes on a blackscreen. Multi-Touch Display required. Starting a LIVE takes a while on slower machines.
