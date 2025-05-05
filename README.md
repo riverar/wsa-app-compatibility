@@ -137,6 +137,7 @@ wsa://com.apple.android.music
 | DirecTV for Tablet | 5.29.001 | 11 | ⚠️ || Frequent crashing, other functionality proper.
 | Discord | 98.6 | 11 | ✅
 | DMM Games Store | 2.8.0 | 11 | 🆖 | Requires GMS
+| DriveSync | 7.2.7 | 13 | 🆖 | Requires either GMS or MicroG (for Google Drive access) | Tested with just one sync folder (since I'm using the free version)
 | Duolingo | 5.2.35 | 11 | ✅
 | DuckDuckGo Privacy Browser+ | 5.142.2 | 12 | ✅
 | Easybell | 2.1.30 | 11 | ✅
