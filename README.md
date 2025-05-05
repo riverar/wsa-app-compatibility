@@ -98,7 +98,7 @@ wsa://com.apple.android.music
 | ASUS Router | 1.0.0.7.35 | 12 | ✅ | The text on the bottom bar is more narrow than it should be, resulting in cutting off the last letters or taking up two lines. | 
 | AtB | 1.23 | 12 | ❌ | Crashes during loading, as it relies on Google Services Framework and on having the latter be given `read_device_config` permissions, which doesn't seem to be possible to give.
 | Audible | 3.15.0 | 11 | ✅
-| Aurora Store | 4.1.1 | 12, 11 | ✅
+| Aurora Store | 4.7.0 | 13, 12, 11 | ✅ | Opening Spoof Manager sometimes crashes the app | Supports most of the advanced install types like rooted (with Magisk/KernelSU) or via Shizuku
 | Authy | 26.1.0 | 11 | ❌ | This device does not meet the minimum integrity requirements. |
 | BandLab | 10.45.0 | 13, 12 | 🆖 | Slight audio lag with Android 12, it was fixed in Microsoft's 2303.40000.3.0 update | Only tested from installing from Google Play Store with Google services, otherwise app has no issues whatsoever. It's responsive, and in Android 13 there's no audio lag. |
 | BankID (Norway) | 2.1 | 12 | ❌ | Spams the desktop browser with new tabs about how the app thinks the phone is rooted. 
@@ -152,6 +152,7 @@ wsa://com.apple.android.music
 | Facebook Lite | 339.0.0.10.100 | 12 | ✅ |
 | Facebook Messenger | 330.0.0.12.116 (x86_64) | 11 | ⚠️ | Chat Heads don't work
 | Facebook Messenger Lite | 334.0.0.10.101 | 12 | ✅ | 
+| FakeGapps | 6.6 | 13 | ✅ || Requires both Magisk root and the LSPosed module in order to pass `Spoof System Signature` in MicroG's self-sheck. 
 | FAST Speed Test | 1.0.8 (88) | 11 | ✅
 | FDM (Free Download Manager) (Play Store) | 6.18.1.4896 | 13 | ✅ | The app crashed after the splash screen (after granting its needed permissions) on some versions of the subsystem (due to libhoudini). Works fine again as of WSA 2301.40000.7.0 | Tested on an Intel x86_64 CPU
 | Fennec F-Droid | 105.1.0 | 12 | ❌ | While the app is correctly installed, it crashes very often, and sites load very, very slowly compared to Firefox Nightly.
@@ -186,7 +187,7 @@ wsa://com.apple.android.music
 | Google Photos | 5.91.0.448844219 | 11 | ✅ | Requires GMS |
 | Google Play Games | 2023.08.46243 | 13 | 🆖 | Requires GMS
 | Google Play Store | 43.0.18-31 [0] [PR] 679686942 | 13 | 🆖 | Requires GMS. If you're changing languages a lot in the app, there's a prompt to restart the app to complete the update. Wait for a few seconds, then tap/click restart to proceed (sometimes works, sometimes not) or alternatively, clear the app data and open it again. | Play Protect certification status will be `Device is uncertified`
-| Google Services Framework | 25.08.32 (190800-731361394) | 13, 12 | 🆖 | Although manual installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app. | The WSABuilds variants (that came bundled with Google Play Services) works fine.
+| Google Services Framework | 25.08.32 (190800-731361394) | 13, 12 | 🆖 | Although manual installation succeeds and apps become aware of it, it lacks a lot of permissions needed for most functions, e.g. `read_device_config`, which can't be given even with the Settings app. New Outlook starts WSA instead of the default desktop browser when signing in using a Google Account. | The WSABuilds variants (that came bundled with Google Play Services) works fine.
 | Google Translate | 9.3.78.731229477.7-release | 13, 12 | 🆖 | Using the "Camera" option lags the app a lot. Also, translating text results with `Can't Translate: Check your connection and try again` even though WSA's networking stack has an internet connection.
 | GoTyme | 1.36.0 | 13 | ❌ | App crashes immediately upon launching the app 
 | Grab | 5.172.200 | 11 | ✅
@@ -232,10 +233,10 @@ wsa://com.apple.android.music
 | Kiwi Browser | 107.0.5304.74 | 13, 12 | ✅ |
 | Kobo Books | 8.40.29843 | 11 | ⚠️ | Aspect ratio and resolution are fixed, appears blurry when resized
 | Koguma | 0.0.1 | 13 | ✅
-| Komikku (stable) | 1.12.6 | 13 | ✅
-| Komikku (beta) | 1.13.0-9845 | 13 | ✅
-| Kotatsu | 7.7.11 | 13 | ✅ | | Keyboard navigation is supported
-| Kotatsu Nightly | N20250315 | 13 | ✅ | | Keyboard navigation is supported
+| Komikku (stable) | 1.13.1 | 13 | ✅
+| Komikku (beta) | 1.13.1-10002 | 13 | ✅
+| Kotatsu | 8.1.4 | 13 | ✅ | | Keyboard navigation is supported
+| Kotatsu Nightly | N20250504 | 13 | ✅ | | Keyboard navigation is supported
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | LANDBANK | 6.1.1 | 13 | ✅ | The app runs for the most part, however, during the user signing up for a bank account, it alerts you to `Error: The device is incompatible with the SDK` when verifying the identity of the user signing up
 | Lawnchair | 14 beta 2 | 13, 12, 11 | ✅ | The app drawer seems to be blank in portrait. A workaround would be either maximizing the app or resize it to be in a landscape orientation. Can't change the wallpaper with a toast notification: `Disabled by your admin`.
@@ -246,8 +247,9 @@ wsa://com.apple.android.music
 | LinkedIn | 4.1.632 | 11 | ✅
 | Logcat Reader | 1.7.2 | 13 | ✅ | 
 | LNReader | 1.1.18 | 13, 12 | ✅ || Partial keyboard navigation is available (example: arrows key up and down - scrolls) when reading a light novel.
-| LSPosed | 1.8.6 | 13, 11 | ✅
+| LSPosed | 1.9.2 (7024) | 13, 11 | ⚠️ | You can only access it by clicking the LSPosed notification (once WSA starts from cold boot). Creating the shortcut doesn't work | The version used is the Zygisk variant (installable as a Magisk module and Zygisk enabled).
 | Magisk | 25.2 | 13, 11 | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131)
+| MMRL | v33599-release | 13 | ✅ || Requires root access (provided via Magisk or KernelSU) to install the modules. If you're non-root, it only acts as a module downloader.
 | ManCityApp | 2.1.11 | 11 | 🆖 || Might require GMS
 | MangaYomi | 0.2.2 | 13 | ✅ | Doesn't support keyboard (media) controls on the media player | Manga reader supports keyboard navigation. Tested with the x86_64 release.
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
@@ -255,7 +257,7 @@ wsa://com.apple.android.music
 | Maya (Paymaya) | 2.85.1 | 13 | ❌ | App crashes immediately upon launching the app 
 | McDonald's | 2.76.0 | 13 | ❌ | Device verification fails on the first welcome screen and displays "Your device did not pass our security check. Please check that you run a Google trusted OS version, that the device is not rooted, and that you have no harmful apps installed.
 | Meta Quest (Oculus) | 181.1.0.81.114 | 12 | ⚠️ | Can't log in with a Meta account, but you can install the Facebook or Instagram app and enable "Logging in with accounts" in the Meta Accounts Center, and use the in-app login. Doesn't detect Quest 2 nearby, due to no Bluetooth support.
-| microG Settings | 0.3.1.4.240913 | 13 | ✅ | 
+| microG Settings | 0.3.7.250932 | 13 | ✅ | | A workaround if you want to use your Google Account using New Outlook (starts a desktop web browser and not WSA by accident)
 | microG Settings (Revanced fork) | 0.3.1.4.240913 | 13 | ✅ | | Works on Revanced/RVX versions of YouTube and YouTube Music
 | Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
 | Microsoft Azure | 3.9.2.2021.09.30-19.35.50 | 11 | ✅
@@ -267,8 +269,8 @@ wsa://com.apple.android.music
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
-| Mihon (Beta) | 0.18.1-r7155 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
-| Mihon (Stable) | 0.18.0 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. Pressing any key on the keyboard during the Onboarding Guide (the thing when you start Mihon for the first time) will crash the app. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
+| Mihon (Beta) | 0.18.0-r7220 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
+| Mihon (Stable) | 0.18.0 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
 | MOLA | 2.1.3 | 11 | ❌ | App crashes
@@ -334,6 +336,7 @@ wsa://com.apple.android.music
 | PostNord | 8.22.2 | 12 | ⚠️ | On the "Verify mobile number" page, keyboard key presses are not recognised, making it impossible to verify phone numbers.
 | PowerPoint | 16.0.14527.20162 | 11 | ✅ | Might require GMS / MicroG
 | P R O T O | 1.27.0 | 13 | ⚠️ | Zoom in circuit simulation will be reset when resizing window
+| Projectivy Launcher | 4.63 | 13 | ✅ | Selecting Android Settings in the Settings section opens the Windows Settings App instead | You can use both keyboard and mouse (right-click opens the menu)  
 | Prep Ladder | 2.0.79-p | 11 | ⚠️ | Video pane opens but no audio or video and time keeps on going
 | Pydroid | 5.00_x86_64 | 11 | ✅
 | Q-Dance | 8.0.7 | 11 | ❌ | App crashes
