@@ -235,9 +235,9 @@ wsa://com.apple.android.music
 | Kobo Books | 8.40.29843 | 11 | ⚠️ | Aspect ratio and resolution are fixed, appears blurry when resized
 | Koguma | 0.0.1 | 13 | ✅
 | Komikku (stable) | 1.13.1 | 13 | ✅
-| Komikku (beta) | 1.13.1-10002 | 13 | ✅
-| Kotatsu | 8.1.4 | 13 | ✅ | | Keyboard navigation is supported
-| Kotatsu Nightly | N20250504 | 13 | ✅ | | Keyboard navigation is supported
+| Komikku (beta) | 1.13.2-10101 | 13 | ✅
+| Kotatsu | 8.1.8 | 13 | ✅ | | Keyboard navigation is supported
+| Kotatsu Nightly | N20250527 | 13 | ✅ | | Keyboard navigation is supported
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | LANDBANK | 6.1.1 | 13 | ✅ | The app runs for the most part, however, during the user signing up for a bank account, it alerts you to `Error: The device is incompatible with the SDK` when verifying the identity of the user signing up
 | Lawnchair | 14 beta 2 | 13, 12, 11 | ✅ | The app drawer seems to be blank in portrait. A workaround would be either maximizing the app or resize it to be in a landscape orientation. Can't change the wallpaper with a toast notification: `Disabled by your admin`.
@@ -270,7 +270,7 @@ wsa://com.apple.android.music
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
-| Mihon (Beta) | 0.18.0-r7220 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
+| Mihon (Beta) | 0.18.0-r7264 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
 | Mihon (Stable) | 0.18.0 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint).
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
@@ -403,9 +403,9 @@ wsa://com.apple.android.music
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
 | Tachiyomi (Preview) | 0.15.3-6421 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
 | Tachiyomi (Stable) | 0.15.3 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Hovering the mouse pointer, highlights the input element. Some of the notifications will be missing due to the Windows Action Center limit of 20.
-| TachiyomiAZ | 8.8.1-AZ | 13, 12, 11 | ✅
+| TachiyomiAZ | 8.8.2-AZ | 13, 12, 11 | ✅
 | TachiyomiJ2K/TachiJ2K | 1.7.4 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself when you have multiple Tachiyomi forks are installed.
-| TachiyomiSY | 1.11.0 | 13, 12, 11 | ✅
+| TachiyomiSY | 1.12.0 | 13, 12, 11 | ✅
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
 | TeamViewer | 15.22.136 | 11 | ✅
 | Telegram | 8.1.2 | 11 | ✅
@@ -464,8 +464,8 @@ wsa://com.apple.android.music
 | Ymusic | 3.7.2 | 11 | ✅
 | Yodayo (Play Store)| 1.4.2 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
 | Yodayo (APK) | 1.7.6 171 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
-| Yokai | 1.9.7 | 13 | ✅
-| Yokai Nightly | 1.9.7 | 13 | ✅
+| Yokai | 1.9.7.3 | 13 | ✅
+| Yokai Nightly | 1.10.0-r6267 | 13 | ✅
 | YouTube (Google)| 16.40.35 | 11 | 🆖 | Requires GMS
 | YouTube Music (Google) | 5.07.50 | 11 | 🆖 | Requires GMS
 | YouTube Music Vanced | 43.9.50 | 11 | ✅
