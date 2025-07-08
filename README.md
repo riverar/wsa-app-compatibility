@@ -85,6 +85,7 @@ wsa://com.apple.android.music
 | Android System Webview | 133.0.6943.137 | 13, 12 | ✅ ||
 | Android System Webview Beta | 131.0.6778.2 | 13, 12 | ✅ ||
 | Android System Webview Dev | 103.0.5060.22 | 11 | ✅ ||
+| Anikku (Beta) | 0.1.4-8528 | 13 | ✅ ||
 | AniLabX | 3.8.12 (Iridium) - Beta | 11 | ✅
 | Animiru | 0.16.0.0 | 13 | ✅ | 
 | Aniyomi | 0.15.2.1 | 13, 12 | ✅ |
@@ -252,7 +253,7 @@ wsa://com.apple.android.music
 | Magisk | 25.2 | 13, 11 | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131)
 | MMRL | v33599-release | 13 | ✅ || Requires root access (provided via Magisk or KernelSU) to install the modules. If you're non-root, it only acts as a module downloader.
 | ManCityApp | 2.1.11 | 11 | 🆖 || Might require GMS
-| MangaYomi | 0.2.2 | 13 | ✅ | Doesn't support keyboard (media) controls on the media player | Manga reader supports keyboard navigation. Tested with the x86_64 release.
+| MangaYomi | 0.6.25 | 13 | ⚠️ | Sidebar (landscape)/bottom (portrait) [tab navigation doesn't render](https://ibb.co/k2RCjvch) but they're clickable, however, you can make them appear by heading into some submenus but [it'll glitch out like this](https://ibb.co/1fBPv6m7) Doesn't support keyboard (media) controls on the media player | Manga reader supports keyboard navigation. Tested with the x86_64 release.
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
 | Material Files | 1.5.2 | 12, 11 | ✅
 | Maya (Paymaya) | 2.85.1 | 13 | ❌ | App crashes immediately upon launching the app 
@@ -270,7 +271,7 @@ wsa://com.apple.android.music
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
-| Mihon (Beta) | 0.18.0-r7288 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
+| Mihon (Beta) | 0.18.0-r7299 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
 | Mihon (Stable) | 0.18.0 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
