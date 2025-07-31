@@ -83,9 +83,9 @@ wsa://com.apple.android.music
 | Amazon Alexa | 2.2.466191.0 | 12 | ✅ ||
 | Android System Info | 1.4.2 | 11 | ✅ ||
 | Android System Webview | 133.0.6943.137 | 13, 12 | ✅ ||
-| Android System Webview Beta | 131.0.6778.2 | 13, 12 | ✅ ||
+| Android System Webview Beta | 139.0.7258.51 | 13, 12 | ✅ ||
 | Android System Webview Dev | 103.0.5060.22 | 11 | ✅ ||
-| Anikku (Beta) | 0.1.4-8528 | 13 | ✅ ||
+| Anikku (Beta) | 0.1.4-8528 | 13 | ✅ || Toast notification appears as a windows notification.
 | AniLabX | 3.8.12 (Iridium) - Beta | 11 | ✅
 | Animiru | 0.16.0.0 | 13 | ✅ | 
 | Aniyomi | 0.15.2.1 | 13, 12 | ✅ |
@@ -147,7 +147,7 @@ wsa://com.apple.android.music
 | Emby | 2.0.48g | 11 | ✅
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
 | Excel | 16.0.14527.20162 | 11 | ✅
-| F-Droid | 1.22.0 | 13, 12, 11 | ✅
+| F-Droid | 1.23.0 | 13, 12, 11 | ✅ || 
 | F1 TV | 2.0.5 | 11 | ⚠️ | Terrible app experience including screen flashes and crashes while watching a video
 | FaceApp: Face Editor || 11 | ❌
 | Facebook | 377.0.0.22.107 | 12 | ✅ | 
@@ -224,6 +224,7 @@ wsa://com.apple.android.music
 | Jolibee  | 1.21.1 | 13 | ✅
 | Joplin | 2.4.3 (2097651) | 11 | ✅
 | JuiceSSH | 3.2.2 | 11 | ⚠️ | Connecting to SSH server needs multiple tries
+| Kahon | 0.18.1 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Kahon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
 | Kahoot || 11 | ✅
 | Katakana Pro | 1.4.4 | 12 | ✅
 | KawaiiNihongo | 3.10.9 | 12 | ✅
@@ -235,8 +236,8 @@ wsa://com.apple.android.music
 | Kiwi Browser | 107.0.5304.74 | 13, 12 | ✅ |
 | Kobo Books | 8.40.29843 | 11 | ⚠️ | Aspect ratio and resolution are fixed, appears blurry when resized
 | Koguma | 0.0.1 | 13 | ✅
-| Komikku (stable) | 1.13.1 | 13 | ✅
-| Komikku (beta) | 1.13.2-10101 | 13 | ✅
+| Komikku (stable) | 1.13.1 | 13 | ✅ || Toast notification appears as a windows notification.
+| Komikku (beta) | 1.13.2-10138 | 13 | ✅ || Toast notification appears as a windows notification.
 | Kotatsu | 8.1.8 | 13 | ✅ | | Keyboard navigation is supported. Toast notification appears as a windows notification.
 | Kotatsu Nightly | N20250623 | 13 | ✅ | | Keyboard navigation is supported. Toast notification appears as a windows notification.
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
@@ -249,9 +250,9 @@ wsa://com.apple.android.music
 | LinkedIn | 4.1.632 | 11 | ✅
 | Logcat Reader | 1.7.2 | 13 | ✅ | 
 | LNReader | 1.1.18 | 13, 12 | ✅ || Partial keyboard navigation is available (example: arrows key up and down - scrolls) when reading a light novel.
-| LSPosed | 1.9.2 (7024) | 13, 11 | ⚠️ | You can only access it by clicking the LSPosed notification (once WSA starts from cold boot). Creating the shortcut doesn't work | The version used is the Zygisk variant (installable as a Magisk module and Zygisk enabled).
+| LSPosed | 1.9.2 (7024) | 13, 11 | ⚠️ | You can only access it by clicking the LSPosed notification (once WSA starts from cold boot). Alternatively, you can run this long command `adb shell su -c am start-activity -a android.intent.action.MAIN -p com.android.shell -n com.android.shell/.BugreportWarningActivity -c org.lsposed.manager.LAUNCH_MANAGER` if you accidentally cleared the Windows notification | The version used is the Zygisk variant (installable as a Magisk module and Zygisk enabled).
 | Magisk | 25.2 | 13, 11 | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131)
-| MMRL | v33599-release | 13 | ✅ || Requires root access (provided via Magisk or KernelSU) to install the modules. If you're non-root, it only acts as a module downloader.
+| MMRL | v33920-release | 13 | ✅ || Requires root access (provided via Magisk or KernelSU) to install the modules. If you're non-root, it only acts as a module downloader.
 | ManCityApp | 2.1.11 | 11 | 🆖 || Might require GMS
 | MangaYomi | 0.6.25 | 13 | ⚠️ | Sidebar (landscape)/bottom (portrait) [tab navigation doesn't render](https://ibb.co/k2RCjvch) but they're clickable, however, you can make them appear by heading into some submenus but [it'll glitch out like this](https://ibb.co/1fBPv6m7) Doesn't support keyboard (media) controls on the media player | Manga reader supports keyboard navigation. Tested with the x86_64 release.
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
@@ -271,7 +272,7 @@ wsa://com.apple.android.music
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
-| Mihon (Beta) | 0.18.0-r7299 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
+| Mihon (Beta) | 0.18.0-7326 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
 | Mihon (Stable) | 0.18.0 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
@@ -291,6 +292,7 @@ wsa://com.apple.android.music
 | My Verizon | 16.4.2 | 11 | ✅ || The page might be displayed sideways for a short amount of time when the app is launched. The app automatically reverts to the correct orientation in a second.
 | NClientV2 (Release)| 3.0.5 | 13 | ✅ | Keyboard navigation is unsupported when reading. | You can try enabling `Disguise app in drawer` but it doesn't work in the Windows start menu, but works with an installed launcher like Lawnchair or Rootless Pixel Launcher.
 | Neko | 2.20.2 | 13, 12, 11 | ✅ || Toast notification appears as a windows notification.
+| Nekotatsu-mobile | 0.1.1 | 13 | ✅ || Toast notification appears as a windows notification.
 | Nekogram X | 8.1.2-1-rc01 | 11 | ✅ || Use NoGcm variant
 | Netflix (Aurora Store) | 8.4.0 | 11 | ❌ | "Device not supported" error
 | Nettfart Mobile | 3.6.8 | 12 | ✅ | The app must be given network permissions in App Settings
@@ -405,7 +407,7 @@ wsa://com.apple.android.music
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
 | Tachiyomi (Preview) | 0.15.3-6421 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
 | Tachiyomi (Stable) | 0.15.3 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Hovering the mouse pointer, highlights the input element. Some of the notifications will be missing due to the Windows Action Center limit of 20.
-| TachiyomiAZ | 8.8.2-AZ | 13, 12, 11 | ✅
+| TachiyomiAZ | 8.8.2-AZ | 13, 12, 11 | ✅ || Dev builds use the same version as the stable version
 | TachiyomiJ2K/TachiJ2K | 1.7.4 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself when you have multiple Tachiyomi forks are installed.
 | TachiyomiSY | 1.12.0 | 13, 12, 11 | ✅ || Toast notification appears as a windows notification.
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
