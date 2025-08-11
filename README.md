@@ -224,7 +224,7 @@ wsa://com.apple.android.music
 | Jolibee  | 1.21.1 | 13 | ✅
 | Joplin | 2.4.3 (2097651) | 11 | ✅
 | JuiceSSH | 3.2.2 | 11 | ⚠️ | Connecting to SSH server needs multiple tries
-| Kahon | 0.18.1 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Kahon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
+| Kahon | 0.19.2 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Kahon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
 | Kahoot || 11 | ✅
 | Katakana Pro | 1.4.4 | 12 | ✅
 | KawaiiNihongo | 3.10.9 | 12 | ✅
@@ -238,8 +238,8 @@ wsa://com.apple.android.music
 | Koguma | 0.0.1 | 13 | ✅
 | Komikku (stable) | 1.13.1 | 13 | ✅ || Toast notification appears as a windows notification.
 | Komikku (beta) | 1.13.2-10138 | 13 | ✅ || Toast notification appears as a windows notification.
-| Kotatsu | 8.1.8 | 13 | ✅ | | Keyboard navigation is supported. Toast notification appears as a windows notification.
-| Kotatsu Nightly | N20250623 | 13 | ✅ | | Keyboard navigation is supported. Toast notification appears as a windows notification.
+| Kotatsu | 9.1.1 | 13 | ✅ | | Keyboard navigation is supported. Toast notification appears as a windows notification.
+| Kotatsu Nightly | N20250811 | 13 | ✅ | | Keyboard navigation is supported. Toast notification appears as a windows notification.
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | LANDBANK | 6.1.1 | 13 | ✅ | The app runs for the most part, however, during the user signing up for a bank account, it alerts you to `Error: The device is incompatible with the SDK` when verifying the identity of the user signing up
 | Lawnchair | 14 beta 2 | 13, 12, 11 | ✅ | The app drawer seems to be blank in portrait. A workaround would be either maximizing the app or resize it to be in a landscape orientation. Can't change the wallpaper with a toast notification: `Disabled by your admin`.
@@ -254,7 +254,7 @@ wsa://com.apple.android.music
 | Magisk | 25.2 | 13, 11 | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131)
 | MMRL | v33920-release | 13 | ✅ || Requires root access (provided via Magisk or KernelSU) to install the modules. If you're non-root, it only acts as a module downloader.
 | ManCityApp | 2.1.11 | 11 | 🆖 || Might require GMS
-| MangaYomi | 0.6.25 | 13 | ⚠️ | Sidebar (landscape)/bottom (portrait) [tab navigation doesn't render](https://ibb.co/k2RCjvch) but they're clickable, however, you can make them appear by heading into some submenus but [it'll glitch out like this](https://ibb.co/1fBPv6m7) Doesn't support keyboard (media) controls on the media player | Manga reader supports keyboard navigation. Tested with the x86_64 release.
+| MangaYomi | 0.6.35 | 13 | ⚠️ | Sidebar (landscape)/bottom (portrait) [tab navigation doesn't render](https://ibb.co/k2RCjvch) but they're clickable, however, you can make them appear by heading into some submenus but [it'll glitch out like this](https://ibb.co/1fBPv6m7) Doesn't support keyboard (media) controls on the media player | Manga reader supports keyboard navigation. Tested with the x86_64 release.
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
 | Material Files | 1.5.2 | 12, 11 | ✅
 | Maya (Paymaya) | 2.85.1 | 13 | ❌ | App crashes immediately upon launching the app 
@@ -272,8 +272,8 @@ wsa://com.apple.android.music
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
-| Mihon (Beta) | 0.18.0-7326 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
-| Mihon (Stable) | 0.18.0 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
+| Mihon (Beta) | 0.19.1-7358 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
+| Mihon (Stable) | 0.19.1 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
 | Moescape AI | 1.9.4 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
@@ -469,7 +469,7 @@ wsa://com.apple.android.music
 | Yodayo (Play Store)| 1.4.2 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
 | Yodayo (APK) | 1.9.4 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
 | Yokai | 1.9.7.3 | 13 | ✅ || Toast notification appears as a windows notification.
-| Yokai Nightly | 1.10.0-r6267 | 13 | ✅ || Toast notification appears as a windows notification.
+| Yokai Nightly | 1.10.0-r6271 | 13 | ✅ || Toast notification appears as a windows notification.
 | YouTube (Google)| 16.40.35 | 11 | 🆖 | Requires GMS
 | YouTube Music (Google) | 5.07.50 | 11 | 🆖 | Requires GMS
 | YouTube Music Vanced | 43.9.50 | 11 | ✅
