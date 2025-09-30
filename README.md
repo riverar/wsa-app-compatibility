@@ -167,12 +167,12 @@ wsa://com.apple.android.music
 | FX File Explorer | 9.0.1.2 (r9012) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
 | GBoard | Unknown | 12, 11 | ⚠️ | Will not work as expected in newest WSA (2204.x)
-| GCash | 5.62.0 | 13, 12, 11 | 🆖 | Requires GMS and developer options disabled. Will warn "limited functionality" if no GMS is present, if present, it works normally. When it is launched for the first time, it will crash due to a lack of permissions granted on previous versions (5.61.0 and below). Starting with 5.62.0, an alert pops up `We have detected that you are running the GCash app on emulator. You will not be able to proceed.` 
+| GCash | 5.91.1 | 13, 12, 11 | ⚠️ | Requires GMS and developer options disabled. Will warn "limited functionality" if no GMS is present, if present, it works normally. When it is launched for the first time, it will crash due to a lack of permissions granted on previous versions (5.61.0 and below). Starting with 5.62.0, an alert pops up `We have detected that you are running the GCash app on emulator. You will not be able to proceed.`. On newer versions (at least with Magisk rooted WSA with no GMS), it will get stuck on the root/emulator detection phase.
 | Geekbench | 5.4.1 | 11 | ✅
 | GeoGebra | 5.0.674.0 | 11 | ✅
 | GitHub | 1.146.0 | 13 | ✅ | Opening any web links using the "Windows default app" doesn't work (including the sign-in). | Set a default browser app first (like Chrome) if you want to use external links within the app
 | Globe2Go | 4.7.4.20.0810/3890 | 11 | ✅
-| GlobeOne | 1.9.39 | 12, 13| ✅ || May require GMS (otherwise use other login methods available in the app)
+| GlobeOne | 1.10.56 | 13, 12| ⚠️ | On a rooted WSA (without GMS), a [pop-up message](https://ibb.co/ND9ZYvf) appears: `Your Device is at Risk. Your access is restricted to protect you from Network or Malware Attacks from third party apps that can read your encrypted data. For your safety, please use GlobeOne on a secure device until the threat is resolved.`. Tried Magisk denylist and went as far as using Play Integrity Fix module and that pop-up still appears. | If you don't have root, it might still require GMS as a dependency (otherwise use other login methods available in the app)
 | Gmail | 2022.05.01.440951655.Release | 11 | ✅ || May require GMS
 | Gojek | 4.30.1 | 11 | 🆖 | Requires GMS
 | Google | 14.44.29.28.x86_64 | 13 | 🆖 | Requires GMS
@@ -257,7 +257,7 @@ wsa://com.apple.android.music
 | MangaYomi | 0.6.35 | 13 | ⚠️ | Sidebar (landscape)/bottom (portrait) [tab navigation doesn't render](https://ibb.co/k2RCjvch) but they're clickable, however, you can make them appear by heading into some submenus but [it'll glitch out like this](https://ibb.co/1fBPv6m7) Doesn't support keyboard (media) controls on the media player | Manga reader supports keyboard navigation. Tested with the x86_64 release.
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
 | Material Files | 1.5.2 | 12, 11 | ✅
-| Maya (Paymaya) | 2.85.1 | 13 | ❌ | App crashes immediately upon launching the app 
+| Maya (Paymaya) | 2.144.0 (11392) | 13 | ❌ | Stuck on the Maya splash screen and then crashes 
 | McDonald's | 2.76.0 | 13 | ❌ | Device verification fails on the first welcome screen and displays "Your device did not pass our security check. Please check that you run a Google trusted OS version, that the device is not rooted, and that you have no harmful apps installed.
 | Meta Quest (Oculus) | 181.1.0.81.114 | 12 | ⚠️ | Can't log in with a Meta account, but you can install the Facebook or Instagram app and enable "Logging in with accounts" in the Meta Accounts Center, and use the in-app login. Doesn't detect Quest 2 nearby, due to no Bluetooth support.
 | microG Settings | 0.3.7.250932 | 13 | ✅ | | A workaround if you want to use your Google Account using New Outlook (starts a desktop web browser and not WSA by accident)
@@ -382,7 +382,7 @@ wsa://com.apple.android.music
 | Skype | 8.91.0.406 | 12 | ✅
 | SkySafari | 6.8.6.15 | 11 | 🆖 | Failed license check on startup, appears to require GMS
 | Slack | 21.11.20.0-B | 11 | ✅
-| Smart GigaLife | 3.4.2 | 13 | ⚠️  | Tested on WSA with GMS installed. Suppose Magisk DenyList is not enabled for the app, in that case, it will display a warning: **We noticed that your device OS has been reconfigured** and warns the user that their GigaLife account may be at risk. Enabling DenyList for this would bypass this behavior. The app works fine and all navigation options can be navigated.
+| Smart (previously GigaLife) | 3.8.1 (1472) | 13 | ⚠️  | Tested on WSA with GMS installed (and WSA with just Magisk without GMS). Suppose Magisk DenyList is not enabled for the app, in that case, it will display a warning: **We noticed that your device OS has been reconfigured** and warns the user that their GigaLife account may be at risk. Enabling DenyList for this would bypass this behavior (on newer versions, they seem to make it more secure and display that warning). | The app works fine and all navigation options can be navigated.
 | Smart Launcher | 5.5 Build 052 | 11 | ✅
 | Smart Life | 3.32.5 | 11 | ❌ | The app is producing constant flashes between light and dark mode, and the UI element of agreement pop-up is moving on screen so it can't be accepted
 | Smash Hit | 1.4.3 | 13 | ✅ |
