@@ -29,7 +29,7 @@ This page currently uses Unicode characters from [Unicode Emoji (1.0)](https://u
 |---------|---------------|-------|
 | Multi-touch | ✅ | Demo: [Arcaea](https://www.bilibili.com/video/BV1Ph411n7M5)
 | Virtual Wifi (VirtWifi) | ✅
-| Bluetooth | ❌ ([GitHub issue](https://github.com/microsoft/WSA/issues/103))
+| Bluetooth | ❌ ([GitHub issue](https://github.com/microsoft/WSA/issues/103)) | Failed to work while pairing a smart watch using the FitCloudPro app
 | IPv6 | ✅ | Loading `ipv6.google.com` in Fennec F-Droid on a PC with IPv6 access, works well
 | Fingerprint Reader | ❌ | Test failed on ROG Flow X13, with SATRIA app
 | VPN | ❌⚠️ | VPN Connection request dialog does not appear (but some VPNs may not need this, e.g., Tunnelbear)
@@ -162,6 +162,7 @@ wsa://com.apple.android.music
 | Firefox | 136.0.1 (2016078447) | 13, 12, 11 | ✅ | On Android 11, it works albeit with broken rendered webpages. On Android 12, works (without white box after updating WSA to 2205.40000.21.0) | Tested on Intel HD integrated graphics.
 | Firefox Nightly | 95.0a1 | 11 | ✅
 | Firefox Focus | 106.1 | 12 | ✅
+| FitCloudPro (Aurora Store) | v.2.5.5 | 13 | ❌ | Bluetooth in WSA doesn't work and the app can't connect to the smart watch (you can skip that part of the setup if you want to explore the app). GMS/MicroG is only required for Google Fit and Health Connect services. | Test smart watch: itel ISW-O11
 | foobar2000 | 1.2.30 | 11 | ✅
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
 | FX File Explorer | 9.0.1.2 (r9012) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
