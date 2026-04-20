@@ -83,9 +83,9 @@ wsa://com.apple.android.music
 | Amazon Alexa | 2.2.466191.0 | 12 | ✅ ||
 | Android System Info | 1.4.2 | 11 | ✅ ||
 | Android System Webview | 133.0.6943.137 | 13, 12 | ✅ ||
-| Android System Webview Beta | 144.0.7559.59 | 13, 12 | ✅ | Requires AnyWebView in order to appear on the WebView implementation under Developer options |
+| Android System Webview Beta | 148.0.7778.4 | 13, 12 | ✅ | Requires AnyWebView in order to appear on the WebView implementation under Developer options |
 | Android System Webview Dev | 103.0.5060.22 | 11 | ✅ ||
-| Anikku (Beta) | 0.1.4-8528 | 13 | ✅ || Toast notification appears as a windows notification.
+| Anikku (Beta) | 0.1.7-8814 | 13 | ✅ || Toast notification appears as a windows notification.
 | AniLabX | 3.8.12 (Iridium) - Beta | 11 | ✅
 | Animiru | 0.16.0.0 | 13 | ✅ | 
 | Aniyomi | 0.15.2.1 | 13, 12 | ✅ |
@@ -100,7 +100,7 @@ wsa://com.apple.android.music
 | ASUS Router | 1.0.0.7.35 | 12 | ✅ | The text on the bottom bar is more narrow than it should be, resulting in cutting off the last letters or taking up two lines. | 
 | AtB | 1.23 | 12 | ❌ | Crashes during loading, as it relies on Google Services Framework and on having the latter be given `read_device_config` permissions, which doesn't seem to be possible to give.
 | Audible | 3.15.0 | 11 | ✅
-| Aurora Store | 4.7.0 | 13, 12, 11 | ✅ | Opening Spoof Manager sometimes crashes the app | Supports most of the advanced install types like rooted (with Magisk/KernelSU) or via Shizuku
+| Aurora Store | 4.7.5 | 13, 12, 11 | ✅ | Opening Spoof Manager sometimes crashes the app | Supports most of the advanced install types like rooted (with Magisk/KernelSU) or via Shizuku
 | Authy | 26.1.0 | 11 | ❌ | This device does not meet the minimum integrity requirements. |
 | BandLab | 10.45.0 | 13, 12 | 🆖 | Slight audio lag with Android 12, it was fixed in Microsoft's 2303.40000.3.0 update | Only tested from installing from Google Play Store with Google services, otherwise app has no issues whatsoever. It's responsive, and in Android 13 there's no audio lag. |
 | BankID (Norway) | 2.1 | 12 | ❌ | Spams the desktop browser with new tabs about how the app thinks the phone is rooted. 
@@ -126,7 +126,7 @@ wsa://com.apple.android.music
 | CPU-Z | 1.41 | 11 | ✅
 | Cronometer | 3.13.1 | 11 | ✅
 | Cryptography | 1.24.0 | 12 | ✅
-| CX File Explorer | 2.4.1 | 13, 12 | ✅
+| CX File Explorer | 2.6.7 | 13, 12 | ✅
 | Dantotsu | 3.0.0 | 13 | ✅ | To sign-in to the anilist integration, set the default browser to use a browser app in WSA (e.g. Firefox) since it opens the default brower on Windows. This also happens with links as well. | Hovering the mouse pointer, highlights the input element. Keyboard usage is supported on the Manga reader and Media Player.
 | Dcoder | 4.0.76 | 11 | ✅
 | Decibel X | 6.4.2 | 11 | ⚠️ | App crashes
@@ -148,7 +148,7 @@ wsa://com.apple.android.music
 | Emby | 2.0.48g | 11 | ✅
 | ES File Explorer | 4.2.1.8 | 11 | ✅ || Avoid updating the app
 | Excel | 16.0.14527.20162 | 11 | ✅
-| F-Droid | 1.23.0 | 13, 12, 11 | ✅ || 
+| F-Droid | 1.23.2 | 13, 12, 11 | ✅ || 
 | F1 TV | 2.0.5 | 11 | ⚠️ | Terrible app experience including screen flashes and crashes while watching a video
 | FaceApp: Face Editor || 11 | ❌
 | Facebook | 377.0.0.22.107 | 12 | ✅ | 
@@ -226,7 +226,7 @@ wsa://com.apple.android.music
 | Jolibee  | 1.21.1 | 13 | ✅
 | Joplin | 2.4.3 (2097651) | 11 | ✅
 | JuiceSSH | 3.2.2 | 11 | ⚠️ | Connecting to SSH server needs multiple tries
-| Kahon | 0.19.2 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Kahon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
+| Kahon | 0.19.7 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Kahon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
 | Kahoot || 11 | ✅
 | Katakana Pro | 1.4.4 | 12 | ✅
 | KawaiiNihongo | 3.10.9 | 12 | ✅
@@ -242,9 +242,10 @@ wsa://com.apple.android.music
 | Komikku (beta) | 1.13.2-10138 | 13 | ✅ || Toast notification appears as a windows notification.
 | Kotatsu | 9.1.1 | 13 | ✅ | | Keyboard navigation is supported. Toast notification appears as a windows notification.
 | Kotatsu Nightly | N20250811 | 13 | ✅ | | Keyboard navigation is supported. Toast notification appears as a windows notification.
+| Kototoro | 0.9.2 | 13 | ✅ | | Keyboard navigation is supported. Toast notification appears as a windows notification.
 | KRL Access | 4.1.0 | 11 | ❌ | App crashes
 | LANDBANK | 6.1.1 | 13 | ✅ | The app runs for the most part, however, during the user signing up for a bank account, it alerts you to `Error: The device is incompatible with the SDK` when verifying the identity of the user signing up
-| Lawnchair | 14 beta 2 | 13, 12, 11 | ✅ | The app drawer seems to be blank in portrait. A workaround would be either maximizing the app or resize it to be in a landscape orientation. Can't change the wallpaper with a toast notification: `Disabled by your admin`.
+| Lawnchair | 15.Dev.19 | 13, 12, 11 | ✅ | The app drawer seems to be blank in portrait. A workaround would be either maximizing the app or resize it to be in a landscape orientation. Can't change the wallpaper with a toast notification: `Disabled by your admin`.
 | Lazada | 7.62.0 | 13 | ⚠️ | Google login requires GMS installed (use Email or Facebook login as alternatives). `Slide to verify` appears too often if logging in. Weird scaling options (interface elements are too large, [an example](https://ibb.co/98qFhmm)) | Keep it in portrait for the app to be usable.
 | Libby | 4.3.1 | 11 | ✅
 | LINE | 12.0.1 | 11 | ✅
@@ -254,7 +255,7 @@ wsa://com.apple.android.music
 | LNReader | 1.1.18 | 13, 12 | ✅ || Partial keyboard navigation is available (example: arrows key up and down - scrolls) when reading a light novel.
 | LSPosed | 1.9.2 (7024) | 13, 11 | ⚠️ | You can only access it by clicking the LSPosed notification (once WSA starts from cold boot). Alternatively, you can run this long command `adb shell su -c am start-activity -a android.intent.action.MAIN -p com.android.shell -n com.android.shell/.BugreportWarningActivity -c org.lsposed.manager.LAUNCH_MANAGER` if you accidentally cleared the Windows notification | The version used is the Zygisk variant (installable as a Magisk module and Zygisk enabled).
 | Magisk | 30.6 | 13, 11 | ✅ || Magisk developer confirmed able to gain root access - [link to his tweet](https://twitter.com/topjohnwu/status/1451282578514735131)
-| MMRL | v33920-release | 13 | ✅ || Requires root access (provided via Magisk or KernelSU) to install the modules. If you're non-root, it only acts as a module downloader.
+| MMRL | v34296-release | 13 | ✅ || Requires root access (provided via Magisk or KernelSU) to install the modules. If you're non-root, it only acts as a module downloader.
 | ManCityApp | 2.1.11 | 11 | 🆖 || Might require GMS
 | MangaYomi | 0.6.35 | 13 | ⚠️ | Sidebar (landscape)/bottom (portrait) [tab navigation doesn't render](https://ibb.co/k2RCjvch) but they're clickable, however, you can make them appear by heading into some submenus but [it'll glitch out like this](https://ibb.co/1fBPv6m7) Doesn't support keyboard (media) controls on the media player | Manga reader supports keyboard navigation. Tested with the x86_64 release.
 | Manzur's Study Circle (MSC) | 1.0.2 | 11 | ✅
@@ -262,7 +263,7 @@ wsa://com.apple.android.music
 | Maya (Paymaya) | 2.144.0 (11392) | 13 | ❌ | Stuck on the Maya splash screen and then crashes 
 | McDonald's | 2.76.0 | 13 | ❌ | Device verification fails on the first welcome screen and displays "Your device did not pass our security check. Please check that you run a Google trusted OS version, that the device is not rooted, and that you have no harmful apps installed.
 | Meta Quest (Oculus) | 181.1.0.81.114 | 12 | ⚠️ | Can't log in with a Meta account, but you can install the Facebook or Instagram app and enable "Logging in with accounts" in the Meta Accounts Center, and use the in-app login. Doesn't detect Quest 2 nearby, due to no Bluetooth support.
-| microG Settings | 0.3.7.250932 | 13 | ✅ | | A workaround if you want to use your Google Account using New Outlook (starts a desktop web browser and not WSA by accident)
+| microG Settings | 0.3.13.250932 | 13 | ✅ | | A workaround if you want to use your Google Account using New Outlook (starts a desktop web browser and not WSA by accident)
 | microG Settings (Revanced fork) | 0.3.1.4.240913 | 13 | ✅ | | Works on Revanced/RVX versions of YouTube and YouTube Music
 | MicroG RE (Morphe) | 6.1.0 | 13 | ✅ | Requires Huawei sign-in in order to login | Works on Revanced/RVX versions of YouTube and YouTube Music aside from the ones from Morphe
 | Microsoft Authenticator | 6.2112.8213 | 11 | ✅ || Some features might require GMS
@@ -275,8 +276,8 @@ wsa://com.apple.android.music
 | Microsoft Swiftkey Keyboard | 8.10.12.4 | 12, 11 | ✅ | Works on WSA 2203 (Android 11), but on-screen is completely broken in WSA 2204(Dev) (Android 12.1)
 | Microsoft Teams | 1416/1.0.0 | 12 | ✅
 | Mic Test | 5.2 | 12 | ✅ || lauresprojects.com.mictest
-| Mihon (Beta) | 0.19.3-r7516 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
-| Mihon (Stable) | 0.19.1 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
+| Mihon (Beta) | 0.19.9-7660 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
+| Mihon (Stable) | 0.19.9 | 13 | ✅ | Notifications like "Large updates harm sources..." cut off. "Updating Library" progress bar doesn't show, until you clear the Mihon notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20. When setting up the tracker, make sure to set the default browser (like Firefox) to sign in. `Copy to Clipboard` in the reader works and you can paste it to any windows app (like Paint). Toast notification appears as a windows notification.
 | MiX | 6.57.0-Beta_B21070510 | 11 | ✅
 | Mobile JKN | 3.7.1 | 11 | ✅ || Some features might require GMS
 | Moescape AI | 1.9.4 | 13 | ✅ | Requires GMS only when logging in using Google account. You can try logging in with e-mail instead. | 
@@ -284,7 +285,7 @@ wsa://com.apple.android.music
 | Monogolf | 3.4.10 | 13 | ✅ | 
 | Monument Browser | 1.0.333 | 12 | ✅
 | Moodle | 3.9.5 | 11 | ✅ 
-| Morphe Manager | 1.3.0 | 13 | ✅ | | You can either use Morphe home or Expert mode by tapping the Settings cog
+| Morphe Manager | 1.15.0 | 13 | ✅ | | You can either use Morphe home or Expert mode by tapping the Settings cog
 | MPV | 2023-11-30-release | 13, 12 | ✅ | Picture in Picture doesn't work | Keyboard navigation supported in the media player
 | MT File Manager | 2.10.0 | 11 | ✅
 | Musically (TikTok) | 7.8.0 | 11 | ✅
@@ -358,7 +359,6 @@ wsa://com.apple.android.music
 | Reddit || 11 | ✅
 | Relay | 10.0.378 | 11 | ✅
 | Remini - AI Photo Enhancer || 11 | ⚠️ | Oops! Something went wrong Your image didn't save. Please try again.
-| ReLSPosed | 1.0.1 (7190) | 13 | ⚠️ | You can only access it by clicking the LSPosed notification (once WSA starts from cold boot). Alternatively, you can use the `Action` button in the Magisk/KernelSU module list if you accidentally cleared the Windows notification | The version used is the Zygisk variant (installable as a Magisk module and Zygisk though ReZygisk).
 | Remote Desktop (Microsoft) | 10.0.12.1148 | 11 | ✅
 | ReVanced Manager | 1.24.0 | 13 | ✅ | 
 | ReVanced Manager A5-7 | 1.23.3 | 13 | ✅ | | Handy when you use it with older android versions.
@@ -438,9 +438,11 @@ wsa://com.apple.android.music
 | Twitter Lite | 3.1.1 | 12 | ✅ ||
 | UC Browser | 13.0.0.1288 (x86) | 11 | ✅ || Avoid updating the app
 | Uptodown App Store | 4.35 | 11 | ⚠️ | Keeps "analyzing device" on app details page, thus it's unable to download APKs.
+| Usagi | 0.0.1 | 13 | ✅ | | Keyboard navigation is supported. Toast notification appears as a windows notification.
 | Vanced Manager | 2.6.2 (Crimson) | 11 | ✅
 | Vanced MicroG | 0.2.22.212658 | 11 | ⚠️ | microG Google sign-in method does not work, hence use Huawei sign-in method to sign in to Google account
-| Via Browser | 4.3.1 | 11 | ✅
+| Vector | 2.0 (3021) | 13 | ⚠️ | You can only access it by clicking the LSPosed notification (once WSA starts from cold boot). Alternatively, you can use the `Action` button in the Magisk/KernelSU module list if you accidentally cleared the Windows notification | The version used is the Zygisk variant (installable as a Magisk module and Zygisk though ReZygisk).
+| Via Browser (Google Play) | 7.1.9 | 13,11 | ✅ | Only the Google Play variant of Via requires GMS although it works using MicroG. |
 | Viaplay | 5.48 | 12 | ✅ || Episode playback of at least Nella the Princess Knight works correctly, as does the phone-app-exclusive download functionality.
 | Vidio | 5.64.5-f0aa483a3d | 11 | 🆖 || Might require GMS for login
 | Vipps | 2.142.0 | 12 | ❌ | Shows an error message about requiring "Google Services", even if both Google Play Services and Google Services Framework APKs are installed
@@ -477,11 +479,11 @@ wsa://com.apple.android.music
 | Yokai | 1.9.7.3 | 13 | ✅ || Toast notification appears as a windows notification.
 | Yokai Nightly | 1.10.0-r6271 | 13 | ✅ || Toast notification appears as a windows notification.
 | YouTube (Google)| 16.40.35 | 11 | 🆖 | Requires GMS
-| YouTube (Morphe)| 20.37.48 | 13 | ⚠️ | Requires MicroG RE (Morphe) if you use the GmsCore Support patch
+| YouTube (Morphe)| 20.45.36 | 13 | ⚠️ | Requires MicroG RE (Morphe) if you use the GmsCore Support patch
 | YouTube Music (Google) | 5.07.50 | 11 | 🆖 | Requires GMS
 | YouTube Music Vanced | 43.9.50 | 11 | ✅
 | YouTube Music ReVanced | 8.05.51 | 13 | ✅ || Used the x86-64 version as base
-| YT Music (Morphe)| 8.37.56 | 13 | ⚠️ | Requires MicroG RE (Morphe) if you use the GmsCore Support patch | Used x86-64 version as base but you can possibly use the x86 version.
+| YT Music (Morphe)| 8.44.54 | 13 | ⚠️ | Requires MicroG RE (Morphe) if you use the GmsCore Support patch | Used x86-64 version as base but you can possibly use the x86 version.
 | Youtube ReVanced | 19.16.39 | 11, 13 | ⚠️ | Picture-in-picture doesn't work & Can't join channel membership
 | ZArchiver | 0.9.5.8 (9596) | 11 | ✅
 | Zenly (w/o GMS) | 4.55.2 | 11 | ⚠️ | App crashes after login, but background location works
