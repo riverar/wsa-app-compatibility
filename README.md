@@ -413,7 +413,7 @@ wsa://com.apple.android.music
 | Sync for Reddit Pro | 20.0.3 | 11 | ✅
 | Tachiyomi (Preview) | 0.15.3-6421 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Some of the notifications will be missing due to the Windows Action Center limit of 20.
 | Tachiyomi (Stable) | 0.15.3 | 13, 12, 11 | ✅ | Notifications like "Large updates harm sources..." cut off. Sometimes, "Updating Library" progress bar doesn't show, requires to clear the Tachiyomi notification. | Hovering the mouse pointer, highlights the input element. Some of the notifications will be missing due to the Windows Action Center limit of 20.
-| TachiyomiAZ | 8.8.2-AZ | 13, 12, 11 | ✅ || Dev builds use the same version as the stable version
+| TachiyomiAZ | 8.8.5-AZ | 13, 12, 11 | ✅ || Dev builds sometimes use the same version as the stable version
 | TachiyomiJ2K/TachiJ2K | 1.7.4 | 13, 12, 11 | ✅ | Parsing links (from a browser) causes to open the Tachiyomi extension window or app picker dialog instead of opening TachiJ2K itself when you have multiple Tachiyomi forks are installed.
 | TachiyomiSY | 1.12.0 | 13, 12, 11 | ✅ || Toast notification appears as a windows notification.
 | Tap Tap | 3.1.1 | 12, 11 | ✅ | Sometimes freeze if you brute force the app, fixed by restarting the app
