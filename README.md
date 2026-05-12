@@ -168,6 +168,7 @@ wsa://com.apple.android.music
 | Formula 1 | 11.0.1533 | 11 | ⚠️ | Live Timing is broken, keeps crashing on initialization
 | FX File Explorer | 9.0.1.2 (r9012) | 13, 12, 11 | ✅ | Tested only on the base version (without FX Plus)
 | Game Pass | 2110.17.1005 | 11 | ✅ | GMS warnings might appear but these can be safely ignored | Cloud games can be launched but controlling them with controller or touch has not been tested.
+| Game Guardian | 101.1 (16142) | 11,13 | ⚠️ | Moving the floating window even a bit will break its functionality until GG restart.
 | GBoard | Unknown | 12, 11 | ⚠️ | Will not work as expected in newest WSA (2204.x)
 | GCash | 5.91.1 | 13, 12, 11 | ⚠️ | Requires GMS and developer options disabled. Will warn "limited functionality" if no GMS is present, if present, it works normally. When it is launched for the first time, it will crash due to a lack of permissions granted on previous versions (5.61.0 and below). Starting with 5.62.0, an alert pops up `We have detected that you are running the GCash app on emulator. You will not be able to proceed.`. On newer versions (at least with Magisk rooted WSA with no GMS), it will get stuck on the root/emulator detection phase.
 | Geekbench | 5.4.1 | 11 | ✅
@@ -519,6 +520,7 @@ wsa://com.apple.android.music
 | Alto's Adventure | 1.8.15 | 13, 11 | ✅
 | Alto's Odyssey | 1.0.10 | 11 | ✅
 | Among Us | 2022.7.12 | 12, 11 | ✅ | Keyboard may be unresponsive. | Xbox controller works.
+| Angry Birds 2 | 10.0.0 | 11,13 | ⚠️ | Works but you may experience unstable performance.
 | Angry Birds Epic | 3.0.27463.4821 | 11 | ⚠️ | Terrible in-game experience, bad performance and low FPS
 | Animal Crossing: Pocket Camp | 5.0.2 | 12 | ❌ | error 802-1-01a-069-008 ||
 | Arcaea | 3.8.8 | 11 | ⚠️ | Keyboard doesn't work on login/register form
@@ -539,7 +541,7 @@ wsa://com.apple.android.music
 | Blue Archive (Global) | 1.60.260228 | 13 | ❌ | The app crashes with no context loaded in few seconds | Installed via `adb` command
 | Blue Archive (KR) | 1.39.146794 | 12, 11| ❌ | HEVC codec support required
 | Blue Archive (KR, Onestore distributed) | 1.50.203922 | 13 | ✅ | Does not work with Nvidia graphics
-| Brawl Stars | 38.159 | 11,13 | ❌ | Game crashes
+| Brawl Stars | 67.264 | 11,13 | ❌ | Game crashes
 | C.A.T.S (Crash Arena Turbo Stars) | 2.40.2 | 11 | ✅ | GMS warnings might appear but these can be safely ignored
 | Candy Crush Saga | 1.213.2.1 (12132011) | 11 | ✅
 | CarX Highway Racing | 1.17.1 | 11 | ⚠️ | Terrible in-game experience, includes poor performance and low FPS
@@ -581,6 +583,7 @@ wsa://com.apple.android.music
 | Honkai Impact 3rd | 7.3.0 | 11, 13 | ⚠️ | Graphics quality is fine, the frame rate does drop down quite a bit during combat, the anti-aliasing isn't as smooth for Kiana and Mei models even at "Max" graphics quality - [as shown in this gameplay video](https://youtu.be/6e-RQ2b2hoM). Combat works but a black screen appears during cutscenes, but cutscene audio still plays in the background. Dialog scenes still appear normal (It is recommended to download all resources for optimal gameplay). Cannot move the character using WASD controls but touch controls for movement/combat skills still work. | Tested under WSA with Google Play, under NVIDIA RTX 4060 Laptop GPU (Vulkan driver is D3D12, but not enabled). It's recommended to change the graphic settings after installing the game for optimal performance.
 | Hop Mania (Play Games) | 2023.08.46243 | 13 | 🆖 || Requires GMS, keyboard supported
 | Hungry Shark Evolution || 11 | ✅
+| Idle Mafia - Tycoon Manager | 13 | ❌ | Doesn't open.
 | iDOLM@STER Million Live! Theater Days | 4.0.401 | 11 | ⚠️ | Anything 3D with a moving background is broken, but everything 2D works perfectly | ARMv7 version is unusably slow, get ARM64
 | Jet Car Stunts 2 | 1.0.13 | 11 | ❌ | Loads up but orientation and menus are broken
 | Jetpack Joyride | 1.52.1 (58461800) | 11 | ⚠️ | Google Play Games sync doesn't work, otherwise the game functionality is fine
